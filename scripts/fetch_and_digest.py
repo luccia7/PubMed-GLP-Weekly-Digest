@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-PubMed Daily Digest Generator
-Fetches new PubMed articles, classifies study types, and generates structured
-clinical summaries via Claude API. Outputs a color-coded HTML dashboard.
+PubMed Digest Generator
+Fetches new PubMed articles, filters to observational studies + meta-analyses only,
+and generates structured clinical summaries via Claude API.
 """
 
 import os
@@ -19,9 +19,39 @@ TOPICS = [
     '((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR "GLP-1 RA"))',
 ]
 
-MAX_RESULTS_PER_TOPIC = 20
-DAYS_BACK = 3
+MAX_RESULTS_PER_TOPIC = 25  # Max articles to fetch (before filtering)
+DAYS_BACK = 7               # How many days back to look
 # ─────────────────────────────────────────────
+
+# Study types to KEEP — all others will be excluded
+KEEP_STUDY_TYPES = {
+    "real-world study",
+    "cohort study",
+    "prospective cohort study",
+    "retrospective cohort study",
+    "cross-sectional study",
+    "case-control study",
+    "meta-analysis",
+    "systematic review and meta-analysis",
+}
+
+# Study types to EXCLUDE explicitly
+EXCLUDE_STUDY_TYPES = {
+    "narrative review",
+    "rct",
+    "randomized controlled trial",
+    "case report",
+    "editorial",
+    "commentary",
+    "computational study",
+    "letter",
+    "systematic review",   # systematic review without meta-analysis
+    "secondary analysis of rct",
+    "phase 1",
+    "phase 2",
+    "phase 3",
+    "clinical trial",
+}
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 NCBI_API_KEY = os.environ.get("NCBI_API_KEY", "")
@@ -88,37 +118,44 @@ def fetch_article_details(pmids):
     return articles
 
 
-def summarize_with_claude(topic, articles):
+def classify_and_filter_with_claude(topic, articles):
+    """
+    Ask Claude to classify each article's study type, then filter
+    to keep only observational studies and meta-analyses.
+    Returns (kept_articles, kept_summaries, excluded_count).
+    """
     if not ANTHROPIC_API_KEY:
-        return [{"study_type": "Unknown", "study_type_category": "original", "sample_size": "N/A",
-                 "population": "N/A", "medications": "N/A", "country_dataset": "N/A",
-                 "key_findings": "API key not set."} for _ in articles]
+        dummy = [{"study_type": "Unknown", "study_type_category": "original", "sample_size": "N/A",
+                  "population": "N/A", "medications": "N/A", "country_dataset": "N/A",
+                  "key_findings": "API key not set.", "include": True} for _ in articles]
+        return articles, dummy, 0
 
     articles_text = ""
     for i, a in enumerate(articles, 1):
         articles_text += f"\nARTICLE_{i}:\nTitle: {a['title']}\nJournal: {a['journal']} ({a['pub_date']})\nAbstract: {a['abstract'][:600]}\n---"
 
-    prompt = f"""You are a clinical research summarizer. Analyze each PubMed article below on "{topic}".
+    prompt = f"""You are a clinical research classifier and summarizer. Analyze each PubMed article below on "{topic}".
 
-For EACH article, extract the following and return as a JSON array.
-Return ONLY a valid JSON array, no markdown, no backticks, no explanation.
-
-Fields:
-- "study_type": Specific design (e.g. "RCT", "Meta-analysis", "Systematic review", "Cohort study", "Narrative review", "Secondary analysis of RCT", "Real-world study", "Cross-sectional study")
-- "study_type_category": MUST be exactly "review" (for any review/meta-analysis/systematic review) OR "original" (for RCTs, cohorts, real-world, secondary analyses)
-- "sample_size": e.g. "n=101", "23 RCTs", "Not reported"
-- "population": Disease + key patient characteristics (e.g. "Adults with T2DM and CKD")
-- "medications": Specific drugs and comparators (e.g. "Liraglutide vs placebo")
-- "country_dataset": Country/region or dataset name (e.g. "Taiwan", "Not reported")
-- "key_findings": 2-3 most important results as one concise paragraph
+For EACH article return a JSON object with these fields:
+- "study_type": Specific design. Choose the MOST SPECIFIC label from: "Real-world study", "Prospective cohort study", "Retrospective cohort study", "Cross-sectional study", "Case-control study", "Meta-analysis", "Systematic review and meta-analysis", "Systematic review", "RCT", "Secondary analysis of RCT", "Narrative review", "Case report", "Editorial", "Commentary", "Computational study", "Letter", "Other"
+- "study_type_category": MUST be exactly one of:
+    "observational" = Real-world study, cohort study (any), cross-sectional, case-control
+    "meta-analysis" = Meta-analysis, systematic review and meta-analysis
+    "exclude" = RCT, narrative review, systematic review (without meta-analysis), case report, editorial, commentary, computational study, letter, secondary analysis of RCT, other
+- "include": true if study_type_category is "observational" or "meta-analysis", false if "exclude"
+- "sample_size": e.g. "n=101", "23 studies", "Not reported"
+- "population": Disease + key patient characteristics
+- "medications": Specific drugs and comparators
+- "country_dataset": Country/region or dataset name
+- "key_findings": 2-3 most important results as one concise paragraph (only needed if include=true, else write "excluded")
 
 {articles_text}
 
-Return a JSON array with exactly {len(articles)} objects in the same order as the articles."""
+Return ONLY a valid JSON array with exactly {len(articles)} objects in the same order. No markdown, no backticks."""
 
     payload = json.dumps({
         "model": "claude-haiku-4-5-20251001",
-        "max_tokens": 4000,
+        "max_tokens": 5000,
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
 
@@ -136,7 +173,21 @@ Return a JSON array with exactly {len(articles)} objects in the same order as th
         raw = raw.split("```")[1]
         if raw.startswith("json"):
             raw = raw[4:]
-    return json.loads(raw.strip())
+    all_summaries = json.loads(raw.strip())
+
+    # Filter: keep only included articles
+    kept_articles = []
+    kept_summaries = []
+    excluded_count = 0
+    for i, s in enumerate(all_summaries):
+        if s.get("include", False):
+            kept_articles.append(articles[i])
+            kept_summaries.append(s)
+        else:
+            excluded_count += 1
+            print(f"   ❌ Excluded [{s.get('study_type','?')}]: {articles[i]['title'][:80]}...")
+
+    return kept_articles, kept_summaries, excluded_count
 
 
 def generate_html(digest_data):
@@ -147,19 +198,20 @@ def generate_html(digest_data):
         topic = entry["topic"]
         articles = entry["articles"]
         summaries = entry.get("summaries", [])
+        excluded_count = entry.get("excluded_count", 0)
         count = len(articles)
 
         if count == 0:
-            articles_html = "<p class='no-results'>No new articles found in the last 3 days.</p>"
-            review_count = original_count = 0
+            articles_html = "<p class='no-results'>No matching observational studies or meta-analyses found in the last 7 days.</p>"
+            meta_count = obs_count = 0
         else:
             articles_html = ""
-            review_count = sum(1 for s in summaries if s.get("study_type_category") == "review")
-            original_count = count - review_count
+            meta_count = sum(1 for s in summaries if s.get("study_type_category") == "meta-analysis")
+            obs_count = count - meta_count
 
             for i, a in enumerate(articles):
                 s = summaries[i] if i < len(summaries) else {}
-                category = s.get("study_type_category", "original")
+                category = s.get("study_type_category", "observational")
                 study_type = s.get("study_type", "Unknown")
                 sample_size = s.get("sample_size", "Not reported")
                 population = s.get("population", "Not reported")
@@ -167,10 +219,10 @@ def generate_html(digest_data):
                 country = s.get("country_dataset", "Not reported")
                 findings = s.get("key_findings", "Not available.")
 
-                if category == "review":
-                    border_color, bg_color, badge_class = "#f59e0b", "#fffdf0", "badge-review"
+                if category == "meta-analysis":
+                    border_color, bg_color, badge_class = "#f59e0b", "#fffdf0", "badge-meta"
                 else:
-                    border_color, bg_color, badge_class = "#3b82f6", "#f0f6ff", "badge-original"
+                    border_color, bg_color, badge_class = "#3b82f6", "#f0f6ff", "badge-obs"
 
                 authors_str = ", ".join(a["authors"])
                 articles_html += f"""
@@ -194,9 +246,10 @@ def generate_html(digest_data):
           <div class="topic-header">
             <h2>{topic}</h2>
             <div class="topic-badges">
-              <span class="badge">{count} articles</span>
-              <span class="badge badge-original-sm">🔵 {original_count} original</span>
-              <span class="badge badge-review-sm">🟡 {review_count} reviews / meta-analyses</span>
+              <span class="badge">{count} included</span>
+              <span class="badge badge-obs-sm">🔵 {obs_count} observational</span>
+              <span class="badge badge-meta-sm">🟡 {meta_count} meta-analyses</span>
+              <span class="badge badge-excl-sm">⛔ {excluded_count} excluded</span>
             </div>
           </div>
           <div class="articles-list">{articles_html}</div>
@@ -214,22 +267,23 @@ def generate_html(digest_data):
   header{{background:linear-gradient(135deg,#1e40af,#3b82f6);color:white;padding:2rem;text-align:center}}
   header h1{{font-size:1.8rem;font-weight:700}}
   header p{{opacity:.85;margin-top:.3rem;font-size:.9rem}}
-  .legend{{display:flex;gap:1.5rem;justify-content:center;margin-top:1rem;font-size:.8rem;flex-wrap:wrap}}
+  .legend{{display:flex;gap:1.2rem;justify-content:center;margin-top:1rem;font-size:.8rem;flex-wrap:wrap}}
   .legend-item{{display:flex;align-items:center;gap:.4rem}}
   .legend-dot{{width:12px;height:12px;border-radius:50%;display:inline-block}}
   main{{max-width:920px;margin:2rem auto;padding:0 1rem}}
   .topic-section{{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:1.5rem;margin-bottom:1.5rem;box-shadow:0 2px 8px rgba(0,0,0,.06)}}
   .topic-header{{display:flex;align-items:center;flex-wrap:wrap;gap:.8rem;margin-bottom:1.2rem;padding-bottom:1rem;border-bottom:2px solid #e2e8f0}}
-  .topic-header h2{{font-size:1rem;color:#1e40af;flex:1;word-break:break-word}}
-  .topic-badges{{display:flex;gap:.5rem;flex-wrap:wrap}}
-  .badge{{background:#dbeafe;color:#1d4ed8;font-size:.72rem;font-weight:600;padding:.2rem .7rem;border-radius:999px}}
-  .badge-original-sm{{background:#eff6ff;color:#1d4ed8;font-size:.72rem;font-weight:600;padding:.2rem .7rem;border-radius:999px}}
-  .badge-review-sm{{background:#fffbeb;color:#92400e;font-size:.72rem;font-weight:600;padding:.2rem .7rem;border-radius:999px}}
+  .topic-header h2{{font-size:.95rem;color:#1e40af;flex:1;word-break:break-word;font-family:monospace}}
+  .topic-badges{{display:flex;gap:.4rem;flex-wrap:wrap}}
+  .badge{{background:#dbeafe;color:#1d4ed8;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}}
+  .badge-obs-sm{{background:#eff6ff;color:#1d4ed8;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}}
+  .badge-meta-sm{{background:#fffbeb;color:#92400e;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}}
+  .badge-excl-sm{{background:#fee2e2;color:#991b1b;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}}
   .article-card{{border-radius:10px;padding:1.1rem 1.2rem;margin-bottom:1rem;border:1px solid #e2e8f0}}
   .article-header{{display:flex;align-items:center;gap:.6rem;margin-bottom:.5rem;flex-wrap:wrap}}
   .study-badge{{font-size:.7rem;font-weight:700;padding:.2rem .7rem;border-radius:999px;text-transform:uppercase;letter-spacing:.03em}}
-  .badge-review{{background:#fef3c7;color:#92400e;border:1px solid #f59e0b}}
-  .badge-original{{background:#dbeafe;color:#1e40af;border:1px solid #3b82f6}}
+  .badge-meta{{background:#fef3c7;color:#92400e;border:1px solid #f59e0b}}
+  .badge-obs{{background:#dbeafe;color:#1e40af;border:1px solid #3b82f6}}
   .sample-size{{font-size:.78rem;color:#64748b;font-weight:500}}
   .article-title{{font-weight:700;color:#1e40af;text-decoration:none;font-size:.97rem;display:block;margin-bottom:.3rem;line-height:1.4}}
   .article-title:hover{{text-decoration:underline}}
@@ -240,7 +294,7 @@ def generate_html(digest_data):
   .detail-value{{color:#1e293b}}
   .findings-row{{margin-top:.4rem;padding-top:.5rem;border-top:1px dashed #e2e8f0}}
   .findings-text{{font-style:italic;color:#334155}}
-  .no-results{{color:#64748b;font-style:italic;font-size:.9rem}}
+  .no-results{{color:#64748b;font-style:italic;font-size:.9rem;padding:1rem 0}}
   footer{{text-align:center;color:#64748b;font-size:.8rem;padding:2rem}}
   @media(max-width:600px){{.detail-label{{min-width:110px}}.detail-row{{flex-direction:column;gap:.1rem}}}}
 </style>
@@ -248,14 +302,15 @@ def generate_html(digest_data):
 <body>
 <header>
   <h1>📄 PubMed Digest</h1>
-  <p>{date_str} &mdash; Last 3 days &mdash; Auto-generated via GitHub Actions + Claude AI</p>
+  <p>{date_str} &mdash; Last 7 days &mdash; Observational studies &amp; Meta-analyses only</p>
   <div class="legend">
-    <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div>Original Study (RCT, Cohort, Real-world…)</div>
-    <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div>Review / Meta-analysis / Systematic Review</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div>Observational (Cohort, Cross-sectional, Case-control, Real-world)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div>Meta-analysis</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div>Excluded (RCT, Review, Editorial…)</div>
   </div>
 </header>
 <main>{topics_html}</main>
-<footer>Powered by NCBI PubMed E-utilities &amp; Anthropic Claude API</footer>
+<footer>Powered by NCBI PubMed E-utilities &amp; Anthropic Claude API &mdash; Filtered to observational studies &amp; meta-analyses</footer>
 </body>
 </html>"""
 
@@ -268,12 +323,19 @@ def run():
         print(f"🔍 Fetching: {topic}")
         pmids = search_pubmed(topic, DAYS_BACK, MAX_RESULTS_PER_TOPIC)
         articles = fetch_article_details(pmids)
-        print(f"   Found {len(articles)} articles")
-        summaries = []
+        print(f"   Found {len(articles)} articles — classifying and filtering...")
+
+        kept_articles, kept_summaries, excluded_count = [], [], 0
         if articles:
-            print("   Summarizing with Claude...")
-            summaries = summarize_with_claude(topic, articles)
-        digest_data["topics"].append({"topic": topic, "articles": articles, "summaries": summaries})
+            kept_articles, kept_summaries, excluded_count = classify_and_filter_with_claude(topic, articles)
+            print(f"   ✅ Kept {len(kept_articles)} | ❌ Excluded {excluded_count}")
+
+        digest_data["topics"].append({
+            "topic": topic,
+            "articles": kept_articles,
+            "summaries": kept_summaries,
+            "excluded_count": excluded_count,
+        })
 
     os.makedirs("docs/data", exist_ok=True)
     with open(f"docs/data/{today}.json", "w") as f:
