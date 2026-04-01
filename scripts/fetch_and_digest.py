@@ -21,10 +21,10 @@ TOPICS = [
     # "machine learning radiology",
     # "Alzheimer's disease biomarkers",
     # "mRNA vaccine immunogenicity",
-    "large language models medicine",   # placeholder — replace with your topics
+    "GLP-1 RA",   # placeholder — replace with your topics
 ]
 
-MAX_RESULTS_PER_TOPIC = 5   # Number of articles to fetch per topic
+MAX_RESULTS_PER_TOPIC = 20   # Number of articles to fetch per topic
 DAYS_BACK = 1               # How many days back to look for new articles
 # ─────────────────────────────────────────────
 
