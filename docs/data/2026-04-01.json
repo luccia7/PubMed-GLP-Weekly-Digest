@@ -2,88 +2,61 @@
   "date": "2026-04-01",
   "topics": [
     {
-      "topic": "GLP-1 RA",
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
       "articles": [
         {
-          "pmid": "41871584",
-          "title": "Exploratory Analysis of Liraglutide Effects on Obstructive Sleep Apnea and Health-Related Quality of Life in Individuals With Obesity and COPD: A Secondary Analysis of a Randomised Controlled Trial.",
-          "abstract": "Obstructive sleep apnea (OSA) is associated with chronic obstructive pulmonary disease (COPD) and obesity, and all three are linked to reduced health-related quality of life (HRQoL). Coexistence of OSA and COPD increases morbidity and mortality compared to each condition alone. Liraglutide, a glucagon-like peptide 1 receptor agonist, may influence respiratory and HRQoL outcomes. In this secondary exploratory analysis of a randomised controlled trial including individuals with overweight or obesity and COPD, we evaluated effects of liraglutide on OSA prevalence and severity, daytime sleepiness (Epworth Sleepiness Scale, ESS), and HRQoL (Short Form-36 version 2, SF-36v2). In a double-blinded randomised controlled trial, 40 participants with overweight or obesity and COPD from two outpatient clinics were randomised to liraglutide (3.0\u2009mg, subcutaneous) or placebo for 40\u2009weeks. Cardiorespiratory monitoring, SF-36v2 and ESS questionnaires were conducted at baseline and end of treatment. OSA was diagnosed in 84% of participants (70% in the liraglutide group and 85% in the placebo group). Compared to placebo, liraglutide significantly reduced OSA severity, with mean baseline-adjusted differences of -9.87 events/h (\u03b2 95% CI -19.5; -0.247, p\u2009=\u20090.044) in Apnea-Hypopnea Index and -10.16 events/h (\u03b2 95% CI -19.29; -1.03, p\u2009=\u20090.029) in Oxygen Desaturation Index. ESS scores did not change significantly. Significant improvements were observed in the SF-36v2 subdomains General Health Perception and Role Physical. OSA is common among individuals with overweight or obesity and COPD. Forty weeks of liraglutide treatment were associated with reduced OSA severity and improvements in selected HRQoL domains in this population.",
+          "pmid": "41914454",
+          "title": "Predictors and Characteristics of Hair Loss Among Users of GLP-1 Receptor Agonists: A Cross-Sectional Analysis.",
+          "abstract": "The increasing use of GLP-1 receptor agonists for weight loss and metabolic improvements has led to the recognition of various side effects. One potential, yet underexplored, adverse effect is hair loss. This study aims to investigate the frequency, characteristics, and predictors of hair loss in patients using GLP-1RAs. This cross-sectional study, conducted uniquely in Saudi Arabia from January to June 2025, involved 254 participants who had used GLP-1RAs (Mounjaro, Ozempic, Saxenda, or Victoza) for weight loss purposes. Data were collected through structured questionnaires, ensuring comprehensive coverage of demographic information, clinical characteristics, and details of hair loss, including timing, severity, and progression. The data analysis was conducted using SPSS v29. A total of 254 participants were included in the study, with the majority being female (71.3%) and an average age of 33.28\u2009\u00b1\u20099.73\u2009years. Hair loss characteristics by injection type revealed no significant differences in prevalence (p\u2009=\u20090.116). However, severe hair loss was significantly more common in Mounjaro (43.4%) and Saxenda (42.9%) users compared to other groups (p\u2009<\u20090.001). Multivariable logistic regression analysis identified gender, marital status, and injection type as significant predictors of hair loss. Males were less likely to report hair loss compared to females (adjusted OR\u2009=\u20090.36, p\u2009=\u20090.003). Married participants had the highest odds of experiencing hair loss (adjusted odds ratio\u2009=\u20099.94, p\u2009=\u20090.004), and Mounjaro users had significantly higher odds of hair loss compared to the users of other injection types (adjusted odds ratio\u2009=\u20093.02, p\u2009=\u20090.009). The duration of injection use did not significantly predict hair loss, although a trend toward higher odds was noted for those using injections for 6-12\u2009months (adjusted odds ratio\u2009=\u20093.50, p\u2009=\u20090.053). Our study highlights the significant side effects of hair loss associated with GLP-1RA therapy, particularly in female patients and those using Mounjaro. Although this type of hair loss is typically non-scarring and reversible, it can lead to psychological distress and affect treatment adherence. These conclusions highlight the need for clinicians to be aware of this potential side effect and to provide appropriate support and guidance to their patients.",
           "authors": [
-            "Sofie Krogh Wolsing",
-            "Ayse Dudu Altintas Dogan",
-            "Claus Bogh Juhl",
+            "Yahya Argobi",
+            "Norah Saad Jadaan",
+            "Hind Bader Alshalhoob",
             "et al."
           ],
-          "journal": "Clinical obesity",
+          "journal": "Journal of cosmetic dermatology",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41871584/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41914454/"
         },
         {
-          "pmid": "41839621",
-          "title": "Glucagon-Like Peptide-1 Receptor Agonism and Muscle Health: Vascular and Myocellular Effects on Glucose and Protein Metabolism.",
-          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists (GLP-1 RAs) improve glycaemia and reduce body weight, yet their organ-level actions on skeletal muscle remain incompletely defined. Framing skeletal muscle as an integrated unit of vasculature and muscle cells, we synthesize evidence with emphasis on glucose and protein metabolism. GLP-1 and GLP-1 RAs recruit microvasculature in muscle, expanding capillary surface area and increasing delivery of insulin, glucose, and amino acids. Microvascular recruitment increases interstitial insulin availability and potentiates insulin-stimulated glucose uptake and glycogen synthesis, whereas direct effects of GLP-1 on muscle cells remain under investigation. For protein metabolism, microvascular recruitment can enhance muscle protein synthesis when plasma amino acid availability is elevated, whereas effects under basal (fasted) conditions remain unclear. Elucidating the uncertainty regarding GLP-1 receptor localization in human muscle cells will clarify whether direct signaling occurs within muscle cells, thereby improving our understanding of the relative contribution of direct versus perfusion-mediated actions of GLP-1 RAs. Clinically, GLP-1 RAs reduce lean body mass, likely reflecting energy-deficit-mediated effects, but studies directly assessing muscle mass are still limited. Overall, current evidence indicates that GLP-1 RAs exert beneficial effects on muscle vasculature and muscle glucose metabolism. However, their influence on muscle protein turnover remains unclear-primarily due to observed reductions in muscle mass-despite preclinical data suggesting potential favorable effects on muscle protein metabolism that remain to be confirmed in humans.",
+          "pmid": "41914187",
+          "title": "Pre-heart failure in early chronic kidney disease: clinical epidemiology and treatment.",
+          "abstract": "Chronic kidney disease (CKD), defined per the Kidney Disease: Improving Global Outcomes (KDIGO) guidelines by persistent (\u22653 months) abnormalities of kidney structure or function, including reduced estimated glomerular filtration rate (eGFR) and/or albuminuria, affects 10%-15% of adults worldwide and is a powerful, independent risk factor for cardiovascular diseases, including heart failure (HF). In CKD (stages G1-G3), particularly when accompanied by albuminuria (KDIGO stages A2-A3), even mild reductions in eGFR are associated with subclinical cardiac abnormalities-left ventricular hypertrophy, concentric remodelling, LV diastolic dysfunction, HF with preserved ejection fraction, and arrhythmias. Many CKD patients meet criteria for Stage B HF within the contemporary 'pre-HF' framework, based on structural and functional cardiac alterations and elevated biomarkers in the absence of symptoms. Detection is here challenging, as symptoms are non-specific and circulating biomarkers are confounded by reduced renal clearance. Echocardiography, including speckle-tracking techniques and emerging indices, and cardiac magnetic resonance imaging with tissue characterization and strain analysis are sensitive tools for early diagnosis and risk stratification, but routine screening is not currently recommended in asymptomatic CKD. This condition may be mitigated by aggressive control of traditional and CKD-specific risk factors, and therapies with proven cardiorenal benefits-SGLT2 inhibitors, finerenone, diuretics, renin-angiotensin system blockers, and selected GLP-1 receptor agonists-guide HF prevention. Future research should test cost-effective early diagnostic strategies, clarify the role of imaging and biomarkers in guiding therapy, and exploit multiomics and artificial intelligence to unravel mechanistic heterogeneity and enable personalized prevention of HF in early CKD.",
           "authors": [
-            "Christos S Katsanos",
-            "Zhenqi Liu",
-            "Philip J Atherton"
-          ],
-          "journal": "Comprehensive Physiology",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41839621/"
-        },
-        {
-          "pmid": "41810433",
-          "title": "Efficacy and safety of GLP-1 receptor agonists in MASH with fibrosis: A systematic review and meta-analysis.",
-          "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a risk factor for progressive hepatic fibrosis and cirrhosis. The role of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in the treatment of patients with MASH with fibrosis remains under investigation. This meta-analysis evaluates the efficacy and safety of GLP-1 RAs in patients with 'at-risk' MASH. We reviewed and analyzed all randomized controlled trials (RCTs) from PubMed, Embase, and Cochrane databases. Primary outcomes included MASH resolution without worsening fibrosis or fibrosis improvement without worsening of MASH. Secondary outcomes included adverse events (AEs), laboratory, and anthropometric data. Studies evaluating dual agonists of the GLP-1 receptor with glucagon or glucose-dependent insulinotropic polypeptide agonists were also included. We performed meta-regression analyses to assess whether histologic outcomes were mediated by changes in body weight and glycemic control. Seven RCTs (1,800 patients, mean follow-up: 136.8 weeks) were included. In the population with baseline F2-F3 fibrosis stage, GLP-1 RAs were superior to placebo for histological resolution of MASH without worsening fibrosis (risk ratio 2.96; 95% CI 1.70-5.15,  GLP-1 RAs improve MASH and MASH-associated hepatic fibrosis while also improving cardiometabolic risk factors in patients with MASH. Ongoing studies will define whether these surrogate endpoints translate into a decrease in liver-related and all-cause morbidity and mortality in patients at risk for adverse clinical outcomes attributable to MASH. Metabolic dysfunction-associated steatohepatitis (MASH) with fibrosis is a major driver of liver-related morbidity and mortality, yet effective pharmacologic options remain limited. This meta-analysis shows that glucagon-like peptide-1 receptor agonists (GLP-1 RAs) significantly increase histologic resolution of MASH without worsening fibrosis and improve fibrosis stage without worsening MASH. Simultaneously, they improve metabolic risk factors, supporting their role as disease-modifying agents in patients with at-risk MASH. These benefits, together with a favorable safety profile, highlight their potential as a dual-target therapeutic strategy for hepatologists and endocrinologists managing this high-risk population. Future trials assessing long-term clinical outcomes will be essential to guide guideline development, inform access policies, and support the extension of GLP-1 RA use.",
-          "authors": [
-            "Rafael Dos Santos Borges",
-            "Eliabe S Abreu",
-            "Giovanni Gosch Berton",
+            "Carmine Zoccali",
+            "Raffaele De Caterina",
+            "Katherine R Tuttle",
             "et al."
           ],
-          "journal": "JHEP reports : innovation in hepatology",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41810433/"
+          "journal": "European heart journal",
+          "pub_date": "Mar 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41914187/"
         },
         {
-          "pmid": "41810426",
-          "title": "Management of obesity in advanced chronic liver disease.",
-          "abstract": "Obesity has emerged as a major global health challenge and is closely associated with metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction- and alcohol-associated liver disease (MetALD). Overall, an increased prevalence of obesity has been reported in patients with advanced chronic liver disease (ACLD), in whom it adversely impacts prognosis. Importantly, increased BMI is recognised as a modifiable risk factor for progression of liver disease, regardless of aetiology. The recent approval of effective and well-tolerated anti-obesity medications offers new opportunities, alongside therapeutic lifestyle changes and bariatric surgery, for the personalised management of patients living with obesity and associated liver disease.",
+          "pmid": "41912234",
+          "title": "Key questions remain about GLP-1 drug discontinuation.",
+          "abstract": "No abstract available.",
           "authors": [
-            "Cyrielle Caussy",
-            "Sven M Francque"
+            "Dhanesh D Binda",
+            "Ala Nozari"
           ],
-          "journal": "JHEP reports : innovation in hepatology",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41810426/"
+          "journal": "BMJ (Clinical research ed.)",
+          "pub_date": "Mar 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41912234/"
         },
         {
-          "pmid": "41801847",
-          "title": "Real-World Cardiovascular Outcomes of GLP-1 Receptor Agonists in Women With Type 2 Diabetes and Breast Cancer.",
-          "abstract": "The cardiovascular (CV) benefits of glucagon-like-peptide-1 receptor agonist (GLP-1 RA) therapies are not well-established in women with breast cancer and type 2 diabetes (T2D). The primary objective of this study was to compare the incidence of major adverse cardiovascular events (MACE) in women with T2D and breast cancer receiving GLP-1 RA therapy versus non-GLP-1 RA diabetes medications. This retrospective study included women with T2D, diagnosed with breast cancer at \u2265\u200940\u2009years old from December 16, 2014 to December 16, 2024 and having exposure to diabetes medications of interest (either GLP-1 RA or non-GLP-1 RA) within 5\u2009years of these diagnoses. The primary end point, MACE, was a composite of myocardial infarction, ischemic stroke, coronary revascularization, cardiac arrest, or heart failure, within 5\u2009years of the index date. Propensity score matching was performed. Participants were excluded from each individual outcome analysis if they had the outcome prior to the index date. Incidence rates, risk ratio (RR), 95% confidence interval (CI), and p-value were reported for each outcome. After matching, 19,608 patients were included in each cohort (mean age 64\u2009years). Obesity and alkylating agents were more commonly reported in the GLP-1 RA cohort. Semaglutide was the most prescribed GLP-1 RA at index (45.1%). MACE occurred in 10.6% of the GLP-1 RA cohort and 13.4% of the non-GLP-1 cohort (RR 0.80, 95% CI 0.75-0.85, p\u2009<\u20090.001). Individual MACE end points, ischemic heart disease, and end-stage renal disease were significantly lower in the GLP-1 RA-treated cohort. GLP-1 RA use was also associated with a 61.6% relative risk reduction in all-cause mortality (RR 0.38, 95% CI 0.36-0.41, p\u2009<\u20090.001). Pancreatitis incidence was similar between groups (p\u2009=\u20090.057), whereas cholelithiasis was significantly lower with GLP-1 RA therapy (p\u2009<\u20090.001). This study demonstrated the potential CV benefit of GLP-1 RA therapies among a population of female breast cancer survivors with T2D. Randomized trial data are needed to confirm these findings.",
+          "pmid": "41803652",
+          "title": "HDM1002 in Chinese Adults With Overweight/Obesity: A Randomized, Placebo-Controlled, Ascending-Dose Phase 1b Study.",
+          "abstract": "HDM1002, a small-molecule agonist of glucagon-like peptide-1 receptors, was evaluated for safety, tolerability, pharmacokinetics (PK), and pharmacodynamics (PD). Chinese participants (18-60\u2009years) with BMI\u2009\u2265\u200924.0 kg/m TEAEs in 50/100/200\u2009mg QD, 100\u2009mg BID, and 400\u2009mg QD HDM1002 groups were 80%, 70%, 100%, 90%, and 100%, respectively, and 60% in the placebo group, all mild/moderate. Two participants discontinued HDM1002 due to TEAEs versus none in the placebo group. Greater least squares mean reductions from baseline in body weight were among HDM1002 200\u2009mg QD (-6.1\u2009kg), 100\u2009mg BID (-4.4\u2009kg), and 400\u2009mg QD (-4.3\u2009kg) groups, compared with placebo (-1.6\u2009kg). There was no significant effect on glycemia observed with HDM1002 compared to placebo. PK were generally doseproportional. HDM1002 demonstrated a manageable safety/tolerability profile. CTR20233390.",
           "authors": [
-            "Cyrille K Cornelio",
-            "Kevin Cowart",
-            "Janelle Perkins",
+            "Hongrong Xu",
+            "Wei Hu",
+            "Lin Zhao",
             "et al."
           ],
-          "journal": "Pharmacotherapy",
+          "journal": "Obesity (Silver Spring, Md.)",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41801847/"
-        },
-        {
-          "pmid": "41800749",
-          "title": "Impact of Glucagon-Like Peptide-1 Receptor Agonists on Proteinuria in Kidney Transplant Recipients.",
-          "abstract": "Proteinuria is a marker of kidney dysfunction and increased cardiovascular mortality. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have shown significant cardiorenal benefits in chronic kidney disease (CKD) and type 2 diabetes mellitus (T2DM). However, the impact of GLP-1 RAs on cardiorenal outcomes in kidney transplant recipients (KTRs) remains unclear. This study aims to assess the effect of GLP-1 RA therapy on proteinuria and metabolic parameters in KTRs, with and without T2DM, 12\u2009months following GLP-1 RA initiation. A single-center, retrospective study was conducted to evaluate the safety and efficacy of GLP-1 RAs in adult KTRs from June 1, 2022 to December 31, 2023. Primary outcomes were changes in urine protein-creatinine ratio (UPCR) and urine albumin-to-creatinine ratio (UACR) at 1, 3, 6, and 12 months after initiation of GLP-1 RAs. Secondary outcomes assessed changes in estimated glomerular filtration (eGFR), body mass index (BMI), and hemoglobin A1c (A1C). Safety outcomes included cardiovascular hospitalizations, acute kidney injury, pancreatitis, and biopsy-proven rejection within 12\u2009months. Forty KTRs received GLP-1 RA therapy with a mean time to initiation of 4.3\u2009months post-transplant, and the majority of patients had T2DM (87.5%). Baseline UPCR and UACR were 0.86 and 669\u2009mg/g, respectively. UPCR at 1, 3, and 6 months post-initiation was 0.38\u2009g/g, 0.37\u2009g/g, and 0.30\u2009g/g, respectively. UACR at 1, 3, and 6 months post-initiation was 313\u2009mg/g, 285\u2009mg/g, and 234\u2009mg/g, respectively. A 55% decrease from baseline in UPCR and UACR was observed at 1\u2009month (p\u2009=\u20090.070) and a 50% decrease from baseline was observed at 12\u2009months (p\u2009=\u20090.058), achieving UPCR of 0.43\u2009g/g and UACR of 320\u2009mg/g. A1C, eGFR, and BMI remained stable. Minimal safety events occurred. GLP-1 RAs demonstrated clinically significant improvements in proteinuria as early as 1 month post-initiation in KTRs. Proteinuria significantly improved from severely increased to moderately increased at 6\u2009months following GLP-1 RAs, with good tolerability. GLP-1 RAs may offer renal benefits in KTRs with T2DM without compromising allograft function. Future studies should include closer monitoring of KTRs on immunosuppression with high gastrointestinal adverse effect profiles, and larger studies are needed to assess the long-term impact of GLP-1 RAs in KTRs irrespective of T2DM.",
-          "authors": [
-            "Stephanie Shabanowitz",
-            "Ryan Clark",
-            "Rachel Bassett Allen",
-            "et al."
-          ],
-          "journal": "Pharmacotherapy",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41800749/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41803652/"
         },
         {
           "pmid": "41783650",
@@ -100,18 +73,18 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/41783650/"
         },
         {
-          "pmid": "41725345",
-          "title": "Comparative effectiveness of combination therapy with SGLT-2 inhibitors and GLP-1 RAs compared with SGLT-2 inhibitors in individuals with type 2 diabetes: A prevalent new-user cohort study.",
-          "abstract": "To evaluate the effectiveness of combination therapy with sodium-glucose cotransporter 2 (SGLT-2) inhibitors and glucagon-like peptide-1 receptor agonists (GLP-1 RAs) compared with continued SGLT-2 inhibitor therapy in routine practice among individuals with type 2 diabetes. We used nationwide BARMER health claims data and implemented a prevalent new-user design. Individuals initiating a GLP-1 RA, either simultaneously with SGLT-2 inhibitors or during ongoing SGLT-2 inhibitor exposure, were matched to SGLT-2 inhibitor continuers using hybrid exposure sets and time-conditional propensity scores. The study cohort included individuals enrolled between 2013 and 2023, with possible follow-up including 2024. The primary outcome was all-cause mortality. Secondary outcomes included a modified cardiovascular composite (all-cause mortality, myocardial infarction, stroke), heart failure, nephropathy, and renal failure. Cox proportional hazards models estimated hazard ratios (HRs) and 95% confidence intervals (CIs). Among 21\u2009664 matched pairs with a median follow-up of 1.3\u2009years, combination therapy was associated with a 29% lower hazard of all-cause mortality (HR 0.71, 95% CI 0.63-0.80), consistent across subgroups and sensitivity analyses. Hazard reductions were also observed for the modified cardiovascular composite (HR 0.81, 95% CI 0.74-0.88) and heart failure (HR 0.78, 95% CI 0.68-0.89). In this large real-world cohort, combination therapy with SGLT-2 inhibitors and GLP-1 RAs was associated with a lower hazard of all-cause mortality, while most secondary cardiorenal outcomes showed generally favourable but imprecise estimates. These findings suggest that sustained concurrent use of both drug classes may offer meaningful clinical benefits in routine practice, although residual confounding cannot be fully excluded.",
+          "pmid": "41763234",
+          "title": "Combined associations of GLP-1 receptor agonists and a healthy lifestyle with cardiovascular outcomes among individuals with type 2 diabetes: a prospective cohort study.",
+          "abstract": "The long-term combined effects of lifestyle habits and GLP-1 receptor agonists on cardiovascular outcomes are unknown. We aimed to examine the combined association of GLP-1 receptor agonist use and adherence to eight lifestyle habits with cardiovascular outcomes. We did a prospective cohort study of individuals with type 2 diabetes enrolled within the US Veterans Affairs' Million Veteran Program between Jan 10, 2011, and Sept 30, 2023. Participants had no previous history of myocardial infarction, stroke, or advanced chronic kidney disease. The eight low-risk lifestyle habits assessed were a higher quality diet, being physically active, not smoking, restful sleep, no heavy alcohol intake, good stress management, social connection and support, and no opioid use disorder. We assessed the risk of major adverse cardiovascular events (MACE), defined as non-fatal stroke or myocardial infarction, or cardiovascular death, according to GLP-1 receptor agonist use and low-risk lifestyle habits using Cox proportional hazard regression models. Of the 963\u2009753 veterans enrolled, a total of 98\u2009261 participants were included in the study with 632\u2009543 person-years of follow-up, during which 10\u2009443 people developed MACE. Multivariable-adjusted hazard ratio (HR) of MACE was 0\u00b740 (95% CI 0\u00b730-0\u00b754) when comparing participants adhering to all eight low-risk lifestyle habits to those adopting one habit or less. Multivariable-adjusted HR of MACE was 0\u00b784 (0\u00b776-0\u00b792) when comparing users of GLP-1 receptor agonists with non-users. Participants using GLP-1 receptor agonists and adhering to six to eight low-risk lifestyle factors had a 43% lower risk of MACE than did those with three or fewer low-risk lifestyle factors and no GLP-1 receptor agonist use (0\u00b757; 0\u00b746-0\u00b771). Adherence to low-risk lifestyle habits combined with GLP-1 receptor agonist use was associated with a greater reduction in MACE risk than either approach alone, underscoring the importance of integrating lifestyle modification with pharmacotherapy in type 2 diabetes management. Department of Veterans Affairs.",
           "authors": [
-            "Gregor A Maier",
-            "Beata Hennig",
-            "Wolfgang Rathmann",
+            "Xuan-Mai T Nguyen",
+            "Yanping Li",
+            "S\u00e9bastien Czernichow",
             "et al."
           ],
-          "journal": "Diabetes, obesity & metabolism",
+          "journal": "The lancet. Diabetes & endocrinology",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41725345/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41763234/"
         },
         {
           "pmid": "41722868",
@@ -128,161 +101,322 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/41722868/"
         },
         {
-          "pmid": "41705420",
-          "title": "Effect of lixisenatide on arterial stiffness in people with type 2 diabetes and kidney disease: Results of a randomised controlled trial.",
-          "abstract": "People with chronic kidney disease (CKD) and diabetes are at high risk of cardiovascular disease (CVD). Aortic pulse wave velocity (Ao-PWV) is an independent predictor of CVD. Cardiovascular outcome trials (CVOTs) with glucagon like peptide-1 receptor agonist (GLP-1 RA) class demonstrate notable differences, with lixisenatide having neutral effects as compared to longer acting GLP-1 RA. It is unknown if shorter acting GLP-1 RA have an impact on Ao-PWV and if this may explain the discordance observed in GLP-1RA CVOTs. We studied people with type 2 diabetes and CKD in a proof-of-concept single centre, randomised, double-blind parallel-group placebo-controlled study that evaluated 24\u2009weeks' treatment with lixisenatide as compared to placebo on the primary endpoint of Ao-PWV. In total, 101 participants (male 66%) were randomised of whom 90 were eligible for analyses (lixisenatide [n\u2009=\u200947] and placebo [n\u2009=\u200943]). Ao-PWV did not change significantly from baseline after 24\u2009weeks of treatment with final mean (95% confidence intervals) of 9.65 (9.17, 10.13) m/s with lixisenatide and 9.96 (9.45, 10.46) m/s with placebo, p\u2009=\u20090.38. Similarly, no significant changes were observed in cardio-renal risk biomarkers including albuminuria and Klotho levels. HbA1c decreased with lixisenatide as compared to placebo. In people with CKD and type 2 diabetes the use of short-acting GLP-1 RA lixisenatide did not significantly influence Ao-PWV. Further studies are needed to understand mechanisms that may explain discordance in CVOTs results observed with GLP-1 RA. ISRCTN: ISRCTN97699312; EudraCT/CTIS number: 2016-001758-17.",
+          "pmid": "41703773",
+          "title": "Real-world persistence and dose titration of GLP-1 receptor agonists in type 2 diabetes: A UK population-based cohort study by obesity and cardiovascular disease status.",
+          "abstract": "Real-world medication use varies across clinical trial and healthcare settings; therefore, we evaluated GLP-1 receptor agonist (GLP-1RA) persistence and dose titration among adults with type 2 diabetes in UK primary care, stratified by agent, obesity status, cardiovascular disease (CVD) history, and sex assigned at birth. Adults with type 2 diabetes initiating GLP-1RAs between 1 March 2018 and 30 June 2023, with follow-up \u22651-year, were identified using the IQVIA Medical Research Data (IMRD) incorporating data from THIN, A Cegedim Database. The absolute 1-year risk\u00a0of discontinuation was\u00a0estimated using the Aalen-Johansen estimator, while multivariable cause-specific Cox models assessed associations with patient characteristics. Dosing trajectories were characterised across individual prescriptions during the first therapy year. Among 8200 GLP-1RA initiators (46.5% dulaglutide, 38.7% semaglutide), the 1-year discontinuation risk was 41.1% (95% CI 40.1-42.2), higher among those without obesity (BMI\u2009<30\u2009kg/m In UK primary care, GLP-1RA persistence was suboptimal and dose escalation was frequently delayed across all patient stratifications, including individuals with established CVD.",
           "authors": [
-            "Nikolaos Fountoulakis",
-            "Panagiotis Pavlou",
-            "Dimitra Stathi",
+            "Franziska S Ulrich",
+            "Nicola Napoli",
+            "Morten Frost Nielsen",
             "et al."
           ],
           "journal": "Diabetes, obesity & metabolism",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41705420/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41703773/"
         },
         {
-          "pmid": "41547635",
-          "title": "SGLT-2 inhibitors and GLP-1 receptor agonists in primary care pharmacotherapy of type 2 diabetes in people living with HIV versus HIV-negative controls: Findings from a multicenter study in Germany.",
-          "abstract": "Sodium-glucose cotransporter-2 inhibitors (SGLT-2i) and glucagon-like peptide-1 receptor agonists (GLP-1 RA) improve glycemic control and reduce cardiovascular (CV) mortality. However, evidence regarding their real-world utilization in people living with HIV (PLWH) receiving primary care remains limited. The present study evaluates the real-world diabetes management, prescription patterns and outcomes in PLWH with type 2 diabetes (T2D) compared to HIV-negative controls in primary care, using retrospective and prospective data from multiple outpatient healthcare facilities from urban outpatient clinics in Germany. No significant difference was found for treatment with either SGLT-2i or GLP-1 RA (PLWH [30.0\u202f%] vs. controls [28.3\u202f%], p\u202f=\u202f0.86) or the combined therapy (p\u202f=\u202f0.34). Among participants with established CV disease, only a third received an SGLT-2i and/or a GLP-1 RA (p\u202f=\u202f0.63). Regarding quality of life, PLWH had more difficulties with self-care (p\u202f=\u202f0.038) and there was a trend towards a greater burden of anxiety and depression (p\u202f=\u202f0.051). PLWH and T2D in primary care received similar evidence-based therapies as controls, however, prescription rates in participants with CV disease were relatively low. Future studies with a larger sample size and longitudinal follow-up are needed to confirm the present findings.",
+          "pmid": "41654227",
+          "title": "Semaglutide exposure in early pregnancy and pregnancy outcomes: A case report and review of literature.",
+          "abstract": "Semaglutide, a glucagon-like peptide-1 receptor agonist, is increasingly used for the treatment of diabetes and weight loss, including in women of reproductive age. However, its impact on pregnancy outcomes remains largely unknown, with limited data available. The manufacturer advises against using semaglutide within two months prior to planned pregnancy, but some patients may unknowingly use it during early pregnancy. We report the case of a 37-year-old woman with a pre-pregnancy Body Mass Index (BMI) of 27.73 kg/m\u00b2. She received semaglutide 0.5 mg once weekly, initiated before conception and continued until approximately 7 weeks of gestation, and discontinued treatment immediately upon recognition of pregnancy. All prenatal screenings, including nuchal translucency and four-dimensional color Doppler ultrasound, were normal. She delivered a healthy male infant at nearly 40 weeks of gestation. The infant showed no adverse outcomes during follow-up assessments at 1 and 3 months of age. This case suggests that semaglutide exposure during early pregnancy may not necessarily lead to adverse outcomes in obese women. However, larger studies are needed to confirm these findings and to better understand the impact of semaglutide on pregnancy outcomes. This case report contributes to the limited literature on this topic and may inform future clinical decision-making.",
           "authors": [
-            "L Hilgefort",
-            "A Potthoff",
-            "S Nambiar",
+            "Yuan-Cheng Jin",
+            "Yu-Hua Wu",
+            "Xue-Song Ma",
             "et al."
           ],
-          "journal": "Primary care diabetes",
+          "journal": "Journal of gynecology obstetrics and human reproduction",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41547635/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41654227/"
         },
         {
-          "pmid": "41456709",
-          "title": "Association of Sodium-Glucose Cotransporter 2 Inhibitors and Glucagon-Like Peptide-1 Receptor Agonists With Risk of Cataract.",
-          "abstract": "To evaluate the risk of age-related cataract (ARC) among patients with type 2 diabetes mellitus (T2DM) using sodium-glucose cotransporter 2 inhibitors (SGLT2i) or glucagon-like peptide-1 receptor agonists (GLP-1 RA) as second-line antihyperglycemic agents. Population-based retrospective cohort study. Adults aged over 40 years with a diagnosis of T2DM between January 2015 and June 2025 were identified from the TriNetX Global Network. The patients were categorized into three cohorts: (1) SGLT2i plus metformin, (2) GLP-1 RA plus metformin, and (3) metformin monotherapy. Patients with aphakia or pseudophakia, orbital injuries, secondary cataracts, or congenital ocular malformations were excluded. Pairwise comparisons were performed with a 3-year follow-up. Baseline characteristics were balanced using 1:1 propensity score matching for demographics, comorbidities, T2DM severity, and cataract risk factors. Cox proportional hazards models were applied to estimate hazard ratios (HRs) and 95% confidence intervals (CIs). The primary outcome was the incidence of ARC events, defined as a diagnosis of ARC or cataract surgery, with stratified analyses conducted by demographics, glycemic control, and comorbidities. After matching, three pairwise comparisons included 34,259 (SGLT2i vs metformin; mean age, 62.8 years; 35.1% female), 50,877 (GLP-1 RA vs metformin; mean age, 58.3 years; 54.8% female), and 23,022 (SGLT2i vs GLP-1 RA; mean age, 61.0 years; 40.8% female) patients. Adjunctive SGLT2i or GLP-1 RA was associated with a reduced risk of ARC events (SGLT2i, HR: 0.82, 95% CI: 0.76-0.89; GLP-1 RA, HR: 0.93, 95% CI: 0.87-0.99). The protective effect of SGLT2i was greater than that of GLP-1 RA (HR: 0.84, 95% CI: 0.76-0.92). However, in patients with advanced age, obesity, or diabetic retinopathy, the association attenuated. When analyzed as separate outcomes, adjunctive use of SGLT2i and GLP-1 RA remained associated with a reduced risk of ARC diagnosis, while the risk of cataract surgery did not differ significantly (SGLT2i, HR: 1.14, 95% CI: 0.95-1.34; GLP-1 RA, HR: 1.01, 95% CI: 0.79-1.26). Adjunctive use of SGLT2i or GLP-1 RA was associated with a lower risk of ARC, with a stronger effect for SGLT2i; however, neither agent reduced the risk of cataract surgery. Further studies are needed to clarify the underlying biological pathways and validate our findings.",
+          "pmid": "41587701",
+          "title": "Mitigating loss of lean muscle in GLP-1 and dual GLP-1/GIP agonists: Pipeline opportunities and limitations.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor and dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonists drive significant transformation in the landscape for type 2 diabetes and obesity management, yet 15-40% of weight loss in trials like STEP and SURMOUNT stems from lean muscle mass. This catabolic loss impairs glucose disposal, muscle strength, and physical function; elevating risks for the loss of force generating capacity in the skeletal muscles leading to sarcopenia, particularly in elderly patients. Unfortunately, current FDA guidelines emphasize total weight reduction over body composition, featuring an unmet critical need for elucidating strategies to preserve loss of lean muscle. This review will feature the emerging therapeutics to mitigate loss of lean muscle, including selective androgen receptor modulators, myostatin-targeting TGF-\u03b2 inhibitors, and gene-silencing siRNA therapies. Despite promising preclinical and early clinical data, limitations persist, including reliance on parenteral biologics, limited mechanistic diversity, short trial durations, and sparse functional outcome data. Future research must prioritize precise muscle assessments, body composition, long-term trials, and accessible interventions integrating pharmacotherapy. These advances could redefine weight loss paradigms, ensuring therapeutic efficacy aligns with optimal body composition and patient outcomes.",
           "authors": [
-            "Bing-Hua Lin",
-            "Shu-Han Chuang",
-            "Lien-Chen Wu",
+            "Justin Hierholzer",
+            "Harrison Benson",
+            "Heba A Ewida",
             "et al."
           ],
-          "journal": "American journal of ophthalmology",
+          "journal": "Biochimica et biophysica acta. Molecular basis of disease",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41456709/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41587701/"
         },
         {
-          "pmid": "41419094",
-          "title": "Cardio-renal outcomes in type 2 diabetes patients with advanced chronic kidney disease on SGLT2 inhibitors or GLP-1 receptor agonists.",
-          "abstract": "GLP-1 RA and SGLT2i have demonstrated cardio-renal protective effects in randomized clinical trials. However, their comparative cardio-renal benefits in diabetes patients with stage 4-5 chronic kidney disease remain underexplored. This is a retrospective study with target trial emulation design using TriNetX platform. Adults type 2 diabetes mellitus, stage 4-5 chronic kidney disease patients who were new initiation of GLP-1 RA compared to SGLT2i were enrolled. major adverse kidney events (MAKE), major adverse cardiovascular events (MACE), and all-cause mortality. Hazard ratios (HRs) were calculated for outcomes in 1:1 propensity score-matched patients. A total of 7,458 participants were included in each group, with a mean eGFR of 23-24 mL/min/1.73 m\u00b2. New users of GLP-1 RAs had a higher HR for MAKE (HR 1.05, 95% CI 1.0-1.1) & dialysis (HR 1.09, 95% CI 1.03-1.15), but similar HRs for all-cause mortality (HR 0.98, 95% CI 0.91-1.05) and MACE (HR 0.97, 95% CI 0.93-1.01) compared with SGLT2i users, despite a lower HR for heart failure (HR 0.94, 95% CI 0.90-0.99). Among new GLP-1 RA users, higher HRs for MAKE occurred in subgroup of males and patients without heart failure. In patients with type 2 diabetes and stage 4-5 chronic kidney disease, initiating an SGLT2i, relative to a GLP-1 RA, was associated with a lower risk of adverse kidney events and comparable cardiovascular and mortality risks. Further studies are warranted to confirm these findings.",
+          "pmid": "41527217",
+          "title": "Changes in how people living with obesity perceive weight-related discussions with their healthcare professional: Results from the cross-sectional online ACTION-DK 2022 and 2024 studies.",
+          "abstract": "This study investigated changes in how people living with obesity (PwO) perceive weight-related discussions with healthcare professionals (HCPs) in Denmark from 2022 to 2024, a period marked by shifts in obesity treatment options as well as the broader understanding of obesity. A cross-sectional online survey was conducted among adult PwO in Denmark, building on the 2022 Awareness, Care, and Treatment In Obesity maNagement-Denmark survey with a few modifications. Data were collected via representative online panels from September to October 2024. Adjusted logistic regression models were performed. A total of 1005 PwO participated in the 2024 survey, compared to 879 in the 2022 survey. The proportion of PwO discussing weight with HCPs increased significantly from 38% in 2022 to 58% in 2024. The percentage of PwO reporting positive feelings after weight consultations did not change significantly. PwO in 2024 still refrained from discussing weight due to fear of prejudice (23%), previous negative experiences (17%) and the belief that reducing weight was their own responsibility (46%). Subgroup analyses in 2024 revealed that those currently using weight loss medications reported the most positive perceptions of weight-related discussions with their HCP. Overall increased engagement of PwO regarding weight-related discussions with HCPs was observed from 2022 to 2024. However, barriers persist, since some PwO avoid interactions with HCPs due to previous experiences with stigma or the fear of being judged. Continued efforts are essential to address these barriers, enhance HCP education about weight-related bias, and foster a supportive environment for PwO in healthcare settings.",
           "authors": [
-            "Jia-Jin Chen",
-            "Ming-Hsien Tsai",
-            "Wen-Yu Ho",
-            "et al."
-          ],
-          "journal": "The American journal of medicine",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41419094/"
-        },
-        {
-          "pmid": "41340366",
-          "title": "GLP-1 Receptor Agonist Medications for Obesity and Type 2 Diabetes Treatment: A Rapid Review of Changes in Eating Behaviors and Eating Disorder Risk.",
-          "abstract": "This rapid review aimed to evaluate the effects of GLP-1 RAs on eating behaviors and eating disorder risk. Databases were searched to January 2025 to identify studies evaluating GLP-1 RA treatment for adolescents or adults with obesity or Type 2 diabetes. Eligible studies reported adverse events, changes in eating disorder risk, or eating behaviors post-intervention or follow-up. Data were synthesized narratively. Of 1597 records screened, 25 studies (k) were included (two adolescent, n\u2009=\u2009275; 23 adult, n\u2009=\u20098722). Two studies reported eating disorder adverse events, and two reported no binge eating adverse events. Liraglutide reduced global eating disorder risk scores, with no differences between groups (k\u2009=\u20091). Binge eating episodes and prevalence reduced following liraglutide and semaglutide, respectively. Binge eating scores improved with liraglutide compared to placebo (k\u2009=\u20092). Food cravings following liraglutide (k\u2009=\u20091) or semaglutide (k\u2009=\u20096) were improved (k\u2009=\u20096) or unchanged (k\u2009=\u20091). There was no difference in disinhibition between liraglutide and comparator (k\u2009=\u20092) with one study reporting a reduction in both groups. Three non-RCTs reported reduced disinhibition with liraglutide. Limited data are available on GLP-1 RAs, eating behaviors and eating disorders. For most, eating behaviors may improve or remain unchanged. Comprehensive assessment of eating behaviors is needed to understand the benefits and risks of treatment.",
-          "authors": [
-            "Hiba Jebeile",
-            "Yngvild S\u00f8reb\u00f8 Danielsen",
-            "Priya Sumithran",
-            "et al."
-          ],
-          "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41340366/"
-        },
-        {
-          "pmid": "41326176",
-          "title": "Comparative Efficacy of Metabolic/Bariatric Surgery Versus GLP-1 Receptor Agonists: A Network Meta-Analysis of Randomized Controlled Trials.",
-          "abstract": "This study compared the efficacy of metabolic/bariatric surgery (MBS) and GLP-1 receptor agonists (GLP-1 RAs), including dual GLP-1/GIP\u00a0analogues, for weight and metabolic outcomes in adults with obesity. A network meta-analysis of randomized controlled trials compared MBS or GLP-1 RAs versus lifestyle intervention in adults with overweight or obesity. Primary outcomes were percent total weight loss (TWL) and BMI; secondary outcomes included body weight, waist circumference, HbA1c, and systolic blood pressure. Random-effects models used lifestyle intervention as the common comparator; all MBS versus GLP-1 RA comparisons were indirect. Thirty randomized controlled trials (n\u2009=\u200920,015) were included. At <\u2009104\u2009weeks, MBS achieved greater reductions than GLP-1 RAs in %TWL (ETD -10.3%; p\u2009=\u20090.001), BMI (-4.5\u2009kg/m Both MBS and GLP-1 RAs provide substantial metabolic benefits. MBS remains superior, but tirzepatide is a promising nonsurgical option supporting personalized obesity care.",
-          "authors": [
-            "Lucas Sabatella",
-            "Patricia M Ortega",
-            "V\u00edctor Valent\u00ed Azc\u00e1rate",
-            "et al."
-          ],
-          "journal": "Obesity (Silver Spring, Md.)",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41326176/"
-        },
-        {
-          "pmid": "41287923",
-          "title": "GLP-1 Receptor Agonists for the Prevention of New-Onset Heart Failure: A Systematic Review and Meta-Analysis of Placebo-Controlled Randomized Clinical Trials.",
-          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RA) improve outcomes in heart failure (HF) with preserved ejection fraction. Whether GLP-1 RA prevent new-onset HF in Type 2 diabetes or obesity requires further investigation. We performed an updated meta-analysis of randomized placebo-controlled trials (RCT) of treatment with GLP-1 RA in participants without HF. The hazard ratio (HR) and 95% confidence intervals (95% CI) were extracted from the group without HF in each study. The primary outcome was time to first HF event (HF hospitalization or urgent visit for HF). The correlation between the effect of GLP-1 RA on HF events and the effects on HbA1c, weight and major atherosclerotic cardiovascular events (MACE) was also investigated. We also evaluated the heterogeneity of effect according to study characteristics. A total of 52,752 participants without HF from six RCTs were included. Treatment with GLP-1 RA (vs. placebo) decreased the risk of new-onset HF (HR\u2009=\u20090.77 [95% CI 0.65-0.93], p\u2009<\u20090.001) and the composite of HF events or cardiovascular death (HR = 0.82 [95% CI 0.76-0.89], p\u2009<\u20090.001). The effect of GLP-1 RA on HF events was independent of its effects on HbA1c or weight, but was correlated with its protective effects on MACE. The effects on HF prevention were more pronounced in studies restricted to patients with atherosclerotic cardiovascular disease and in trials with higher incidence rate of HF events. Treatment with GLP-1 RA decreases the risk of new-onset HF in patients with Type 2 diabetes or obesity.",
-          "authors": [
-            "Jo\u00e3o S\u00e9rgio Neves",
-            "Carolina B Lobato",
-            "Ana Rita Leite",
-            "et al."
-          ],
-          "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
-          "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41287923/"
-        },
-        {
-          "pmid": "41104525",
-          "title": "Effects of GLP-1 receptor agonists on cognitive function in patients with type 2 diabetes: A systematic review and meta-analysis based on randomized controlled trials.",
-          "abstract": "Patients with type 2 diabetes mellitus (T2DM) have a significantly increased risk of cognitive impairment, and the protective effects of traditional hypoglycaemic drugs on cognitive function remain unclear. This study systematically evaluated the neuroprotective effects of GLP-1 receptor agonists (GLP-1RAs) based on randomized controlled trial (RCT) evidence, aiming to provide key evidence-based insights for optimizing diabetes management strategies. A comprehensive literature search was conducted across PubMed, Embase, Cochrane Library, Web of Science, CNKI, Wanfang, and ClinicalTrials.gov databases to identify studies investigating the impact of GLP-1RAs on cognitive function in T2DM patients, with the search timeframe extending up to July 2025. The analysis focused on RCTs comparing the effects of GLP-1RAs versus placebo (or conventional therapy) on neurocognitive function in T2DM patients. Based on the inclusion criteria, 18 RCTs involving 11\u2009114 participants were included in the primary meta-analysis. Pooled results demonstrated that, compared to the placebo group, GLP-1RA treatment significantly increased Mini-Mental State Examination (MMSE) scores by a weighted mean difference (WMD) of 1.33 (95% CI: 0.67-1.99; I Current evidence indicates that GLP-1 RA-based therapy may improve cognitive function in patients with type 2 diabetes mellitus compared with placebo. Furthermore, long-term administration or early initiation of GLP-1 RA treatment may offer greater cognitive benefits.",
-          "authors": [
-            "Suxin Wan",
-            "He Yan",
-            "Qiu-Yan Sun",
+            "Mette B\u00f8gelund",
+            "Amanda F Rasmussen",
+            "Pernille Andreassen",
             "et al."
           ],
           "journal": "Diabetes, obesity & metabolism",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41104525/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41527217/"
         },
         {
-          "pmid": "41032460",
-          "title": "Assessment of Gastric Content Using Gastric Ultrasound in Patients on Glucagon-Like Peptide-1 Receptor Agonists Before Anesthesia.",
-          "abstract": "The use of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) has significantly increased in recent years. GLP-1 RAs delay gastric emptying, resulting in early satiety and weight loss. This may increase the risk of pulmonary aspiration of residual gastric contents (RGC) during anesthesia delivery. Evidence is urgently needed to guide perioperative anesthesia management for patients taking GLP-1 RAs. This study evaluated preoperative factors that may be associated with high RGC. Adult patients who were taking GLP-1 RAs and scheduled to receive anesthesia at 3 hospitals between June 30, 2023, and August 15, 2024, were evaluated via preoperative point-of-care gastric ultrasonography (GUS). The primary outcome was high RGC, defined by the presence of solids food or >1.5 mL/kg of clear liquids on GUS, and its association with preoperative factors (eg, existing medical conditions, indication and route of taking GLP-1 RAs, length of taking GLP-1 RAs, days of withholding GLP-1 RAs before surgery, and preoperative fasting periods). Data are presented as median (interquartile range [IQR]). Among the 316 patients (60.9 years [52.1-68.9] of age; 167 [52.8%] females) included in the study, 113 (35.8%) had high RGC. A higher percentage (5.3%; 6/113) of patients in the high RGC group had an opioid prescription for pain management within 3 months of the GUS assessment compared to the low RGC group (1.0%; 2/203; P = .027). No statistical difference was found between the groups in other existing medical conditions, indication and route of taking GLP-1 RAs, and length of taking GLP-1 RAs. Of the 294 patients taking weekly injections, there were 187 (63.6%) with low RGC and 107 (36.4%) with high RGC. Patients with low RGC withheld their GLP-1 RAs for 8 days [5-10], while patients with high RGC withheld for 6 days [3-9] ( P = .003). Receiver operating characteristic (ROC) analysis found \u22647.5 days of withholding the medication as cutoff for increased prevalence of high RGC in patients taking GLP-1 RA injections. Patients with low RGC fasted from solid food for 20.0 hours [14.8-40.8], and patients with high RGC fasted from solid food for 15.0 hours [12.8-19.0] ( P < .001). ROC found \u226421.3 hours of fasting from solid food as the cutoff for increased prevalence of high RGC. GLP-1 RA usage may delay gastric emptying. In preoperatively fasting adults, \u22647.5 days of withholding injections and \u226421.3 hours of fasting from solid food are associated with high RGC.",
+          "pmid": "41513169",
+          "title": "Proteomic effects of short-term liraglutide vs. placebo in a blinded crossover RCT: Implications for efficacy, safety, and comparison with semaglutide.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) exert cardiometabolic benefits beyond weight loss, yet their systemic proteomic mechanisms remain incompletely defined. We profiled short-term liraglutide-induced protein changes and compared them with published semaglutide signatures. In a randomized, double-blind, placebo-controlled, crossover trial (NCT02944500), 20 adults with obesity received liraglutide 3\u00a0mg daily or placebo for 5\u00a0weeks, separated by a 3-week washout. Plasma and serum samples underwent SomaScan v4.1 profiling of 6249 proteins. Mixed-effects models tested Time\u00d7Treatment interactions with and without weight adjustment. Results were benchmarked against the 30-protein semaglutide STEP 1/2 signature. Liraglutide significantly modulated 124 proteins (57 FDR\u00a0<\u00a00.05); 85\u00a0% of effects persisted after weight adjustment, indicating largely weight-independent actions. Upregulated proteins included pancreatic enzymes (PNLIP, CTRB1/2, PRSS2), while endothelial and fibrotic markers (ACE, NOS3, FAP) were downregulated. Myostatin (MSTN) was strongly suppressed (log\u2082 fold change -0.41; p\u00a0=\u00a01.7\u00a0\u00d7\u00a010 Short-term liraglutide reproduces the core GLP-1RA proteomic fingerprint while uniquely suppressing myostatin and vascular remodeling pathways. These rapid, largely weight-independent molecular responses indicate early cardioprotective and myostatin-inhibitor signaling changes that could be relevant for future muscle-preserving strategies, supporting individualized GLP-1RA use beyond weight loss alone.",
           "authors": [
-            "Sher-Lu Pai",
-            "Sindhuja R Nimma",
-            "W Brian Beam",
+            "Konstantinos Stefanakis",
+            "Valeria Gutierrez de Pi\u00f1eres",
+            "Preethi Veeragandham",
             "et al."
           ],
-          "journal": "Anesthesia and analgesia",
+          "journal": "Metabolism: clinical and experimental",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41032460/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41513169/"
         },
         {
-          "pmid": "40982219",
-          "title": "The effect of GLP-1 receptor agonists on renal outcomes: a systematic review and meta-analysis.",
-          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP1-RAs) are anti-hyperglycaemic agents, with cardioprotective effects, however their renal protective effects remain unclear. We aimed to assess the effects of GLP1-RAs on renal outcomes in patients with or without diabetes. We performed a systematic review and meta-analysis with Medline, EMBASE and the Cochrane Register searched to December 2024. The primary outcome was the composite of kidney failure (defined as estimated glomerular filtration rate <15 mL/min/1.73 m2) or dialysis requirement, worsening of renal function and changes in proteinuria. Subgroup analysis was performed based on diabetic status, a (CKD) and individual GLP1-RA drugs. Relative risks (RR) with 95% confidence intervals (CI) for individual trials were pooled using random effects models. We identified 19 trials including 90\u2009882 patients. Mean age was 60.8 years and mean follow-up was 25.9 months. GLP1-RAs were associated with a 19% reduction in the risk of primary renal outcome (RR 0.81, 95% CI 0.73-0.89), a 12% reduction in renal functional decline (RR 0.88, 95% CI 0.81-0.95) and a 0.45 mL/min/1.73 m2 reduction in yearly loss [16 trials, mean difference (MD) 0.45, 95% CI 0.10-0.81]. GLP1-RAs also reduced microalbuminuria by 24% (RR 0.76, 95% CI 0.71-0.82), HbA1c (units: %) by 0.61 (MD -0.61, 95% CI -0.76 to -0.49) and body weight by 5 kg (MD -5.24, 95% CI -7.46 to -3.02). Although there were no significant differences in progression to kidney failure (RR 0.86, 95% CI 0.71-1.05), GLP1-RAs reduced the incidence of major adverse cardiovascular events by 15% (RR 0.85, 95% CI 0.81-0.90) and all-cause mortality by 14% (RR 0.86, 95% CI 0.82-0.91). No significant differences were seen in severe adverse events (RR 0.96, 95% CI 0.90-1.01). However, there were more gastroenterological side effects. GLP1-RAs demonstrated cardiovascular and renal benefits. Further high-quality randomized trials assessing their effects in patients without diabetes, with or without proteinuria and/or CKD are needed.",
+          "pmid": "41456635",
+          "title": "Dual versus monotherapy with SGLT2 inhibitor and GLP-1 receptor agonist: PRECIDENTD pragmatic randomized trial.",
+          "abstract": "Dual therapy with sodium-glucose co-transporter 2 inhibitors (SGLT2i) and glucagon-like peptide-1 receptor agonists (GLP-1RA) is frequently recommended. We compared rates of medication initiation and discontinuation between participants assigned to treatment with a single medication class or dual therapy in the feasibility phase of the PREvention of CardIovascular and DiabEtic kidNey disease in Type 2 Diabetes (PRECIDENTD) pragmatic trial. PRECIDENTD randomly assigned participants with type 2 diabetes (T2D) and ASCVD or high ASCVD risk to fill prescriptions for SGLT2i, GLP-1RA, or dual therapy (1:1:1) using their own insurance. Analyses compared medication fill and discontinuation rates of assigned medication(s), Patient-Reported Outcomes Measurement Information System (PROMIS) Physical and Mental Health Scores, and Modified Kansas City Cardiomyopathy Questionnaire (mKCCQ)-12 between the combined monotherapy (SGLT2i or GLP-1RA) and dual therapy (SGLT2i and GLP-1RA) groups. This report includes 173 insured participants [median age 67 years (IQR 62, 72), 46% female, 35% non-White, 67% with ASCVD]; 113 assigned to monotherapy and 60 to dual therapy. Monotherapy vs dual therapy fill rates were 84% vs 53% (P < .001) 4 months after randomization and 87% vs 68% overall (P = .004) during 10-month median follow-up. Of those who filled medication, 22% in monotherapy and 49% in dual therapy discontinued a study medication (P = .002), mostly due to side effects. PROMIS and mKCCQ-12 scores showed no change. Despite efforts to facilitate medication uptake in the feasibility phase of the PRECIDENTD pragmatic trial, barriers to initiation and ongoing use challenge the use of combination SGLT2i and GLP-1RA in T2D. ClinicalTrials.gov, NCT05390892, https://clinicaltrials.gov/study/NCT05390892.",
           "authors": [
-            "Takaya Sasaki",
-            "Samantha My-Linh Giang",
-            "Jiajia Wu",
+            "Deborah J Wexler",
+            "Lindsay S Mayberry",
+            "Lyndsay A Nelson",
             "et al."
+          ],
+          "journal": "American heart journal",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41456635/"
+        },
+        {
+          "pmid": "41389576",
+          "title": "AI-powered literature mining reveals the therapeutic significance of GLP-1 receptor: Simulation of natural agonist candidates based on molecular dynamics.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1), a pivotal incretin hormone modulating glycemic homeostasis, has emerged as a clinically validated target for the treatment of type 2 diabetes and obesity. In this study, we present a comprehensive AI-integrated drug discovery pipeline that leverages BioBERT-based biomedical text mining to delineate the therapeutic landscape of GLP-1 receptor agonism systematically. Subsequent high-throughput virtual screening (HTVS) of a curated natural product library identified structurally diverse candidate ligands. A machine-learning-guided ADMET profiling algorithm was employed to prioritize compounds with optimal pharmacokinetic and safety characteristics. Top-ranked molecules were subjected to extensive molecular dynamics (MD) simulations using the GROMACS platform, enabling quantitative evaluation of structural stability, dynamic behavior, and receptor-ligand interaction persistence. Molecular docking analyses demonstrated robust binding affinities (\u0394G: -11.3 to -8.7\u202fkcal/mol), while MM-PBSA free energy estimations (\u0394G<-30\u202fkcal/mol) corroborated the thermodynamic favorability of binding. Among the screened entities, five lead candidates-CNP0244222.1, CNP0186692.11, CNP0361941.2, CNP0547477.1, and CNP0258197.2-consistently exhibited superior ADMET scores (>0.67), stable interaction trajectories, and enthalpically favorable profiles. This integrative, AI-augmented computational framework demonstrates substantial potential to accelerate the rational design and preclinical advancement of GLP-1-targeted therapeutics.",
+          "authors": [
+            "Rabia Kalkan Cakmak",
+            "Nail Besli",
+            "Nilufer Ercin",
+            "et al."
+          ],
+          "journal": "Computational biology and chemistry",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41389576/"
+        },
+        {
+          "pmid": "41026089",
+          "title": "GLP-1 receptor agonists for kidney transplant recipients.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are incretin-based therapies with demonstrated efficacy in glycaemic control, weight reduction and cardiovascular and renal protection. Although data in kidney transplant recipients (KTRs) remain limited, the high prevalences of overweight and obesity, post-transplant diabetes mellitus and cardiovascular disease in this population make GLP-1RAs a promising therapeutic strategy. This narrative review outlines the rationale for their use in KTRs, drawing from recent trials in non-transplant populations and emerging real-world evidence in KTRs. We summarize key clinical considerations, including patient selection, dose escalation and monitoring strategies, as well as existing retrospective and prospective studies examining safety and efficacy in the post-transplant setting. Available data suggest that GLP-1RAs are generally well tolerated, without clear evidence of increased risk for graft rejection, acute pancreatitis or interaction with immunosuppressive agents. However, gastrointestinal side effects and early discontinuation remain common, emphasizing the need for tailored counselling and dose titration. Importantly, the current evidence is constrained by small sample sizes, short follow-up and potential selection bias; these limitations lessen the certainty of safety and effectiveness estimates. Translational inferences from non-transplant trials (e.g. SELECT, FLOW, SMART) should also be made cautiously. Future studies should investigate long-term graft outcomes, changes in body composition and optimal integration with immunosuppressive regimens. A clear research agenda prioritizing graft survival, cardiovascular and kidney outcomes, quality of life, cost-effectiveness and patient-reported outcomes-ideally via randomized, multicentre or registry-based pragmatic designs-will be critical. As GLP-1RAs become increasingly accessible and clinically relevant, a multidisciplinary and patient-centred approach is essential to guide their safe and effective use in KTRs. This narrative review provides a framework for thoughtful clinical application and highlights areas for future investigation.",
+          "authors": [
+            "Sarah H Schmitz",
+            "Babak J Orandi"
           ],
           "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
           "pub_date": "Mar 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/40982219/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41026089/"
         },
         {
-          "pmid": "40912337",
-          "title": "Short-Term Complications of Preoperative Weight Loss Strategies in Total Knee Arthroplasty: Bariatric Surgery Versus Glucagon-Like Peptide-1 Receptor Agonists.",
-          "abstract": "Obesity is an increasingly prevalent comorbidity that confers greater risks of postoperative complications following total joint arthroplasty, underscoring the need for viable preoperative weight loss. The objective of this study was to compare the risk of 90-day adverse events in patients undergoing total knee arthroplasty (TKA) following bariatric surgery versus treatment with glucagon-like peptide-1 receptor agonists (GLP-1 RA). A retrospective review of a national research network from May 1, 2005, to February 12, 2025, identified patients undergoing TKA with bariatric surgery or GLP-1 RA prescriptions in the 18 months preceding their joint arthroplasty. Following propensity score matching, 4,652 patients were selected for comparison in both the bariatric surgery and GLP-1 RA cohorts. For each cohort, patient demographics, 90-day orthopaedic and surgical complications, readmissions, and emergency department visits were collected. Statistical differences in relative risk (RR) between each complication were calculated with t-tests and Chi-square tests. In the 90-day postoperative period, patients who underwent bariatric surgery before TKA experienced greater rates of periprosthetic fractures (RR: 2.4; P = 0.016), periprosthetic joint infections (RR: 1.7; P = 0.002), revision surgeries (RR: 1.926; P = 0.005), cardiac events (RR: 1.255; P < 0.001), readmissions (RR: 1.316; P = 0.015), and emergency department visits (RR: 1.2; P < 0.001). A significantly increased risk of postoperative events was identified in patients who underwent bariatric surgery. These findings, along with existing literature, suggest that GLP-1 RA use may be a preferred option for preoperative weight loss optimization in TKAs. Overall, greater clinical understanding is provided for this drug and may inform surgical decision-making regarding weight management strategies and their associated risks.",
+          "pmid": "40875227",
+          "title": "Perioperative GLP-1 Receptor Agonist Use and Surgical Outcomes in Nonbariatric Abdominal Panniculectomy: A 10-Year Retrospective Analysis.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) are increasingly used for treatment of patients with type 2 diabetes and obesity because of their metabolic benefits and potential wound-healing properties. However, their perioperative safety in acute surgical settings remains unclear. GLP-1\u2009RAs may alter tissue quality and intensify GLP-1\u2009RA-related side effects. This study was performed to examine postoperative complications and GLP-1\u2009RA-associated adverse effects in nonbariatric patients undergoing panniculectomy. The authors conducted a retrospective review of 373 patients who underwent panniculectomy from January of 2013 through January of 2023, including 81 GLP-1\u2009RA users and 292 nonusers. Patients with previous bariatric surgery or concomitant hernia repair were excluded due to the added complexity of mesh placement and altered tissue planes, which could confound wound-healing outcomes. 1 All participants had at least 1 year of follow-up. Baseline demographics, nutritional markers, and GLP-1\u2009RA therapy duration were recorded. Logistic regression was performed to adjust for confounders when comparing complications and adverse effects. GLP-1\u2009RA users had higher rates of type 2 diabetes (55.6% versus 29.5% [ P = 0.01]), hypertension (69.1% versus 52.7% [ P = 0.04]), and chronic obstructive pulmonary disease (17.3% versus 6.5% [ P = 0.02]), along with elevated prealbumin levels (22.8 \u00b1 6.6 versus 20.4 \u00b1 7.7 mg/dL [ P = 0.030]). Analyses showed a greater incidence of delayed wound healing (18.5% versus 7.5% [ P = 0.0066]) but lower seroma rates (4.9% versus 14.0% [ P = 0.032]) in GLP-1\u2009RA users. These differences persisted on multivariable regression. No significant differences were noted in infection, fat necrosis, hematoma, or GLP-1\u2009RA-related gastrointestinal side effects. GLP-1\u2009RAs demonstrate promise in chronic wound care. Their use was correlated with increased incidence of delayed wound healing but fewer seromas in acute surgical settings. Overall, these findings support their perioperative safety, but vigilant monitoring for potential wound-healing delays is advised.",
           "authors": [
-            "Aadi Sharma",
-            "Brigitte A Lieu",
-            "Suhas R Velichala",
+            "Zachary A Koenig",
+            "Sydney Rashid",
+            "Gerlad R Hobbs",
             "et al."
           ],
-          "journal": "The Journal of arthroplasty",
+          "journal": "Plastic and reconstructive surgery",
           "pub_date": "Apr 2026",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/40912337/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40875227/"
+        },
+        {
+          "pmid": "40865627",
+          "title": "Glucagon-like Peptide-1 Receptor Agonists Are Associated With a Lower Risk of Peptic Ulcer Disease: A Nationwide Cohort Study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are prescribed for type 2 diabetes mellitus (T2DM) to improve glycemic control and lower cardiovascular risk. Although the impact of GLP-1RAs on gastrointestinal motility has been characterized, their association with mucosal damage, such as in peptic ulcer disease (PUD), has received little attention. We conducted a nationwide retrospective study of adults with T2DM using the \"All of Us\" National Institutes of Health database, including a sub-group analysis of adults who were newly initiated on GLP-1RAs or insulin as second-line therapy. Our primary outcome was the odds of PUD diagnosis after time-dependent use of GLP-1RAs, adjusting for use of insulin, nonsteroidal anti-inflammatory drugs, steroids, and proton pump inhibitors and other confounders. In a subgroup analysis, we used a weighted, time-varying Cox proportional hazards model, while accounting for the competing risks of death and gastrectomy. A total of 66,102 participants with T2DM were identified and included in our primary analysis. After adjusting for possible confounders, GLP-1RAs were associated with significantly lower odds of PUD diagnosis (adjusted odds ratio 0.56; 95% confidence interval, 0.45-0.71; P < .001). Our subgroup included a total of 3313 patients (1270 new GLP-1RA users; 2043 new insulin users). In this analysis, switching to a GLP-1RA as second-line therapy was associated with a significantly lower hazard of PUD compared with switching to insulin (adjusted hazard ratio [HR], 0.44; 95% confidence interval, 0.30-0.63; P < .001). The model confirmed that active use of nonsteroidal anti-inflammatory drugs (HR, 2.39) and steroids (HR, 1.84) were also associated with increased likelihood of PUD. In this nationwide cohort study of patients with T2DM, GLP-1RA use was associated with 44% lower odds of PUD. In our propensity score-matched subgroup, switching to GLP-1RA as second-line therapy was associated with a 56% lower hazard of PUD vs insulin. These findings indicate an association between GLP-1RA use and reduced risk of PUD.",
+          "authors": [
+            "Philippa Seika",
+            "Jocelyn Chang",
+            "Su Min Hong",
+            "et al."
+          ],
+          "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40865627/"
+        },
+        {
+          "pmid": "40637950",
+          "title": "GLP1-RA and SGLT2-i: Implementation and Insulin Deescalation Strategies.",
+          "abstract": "This review will summarize the most contemporary trials for glucagon-like peptide 1 receptor agonists (GLP1-RA) and sodium-glucose cotransporter 2 inhibitors (SGLT2-i) and present guidance on management and recommendations on adjunctive tapering of insulin in patients with insulin-dependent diabetes mellitus, which we term \"de-insulinization.\" GLP1-RA and SGLT2-i are the principal classes of diabetes medications evidencing cardiovascular benefit. However, there is limited consensus on how to effectively prescribe and maintain these medications for patients on other glucose-lowering therapy, especially insulin. Patients with type 2 diabetes and cardiovascular disease should be started on either a GLP-1RA, SGLT-i, or both in high-risk cases, while simultaneously tapering any prescribed insulin regimen. Initial selection and transition of therapy should be approached individually and systematically, with prioritization of patients with other comorbidities such as coronary artery disease, chronic kidney disease, and other diabetes complications.",
+          "authors": [
+            "Arthi Palani",
+            "Sagar Patel",
+            "Shriya Patel",
+            "et al."
+          ],
+          "journal": "Cardiovascular drugs and therapy",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40637950/"
         }
       ],
-      "summary": "**Scientific Digest: GLP-1 Receptor Agonists - Recent Research Findings**\n\n1. **Sleep Apnea and COPD Study**: Researchers conducted an exploratory analysis of liraglutide effects in 40 patients with obesity and COPD, examining impacts on obstructive sleep apnea severity and quality of life measures. The study investigated whether this GLP-1 RA could improve respiratory outcomes in patients with overlapping conditions. This matters because the combination of sleep apnea, COPD, and obesity significantly increases mortality risk compared to each condition alone.\n\n2. **Muscle Health Effects**: Scientists reviewed how GLP-1 receptor agonists affect skeletal muscle through both vascular and cellular mechanisms, focusing on glucose and protein metabolism. They found that these medications recruit muscle microvasculature, expanding capillary networks and improving delivery of insulin, glucose, and amino acids to muscle tissue. This is important for understanding how GLP-1 RAs maintain muscle health during weight loss.\n\n3. **Liver Disease Treatment**: A meta-analysis evaluated GLP-1 receptor agonists for treating metabolic dysfunction-associated steatohepatitis (MASH) with fibrosis by analyzing randomized controlled trials. The study assessed whether these medications could resolve liver inflammation without worsening fibrosis, or improve fibrosis without worsening inflammation. This research is crucial as MASH is a major risk factor for progressive liver disease and cirrhosis.\n\n4. **Advanced Liver Disease Management**: This review examined obesity management strategies in patients with advanced chronic liver disease, highlighting new anti-obesity medications alongside lifestyle changes and surgery. The authors emphasized that obesity is a modifiable risk factor for liver disease progression regardless of the underlying cause. This is significant because effective obesity treatments could improve outcomes in patients with serious liver conditions.\n\n5. **Breast Cancer and Heart Disease**: Researchers compared cardiovascular outcomes in women with type 2 diabetes and breast cancer who received GLP-1 RA therapy versus other diabetes medications using real-world data from 2014-2024. The study examined major adverse cardiovascular events including heart attack, stroke, and cardiac procedures. This fills an important knowledge gap since cardiovascular benefits of GLP-1 RAs haven't been well-established in cancer patients.\n\n6. **Kidney Transplant Outcomes**: A single-center study evaluated how GLP-1 receptor agonists affect protein in urine (proteinuria) and metabolic parameters in kidney transplant recipients over 12 months. The research assessed both transplant patients with and without diabetes to determine safety and efficacy. This is important because proteinuria indicates kidney dysfunction and increased cardiovascular risk, but GLP-1 RA effects in transplant patients were previously unclear.\n\n7. **Insurance Coverage Impact**: Researchers surveyed 247 healthcare system employees who lost GLP-1 RA obesity medication coverage to assess workplace impacts. They found that losing coverage led to reduced employee satisfaction, increased burnout, and higher turnover intentions. This study highlights the broader economic and social consequences of insurance coverage decisions for obesity medications.\n\n8. **Combination Therapy Effectiveness**: Scientists used German health claims data to compare combination therapy with SGLT-2 inhibitors plus GLP-1 RAs versus SGLT-2 inhibitors alone in type 2 diabetes patients. The study followed participants from 2013-2024, examining all-cause mortality and cardiovascular outcomes using advanced matching techniques. This research provides real-world evidence about whether combining these two drug classes offers additional benefits.\n\n9. **Global Treatment Guidelines**: International experts discussed updated diabetes guidelines recognizing that 80% of people with type 2 diabetes live in low-to-middle-income countries with limited healthcare access. The guidelines propose two standards of care and emphasize that while newer drugs like GLP-1 RAs show cardiovascular benefits, glycemic control remains central to diabetes management. This matters for establishing realistic, globally applicable treatment standards.\n\n10. **Arterial Stiffness Study**: Researchers conducted a randomized controlled trial in 101 people with type 2 diabetes and chronic kidney disease, comparing lixisenatide to placebo over 24 weeks. The primary outcome was aortic pulse wave velocity, a measure of arterial stiffness that predicts cardiovascular disease risk. This study is important because it may help explain why different GLP-1 RAs show varying cardiovascular outcomes in clinical trials.\n\n11. **HIV and Diabetes Care**: Scientists compared diabetes medication prescribing patterns between people living with HIV and HIV-negative"
+      "summaries": [
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "original",
+          "sample_size": "n=254",
+          "population": "Adults using GLP-1RAs for weight loss",
+          "medications": "Mounjaro, Ozempic, Saxenda, Victoza",
+          "country_dataset": "Saudi Arabia",
+          "key_findings": "This study investigated the frequency and characteristics of hair loss as an adverse effect in GLP-1RA users. Hair loss emerged as a potential underexplored side effect in patients using GLP-1RAs for weight loss purposes, with specific predictors and characteristics identified through structured questionnaire data."
+        },
+        {
+          "study_type": "Narrative review",
+          "study_type_category": "review",
+          "sample_size": "Not reported",
+          "population": "Adults with chronic kidney disease (stages G1-G3)",
+          "medications": "Not specified - review article",
+          "country_dataset": "Not reported",
+          "key_findings": "This review examines pre-heart failure in early chronic kidney disease and its treatment according to KDIGO guidelines. The article discusses that CKD affecting 10-15% of adults worldwide is a powerful independent risk factor for cardiovascular diseases including heart failure, with even mild reductions in eGFR associated with subclinical cardiac abnormalities."
+        },
+        {
+          "study_type": "Narrative review",
+          "study_type_category": "review",
+          "sample_size": "Not reported",
+          "population": "General population using GLP-1 drugs",
+          "medications": "GLP-1 drugs",
+          "country_dataset": "Not reported",
+          "key_findings": "This editorial discusses key questions remaining about GLP-1 drug discontinuation. The article raises important clinical concerns regarding discontinuation patterns and outcomes in GLP-1 users, though the full abstract was not available."
+        },
+        {
+          "study_type": "RCT",
+          "study_type_category": "original",
+          "sample_size": "Chinese participants (18-60 years)",
+          "population": "Chinese adults with overweight/obesity (BMI \u226524.0 kg/m\u00b2)",
+          "medications": "HDM1002 vs placebo (ascending doses: 50/100/200 mg QD, 100 mg BID, 400 mg QD)",
+          "country_dataset": "China",
+          "key_findings": "HDM1002, a small-molecule GLP-1 receptor agonist, demonstrated safety and tolerability with mostly mild-to-moderate adverse effects across dose groups (60-100% TEAEs). The 200 mg QD dose showed greater body weight reduction (-6.1 kg) with only 2 discontinuations due to adverse events versus none in placebo."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "original",
+          "sample_size": "n=247",
+          "population": "Adults with obesity prescribed GLP-1 for obesity who lost insurance coverage",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States (healthcare system employees)",
+          "key_findings": "Loss of GLP-1 coverage significantly affected employee perceptions of their employer and workforce stability. This study demonstrated the major health and economic implications of coverage decisions for GLP-1 obesity medications, with negative consequences for affected employees."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "original",
+          "sample_size": "Individuals with T2DM from Million Veteran Program (Jan 2011-Sept 2023)",
+          "population": "Adults with type 2 diabetes without prior myocardial infarction, stroke, or advanced CKD",
+          "medications": "GLP-1 receptor agonists vs no GLP-1 use",
+          "country_dataset": "United States (Veterans Affairs)",
+          "key_findings": "This study examined combined associations of GLP-1RA use and adherence to eight healthy lifestyle habits with cardiovascular outcomes. GLP-1RA use combined with adherence to lifestyle modifications showed enhanced cardiovascular benefits compared to either intervention alone in individuals with type 2 diabetes."
+        },
+        {
+          "study_type": "Narrative review",
+          "study_type_category": "review",
+          "sample_size": "Not reported",
+          "population": "People with type 2 diabetes mellitus globally (emphasis on LMICs)",
+          "medications": "GLP-1 receptor agonists, SGLT2 inhibitors",
+          "country_dataset": "Global",
+          "key_findings": "The 2025 IDF guidelines recognize that ~80% of people with T2DM live in low-to-middle-income countries and highlight cardiovascular-kidney protection with GLP-1RAs and SGLT2is in high-risk populations. The role of these agents among low-risk patients with T2DM remains less clear despite strong trial evidence."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "original",
+          "sample_size": "Adults with T2DM initiating GLP-1RAs between 1 March 2018 and 30 June 2023 with \u22651-year follow-up",
+          "population": "Adults with type 2 diabetes in UK primary care stratified by obesity and cardiovascular disease status",
+          "medications": "GLP-1 receptor agonists (various agents)",
+          "country_dataset": "United Kingdom (IMRD/THIN database)",
+          "key_findings": "This real-world study evaluated GLP-1RA persistence and dose titration patterns in UK primary care, stratified by agent, obesity status, CVD history, and sex. The absolute 1-year risk of discontinuation was estimated and varied by clinical and demographic characteristics, providing insights into medication adherence patterns outside clinical trials."
+        },
+        {
+          "study_type": "Case report and narrative review",
+          "study_type_category": "review",
+          "sample_size": "Single case report plus literature review",
+          "population": "Women of reproductive age using semaglutide",
+          "medications": "Semaglutide",
+          "country_dataset": "Not reported",
+          "key_findings": "This case report and review examined semaglutide exposure in early pregnancy and pregnancy outcomes. The case involved a 37-year-old woman (BMI 27.73 kg/m\u00b2) who received semaglutide 0.5 mg once weekly initiated before conception, with manufacturer recommendations to discontinue within two months prior to planned pregnancy."
+        },
+        {
+          "study_type": "Narrative review",
+          "study_type_category": "review",
+          "sample_size": "Not reported",
+          "population": "Patients using GLP-1 and dual GLP-1/GIP agonists",
+          "medications": "GLP-1 receptor agonists, dual GLP-1/GIP agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "This review discusses how 15-40% of weight loss from GLP-1 and dual GLP-1/GIP agonists in trials like STEP and SURMOUNT derives from lean muscle mass loss. This catabolic loss impairs glucose disposal and physical function, elevating sarcopenia risk particularly in elderly patients, with current FDA guidelines emphasizing total weight reduction over body composition preservation."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "original",
+          "sample_size": "Adult people living with obesity in Denmark",
+          "population": "People living with obesity in Denmark",
+          "medications": "Not specified - focus on weight-related discussions",
+          "country_dataset": "Denmark",
+          "key_findings": "This study compared cross-sectional data from 2022 and 2024 to assess changes in how people with obesity perceive weight-related discussions with healthcare professionals during a period marked by shifts in obesity treatment options. The analysis evaluated how evolving obesity treatment landscape influenced patient-provider communication perceptions."
+        },
+        {
+          "study_type": "Secondary analysis of RCT",
+          "study_type_category": "original",
+          "sample_size": "n=20",
+          "population": "Adults with obesity",
+          "medications": "Liraglutide 3 mg daily vs placebo",
+          "country_dataset": "Not reported (NCT02944500)",
+          "key_findings": "This randomized, double-blind, placebo-controlled crossover trial (5 weeks liraglutide vs placebo with 3-week washout) profiled 6249 proteins via SomaScan v4.1 to identify liraglutide-induced protein changes. The proteomic analysis revealed systemic mechanisms underlying GLP-1RA cardiometabolic benefits beyond weight loss and allowed comparison with published semaglutide signatures."
+        },
+        {
+          "study_type": "RCT",
+          "study_type_category": "original",
+          "sample_size": "Participants with T2DM and ASCVD or high ASCVD risk",
+          "population": "Adults with type 2 diabetes and atherosclerotic cardiovascular disease or high ASCVD risk",
+          "medications": "SGLT2 inhibitor vs GLP-1RA vs dual therapy (SGLT2i + GLP-1RA)",
+          "country_dataset": "Not fully specified (PRECIDENTD pragmatic trial)",
+          "key_findings": "The PRECIDENTD pragmatic trial compared medication initiation and discontinuation rates between monotherapy (SGLT2i or GLP-1RA alone) and dual therapy. This feasibility phase examined real-world adherence and persistence patterns of single versus dual agent strategies for type 2 diabetes management."
+        },
+        {
+          "study_type": "Narrative review",
+          "study_type_category": "review",
+          "sample_size": "Not reported",
+          "population": "General population - computational study",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "This computational study presents an AI-integrated drug discovery pipeline using BioBERT-based biomedical text mining to delineate the therapeutic landscape of GLP-1 receptor agonism. High-throughput virtual screening of a natural product library identified structurally diverse candidate ligands, with machine-learning-guided ADMET profiling for drug development."
+        },
+        {
+          "study_type": "Narrative review",
+          "study_type_category": "review",
+          "sample_size": "Not reported",
+          "population": "Kidney transplant recipients",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "This narrative review outlines the rationale for GLP-1RA use in kidney transplant recipients (KTRs), where high prevalences of overweight/obesity, post-transplant diabetes, and cardiovascular disease make GLP-1RAs a promising therapeutic strategy. The review draws from recent trials in non-transplant populations and emerging real-world evidence in KTRs."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "original",
+          "sample_size": "n=373",
+          "population": "Patients with type 2 diabetes and/or obesity undergoing nonbariatric abdominal panniculectomy",
+          "medications": "GLP-1 receptor agonists (perioperative use)",
+          "country_dataset": "United States",
+          "key_findings": "This 10-year retrospective study examined postoperative complications and GLP-1RA-associated adverse effects in 373 nonbariatric panniculectomy patients. The study evaluated perioperative safety of GLP-1RAs in acute surgical settings, assessing whether these agents alter tissue quality and intensify GLP-1RA-related side effects during surgery."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "original",
+          "sample_size": "Adults with T2DM from NIH All of Us database",
+          "population": "Adults with type 2 diabetes mellitus",
+          "medications": "GLP-1 receptor agonists vs insulin (newly initiated as second-line therapy)",
+          "country_dataset": "United States (All of Us - NIH database)",
+          "key_findings": "This nationwide retrospective cohort study demonstrated that GLP-1RAs are associated with lower risk of peptic ulcer disease compared to other agents in adults with T2DM. The analysis included subgroup evaluation of newly initiated GLP-1RAs versus insulin as second-line therapy, suggesting gastrointestinal protective effects beyond gastrointestinal motility alterations."
+        },
+        {
+          "study_type": "Narrative review",
+          "study_type_category": "review",
+          "sample_size": "Not reported",
+          "population": "Patients with type 2 diabetes on various glucose-lowering therapies",
+          "medications": "GLP-1 receptor agonists, SGLT2 inhibitors, insulin",
+          "country_dataset": "Not reported",
+          "key_findings": "This review summarizes contemporary trials for GLP-1RAs and SGLT2is and presents guidance on management strategies including insulin deescalation (de-insulinization) in insulin-dependent diabetes. Both drug classes demonstrate cardiovascular benefit, but limited consensus exists on effective prescription and maintenance of these medications alongside other glucose-lowering agents."
+        }
+      ]
     }
   ]
 }
