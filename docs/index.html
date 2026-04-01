@@ -10,22 +10,23 @@
   header{background:linear-gradient(135deg,#1e40af,#3b82f6);color:white;padding:2rem;text-align:center}
   header h1{font-size:1.8rem;font-weight:700}
   header p{opacity:.85;margin-top:.3rem;font-size:.9rem}
-  .legend{display:flex;gap:1.5rem;justify-content:center;margin-top:1rem;font-size:.8rem;flex-wrap:wrap}
+  .legend{display:flex;gap:1.2rem;justify-content:center;margin-top:1rem;font-size:.8rem;flex-wrap:wrap}
   .legend-item{display:flex;align-items:center;gap:.4rem}
   .legend-dot{width:12px;height:12px;border-radius:50%;display:inline-block}
   main{max-width:920px;margin:2rem auto;padding:0 1rem}
   .topic-section{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:1.5rem;margin-bottom:1.5rem;box-shadow:0 2px 8px rgba(0,0,0,.06)}
   .topic-header{display:flex;align-items:center;flex-wrap:wrap;gap:.8rem;margin-bottom:1.2rem;padding-bottom:1rem;border-bottom:2px solid #e2e8f0}
-  .topic-header h2{font-size:1rem;color:#1e40af;flex:1;word-break:break-word}
-  .topic-badges{display:flex;gap:.5rem;flex-wrap:wrap}
-  .badge{background:#dbeafe;color:#1d4ed8;font-size:.72rem;font-weight:600;padding:.2rem .7rem;border-radius:999px}
-  .badge-original-sm{background:#eff6ff;color:#1d4ed8;font-size:.72rem;font-weight:600;padding:.2rem .7rem;border-radius:999px}
-  .badge-review-sm{background:#fffbeb;color:#92400e;font-size:.72rem;font-weight:600;padding:.2rem .7rem;border-radius:999px}
+  .topic-header h2{font-size:.95rem;color:#1e40af;flex:1;word-break:break-word;font-family:monospace}
+  .topic-badges{display:flex;gap:.4rem;flex-wrap:wrap}
+  .badge{background:#dbeafe;color:#1d4ed8;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}
+  .badge-obs-sm{background:#eff6ff;color:#1d4ed8;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}
+  .badge-meta-sm{background:#fffbeb;color:#92400e;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}
+  .badge-excl-sm{background:#fee2e2;color:#991b1b;font-size:.7rem;font-weight:600;padding:.2rem .6rem;border-radius:999px}
   .article-card{border-radius:10px;padding:1.1rem 1.2rem;margin-bottom:1rem;border:1px solid #e2e8f0}
   .article-header{display:flex;align-items:center;gap:.6rem;margin-bottom:.5rem;flex-wrap:wrap}
   .study-badge{font-size:.7rem;font-weight:700;padding:.2rem .7rem;border-radius:999px;text-transform:uppercase;letter-spacing:.03em}
-  .badge-review{background:#fef3c7;color:#92400e;border:1px solid #f59e0b}
-  .badge-original{background:#dbeafe;color:#1e40af;border:1px solid #3b82f6}
+  .badge-meta{background:#fef3c7;color:#92400e;border:1px solid #f59e0b}
+  .badge-obs{background:#dbeafe;color:#1e40af;border:1px solid #3b82f6}
   .sample-size{font-size:.78rem;color:#64748b;font-weight:500}
   .article-title{font-weight:700;color:#1e40af;text-decoration:none;font-size:.97rem;display:block;margin-bottom:.3rem;line-height:1.4}
   .article-title:hover{text-decoration:underline}
@@ -36,7 +37,7 @@
   .detail-value{color:#1e293b}
   .findings-row{margin-top:.4rem;padding-top:.5rem;border-top:1px dashed #e2e8f0}
   .findings-text{font-style:italic;color:#334155}
-  .no-results{color:#64748b;font-style:italic;font-size:.9rem}
+  .no-results{color:#64748b;font-style:italic;font-size:.9rem;padding:1rem 0}
   footer{text-align:center;color:#64748b;font-size:.8rem;padding:2rem}
   @media(max-width:600px){.detail-label{min-width:110px}.detail-row{flex-direction:column;gap:.1rem}}
 </style>
@@ -44,10 +45,11 @@
 <body>
 <header>
   <h1>📄 PubMed Digest</h1>
-  <p>2026-04-01 &mdash; Last 3 days &mdash; Auto-generated via GitHub Actions + Claude AI</p>
+  <p>2026-04-01 &mdash; Last 7 days &mdash; Observational studies &amp; Meta-analyses only</p>
   <div class="legend">
-    <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div>Original Study (RCT, Cohort, Real-world…)</div>
-    <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div>Review / Meta-analysis / Systematic Review</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div>Observational (Cohort, Cross-sectional, Case-control, Real-world)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div>Meta-analysis</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div>Excluded (RCT, Review, Editorial…)</div>
   </div>
 </header>
 <main>
@@ -55,265 +57,168 @@
           <div class="topic-header">
             <h2>((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR "GLP-1 RA"))</h2>
             <div class="topic-badges">
-              <span class="badge">18 articles</span>
-              <span class="badge badge-original-sm">🔵 10 original</span>
-              <span class="badge badge-review-sm">🟡 8 reviews / meta-analyses</span>
+              <span class="badge">11 included</span>
+              <span class="badge badge-obs-sm">🔵 11 observational</span>
+              <span class="badge badge-meta-sm">🟡 0 meta-analyses</span>
+              <span class="badge badge-excl-sm">⛔ 14 excluded</span>
             </div>
           </div>
           <div class="articles-list">
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">Cross-sectional study</span>
+                    <span class="study-badge badge-obs">Cross-sectional study</span>
                     <span class="sample-size">👥 n=254</span>
                   </div>
                   <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41914454/" target="_blank">Predictors and Characteristics of Hair Loss Among Users of GLP-1 Receptor Agonists: A Cross-Sectional Analysis.</a>
                   <div class="article-meta">Yahya Argobi, Norah Saad Jadaan, Hind Bader Alshalhoob, et al. &mdash; <em>Journal of cosmetic dermatology</em> Apr 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults using GLP-1RAs for weight loss</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Patients using GLP-1RAs for weight loss in Saudi Arabia</span></div>
                     <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">Mounjaro, Ozempic, Saxenda, Victoza</span></div>
                     <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Saudi Arabia</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This study investigated the frequency and characteristics of hair loss as an adverse effect in GLP-1RA users. Hair loss emerged as a potential underexplored side effect in patients using GLP-1RAs for weight loss purposes, with specific predictors and characteristics identified through structured questionnaire data.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Narrative review</span>
-                    <span class="sample-size">👥 Not reported</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41914187/" target="_blank">Pre-heart failure in early chronic kidney disease: clinical epidemiology and treatment.</a>
-                  <div class="article-meta">Carmine Zoccali, Raffaele De Caterina, Katherine R Tuttle, et al. &mdash; <em>European heart journal</em> Mar 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with chronic kidney disease (stages G1-G3)</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">Not specified - review article</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This review examines pre-heart failure in early chronic kidney disease and its treatment according to KDIGO guidelines. The article discusses that CKD affecting 10-15% of adults worldwide is a powerful independent risk factor for cardiovascular diseases including heart failure, with even mild reductions in eGFR associated with subclinical cardiac abnormalities.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Narrative review</span>
-                    <span class="sample-size">👥 Not reported</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41912234/" target="_blank">Key questions remain about GLP-1 drug discontinuation.</a>
-                  <div class="article-meta">Dhanesh D Binda, Ala Nozari &mdash; <em>BMJ (Clinical research ed.)</em> Mar 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">General population using GLP-1 drugs</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 drugs</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This editorial discusses key questions remaining about GLP-1 drug discontinuation. The article raises important clinical concerns regarding discontinuation patterns and outcomes in GLP-1 users, though the full abstract was not available.</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This cross-sectional study investigated the frequency, characteristics, and predictors of hair loss among 254 GLP-1RA users in Saudi Arabia, identifying hair loss as a potential yet underexplored adverse effect associated with GLP-1 receptor agonist use for weight loss and metabolic improvements.</span></div>
                   </div>
                 </div>
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">RCT</span>
-                    <span class="sample-size">👥 Chinese participants (18-60 years)</span>
+                    <span class="study-badge badge-obs">Real-world study</span>
+                    <span class="sample-size">👥 n=99,683</span>
                   </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41803652/" target="_blank">HDM1002 in Chinese Adults With Overweight/Obesity: A Randomized, Placebo-Controlled, Ascending-Dose Phase 1b Study.</a>
-                  <div class="article-meta">Hongrong Xu, Wei Hu, Lin Zhao, et al. &mdash; <em>Obesity (Silver Spring, Md.)</em> Apr 2026</div>
+                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41895690/" target="_blank">Comparative Effectiveness of Liraglutide and Dulaglutide in Heart Failure with Preserved Ejection Fraction: A Propensity Score-Matched Real-World Study.</a>
+                  <div class="article-meta">Ibrahim Khalil, Imran Hossain, Pallab Sarker, et al. &mdash; <em>Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists</em> Mar 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Chinese adults with overweight/obesity (BMI ≥24.0 kg/m²)</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">HDM1002 vs placebo (ascending doses: 50/100/200 mg QD, 100 mg BID, 400 mg QD)</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">China</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">HDM1002, a small-molecule GLP-1 receptor agonist, demonstrated safety and tolerability with mostly mild-to-moderate adverse effects across dose groups (60-100% TEAEs). The 200 mg QD dose showed greater body weight reduction (-6.1 kg) with only 2 discontinuations due to adverse events versus none in placebo.</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with heart failure with preserved ejection fraction (HFpEF) in the US</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">Liraglutide vs. Dulaglutide</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">TriNetX US Collaborative Network</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This propensity score-matched real-world study of 99,683 HFpEF patients compared liraglutide (n=37,386) and dulaglutide (n=62,297), with matched cohorts followed for up to 5 years to evaluate comparative effectiveness of these GLP-1RAs on heart failure outcomes.</span></div>
                   </div>
                 </div>
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">Cross-sectional study</span>
+                    <span class="study-badge badge-obs">Real-world study</span>
+                    <span class="sample-size">👥 Not reported</span>
+                  </div>
+                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41895589/" target="_blank">GLP-1 receptor agonist use is associated with venous ulcer healing and fewer wound infections.</a>
+                  <div class="article-meta">Catherine C Go, Frank Annie, Kerry Drabish, et al. &mdash; <em>Annals of vascular surgery</em> Mar 2026</div>
+                  <div class="article-details">
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Patients with chronic venous leg ulcers, including those with diabetes and obesity</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists (specific agents not detailed)</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not specified</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This real-world study investigated GLP-1RA use and found associations with improved venous ulcer healing and fewer wound infections in patients with chronic venous insufficiency, extending beyond previously documented cardiovascular and limb event benefits.</span></div>
+                  </div>
+                </div>
+                <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
+                  <div class="article-header">
+                    <span class="study-badge badge-obs">Retrospective cohort study</span>
+                    <span class="sample-size">👥 Not reported</span>
+                  </div>
+                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41895521/" target="_blank">GLP-1 Receptor Agonists and Long-Term Survival After Spontaneous Intracerebral Hemorrhage in Type 2 Diabetes.</a>
+                  <div class="article-meta">Chien-Min Chen, Xiajie Lyu, Yu Chang, et al. &mdash; <em>World neurosurgery</em> Mar 2026</div>
+                  <div class="article-details">
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with type 2 diabetes who survived spontaneous intracerebral hemorrhage</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">TriNetX Global Collaborative Network</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This retrospective cohort study examined the association between GLP-1RA use and long-term survival outcomes in type 2 diabetes patients following spontaneous intracerebral hemorrhage, addressing a gap in post-ICH metabolic management evidence.</span></div>
+                  </div>
+                </div>
+                <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
+                  <div class="article-header">
+                    <span class="study-badge badge-obs">Retrospective cohort study</span>
+                    <span class="sample-size">👥 Not reported</span>
+                  </div>
+                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41885954/" target="_blank">Target Trial Emulation: Glucagon-Like Peptide 1 Receptor Agonist, Sodium-Glucose Cotransporter-2 Inhibitors, Dipeptidyl Peptidase-4 Inhibitors for Kidney Outcome Prevention.</a>
+                  <div class="article-meta">Adriana Hung, Cole Beck, Robert A Greevy, et al. &mdash; <em>Clinical journal of the American Society of Nephrology : CJASN</em> Mar 2026</div>
+                  <div class="article-details">
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Veterans with diabetes using GLP-1RAs, SGLT2i, or DPP4i</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists vs. SGLT2 inhibitors vs. DPP4 inhibitors</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">US Veterans database</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This target trial emulation study evaluated kidney outcomes among Veterans adding GLP-1RAs, SGLT2i, or DPP4i, with follow-up until death, kidney events, or censoring for non-persistence, examining comparative kidney protection across medication classes.</span></div>
+                  </div>
+                </div>
+                <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
+                  <div class="article-header">
+                    <span class="study-badge badge-obs">Cross-sectional study</span>
                     <span class="sample-size">👥 n=247</span>
                   </div>
                   <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41783650/" target="_blank">Negative Consequences of Removing GLP-1 RA Obesity Coverage: A Cross-Sectional Cohort Comparison Study.</a>
                   <div class="article-meta">Jackson M Francis, Deepali K Ernest, Aparajita Chandrasekhar, et al. &mdash; <em>Obesity science & practice</em> Apr 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with obesity prescribed GLP-1 for obesity who lost insurance coverage</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Healthcare system employees prescribed GLP-1 for obesity who lost coverage</span></div>
                     <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">United States (healthcare system employees)</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">Loss of GLP-1 coverage significantly affected employee perceptions of their employer and workforce stability. This study demonstrated the major health and economic implications of coverage decisions for GLP-1 obesity medications, with negative consequences for affected employees.</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">US healthcare system</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This cross-sectional cohort study of 247 employees showed that loss of GLP-1 obesity medication coverage had negative consequences on employee perceptions of their employer and workforce stability.</span></div>
                   </div>
                 </div>
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">Prospective cohort study</span>
-                    <span class="sample-size">👥 Individuals with T2DM from Million Veteran Program (Jan 2011-Sept 2023)</span>
+                    <span class="study-badge badge-obs">Prospective cohort study</span>
+                    <span class="sample-size">👥 Not reported</span>
                   </div>
                   <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41763234/" target="_blank">Combined associations of GLP-1 receptor agonists and a healthy lifestyle with cardiovascular outcomes among individuals with type 2 diabetes: a prospective cohort study.</a>
                   <div class="article-meta">Xuan-Mai T Nguyen, Yanping Li, Sébastien Czernichow, et al. &mdash; <em>The lancet. Diabetes & endocrinology</em> Apr 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with type 2 diabetes without prior myocardial infarction, stroke, or advanced CKD</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists vs no GLP-1 use</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">United States (Veterans Affairs)</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This study examined combined associations of GLP-1RA use and adherence to eight healthy lifestyle habits with cardiovascular outcomes. GLP-1RA use combined with adherence to lifestyle modifications showed enhanced cardiovascular benefits compared to either intervention alone in individuals with type 2 diabetes.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Narrative review</span>
-                    <span class="sample-size">👥 Not reported</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41722868/" target="_blank">Glycaemic control remains central in type 2 diabetes mellitus management: key learnings from the latest International Diabetes Federation guidelines.</a>
-                  <div class="article-meta">Juliana C N Chan, Chaicharn Deerochanawong, Kamlesh Khunti, et al. &mdash; <em>Diabetes research and clinical practice</em> Apr 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">People with type 2 diabetes mellitus globally (emphasis on LMICs)</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists, SGLT2 inhibitors</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Global</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">The 2025 IDF guidelines recognize that ~80% of people with T2DM live in low-to-middle-income countries and highlight cardiovascular-kidney protection with GLP-1RAs and SGLT2is in high-risk populations. The role of these agents among low-risk patients with T2DM remains less clear despite strong trial evidence.</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Individuals with type 2 diabetes without prior MI, stroke, or advanced CKD in US Veterans Affairs Million Veteran Program</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">US Veterans Affairs Million Veteran Program</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This prospective cohort study examined the combined association of GLP-1RA use and adherence to eight lifestyle habits on cardiovascular outcomes, demonstrating long-term effects of integrated medication and lifestyle interventions in type 2 diabetes.</span></div>
                   </div>
                 </div>
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">Real-world study</span>
-                    <span class="sample-size">👥 Adults with T2DM initiating GLP-1RAs between 1 March 2018 and 30 June 2023 with ≥1-year follow-up</span>
+                    <span class="study-badge badge-obs">Real-world study</span>
+                    <span class="sample-size">👥 Not reported</span>
                   </div>
                   <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41703773/" target="_blank">Real-world persistence and dose titration of GLP-1 receptor agonists in type 2 diabetes: A UK population-based cohort study by obesity and cardiovascular disease status.</a>
                   <div class="article-meta">Franziska S Ulrich, Nicola Napoli, Morten Frost Nielsen, et al. &mdash; <em>Diabetes, obesity & metabolism</em> Apr 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with type 2 diabetes in UK primary care stratified by obesity and cardiovascular disease status</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists (various agents)</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">United Kingdom (IMRD/THIN database)</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This real-world study evaluated GLP-1RA persistence and dose titration patterns in UK primary care, stratified by agent, obesity status, CVD history, and sex. The absolute 1-year risk of discontinuation was estimated and varied by clinical and demographic characteristics, providing insights into medication adherence patterns outside clinical trials.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Case report and narrative review</span>
-                    <span class="sample-size">👥 Single case report plus literature review</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41654227/" target="_blank">Semaglutide exposure in early pregnancy and pregnancy outcomes: A case report and review of literature.</a>
-                  <div class="article-meta">Yuan-Cheng Jin, Yu-Hua Wu, Xue-Song Ma, et al. &mdash; <em>Journal of gynecology obstetrics and human reproduction</em> Apr 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Women of reproductive age using semaglutide</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">Semaglutide</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This case report and review examined semaglutide exposure in early pregnancy and pregnancy outcomes. The case involved a 37-year-old woman (BMI 27.73 kg/m²) who received semaglutide 0.5 mg once weekly initiated before conception, with manufacturer recommendations to discontinue within two months prior to planned pregnancy.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Narrative review</span>
-                    <span class="sample-size">👥 Not reported</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41587701/" target="_blank">Mitigating loss of lean muscle in GLP-1 and dual GLP-1/GIP agonists: Pipeline opportunities and limitations.</a>
-                  <div class="article-meta">Justin Hierholzer, Harrison Benson, Heba A Ewida, et al. &mdash; <em>Biochimica et biophysica acta. Molecular basis of disease</em> Apr 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Patients using GLP-1 and dual GLP-1/GIP agonists</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists, dual GLP-1/GIP agonists</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This review discusses how 15-40% of weight loss from GLP-1 and dual GLP-1/GIP agonists in trials like STEP and SURMOUNT derives from lean muscle mass loss. This catabolic loss impairs glucose disposal and physical function, elevating sarcopenia risk particularly in elderly patients, with current FDA guidelines emphasizing total weight reduction over body composition preservation.</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with type 2 diabetes in UK primary care, stratified by obesity and CVD status</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">UK (IQVIA Medical Research Data/THIN)</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This UK population-based cohort study evaluated real-world GLP-1RA persistence and dose titration among type 2 diabetes patients, with 1-year discontinuation risk assessed by agent, obesity status, CVD history, and sex, demonstrating variations in medication use patterns.</span></div>
                   </div>
                 </div>
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">Cross-sectional study</span>
-                    <span class="sample-size">👥 Adult people living with obesity in Denmark</span>
+                    <span class="study-badge badge-obs">Cross-sectional study</span>
+                    <span class="sample-size">👥 Not reported</span>
                   </div>
                   <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41527217/" target="_blank">Changes in how people living with obesity perceive weight-related discussions with their healthcare professional: Results from the cross-sectional online ACTION-DK 2022 and 2024 studies.</a>
                   <div class="article-meta">Mette Bøgelund, Amanda F Rasmussen, Pernille Andreassen, et al. &mdash; <em>Diabetes, obesity & metabolism</em> Apr 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">People living with obesity in Denmark</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">Not specified - focus on weight-related discussions</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adult people living with obesity in Denmark</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists (among other obesity treatments)</span></div>
                     <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Denmark</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This study compared cross-sectional data from 2022 and 2024 to assess changes in how people with obesity perceive weight-related discussions with healthcare professionals during a period marked by shifts in obesity treatment options. The analysis evaluated how evolving obesity treatment landscape influenced patient-provider communication perceptions.</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This cross-sectional online survey compared perceptions of weight-related discussions with healthcare professionals between 2022 and 2024 in Danish adults with obesity, capturing changes during a period of expanding obesity treatment options including GLP-1RAs.</span></div>
                   </div>
                 </div>
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">Secondary analysis of RCT</span>
-                    <span class="sample-size">👥 n=20</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41513169/" target="_blank">Proteomic effects of short-term liraglutide vs. placebo in a blinded crossover RCT: Implications for efficacy, safety, and comparison with semaglutide.</a>
-                  <div class="article-meta">Konstantinos Stefanakis, Valeria Gutierrez de Piñeres, Preethi Veeragandham, et al. &mdash; <em>Metabolism: clinical and experimental</em> Apr 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with obesity</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">Liraglutide 3 mg daily vs placebo</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported (NCT02944500)</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This randomized, double-blind, placebo-controlled crossover trial (5 weeks liraglutide vs placebo with 3-week washout) profiled 6249 proteins via SomaScan v4.1 to identify liraglutide-induced protein changes. The proteomic analysis revealed systemic mechanisms underlying GLP-1RA cardiometabolic benefits beyond weight loss and allowed comparison with published semaglutide signatures.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
-                  <div class="article-header">
-                    <span class="study-badge badge-original">RCT</span>
-                    <span class="sample-size">👥 Participants with T2DM and ASCVD or high ASCVD risk</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41456635/" target="_blank">Dual versus monotherapy with SGLT2 inhibitor and GLP-1 receptor agonist: PRECIDENTD pragmatic randomized trial.</a>
-                  <div class="article-meta">Deborah J Wexler, Lindsay S Mayberry, Lyndsay A Nelson, et al. &mdash; <em>American heart journal</em> Apr 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with type 2 diabetes and atherosclerotic cardiovascular disease or high ASCVD risk</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">SGLT2 inhibitor vs GLP-1RA vs dual therapy (SGLT2i + GLP-1RA)</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not fully specified (PRECIDENTD pragmatic trial)</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">The PRECIDENTD pragmatic trial compared medication initiation and discontinuation rates between monotherapy (SGLT2i or GLP-1RA alone) and dual therapy. This feasibility phase examined real-world adherence and persistence patterns of single versus dual agent strategies for type 2 diabetes management.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Narrative review</span>
-                    <span class="sample-size">👥 Not reported</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41389576/" target="_blank">AI-powered literature mining reveals the therapeutic significance of GLP-1 receptor: Simulation of natural agonist candidates based on molecular dynamics.</a>
-                  <div class="article-meta">Rabia Kalkan Cakmak, Nail Besli, Nilufer Ercin, et al. &mdash; <em>Computational biology and chemistry</em> Apr 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">General population - computational study</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This computational study presents an AI-integrated drug discovery pipeline using BioBERT-based biomedical text mining to delineate the therapeutic landscape of GLP-1 receptor agonism. High-throughput virtual screening of a natural product library identified structurally diverse candidate ligands, with machine-learning-guided ADMET profiling for drug development.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Narrative review</span>
-                    <span class="sample-size">👥 Not reported</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/41026089/" target="_blank">GLP-1 receptor agonists for kidney transplant recipients.</a>
-                  <div class="article-meta">Sarah H Schmitz, Babak J Orandi &mdash; <em>Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association</em> Mar 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Kidney transplant recipients</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This narrative review outlines the rationale for GLP-1RA use in kidney transplant recipients (KTRs), where high prevalences of overweight/obesity, post-transplant diabetes, and cardiovascular disease make GLP-1RAs a promising therapeutic strategy. The review draws from recent trials in non-transplant populations and emerging real-world evidence in KTRs.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
-                  <div class="article-header">
-                    <span class="study-badge badge-original">Real-world study</span>
+                    <span class="study-badge badge-obs">Retrospective cohort study</span>
                     <span class="sample-size">👥 n=373</span>
                   </div>
                   <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/40875227/" target="_blank">Perioperative GLP-1 Receptor Agonist Use and Surgical Outcomes in Nonbariatric Abdominal Panniculectomy: A 10-Year Retrospective Analysis.</a>
                   <div class="article-meta">Zachary A Koenig, Sydney Rashid, Gerlad R Hobbs, et al. &mdash; <em>Plastic and reconstructive surgery</em> Apr 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Patients with type 2 diabetes and/or obesity undergoing nonbariatric abdominal panniculectomy</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists (perioperative use)</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">United States</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This 10-year retrospective study examined postoperative complications and GLP-1RA-associated adverse effects in 373 nonbariatric panniculectomy patients. The study evaluated perioperative safety of GLP-1RAs in acute surgical settings, assessing whether these agents alter tissue quality and intensify GLP-1RA-related side effects during surgery.</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Nonbariatric patients with type 2 diabetes and obesity undergoing panniculectomy</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not specified</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This 10-year retrospective analysis of 373 panniculectomy patients examined perioperative safety and postoperative complications in GLP-1RA users, assessing whether these agents alter tissue quality or intensify adverse effects in acute surgical settings.</span></div>
                   </div>
                 </div>
                 <div class="article-card" style="border-left:4px solid #3b82f6;background:#f0f6ff;">
                   <div class="article-header">
-                    <span class="study-badge badge-original">Real-world study</span>
-                    <span class="sample-size">👥 Adults with T2DM from NIH All of Us database</span>
+                    <span class="study-badge badge-obs">Retrospective cohort study</span>
+                    <span class="sample-size">👥 Not reported</span>
                   </div>
                   <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/40865627/" target="_blank">Glucagon-like Peptide-1 Receptor Agonists Are Associated With a Lower Risk of Peptic Ulcer Disease: A Nationwide Cohort Study.</a>
                   <div class="article-meta">Philippa Seika, Jocelyn Chang, Su Min Hong, et al. &mdash; <em>Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association</em> Apr 2026</div>
                   <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with type 2 diabetes mellitus</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists vs insulin (newly initiated as second-line therapy)</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">United States (All of Us - NIH database)</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This nationwide retrospective cohort study demonstrated that GLP-1RAs are associated with lower risk of peptic ulcer disease compared to other agents in adults with T2DM. The analysis included subgroup evaluation of newly initiated GLP-1RAs versus insulin as second-line therapy, suggesting gastrointestinal protective effects beyond gastrointestinal motility alterations.</span></div>
-                  </div>
-                </div>
-                <div class="article-card" style="border-left:4px solid #f59e0b;background:#fffdf0;">
-                  <div class="article-header">
-                    <span class="study-badge badge-review">Narrative review</span>
-                    <span class="sample-size">👥 Not reported</span>
-                  </div>
-                  <a class="article-title" href="https://pubmed.ncbi.nlm.nih.gov/40637950/" target="_blank">GLP1-RA and SGLT2-i: Implementation and Insulin Deescalation Strategies.</a>
-                  <div class="article-meta">Arthi Palani, Sagar Patel, Shriya Patel, et al. &mdash; <em>Cardiovascular drugs and therapy</em> Apr 2026</div>
-                  <div class="article-details">
-                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Patients with type 2 diabetes on various glucose-lowering therapies</span></div>
-                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists, SGLT2 inhibitors, insulin</span></div>
-                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">Not reported</span></div>
-                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This review summarizes contemporary trials for GLP-1RAs and SGLT2is and presents guidance on management strategies including insulin deescalation (de-insulinization) in insulin-dependent diabetes. Both drug classes demonstrate cardiovascular benefit, but limited consensus exists on effective prescription and maintenance of these medications alongside other glucose-lowering agents.</span></div>
+                    <div class="detail-row"><span class="detail-label">🏥 Population</span><span class="detail-value">Adults with type 2 diabetes in the US</span></div>
+                    <div class="detail-row"><span class="detail-label">💊 Medications</span><span class="detail-value">GLP-1 receptor agonists vs. insulin</span></div>
+                    <div class="detail-row"><span class="detail-label">🌍 Country / Dataset</span><span class="detail-value">All of Us National Institutes of Health database</span></div>
+                    <div class="detail-row findings-row"><span class="detail-label">🔬 Key Findings</span><span class="detail-value findings-text">This nationwide retrospective study found that GLP-1RA use was associated with lower risk of peptic ulcer disease compared to insulin in type 2 diabetes patients, with sub-group analysis of newly initiated second-line therapy users.</span></div>
                   </div>
                 </div></div>
         </section></main>
-<footer>Powered by NCBI PubMed E-utilities &amp; Anthropic Claude API</footer>
+<footer>Powered by NCBI PubMed E-utilities &amp; Anthropic Claude API &mdash; Filtered to observational studies &amp; meta-analyses</footer>
 </body>
 </html>
