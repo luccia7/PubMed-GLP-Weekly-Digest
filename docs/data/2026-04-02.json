@@ -1,0 +1,229 @@
+{
+  "date": "2026-04-02",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "41914454",
+          "title": "Predictors and Characteristics of Hair Loss Among Users of GLP-1 Receptor Agonists: A Cross-Sectional Analysis.",
+          "abstract": "The increasing use of GLP-1 receptor agonists for weight loss and metabolic improvements has led to the recognition of various side effects. One potential, yet underexplored, adverse effect is hair loss. This study aims to investigate the frequency, characteristics, and predictors of hair loss in patients using GLP-1RAs. This cross-sectional study, conducted uniquely in Saudi Arabia from January to June 2025, involved 254 participants who had used GLP-1RAs (Mounjaro, Ozempic, Saxenda, or Victoza) for weight loss purposes. Data were collected through structured questionnaires, ensuring comprehensive coverage of demographic information, clinical characteristics, and details of hair loss, including timing, severity, and progression. The data analysis was conducted using SPSS v29. A total of 254 participants were included in the study, with the majority being female (71.3%) and an average age of 33.28\u2009\u00b1\u20099.73\u2009years. Hair loss characteristics by injection type revealed no significant differences in prevalence (p\u2009=\u20090.116). However, severe hair loss was significantly more common in Mounjaro (43.4%) and Saxenda (42.9%) users compared to other groups (p\u2009<\u20090.001). Multivariable logistic regression analysis identified gender, marital status, and injection type as significant predictors of hair loss. Males were less likely to report hair loss compared to females (adjusted OR\u2009=\u20090.36, p\u2009=\u20090.003). Married participants had the highest odds of experiencing hair loss (adjusted odds ratio\u2009=\u20099.94, p\u2009=\u20090.004), and Mounjaro users had significantly higher odds of hair loss compared to the users of other injection types (adjusted odds ratio\u2009=\u20093.02, p\u2009=\u20090.009). The duration of injection use did not significantly predict hair loss, although a trend toward higher odds was noted for those using injections for 6-12\u2009months (adjusted odds ratio\u2009=\u20093.50, p\u2009=\u20090.053). Our study highlights the significant side effects of hair loss associated with GLP-1RA therapy, particularly in female patients and those using Mounjaro. Although this type of hair loss is typically non-scarring and reversible, it can lead to psychological distress and affect treatment adherence. These conclusions highlight the need for clinicians to be aware of this potential side effect and to provide appropriate support and guidance to their patients.",
+          "authors": [
+            "Yahya Argobi",
+            "Norah Saad Jadaan",
+            "Hind Bader Alshalhoob",
+            "et al."
+          ],
+          "journal": "Journal of cosmetic dermatology",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41914454/"
+        },
+        {
+          "pmid": "41885954",
+          "title": "Target Trial Emulation: Glucagon-Like Peptide 1 Receptor Agonist, Sodium-Glucose Cotransporter-2 Inhibitors, Dipeptidyl Peptidase-4 Inhibitors for Kidney Outcome Prevention.",
+          "abstract": "A trial emulation approach evaluated kidney outcomes for addition of three diabetes medications among Veterans, including older Veterans under-represented in trials. A retrospective cohort of Veterans with diabetes who were new users adding glucagon-like peptide 1 receptor agonists (GLP1RA), Sodium-glucose cotransporter-2 inhibitors (SGLT2i), or Dipeptidyl peptidase-4 inhibitors (DPP4i). Each group was followed until a composite of death or kidney event defined as a 50% decline in estimated glomerular filtration rate (eGFR), kidney failure (transplant or dialysis) or censored for non-persistence of drug class, loss of follow-up, and study end. The primary analyses used propensity score weights to compare the hazard of the composite outcome. The secondary analysis considered cause-specific hazard of kidney events with death as censoring. An Aalen Johansen plot displayed individual outcomes of kidney event or death as a competing risk. Subgroup analyses evaluated Veterans by duration of use, age, eGFR and urine protein. After propensity score weighting, the cohort included 42,684 GLP1RA, 44,198 SGLT2i and 44,213 DPP4i episodes. Median age was 69 years, diabetes duration 10.6 (6.8, 15.2) years, and eGFR was 75 [58, 92] ml/min per 1.73 m2. Event rates per 1000 person-years were 34.6 (33.3, 36.0) vs 29.0 (27.8, 30.3) vs. 47.4 (46.0, 48.9) for GLP1RA, SGLT2i and DPP4i respectively. There was a protective association for composite of kidney event and death for GLP1RA, Hazard Ratio (HR) 0.70 (0.67, 0.74) and SGLT2i users [HR 0.65 (0.61, 0.68)] versus DPP4i. Results were similar for of the cause-specific hazard of kidney event alone GLP1RA [HR 0.72 (0.65, 0.80)] and SGLT2i [HR 0.48 (0.43, 0.55), and for subgroups. GLP1RA and SGLT2i as add-on diabetes treatment was associated with lower composite and individual outcomes of kidney event and death. The association was similar across subgroups highlighting the value in primary prevention among older populations.",
+          "authors": [
+            "Adriana Hung",
+            "Cole Beck",
+            "Robert A Greevy",
+            "et al."
+          ],
+          "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+          "pub_date": "Mar 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41885954/"
+        },
+        {
+          "pmid": "41884984",
+          "title": "Sex differences in cardiovascular-kidney-metabolic syndrome: the FINE-HEART pooled analysis.",
+          "abstract": "While the prevalence, drivers, and impact of cardiometabolic risk factors are known to differ between women and men, less is known about sex differences in the cardiovascular-kidney-metabolic (CKM) syndrome. In this prespecified analysis, individual participant-level data were pooled from two trials of chronic kidney disease and type 2 diabetes (FIDELIO-DKD and FIGARO-DKD) and a trial of heart failure (HF) with mildly reduced or preserved ejection fraction (FINEARTS-HF). The risk of first HF hospitalization, cardiovascular death, major adverse cardiovascular events, kidney composite outcome, and all-cause death, was compared between men and women using adjusted Cox regression models. Treatment effect heterogeneity in response to finerenone was evaluated using interaction analyses. Of the 18 991 participants in FINE-HEART, 6664 (35%) were women. Compared with men, women were slightly older (69 vs 67 years) and had a lower median urine albumin-to-creatinine ratio (183 vs 337\u2005mg/g). Women were more likely to have Stage 4 CKM syndrome but less likely to receive medical therapies commonly indicated for the management of CKM conditions at baseline, such as aspirin, statins, renin-angiotensin system inhibitors, sodium-glucose co-transporter 2 inhibitors, and glucagon-like peptide-1 receptor agonists. During a median follow-up of 2.9 years, both women and men had similarly high rates of HF hospitalization or cardiovascular death (4.8 vs 3.9 per 100 patient-years, adjusted hazard ratio [HR] 0.97, 95% confidence interval [CI] 0.89-1.06, P = .52) but lower risk of all-cause mortality (adjusted HR 0.83, 95% CI 0.76-0.91, P < .001) compared with men. There was no evidence of treatment heterogeneity by sex with finerenone in reducing cardiovascular, kidney, and mortality outcomes (all Pinteraction >.05). In this pooled analysis of individuals with advanced CKM syndrome, women had a higher burden of multimorbidity and were less likely to receive commonly indicated CKM therapies than men. Finerenone conferred consistent benefits in women and men, reinforcing its use while underscoring persistent sex-based treatment disparities in CKM care. PROSPERO identifier: CRD42024570467.",
+          "authors": [
+            "Maria A Pabon",
+            "John W Ostrominski",
+            "Xiaowen Wang",
+            "et al."
+          ],
+          "journal": "European heart journal",
+          "pub_date": "Mar 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41884984/"
+        },
+        {
+          "pmid": "41783650",
+          "title": "Negative Consequences of Removing GLP-1 RA Obesity Coverage: A Cross-Sectional Cohort Comparison Study.",
+          "abstract": "GLP-1 receptor agonist (GLP-1 RA) coverage decisions for obesity have major health and economic implications. This study examined how loss of GLP-1 coverage affected employee perceptions of their employer and workforce stability. This study analyzed data from employees of a healthcare system that discontinued GLP-1 obesity medication coverage. Outcomes were evaluated using chi-square/Fisher's exact tests and multivariable logistic regression. Two hundred forty-seven adults prescribed GLP-1 for obesity who lost coverage (mean age 49.27\u00a0years-SD: 9.89, BMI 32.85\u00a0kg/m Loss of GLP-1 coverage was linked to reduced employee satisfaction, increased burnout, and greater turnover risk. Lower reported impact among NHB and Hispanic employees may reflect disparities in perceived job mobility. These consequences may undermine workforce stability and offset cost savings that motivate coverage restrictions.",
+          "authors": [
+            "Jackson M Francis",
+            "Deepali K Ernest",
+            "Aparajita Chandrasekhar",
+            "et al."
+          ],
+          "journal": "Obesity science & practice",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41783650/"
+        },
+        {
+          "pmid": "41763234",
+          "title": "Combined associations of GLP-1 receptor agonists and a healthy lifestyle with cardiovascular outcomes among individuals with type 2 diabetes: a prospective cohort study.",
+          "abstract": "The long-term combined effects of lifestyle habits and GLP-1 receptor agonists on cardiovascular outcomes are unknown. We aimed to examine the combined association of GLP-1 receptor agonist use and adherence to eight lifestyle habits with cardiovascular outcomes. We did a prospective cohort study of individuals with type 2 diabetes enrolled within the US Veterans Affairs' Million Veteran Program between Jan 10, 2011, and Sept 30, 2023. Participants had no previous history of myocardial infarction, stroke, or advanced chronic kidney disease. The eight low-risk lifestyle habits assessed were a higher quality diet, being physically active, not smoking, restful sleep, no heavy alcohol intake, good stress management, social connection and support, and no opioid use disorder. We assessed the risk of major adverse cardiovascular events (MACE), defined as non-fatal stroke or myocardial infarction, or cardiovascular death, according to GLP-1 receptor agonist use and low-risk lifestyle habits using Cox proportional hazard regression models. Of the 963\u2009753 veterans enrolled, a total of 98\u2009261 participants were included in the study with 632\u2009543 person-years of follow-up, during which 10\u2009443 people developed MACE. Multivariable-adjusted hazard ratio (HR) of MACE was 0\u00b740 (95% CI 0\u00b730-0\u00b754) when comparing participants adhering to all eight low-risk lifestyle habits to those adopting one habit or less. Multivariable-adjusted HR of MACE was 0\u00b784 (0\u00b776-0\u00b792) when comparing users of GLP-1 receptor agonists with non-users. Participants using GLP-1 receptor agonists and adhering to six to eight low-risk lifestyle factors had a 43% lower risk of MACE than did those with three or fewer low-risk lifestyle factors and no GLP-1 receptor agonist use (0\u00b757; 0\u00b746-0\u00b771). Adherence to low-risk lifestyle habits combined with GLP-1 receptor agonist use was associated with a greater reduction in MACE risk than either approach alone, underscoring the importance of integrating lifestyle modification with pharmacotherapy in type 2 diabetes management. Department of Veterans Affairs.",
+          "authors": [
+            "Xuan-Mai T Nguyen",
+            "Yanping Li",
+            "S\u00e9bastien Czernichow",
+            "et al."
+          ],
+          "journal": "The lancet. Diabetes & endocrinology",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41763234/"
+        },
+        {
+          "pmid": "41703773",
+          "title": "Real-world persistence and dose titration of GLP-1 receptor agonists in type 2 diabetes: A UK population-based cohort study by obesity and cardiovascular disease status.",
+          "abstract": "Real-world medication use varies across clinical trial and healthcare settings; therefore, we evaluated GLP-1 receptor agonist (GLP-1RA) persistence and dose titration among adults with type 2 diabetes in UK primary care, stratified by agent, obesity status, cardiovascular disease (CVD) history, and sex assigned at birth. Adults with type 2 diabetes initiating GLP-1RAs between 1 March 2018 and 30 June 2023, with follow-up \u22651-year, were identified using the IQVIA Medical Research Data (IMRD) incorporating data from THIN, A Cegedim Database. The absolute 1-year risk\u00a0of discontinuation was\u00a0estimated using the Aalen-Johansen estimator, while multivariable cause-specific Cox models assessed associations with patient characteristics. Dosing trajectories were characterised across individual prescriptions during the first therapy year. Among 8200 GLP-1RA initiators (46.5% dulaglutide, 38.7% semaglutide), the 1-year discontinuation risk was 41.1% (95% CI 40.1-42.2), higher among those without obesity (BMI\u2009<30\u2009kg/m In UK primary care, GLP-1RA persistence was suboptimal and dose escalation was frequently delayed across all patient stratifications, including individuals with established CVD.",
+          "authors": [
+            "Franziska S Ulrich",
+            "Nicola Napoli",
+            "Morten Frost Nielsen",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41703773/"
+        },
+        {
+          "pmid": "41456635",
+          "title": "Dual versus monotherapy with SGLT2 inhibitor and GLP-1 receptor agonist: PRECIDENTD pragmatic randomized trial.",
+          "abstract": "Dual therapy with sodium-glucose co-transporter 2 inhibitors (SGLT2i) and glucagon-like peptide-1 receptor agonists (GLP-1RA) is frequently recommended. We compared rates of medication initiation and discontinuation between participants assigned to treatment with a single medication class or dual therapy in the feasibility phase of the PREvention of CardIovascular and DiabEtic kidNey disease in Type 2 Diabetes (PRECIDENTD) pragmatic trial. PRECIDENTD randomly assigned participants with type 2 diabetes (T2D) and ASCVD or high ASCVD risk to fill prescriptions for SGLT2i, GLP-1RA, or dual therapy (1:1:1) using their own insurance. Analyses compared medication fill and discontinuation rates of assigned medication(s), Patient-Reported Outcomes Measurement Information System (PROMIS) Physical and Mental Health Scores, and Modified Kansas City Cardiomyopathy Questionnaire (mKCCQ)-12 between the combined monotherapy (SGLT2i or GLP-1RA) and dual therapy (SGLT2i and GLP-1RA) groups. This report includes 173 insured participants [median age 67 years (IQR 62, 72), 46% female, 35% non-White, 67% with ASCVD]; 113 assigned to monotherapy and 60 to dual therapy. Monotherapy vs dual therapy fill rates were 84% vs 53% (P < .001) 4 months after randomization and 87% vs 68% overall (P = .004) during 10-month median follow-up. Of those who filled medication, 22% in monotherapy and 49% in dual therapy discontinued a study medication (P = .002), mostly due to side effects. PROMIS and mKCCQ-12 scores showed no change. Despite efforts to facilitate medication uptake in the feasibility phase of the PRECIDENTD pragmatic trial, barriers to initiation and ongoing use challenge the use of combination SGLT2i and GLP-1RA in T2D. ClinicalTrials.gov, NCT05390892, https://clinicaltrials.gov/study/NCT05390892.",
+          "authors": [
+            "Deborah J Wexler",
+            "Lindsay S Mayberry",
+            "Lyndsay A Nelson",
+            "et al."
+          ],
+          "journal": "American heart journal",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41456635/"
+        },
+        {
+          "pmid": "40875227",
+          "title": "Perioperative GLP-1 Receptor Agonist Use and Surgical Outcomes in Nonbariatric Abdominal Panniculectomy: A 10-Year Retrospective Analysis.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) are increasingly used for treatment of patients with type 2 diabetes and obesity because of their metabolic benefits and potential wound-healing properties. However, their perioperative safety in acute surgical settings remains unclear. GLP-1\u2009RAs may alter tissue quality and intensify GLP-1\u2009RA-related side effects. This study was performed to examine postoperative complications and GLP-1\u2009RA-associated adverse effects in nonbariatric patients undergoing panniculectomy. The authors conducted a retrospective review of 373 patients who underwent panniculectomy from January of 2013 through January of 2023, including 81 GLP-1\u2009RA users and 292 nonusers. Patients with previous bariatric surgery or concomitant hernia repair were excluded due to the added complexity of mesh placement and altered tissue planes, which could confound wound-healing outcomes. 1 All participants had at least 1 year of follow-up. Baseline demographics, nutritional markers, and GLP-1\u2009RA therapy duration were recorded. Logistic regression was performed to adjust for confounders when comparing complications and adverse effects. GLP-1\u2009RA users had higher rates of type 2 diabetes (55.6% versus 29.5% [ P = 0.01]), hypertension (69.1% versus 52.7% [ P = 0.04]), and chronic obstructive pulmonary disease (17.3% versus 6.5% [ P = 0.02]), along with elevated prealbumin levels (22.8 \u00b1 6.6 versus 20.4 \u00b1 7.7 mg/dL [ P = 0.030]). Analyses showed a greater incidence of delayed wound healing (18.5% versus 7.5% [ P = 0.0066]) but lower seroma rates (4.9% versus 14.0% [ P = 0.032]) in GLP-1\u2009RA users. These differences persisted on multivariable regression. No significant differences were noted in infection, fat necrosis, hematoma, or GLP-1\u2009RA-related gastrointestinal side effects. GLP-1\u2009RAs demonstrate promise in chronic wound care. Their use was correlated with increased incidence of delayed wound healing but fewer seromas in acute surgical settings. Overall, these findings support their perioperative safety, but vigilant monitoring for potential wound-healing delays is advised.",
+          "authors": [
+            "Zachary A Koenig",
+            "Sydney Rashid",
+            "Gerlad R Hobbs",
+            "et al."
+          ],
+          "journal": "Plastic and reconstructive surgery",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40875227/"
+        },
+        {
+          "pmid": "40865627",
+          "title": "Glucagon-like Peptide-1 Receptor Agonists Are Associated With a Lower Risk of Peptic Ulcer Disease: A Nationwide Cohort Study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are prescribed for type 2 diabetes mellitus (T2DM) to improve glycemic control and lower cardiovascular risk. Although the impact of GLP-1RAs on gastrointestinal motility has been characterized, their association with mucosal damage, such as in peptic ulcer disease (PUD), has received little attention. We conducted a nationwide retrospective study of adults with T2DM using the \"All of Us\" National Institutes of Health database, including a sub-group analysis of adults who were newly initiated on GLP-1RAs or insulin as second-line therapy. Our primary outcome was the odds of PUD diagnosis after time-dependent use of GLP-1RAs, adjusting for use of insulin, nonsteroidal anti-inflammatory drugs, steroids, and proton pump inhibitors and other confounders. In a subgroup analysis, we used a weighted, time-varying Cox proportional hazards model, while accounting for the competing risks of death and gastrectomy. A total of 66,102 participants with T2DM were identified and included in our primary analysis. After adjusting for possible confounders, GLP-1RAs were associated with significantly lower odds of PUD diagnosis (adjusted odds ratio 0.56; 95% confidence interval, 0.45-0.71; P < .001). Our subgroup included a total of 3313 patients (1270 new GLP-1RA users; 2043 new insulin users). In this analysis, switching to a GLP-1RA as second-line therapy was associated with a significantly lower hazard of PUD compared with switching to insulin (adjusted hazard ratio [HR], 0.44; 95% confidence interval, 0.30-0.63; P < .001). The model confirmed that active use of nonsteroidal anti-inflammatory drugs (HR, 2.39) and steroids (HR, 1.84) were also associated with increased likelihood of PUD. In this nationwide cohort study of patients with T2DM, GLP-1RA use was associated with 44% lower odds of PUD. In our propensity score-matched subgroup, switching to GLP-1RA as second-line therapy was associated with a 56% lower hazard of PUD vs insulin. These findings indicate an association between GLP-1RA use and reduced risk of PUD.",
+          "authors": [
+            "Philippa Seika",
+            "Jocelyn Chang",
+            "Su Min Hong",
+            "et al."
+          ],
+          "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40865627/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=254",
+          "population": "Adults using GLP-1RAs for weight loss in Saudi Arabia",
+          "medications": "GLP-1RAs (Mounjaro, Ozempic, Saxenda, Victoza)",
+          "country_dataset": "Saudi Arabia",
+          "key_findings": "This cross-sectional study examined hair loss as an adverse effect among 254 GLP-1RA users in Saudi Arabia from January to June 2025, investigating the frequency, characteristics, and predictors of hair loss in this population."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Veterans with diabetes, new users of GLP1RA, SGLT2i, or DPP4i",
+          "medications": "GLP-1RA, SGLT2i, DPP4i",
+          "country_dataset": "Veterans Affairs database, United States",
+          "key_findings": "This target trial emulation evaluated kidney outcomes among Veterans with diabetes comparing GLP1RA, SGLT2i, and DPP4i, examining treatment persistence and kidney composite outcomes including 50% eGFR decline and kidney failure."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals with chronic kidney disease and type 2 diabetes, and heart failure patients",
+          "medications": "Not specified - pooled analysis of trials",
+          "country_dataset": "FIDELIO-DKD, FIGARO-DKD, and FINEARTS-HF trials",
+          "key_findings": "This prespecified analysis pooled individual participant data from three trials examining sex differences in cardiovascular-kidney-metabolic syndrome outcomes including heart failure hospitalization and cardiovascular death."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=247",
+          "population": "Adults prescribed GLP-1 for obesity who lost insurance coverage at a healthcare system",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States (healthcare system employees)",
+          "key_findings": "This cross-sectional cohort study examined 247 adults who lost GLP-1 obesity medication coverage, evaluating impacts on employee perceptions of their employer and workforce stability using chi-square and multivariable logistic regression."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals with type 2 diabetes and no prior myocardial infarction, stroke, or advanced chronic kidney disease",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "US Veterans Affairs Million Veteran Program",
+          "key_findings": "This prospective cohort study examined combined effects of GLP-1RA use and adherence to eight healthy lifestyle habits on cardiovascular outcomes among individuals with type 2 diabetes enrolled from January 2011 to September 2023."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with type 2 diabetes initiating GLP-1RAs in UK primary care, stratified by obesity and cardiovascular disease status",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United Kingdom, IQVIA Medical Research Data (IMRD) incorporating THIN database",
+          "key_findings": "This real-world population-based cohort study evaluated GLP-1RA persistence and dose titration among UK primary care patients with type 2 diabetes from March 2018 to June 2023, with 1-year follow-up, stratified by agent, obesity status, cardiovascular disease history, and sex."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults living with obesity in Denmark",
+          "medications": "GLP-1 receptor agonists (among obesity treatment options)",
+          "country_dataset": "Denmark",
+          "key_findings": "This cross-sectional online survey examined changes in perceptions of weight-related discussions between people with obesity and healthcare professionals in Denmark from 2022 to 2024, a period marked by shifts in obesity treatment options."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=373",
+          "population": "Patients undergoing nonbariatric abdominal panniculectomy, some using perioperative GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "This 10-year retrospective analysis examined 373 patients undergoing nonbariatric panniculectomy to assess postoperative complications and GLP-1RA-associated adverse effects, evaluating the perioperative safety of GLP-1RAs in acute surgical settings."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with type 2 diabetes mellitus from nationwide database, including subgroup newly initiated on GLP-1RAs or insulin",
+          "medications": "GLP-1 receptor agonists, insulin",
+          "country_dataset": "All of Us National Institutes of Health database, United States",
+          "key_findings": "This nationwide retrospective cohort study examined the association between GLP-1RA use and peptic ulcer disease risk in adults with type 2 diabetes, including a subgroup analysis of newly initiated GLP-1RA or insulin users."
+        }
+      ],
+      "excluded_count": 14
+    }
+  ]
+}
