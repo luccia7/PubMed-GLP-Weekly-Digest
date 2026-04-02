@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-PubMed Digest Generator
+PubMed Weekly Digest Generator
 Fetches new PubMed articles, filters to observational studies + meta-analyses only,
 and generates structured clinical summaries via Claude API.
+Runs every Monday, covering the past 7 days.
 """
 
 import os
@@ -20,38 +21,8 @@ TOPICS = [
 ]
 
 MAX_RESULTS_PER_TOPIC = 25  # Max articles to fetch (before filtering)
-DAYS_BACK = 7               # How many days back to look
+DAYS_BACK = 7               # Cover the past 7 days (one full week)
 # ─────────────────────────────────────────────
-
-# Study types to KEEP — all others will be excluded
-KEEP_STUDY_TYPES = {
-    "real-world study",
-    "cohort study",
-    "prospective cohort study",
-    "retrospective cohort study",
-    "cross-sectional study",
-    "case-control study",
-    "meta-analysis",
-    "systematic review and meta-analysis",
-}
-
-# Study types to EXCLUDE explicitly
-EXCLUDE_STUDY_TYPES = {
-    "narrative review",
-    "rct",
-    "randomized controlled trial",
-    "case report",
-    "editorial",
-    "commentary",
-    "computational study",
-    "letter",
-    "systematic review",   # systematic review without meta-analysis
-    "secondary analysis of rct",
-    "phase 1",
-    "phase 2",
-    "phase 3",
-    "clinical trial",
-}
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 NCBI_API_KEY = os.environ.get("NCBI_API_KEY", "")
@@ -125,7 +96,7 @@ def classify_and_filter_with_claude(topic, articles):
     Returns (kept_articles, kept_summaries, excluded_count).
     """
     if not ANTHROPIC_API_KEY:
-        dummy = [{"study_type": "Unknown", "study_type_category": "original", "sample_size": "N/A",
+        dummy = [{"study_type": "Unknown", "study_type_category": "observational", "sample_size": "N/A",
                   "population": "N/A", "medications": "N/A", "country_dataset": "N/A",
                   "key_findings": "API key not set.", "include": True} for _ in articles]
         return articles, dummy, 0
@@ -147,7 +118,7 @@ For EACH article return a JSON object with these fields:
 - "population": Disease + key patient characteristics
 - "medications": Specific drugs and comparators
 - "country_dataset": Country/region or dataset name
-- "key_findings": 2-3 most important results as one concise paragraph (only needed if include=true, else write "excluded")
+- "key_findings": 2-3 most important results as one concise paragraph (write "excluded" if include=false)
 
 {articles_text}
 
@@ -175,10 +146,7 @@ Return ONLY a valid JSON array with exactly {len(articles)} objects in the same 
             raw = raw[4:]
     all_summaries = json.loads(raw.strip())
 
-    # Filter: keep only included articles
-    kept_articles = []
-    kept_summaries = []
-    excluded_count = 0
+    kept_articles, kept_summaries, excluded_count = [], [], 0
     for i, s in enumerate(all_summaries):
         if s.get("include", False):
             kept_articles.append(articles[i])
@@ -192,6 +160,11 @@ Return ONLY a valid JSON array with exactly {len(articles)} objects in the same 
 
 def generate_html(digest_data):
     date_str = digest_data["date"]
+    # Calculate week range for display
+    today = datetime.date.today()
+    week_start = today - datetime.timedelta(days=7)
+    week_range = f"{week_start.strftime('%b %d')} – {today.strftime('%b %d, %Y')}"
+
     topics_html = ""
 
     for entry in digest_data["topics"]:
@@ -202,7 +175,7 @@ def generate_html(digest_data):
         count = len(articles)
 
         if count == 0:
-            articles_html = "<p class='no-results'>No matching observational studies or meta-analyses found in the last 7 days.</p>"
+            articles_html = "<p class='no-results'>No matching observational studies or meta-analyses found this week.</p>"
             meta_count = obs_count = 0
         else:
             articles_html = ""
@@ -260,13 +233,15 @@ def generate_html(digest_data):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PubMed Digest — {date_str}</title>
+<title>PubMed Weekly Digest — {date_str}</title>
 <style>
   *{{box-sizing:border-box;margin:0;padding:0}}
   body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f1f5f9;color:#1e293b;line-height:1.6}}
   header{{background:linear-gradient(135deg,#1e40af,#3b82f6);color:white;padding:2rem;text-align:center}}
   header h1{{font-size:1.8rem;font-weight:700}}
   header p{{opacity:.85;margin-top:.3rem;font-size:.9rem}}
+  .dashboard-link{{display:inline-block;margin-top:.8rem;background:rgba(255,255,255,0.2);color:white;font-size:.85rem;font-weight:600;padding:.4rem 1.2rem;border-radius:999px;text-decoration:none;border:1px solid rgba(255,255,255,0.4)}}
+  .dashboard-link:hover{{background:rgba(255,255,255,0.3)}}
   .legend{{display:flex;gap:1.2rem;justify-content:center;margin-top:1rem;font-size:.8rem;flex-wrap:wrap}}
   .legend-item{{display:flex;align-items:center;gap:.4rem}}
   .legend-dot{{width:12px;height:12px;border-radius:50%;display:inline-block}}
@@ -301,16 +276,17 @@ def generate_html(digest_data):
 </head>
 <body>
 <header>
-  <h1>📄 PubMed Digest</h1>
-  <p>{date_str} &mdash; Last 7 days &mdash; Observational studies &amp; Meta-analyses only</p>
+  <h1>📄 PubMed Weekly Digest</h1>
+  <p>Week of {week_range} &mdash; Observational studies &amp; Meta-analyses only</p>
+  <a class="dashboard-link" href="https://luccia7.github.io/PubMed-Daily-Digest-03312026/">🌐 Open Dashboard</a>
   <div class="legend">
     <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div>Observational (Cohort, Cross-sectional, Case-control, Real-world)</div>
     <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div>Meta-analysis</div>
-    <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div>Excluded (RCT, Review, Editorial…)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div>Excluded</div>
   </div>
 </header>
 <main>{topics_html}</main>
-<footer>Powered by NCBI PubMed E-utilities &amp; Anthropic Claude API &mdash; Filtered to observational studies &amp; meta-analyses</footer>
+<footer>Powered by NCBI PubMed E-utilities &amp; Anthropic Claude API &mdash; Updated every Monday at 8:30 AM Houston time</footer>
 </body>
 </html>"""
 
@@ -345,7 +321,7 @@ def run():
     with open("docs/index.html", "w") as f:
         f.write(html)
 
-    print(f"✅ Digest generated for {today}")
+    print(f"✅ Weekly digest complete for {today}")
 
 
 if __name__ == "__main__":
