@@ -1,9 +1,10 @@
-name: PubMed Daily Digest
+name: PubMed Weekly Digest
 
 on:
   schedule:
-    - cron: "0 7 * * *"
-  workflow_dispatch:
+    - cron: "30 13 * * 1"   # Every Monday at 8:30 AM Houston (CDT = UTC-5)
+                              # In winter (Nov-Mar), change to "30 14 * * 1" for CST (UTC-6)
+  workflow_dispatch:          # Allow manual trigger from GitHub UI
 
 permissions:
   contents: write
