@@ -1,0 +1,179 @@
+{
+  "date": "2026-04-06",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "41936548",
+          "title": "Weight Loss With GLP-1 Agonists in Nondiabetic Adults: Systematic Review and Network Meta-Analysis.",
+          "abstract": "Two glucagon-like peptide-1 receptor agonists (GLP-1 RAs) (semaglutide and liraglutide) and one dual agonist (tirzepatide) are FDA-approved for weight loss in adults with obesity without type 2 diabetes mellitus. This systematic review and network meta-analysis aims to compare the efficacy of these agents against each other. A comprehensive search of PubMed/MEDLINE, Embase, Web of Science, and Cochrane Library was conducted from inception to May 2025. Phase 3 randomized controlled trials (RCTs) in adult patients (\u2265\u200918\u2009years) with at least one arm of tirzepatide, semaglutide, or liraglutide were included. A frequentist random-effects network meta-analysis was performed using R 4.3.3. Of 1420 articles identified, 15 RCTs with 14,059 patients were included. All agents significantly reduced body weight compared to placebo. The largest reduction occurred with the maximum tolerated dose of tirzepatide, followed by tirzepatide 15\u2009mg and 10\u2009mg, semaglutide 2.4\u2009mg, tirzepatide 5\u2009mg, and liraglutide 3\u2009mg. Tirzepatide and semaglutide were associated with a higher risk of any adverse event compared with placebo, whereas liraglutide was not. Tirzepatide, particularly at higher doses, provides the greatest weight reduction in adults without diabetes. Future studies should evaluate discontinuation, weight regain, metabolic outcomes, cost-effectiveness, and patient preferences.",
+          "authors": [
+            "Michael Lim",
+            "Pooja Gokhale",
+            "Akwasi Akosah",
+            "et al."
+          ],
+          "journal": "Obesity (Silver Spring, Md.)",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41936548/"
+        },
+        {
+          "pmid": "41914454",
+          "title": "Predictors and Characteristics of Hair Loss Among Users of GLP-1 Receptor Agonists: A Cross-Sectional Analysis.",
+          "abstract": "The increasing use of GLP-1 receptor agonists for weight loss and metabolic improvements has led to the recognition of various side effects. One potential, yet underexplored, adverse effect is hair loss. This study aims to investigate the frequency, characteristics, and predictors of hair loss in patients using GLP-1RAs. This cross-sectional study, conducted uniquely in Saudi Arabia from January to June 2025, involved 254 participants who had used GLP-1RAs (Mounjaro, Ozempic, Saxenda, or Victoza) for weight loss purposes. Data were collected through structured questionnaires, ensuring comprehensive coverage of demographic information, clinical characteristics, and details of hair loss, including timing, severity, and progression. The data analysis was conducted using SPSS v29. A total of 254 participants were included in the study, with the majority being female (71.3%) and an average age of 33.28\u2009\u00b1\u20099.73\u2009years. Hair loss characteristics by injection type revealed no significant differences in prevalence (p\u2009=\u20090.116). However, severe hair loss was significantly more common in Mounjaro (43.4%) and Saxenda (42.9%) users compared to other groups (p\u2009<\u20090.001). Multivariable logistic regression analysis identified gender, marital status, and injection type as significant predictors of hair loss. Males were less likely to report hair loss compared to females (adjusted OR\u2009=\u20090.36, p\u2009=\u20090.003). Married participants had the highest odds of experiencing hair loss (adjusted odds ratio\u2009=\u20099.94, p\u2009=\u20090.004), and Mounjaro users had significantly higher odds of hair loss compared to the users of other injection types (adjusted odds ratio\u2009=\u20093.02, p\u2009=\u20090.009). The duration of injection use did not significantly predict hair loss, although a trend toward higher odds was noted for those using injections for 6-12\u2009months (adjusted odds ratio\u2009=\u20093.50, p\u2009=\u20090.053). Our study highlights the significant side effects of hair loss associated with GLP-1RA therapy, particularly in female patients and those using Mounjaro. Although this type of hair loss is typically non-scarring and reversible, it can lead to psychological distress and affect treatment adherence. These conclusions highlight the need for clinicians to be aware of this potential side effect and to provide appropriate support and guidance to their patients.",
+          "authors": [
+            "Yahya Argobi",
+            "Norah Saad Jadaan",
+            "Hind Bader Alshalhoob",
+            "et al."
+          ],
+          "journal": "Journal of cosmetic dermatology",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41914454/"
+        },
+        {
+          "pmid": "41783650",
+          "title": "Negative Consequences of Removing GLP-1 RA Obesity Coverage: A Cross-Sectional Cohort Comparison Study.",
+          "abstract": "GLP-1 receptor agonist (GLP-1 RA) coverage decisions for obesity have major health and economic implications. This study examined how loss of GLP-1 coverage affected employee perceptions of their employer and workforce stability. This study analyzed data from employees of a healthcare system that discontinued GLP-1 obesity medication coverage. Outcomes were evaluated using chi-square/Fisher's exact tests and multivariable logistic regression. Two hundred forty-seven adults prescribed GLP-1 for obesity who lost coverage (mean age 49.27\u00a0years-SD: 9.89, BMI 32.85\u00a0kg/m Loss of GLP-1 coverage was linked to reduced employee satisfaction, increased burnout, and greater turnover risk. Lower reported impact among NHB and Hispanic employees may reflect disparities in perceived job mobility. These consequences may undermine workforce stability and offset cost savings that motivate coverage restrictions.",
+          "authors": [
+            "Jackson M Francis",
+            "Deepali K Ernest",
+            "Aparajita Chandrasekhar",
+            "et al."
+          ],
+          "journal": "Obesity science & practice",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41783650/"
+        },
+        {
+          "pmid": "41763234",
+          "title": "Combined associations of GLP-1 receptor agonists and a healthy lifestyle with cardiovascular outcomes among individuals with type 2 diabetes: a prospective cohort study.",
+          "abstract": "The long-term combined effects of lifestyle habits and GLP-1 receptor agonists on cardiovascular outcomes are unknown. We aimed to examine the combined association of GLP-1 receptor agonist use and adherence to eight lifestyle habits with cardiovascular outcomes. We did a prospective cohort study of individuals with type 2 diabetes enrolled within the US Veterans Affairs' Million Veteran Program between Jan 10, 2011, and Sept 30, 2023. Participants had no previous history of myocardial infarction, stroke, or advanced chronic kidney disease. The eight low-risk lifestyle habits assessed were a higher quality diet, being physically active, not smoking, restful sleep, no heavy alcohol intake, good stress management, social connection and support, and no opioid use disorder. We assessed the risk of major adverse cardiovascular events (MACE), defined as non-fatal stroke or myocardial infarction, or cardiovascular death, according to GLP-1 receptor agonist use and low-risk lifestyle habits using Cox proportional hazard regression models. Of the 963\u2009753 veterans enrolled, a total of 98\u2009261 participants were included in the study with 632\u2009543 person-years of follow-up, during which 10\u2009443 people developed MACE. Multivariable-adjusted hazard ratio (HR) of MACE was 0\u00b740 (95% CI 0\u00b730-0\u00b754) when comparing participants adhering to all eight low-risk lifestyle habits to those adopting one habit or less. Multivariable-adjusted HR of MACE was 0\u00b784 (0\u00b776-0\u00b792) when comparing users of GLP-1 receptor agonists with non-users. Participants using GLP-1 receptor agonists and adhering to six to eight low-risk lifestyle factors had a 43% lower risk of MACE than did those with three or fewer low-risk lifestyle factors and no GLP-1 receptor agonist use (0\u00b757; 0\u00b746-0\u00b771). Adherence to low-risk lifestyle habits combined with GLP-1 receptor agonist use was associated with a greater reduction in MACE risk than either approach alone, underscoring the importance of integrating lifestyle modification with pharmacotherapy in type 2 diabetes management. Department of Veterans Affairs.",
+          "authors": [
+            "Xuan-Mai T Nguyen",
+            "Yanping Li",
+            "S\u00e9bastien Czernichow",
+            "et al."
+          ],
+          "journal": "The lancet. Diabetes & endocrinology",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41763234/"
+        },
+        {
+          "pmid": "41703773",
+          "title": "Real-world persistence and dose titration of GLP-1 receptor agonists in type 2 diabetes: A UK population-based cohort study by obesity and cardiovascular disease status.",
+          "abstract": "Real-world medication use varies across clinical trial and healthcare settings; therefore, we evaluated GLP-1 receptor agonist (GLP-1RA) persistence and dose titration among adults with type 2 diabetes in UK primary care, stratified by agent, obesity status, cardiovascular disease (CVD) history, and sex assigned at birth. Adults with type 2 diabetes initiating GLP-1RAs between 1 March 2018 and 30 June 2023, with follow-up \u22651-year, were identified using the IQVIA Medical Research Data (IMRD) incorporating data from THIN, A Cegedim Database. The absolute 1-year risk\u00a0of discontinuation was\u00a0estimated using the Aalen-Johansen estimator, while multivariable cause-specific Cox models assessed associations with patient characteristics. Dosing trajectories were characterised across individual prescriptions during the first therapy year. Among 8200 GLP-1RA initiators (46.5% dulaglutide, 38.7% semaglutide), the 1-year discontinuation risk was 41.1% (95% CI 40.1-42.2), higher among those without obesity (BMI\u2009<30\u2009kg/m In UK primary care, GLP-1RA persistence was suboptimal and dose escalation was frequently delayed across all patient stratifications, including individuals with established CVD.",
+          "authors": [
+            "Franziska S Ulrich",
+            "Nicola Napoli",
+            "Morten Frost Nielsen",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41703773/"
+        },
+        {
+          "pmid": "41026089",
+          "title": "GLP-1 receptor agonists for kidney transplant recipients.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are incretin-based therapies with demonstrated efficacy in glycaemic control, weight reduction and cardiovascular and renal protection. Although data in kidney transplant recipients (KTRs) remain limited, the high prevalences of overweight and obesity, post-transplant diabetes mellitus and cardiovascular disease in this population make GLP-1RAs a promising therapeutic strategy. This narrative review outlines the rationale for their use in KTRs, drawing from recent trials in non-transplant populations and emerging real-world evidence in KTRs. We summarize key clinical considerations, including patient selection, dose escalation and monitoring strategies, as well as existing retrospective and prospective studies examining safety and efficacy in the post-transplant setting. Available data suggest that GLP-1RAs are generally well tolerated, without clear evidence of increased risk for graft rejection, acute pancreatitis or interaction with immunosuppressive agents. However, gastrointestinal side effects and early discontinuation remain common, emphasizing the need for tailored counselling and dose titration. Importantly, the current evidence is constrained by small sample sizes, short follow-up and potential selection bias; these limitations lessen the certainty of safety and effectiveness estimates. Translational inferences from non-transplant trials (e.g. SELECT, FLOW, SMART) should also be made cautiously. Future studies should investigate long-term graft outcomes, changes in body composition and optimal integration with immunosuppressive regimens. A clear research agenda prioritizing graft survival, cardiovascular and kidney outcomes, quality of life, cost-effectiveness and patient-reported outcomes-ideally via randomized, multicentre or registry-based pragmatic designs-will be critical. As GLP-1RAs become increasingly accessible and clinically relevant, a multidisciplinary and patient-centred approach is essential to guide their safe and effective use in KTRs. This narrative review provides a framework for thoughtful clinical application and highlights areas for future investigation.",
+          "authors": [
+            "Sarah H Schmitz",
+            "Babak J Orandi"
+          ],
+          "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+          "pub_date": "Mar 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41026089/"
+        },
+        {
+          "pmid": "40875227",
+          "title": "Perioperative GLP-1 Receptor Agonist Use and Surgical Outcomes in Nonbariatric Abdominal Panniculectomy: A 10-Year Retrospective Analysis.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) are increasingly used for treatment of patients with type 2 diabetes and obesity because of their metabolic benefits and potential wound-healing properties. However, their perioperative safety in acute surgical settings remains unclear. GLP-1\u2009RAs may alter tissue quality and intensify GLP-1\u2009RA-related side effects. This study was performed to examine postoperative complications and GLP-1\u2009RA-associated adverse effects in nonbariatric patients undergoing panniculectomy. The authors conducted a retrospective review of 373 patients who underwent panniculectomy from January of 2013 through January of 2023, including 81 GLP-1\u2009RA users and 292 nonusers. Patients with previous bariatric surgery or concomitant hernia repair were excluded due to the added complexity of mesh placement and altered tissue planes, which could confound wound-healing outcomes. 1 All participants had at least 1 year of follow-up. Baseline demographics, nutritional markers, and GLP-1\u2009RA therapy duration were recorded. Logistic regression was performed to adjust for confounders when comparing complications and adverse effects. GLP-1\u2009RA users had higher rates of type 2 diabetes (55.6% versus 29.5% [ P = 0.01]), hypertension (69.1% versus 52.7% [ P = 0.04]), and chronic obstructive pulmonary disease (17.3% versus 6.5% [ P = 0.02]), along with elevated prealbumin levels (22.8 \u00b1 6.6 versus 20.4 \u00b1 7.7 mg/dL [ P = 0.030]). Analyses showed a greater incidence of delayed wound healing (18.5% versus 7.5% [ P = 0.0066]) but lower seroma rates (4.9% versus 14.0% [ P = 0.032]) in GLP-1\u2009RA users. These differences persisted on multivariable regression. No significant differences were noted in infection, fat necrosis, hematoma, or GLP-1\u2009RA-related gastrointestinal side effects. GLP-1\u2009RAs demonstrate promise in chronic wound care. Their use was correlated with increased incidence of delayed wound healing but fewer seromas in acute surgical settings. Overall, these findings support their perioperative safety, but vigilant monitoring for potential wound-healing delays is advised.",
+          "authors": [
+            "Zachary A Koenig",
+            "Sydney Rashid",
+            "Gerlad R Hobbs",
+            "et al."
+          ],
+          "journal": "Plastic and reconstructive surgery",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40875227/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Nondiabetic adults with obesity",
+          "medications": "Semaglutide, liraglutide, tirzepatide",
+          "country_dataset": "PubMed/MEDLINE, Embase, Web of Science, Cochrane Library",
+          "key_findings": "Systematic review and network meta-analysis comparing efficacy of GLP-1 RAs (semaglutide and liraglutide) and dual agonist (tirzepatide) FDA-approved for weight loss in nondiabetic adults with obesity. Phase 3 RCTs were included to compare these agents."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=254",
+          "population": "GLP-1 receptor agonist users for weight loss",
+          "medications": "Mounjaro, Ozempic, Saxenda, Victoza",
+          "country_dataset": "Saudi Arabia",
+          "key_findings": "Cross-sectional analysis of 254 GLP-1RA users investigating frequency, characteristics, and predictors of hair loss as an adverse effect. Data collected from January to June 2025 through structured questionnaires on patients using various GLP-1RAs for weight loss."
+        },
+        {
+          "study_type": "Cross-sectional cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=247",
+          "population": "Healthcare system employees with obesity prescribed GLP-1 receptor agonists who lost coverage",
+          "medications": "GLP-1 receptor agonists (unspecified)",
+          "country_dataset": "US healthcare system",
+          "key_findings": "Loss of GLP-1RA coverage in 247 employees (mean age 49.27 years, BMI 32.85 kg/m\u00b2) negatively affected employee perceptions of their employer and workforce stability, demonstrating significant health and economic implications of coverage decisions."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Type 2 diabetes patients with no prior MI, stroke, or advanced CKD",
+          "medications": "GLP-1 receptor agonists (unspecified)",
+          "country_dataset": "US Veterans Affairs Million Veteran Program",
+          "key_findings": "Prospective cohort study examining combined associations of GLP-1RA use and adherence to eight lifestyle habits with cardiovascular outcomes in type 2 diabetes patients from January 2011 to September 2023. Study assessed long-term effects on cardiovascular outcomes adjusted for multiple lifestyle factors."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with type 2 diabetes, stratified by obesity status and cardiovascular disease history",
+          "medications": "GLP-1 receptor agonists (various agents)",
+          "country_dataset": "UK primary care, IQVIA Medical Research Data (IMRD) incorporating THIN data",
+          "key_findings": "Real-world persistence and dose titration of GLP-1RAs evaluated in adults with type 2 diabetes in UK primary care between March 2018 and June 2023. Absolute 1-year risk of discontinuation was estimated stratified by agent, obesity status, CVD history, and sex assigned at birth."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "People living with obesity in Denmark",
+          "medications": "GLP-1 receptor agonists (implied in context)",
+          "country_dataset": "Denmark",
+          "key_findings": "Cross-sectional online survey comparing changes in how people with obesity perceive weight-related discussions with healthcare professionals between 2022 and 2024, a period marked by shifts in obesity treatment options including GLP-1RA availability."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=373",
+          "population": "Nonbariatric patients with type 2 diabetes and/or obesity undergoing panniculectomy",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Single institution, 10-year retrospective analysis",
+          "key_findings": "Retrospective analysis of 373 patients examined postoperative complications and GLP-1RA-associated adverse effects in nonbariatric patients undergoing panniculectomy, assessing perioperative safety and tissue quality impacts of GLP-1RA use in acute surgical settings."
+        }
+      ],
+      "excluded_count": 18
+    }
+  ]
+}
