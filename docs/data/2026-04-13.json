@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-13",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "41968780",
+          "title": "Comparison of pharmacotherapies for obesity with sleeve gastrectomy: a network meta-analysis and systematic review.",
+          "abstract": "Tirzepatide, a glucagon-like peptide-1 receptor agonist (GLP1RA) and glucose-dependent insulinotropic-peptide (GIP), has shown efficacy regarding weight-loss. Systematic review and network meta-analysis of randomized controlled trials. MEDLINE, EMBASE, and Cochrane CENTRAL databases were searched between 2014 and 2024 for trials comparing sleeve gastrectomy (SG), Tirzepatide and other pharmacotherapies to control or each other. Eligible studies: adults with obesity and weight loss outcomes\u2009\u226524\u2009weeks. Primary outcome: percentage change total body weight. Secondary outcomes included adverse events. Pairwise and network meta-analyses were performed. Interventions ranked by: P-score, mean difference (MD), 95% confidence intervals (CI). Data from 23 trials (14,293 participants) were analyzed. SG (MD 21.1% TWL, 95% CI 14.2% to 28.0%) and Tirzepatide 10 or 15\u2009mg (MD 21.3% TWL, 95% CI 17.3% to 25.2%) demonstrated statistically equivalent weight-loss efficacy (P-score: 0.84) and had the most favorable effectiveness profiles. Semaglutide 2.4\u2009mg (MD 12.7% TWL) and Liraglutide 3.0\u2009mg (MD 5.1% TWL) showed moderate efficacy, whilst Orlistat showed minimal effect (MD 2.7% TWL, 95% CI -4.2% to 9.6%). Network meta-analysis of adverse events demonstrated that Semaglutide 2.4\u2009mg and Orlistat had the most favorable safety profiles amongst pharmacotherapies. Tirzepatide 10\u2009mg and 15\u2009mg is equivalent to SG regarding weight-loss efficacy. This paper was registered with PROSPERO (ID: CRD420251016726). Due to institutional academic requirements and checks, registration was completed after the review began, however the review protocol (supplement material S1) was developed prior to the review, provided by the authors, and thoroughly adhered to by the authors.",
+          "authors": [
+            "Zachary Omeh",
+            "Tahira Khan",
+            "Olalekan Uthman",
+            "et al."
+          ],
+          "journal": "Expert review of endocrinology & metabolism",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41968780/"
+        },
+        {
+          "pmid": "41967797",
+          "title": "Preferred GLP-1 Receptor Agonists in Type 2 Diabetes With Established Cardiovascular Disease or High Cardiovascular Risk: A Network Meta-Analysis of Randomized Trials.",
+          "abstract": "The comparative cardiovascular (CV) efficacy and safety of GLP-1 receptor agonists (GLP-1RAs) in patients with type 2 diabetes (T2D) and established cardiovascular disease (CVD) or high CV risk remain uncertain. PubMed, Embase, Web of Science, Scopus, and CENTRAL were searched from inception to 20 December 2025 for randomized controlled trials. We conducted a frequentist random-effects network meta-analysis and reported risk ratios (RRs) with 95% confidence intervals (CIs). Treatments were ranked using P-scores. Regimens were analyzed as individual agents, including albiglutide, dulaglutide, efpeglenatide, exenatide ER, ITCA 650, liraglutide, lixisenatide, subcutaneous semaglutide, oral semaglutide, tirzepatide, and placebo. Eleven trials (n=83,215) were included. In the three-point major adverse CV event (MACE) network (11 trials; 11 regimens), heterogeneity and inconsistency were absent (I2=0%; \u03c42=0). MACE was reduced with subcutaneous semaglutide (RR 0.74, 95% CI 0.58-0.94), efpeglenatide (0.76, 0.61-0.94), and albiglutide (0.79, 0.69-0.91); tirzepatide, oral semaglutide, liraglutide, and dulaglutide were also significant compared with placebo. Top ranks were semaglutide SC (P-score 0.87), efpeglenatide (0.84), and albiglutide (0.80). No regimen significantly reduced all-cause or CV death compared with placebo. Stroke was reduced with tirzepatide (RR 0.71, 0.54-0.93) and dulaglutide (0.77, 0.63-0.95) compared with placebo. Discontinuation and gastrointestinal discontinuation were higher with subcutaneous semaglutide, oral semaglutide, lixisenatide, and ITCA 650. Several GLP-1-based therapies reduced MACE versus placebo, with 3-point MACE emerging as the most consistent efficacy signal. Overall, these findings support guideline-based use of GLP-1 RAs in high-risk T2DM while highlighting the need for individualized treatment selection.",
+          "authors": [
+            "Mustafa Abomohsen",
+            "Mohamed Rifai",
+            "Ahmed Farid Gadelmawla",
+            "et al."
+          ],
+          "journal": "Canadian journal of diabetes",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41967797/"
+        },
+        {
+          "pmid": "41949717",
+          "title": "Real-World Effectiveness and Safety of Escalating Once-Weekly Semaglutide from 0.5 to 1.0\u00a0mg in Type 2 Diabetes.",
+          "abstract": "Real-world data on escalation of once-weekly semaglutide from 0.5 to 1.0\u00a0mg remain limited. Therefore, we aimed to evaluate the effectiveness and safety of this dose escalation in routine clinical practice. This was a single-center, retrospective cohort study involving adults with type 2 diabetes who received an escalated once-weekly semaglutide dose from 0.5 to 1.0\u00a0mg in routine clinical care. The primary outcome was within-patient change in glycated hemoglobin (HbA1c) level 24\u00a0weeks after the initial prescription of 1-mg semaglutide. Secondary outcomes included changes in metabolic parameters and the incidence of newly documented adverse events after escalation to 1.0\u00a0mg. Efficacy was analyzed in a prespecified on-treatment set, and safety was assessed in an all-exposed set. In the efficacy set (n\u2009=\u2009126), the HbA1c level decreased by 0.40%\u2009\u00b1\u20090.70% and body weight by 2.2\u2009\u00b1\u20092.7\u00a0kg at week 24 (both p\u2009<\u20090.01). Additionally, reductions were observed in alanine aminotransferase and \u03b3-glutamyl transpeptidase levels, total number of concomitant glucose-lowering agents, and total daily insulin dose. In the safety set (n\u2009=\u2009128), gastrointestinal adverse events were the most frequent (20.3%), particularly nausea (14.1%). Dose reduction was required in 12.5% of patients, mostly owing to gastrointestinal symptoms, and discontinuation for any reason occurred in 5.5%; only one patient (0.8%) discontinued treatment because of an adverse event. No serious drug-related adverse events were recorded. In this real-world cohort, escalation of once-weekly semaglutide dose to 1.0\u00a0mg was associated with additional reductions in HbA1c level and body weight, without serious adverse events. Although causal incremental benefit cannot be established because of the single-arm design without a 0.5-mg maintenance comparator, these findings may support clinical decision-making regarding dose intensification in patients experiencing suboptimal control with 0.5-mg semaglutide. UMIN Clinical Trials Registry (UMIN-CTR), UMIN000059813, retrospectively registered on November 18, 2025.",
+          "authors": [
+            "Genki Sato",
+            "Hiroshi Uchino",
+            "Kota Takuma",
+            "et al."
+          ],
+          "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41949717/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with obesity comparing sleeve gastrectomy, tirzepatide, and other pharmacotherapies",
+          "medications": "Tirzepatide (GLP-1RA/GIP agonist), sleeve gastrectomy, other pharmacotherapies",
+          "country_dataset": "Multiple (MEDLINE, EMBASE, Cochrane CENTRAL databases searched 2014-2024)",
+          "key_findings": "Tirzepatide demonstrated efficacy for weight loss in adults with obesity. The network meta-analysis compared the effectiveness of GLP-1RA/GIP agonists with sleeve gastrectomy and other pharmacological interventions, with primary outcomes measuring percentage change in total body weight."
+        },
+        {
+          "study_type": "Meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Type 2 diabetes patients with established cardiovascular disease or high cardiovascular risk",
+          "medications": "GLP-1 receptor agonists including albiglutide, dulaglutide, and others",
+          "country_dataset": "Multiple (PubMed, Embase, Web of Science, Scopus, CENTRAL searched through December 2025)",
+          "key_findings": "Network meta-analysis evaluated comparative cardiovascular efficacy and safety of various GLP-1RAs in T2D patients with established CVD or high CV risk. Treatments were ranked using P-scores to identify preferred agents based on cardiovascular outcomes."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with type 2 diabetes receiving escalated once-weekly semaglutide from 0.5 to 1.0 mg",
+          "medications": "Semaglutide 0.5 mg escalated to 1.0 mg once-weekly",
+          "country_dataset": "Single-center (location not specified)",
+          "key_findings": "Real-world effectiveness and safety data demonstrated within-patient changes in HbA1c levels 24 weeks after escalation to 1.0 mg semaglutide, with secondary outcomes including metabolic parameter changes in routine clinical practice."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
