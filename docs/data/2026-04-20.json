@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-20",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42003114",
+          "title": "Clinical Outcomes Associated with Prior GLP-1 Exposure in Burned Patients.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have anti-inflammatory and immunomodulatory properties beyond glycemic control. Their impact on burn injury outcomes remains unexplored. This study assessed the potential impact of prior GLP-1 exposure on mortality, infectious complications, and critical care utilisation in burn patients. Using the TriNetX US Network, adult patients with thermal burns \u226420% total body surface area (TBSA) between January 2018 and November 2025 were identified. Patients with GLP-1 documentation within one year before burn injury were propensity score matched with controls for age, sex, race, comorbidities, TBSA, body mass index (BMI), and hemoglobin A1c (HbA1c). Outcomes included 1-year mortality, infectious complications, critical care utilisation, and wound management outcomes. Sensitivity analyses examined 6-month and 3-year exposure windows. After matching, 8,307 patients per cohort were included. GLP-1 exposure was associated with 54% reduced odds of mortality (odds ratio [OR] 0.46, p<0.001), 35% reduced intensive care unit admission (OR 0.65, p<0.001), and 62% reduced intubation (OR 0.38, p<0.001). Infectious complications were significantly decreased, including sepsis (32% reduction), pneumonia (24% reduction), and methicillin-resistant Staphylococcus aureus (MRSA) infections (27% reduction). The odds of broad-spectrum antibiotic use decreased 21%. Benefits persisted across all exposure windows. The 3-year cohort demonstrated a 27% increase in hypertrophic scarring (OR 1.27, p=0.031). Prior GLP-1 receptor agonist use was associated with a significant decrease in mortality, infectious complications, and critical care utilisation among burn patients, independent of metabolic factors like BMI. These findings warrant prospective studies to optimize perioperative management strategies in this patient population. GLP-1 drugs are used to treat diabetes and help with weight loss. They are also known to reduce inflammation in the body. However, it is not known how these drugs affect healing after burn injuries. This study aimed to find out whether burn patients who were taking GLP-1 medications before their injury had better outcomes. Health records from over 400,000 burn patients in the United States were studied. Patients on GLP-1 drugs were compared with similar patients not on these drugs. Burn patients on GLP-1 drugs were less likely to die, get bad infections, or need intensive care and more research is needed to assess their use in this patient population.",
+          "authors": [
+            "Adam Boukind",
+            "Aviral C Sharma",
+            "Marco J Henriquez",
+            "et al."
+          ],
+          "journal": "The British journal of surgery",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42003114/"
+        },
+        {
+          "pmid": "41979990",
+          "title": "GLP-1 Receptor Agonist Semaglutide and SGLT2 Inhibitors after Acute Coronary Syndrome in Patients with Diabetes: Real-World Comparative Outcomes from an Observational Registry.",
+          "abstract": "Patients with type 2 diabetes (T2D) remain at high cardiovascular risk after acute coronary syndrome (ACS), particularly after myocardial infarction (MI). Evidence on the early post-ACS use of glucagon-like peptide-1 receptor agonists (GLP-1RA), particularly semaglutide, and sodium-glucose cotransporter-2 inhibitors (SGLT2i) is limited. We analyzed 870 patients in the registry-based T2D cohort discharged after ACS from the single-center CaRD registry (2017-2025). Patients were grouped according to discharge therapy: no GLP-1RA/SGLT2i, GLP-1RA only (semaglutide), SGLT2i only, or combined therapy. Descriptive outcomes included all-cause mortality and a broad registry composite of clinical events. To better address baseline imbalances and unequal group sizes, adjusted Cox models focused on conventional 3-point major adverse cardiovascular events (3P-MACE: cardiovascular death, non-fatal MI, or non-fatal stroke) and included age, sex, ACS type, eGFR, BMI, LVEF, HbA1c, and LDL-C. The median age was 68 years, and 67.5% of participants were male. Discharge therapy included no GLP-1RA/SGLT2i (n = 484), GLP-1RA (n = 35), SGLT2i (n = 277), and combined GLP-1RA+SGLT2i (n = 74), indicating substantial imbalance in subgroup size. During a median follow-up of 37 months, all-cause mortality was highest in the control group (30.2%) and lowest with combined therapy (2.7%), in which no cardiovascular deaths were recorded. However, important baseline differences in BMI, HbA1c, LVEF, age, and socioeconomic characteristics were present across groups. In adjusted 3P-MACE models, adherence to GLP-1RA and/or SGLT2i was associated with lower risk (HR 0.55, 95% CI 0.37-0.82, p = 0.003). When entered separately, SGLT2i remained significant (HR 0.66, 95% CI 0.44-0.99, p = 0.042), whereas GLP-1RA showed a similar direction of association but did not retain statistical significance (HR 0.60, 95% CI 0.28-1.28, p = 0.189). In this single-center observational ACS registry, semaglutide and SGLT2i use were associated with more favorable cardiometabolic profiles and lower event rates after discharge. The apparent benefit of combined therapy should be interpreted cautiously because of small subgroup sizes. These results are hypothesis-generating and support further prospective evaluation of combined cardiometabolic therapy after ACS.",
+          "authors": [
+            "Ivana Jurin",
+            "Karlo Gjuras",
+            "Dijana Be\u0161i\u0107",
+            "et al."
+          ],
+          "journal": "Cardiology",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41979990/"
+        },
+        {
+          "pmid": "41979383",
+          "title": "Glucagon-Like Peptide-1 Receptor Agonist Utilization Among Sleep Surgery Clinic Patients.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are approved to treat obstructive sleep apnea (OSA), yet their use in an OSA population has not been characterized. This study evaluates GLP-1 RA use in patients presenting to a sleep surgery clinic. Retrospective. Tertiary care institution. Patients with OSA who presented to our sleep surgery clinic between October 2023 and March 2025 with available sleep studies were included (n\u2009=\u2009384). Demographic data, body mass index (BMI), apnea-hypopnea index (AHI), OSA history, GLP-1 RA prescription data, and usage details were collected through chart review. Eligibility for GLP-1 RA was defined by FDA drug labeling criteria, with diabetes, obesity, or BMI\u2009\u2265\u200927\u2009kg/m\u00b2 with a weight-related comorbidity. The cohort had mean age 53.3\u2009\u00b1\u200914.8 years, BMI 29.4\u2009\u00b1\u20095.7\u2009kg/m Among sleep surgery clinic patients, a large proportion were eligible for GLP-1 RA use, and utilization was high compared to that of the general population.",
+          "authors": [
+            "Rachel B Kutler",
+            "Allison Lin",
+            "Lauren Zhang",
+            "et al."
+          ],
+          "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41979383/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Adult patients with thermal burns \u226420% TBSA, with and without prior GLP-1 exposure",
+          "medications": "GLP-1 receptor agonists (prior exposure)",
+          "country_dataset": "United States, TriNetX Network",
+          "key_findings": "Study assessed the impact of prior GLP-1 exposure on mortality, infectious complications, and critical care utilization in burn patients using propensity score matching methodology in a US network database."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=870",
+          "population": "Type 2 diabetes patients discharged after acute coronary syndrome (2017-2025)",
+          "medications": "Semaglutide (GLP-1RA), SGLT2 inhibitors, combined therapy",
+          "country_dataset": "Single-center CaRD registry, 2017-2025",
+          "key_findings": "Registry-based observational study comparing early post-ACS outcomes in T2D patients receiving semaglutide, SGLT2 inhibitors, or combined therapy versus no treatment."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=384",
+          "population": "Patients with obstructive sleep apnea presenting to sleep surgery clinic (October 2023-March 2025)",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Tertiary care institution",
+          "key_findings": "Retrospective study characterizing GLP-1 RA utilization, prescription patterns, and usage details in OSA patients presenting to a sleep surgery clinic."
+        }
+      ],
+      "excluded_count": 5
+    }
+  ]
+}
