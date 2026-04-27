@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-27",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42034831",
+          "title": "GLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis.",
+          "abstract": "The systematic review aimed to assess the effects of GLP-1 receptor agonists (GLP-1 RA) and dual GLP-1/GIP agonists on weight loss and body composition in individuals with overweight or obesity, with or without type 2 diabetes mellitus. The study protocol was registered in PROSPERO (CRD420251002447). A systematic search of PubMed, Scopus, and Web of Science was conducted up to December 2024 according to PRISMA guidelines. Following the predefined inclusion and exclusion criteria, 36 studies were included in this systematic review and underwent qualitative analysis. In addition, 24 studies met the criteria for quantitative synthesis (meta-analysis). Data were pooled using random-effects models with subgroup analyses by drug type and treatment duration (3, 6, and 12 months). GLP-1 RA treatment consistently reduced body weight, BMI, and waist circumference across all time points. At 3 months, mean body weight decreased by approximately 9%, accompanied by marked reductions in fat mass and visceral adipose tissue. At 6 months, weight reduction averaged 5%, with semaglutide, liraglutide, and exenatide showing comparable effects, while lean mass remained largely preserved. At 12 months, weight loss persisted at around 4%, with variability between agents, most notably liraglutide. Across studies, fat mass decline predominated, whereas reductions in lean body mass were modest. GLP-1 RAs provide clinically meaningful weight loss primarily through selective fat mass reduction, with relative preservation of lean tissue, supporting their role in achieving \"quality\" weight loss. Differences between agents highlight the importance of individualized treatment strategies, complemented by nutritional and exercise interventions to optimize long-term outcomes.",
+          "authors": [
+            "Nadia Sawicka-Gutaj",
+            "Dawid Gruszczy\u0144ski",
+            "Kacper Nijakowski",
+            "et al."
+          ],
+          "journal": "International journal of obesity (2005)",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42034831/"
+        },
+        {
+          "pmid": "42029362",
+          "title": "Glucagon-like peptide-1 and atrial fibrillation incidence: Associations independent of weight loss.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1s) have been associated with reduced atrial fibrillation (AF) incidence. Although weight loss is a known benefit of GLP-1 therapy and an established AF risk modifier, it remains unclear whether the antiarrhythmic effects of GLP-1s are independent of weight loss. This study aimed to evaluate whether the GLP-1-associated reduction in AF incidence is primarily driven by weight loss, and to assess differences across specific GLP-1 agents and durations of medication use. We conducted a retrospective cohort study of 12,812 patients initiated on GLP-1 therapy at a single academic center from 2020 to 2023. A 1:1 matched control cohort was selected using propensity scores based on known AF risk factors. AF incidence was tracked via manual chart review, and weight trend after 6 months of GLP-1 use was recorded. Time-to-event analyses included Fine-Gray competing risk models to account for the competing risk of death, time-varying Cox regressions, and marginal structural models. GLP-1 use was associated with both a lower risk of AF (hazard ratio 0.67, P < .001) and mortality (hazard ratio 0.34, P < .001) compared with controls. This protective effect persisted across all weight change groups, including patients who gained weight. Among GLP-1 agents, only semaglutide showed a statistically significant AF risk reduction. AF risk reduction appeared after 24 months of GLP-1 use. Mortality benefit persisted across all treatment durations. GLP-1 therapy significantly reduces AF incidence and mortality even in the absence of weight loss. These findings support potential antiarrhythmic properties of GLP-1s independent of their metabolic effects.",
+          "authors": [
+            "Tiago Palmisano",
+            "Reeya Verma",
+            "David Guarraia",
+            "et al."
+          ],
+          "journal": "Heart rhythm",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42029362/"
+        },
+        {
+          "pmid": "42003114",
+          "title": "Clinical Outcomes Associated with Prior GLP-1 Exposure in Burned Patients.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have anti-inflammatory and immunomodulatory properties beyond glycemic control. Their impact on burn injury outcomes remains unexplored. This study assessed the potential impact of prior GLP-1 exposure on mortality, infectious complications, and critical care utilisation in burn patients. Using the TriNetX US Network, adult patients with thermal burns \u226420% total body surface area (TBSA) between January 2018 and November 2025 were identified. Patients with GLP-1 documentation within one year before burn injury were propensity score matched with controls for age, sex, race, comorbidities, TBSA, body mass index (BMI), and hemoglobin A1c (HbA1c). Outcomes included 1-year mortality, infectious complications, critical care utilisation, and wound management outcomes. Sensitivity analyses examined 6-month and 3-year exposure windows. After matching, 8,307 patients per cohort were included. GLP-1 exposure was associated with 54% reduced odds of mortality (odds ratio [OR] 0.46, p<0.001), 35% reduced intensive care unit admission (OR 0.65, p<0.001), and 62% reduced intubation (OR 0.38, p<0.001). Infectious complications were significantly decreased, including sepsis (32% reduction), pneumonia (24% reduction), and methicillin-resistant Staphylococcus aureus (MRSA) infections (27% reduction). The odds of broad-spectrum antibiotic use decreased 21%. Benefits persisted across all exposure windows. The 3-year cohort demonstrated a 27% increase in hypertrophic scarring (OR 1.27, p=0.031). Prior GLP-1 receptor agonist use was associated with a significant decrease in mortality, infectious complications, and critical care utilisation among burn patients, independent of metabolic factors like BMI. These findings warrant prospective studies to optimize perioperative management strategies in this patient population. GLP-1 drugs are used to treat diabetes and help with weight loss. They are also known to reduce inflammation in the body. However, it is not known how these drugs affect healing after burn injuries. This study aimed to find out whether burn patients who were taking GLP-1 medications before their injury had better outcomes. Health records from over 400,000 burn patients in the United States were studied. Patients on GLP-1 drugs were compared with similar patients not on these drugs. Burn patients on GLP-1 drugs were less likely to die, get bad infections, or need intensive care and more research is needed to assess their use in this patient population.",
+          "authors": [
+            "Adam Boukind",
+            "Aviral C Sharma",
+            "Marco J Henriquez",
+            "et al."
+          ],
+          "journal": "The British journal of surgery",
+          "pub_date": "Apr 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42003114/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "36 studies (24 in meta-analysis)",
+          "population": "Adults with overweight or obesity, with or without type 2 diabetes mellitus",
+          "medications": "GLP-1 receptor agonists and dual GLP-1/GIP agonists",
+          "country_dataset": "Multiple countries (systematic review and meta-analysis)",
+          "key_findings": "Systematic review of 36 studies on GLP-1 RA and dual GLP-1/GIP agonists for weight loss and body composition in overweight/obese individuals, with 24 studies included in quantitative meta-analysis. GLP-1 RAs demonstrated significant effects on weight reduction and body composition changes."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=12,812",
+          "population": "Patients initiated on GLP-1 therapy with evaluation of atrial fibrillation incidence",
+          "medications": "GLP-1 receptor agonists (specific agents evaluated across durations)",
+          "country_dataset": "United States (retrospective analysis)",
+          "key_findings": "Retrospective cohort of 12,812 patients showed that GLP-1 receptor agonist-associated reduction in atrial fibrillation incidence appears to be independent of weight loss, with differences observed across specific GLP-1 agents and medication use duration."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Propensity score matched cohort (exact n not reported in abstract)",
+          "population": "Adult burn patients with thermal burns \u226420% TBSA, with or without prior GLP-1 exposure",
+          "medications": "GLP-1 receptor agonists (prior exposure assessed)",
+          "country_dataset": "United States (TriNetX US Network)",
+          "key_findings": "Real-world study using TriNetX US Network assessed impact of prior GLP-1 exposure on mortality, infectious complications, and critical care utilization in burn patients using propensity score matching methods."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
