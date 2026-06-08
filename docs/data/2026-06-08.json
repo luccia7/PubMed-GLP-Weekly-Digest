@@ -1,0 +1,181 @@
+{
+  "date": "2026-06-08",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42256676",
+          "title": "Weight maintenance after discontinuation of GLP-1 therapies.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual/triple co-agonists have revolutionized obesity treatment, producing mean weight losses of 10-30% that were rarely achievable with lifestyle modification or earlier medications. Yet, once GLP-1 therapy is discontinued, most patients experience rapid weight regain, often accompanied by reversal of cardiometabolic improvements. Real-world data show that up to 65% of users discontinue GLP-1 RAs within a year of initiation, and randomized controlled trials demonstrate that two-thirds of lost weight is typically regained within a year of discontinuation. Weight regain following GLP-1 RA discontinuation reflects a powerful interplay of physiological, behavioral, and environmental factors that promote relapse once pharmacological appetite suppression is removed. Sustaining weight loss after GLP-1 RA discontinuation will ultimately depend on integrated, patient-centered frameworks combining ongoing lifestyle, behavioral, and system-level supports.",
+          "authors": [
+            "Areesha Moiz",
+            "Kristian B Filion",
+            "B\u00e4rbel Kn\u00e4uper",
+            "et al."
+          ],
+          "journal": "EClinicalMedicine",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42256676/"
+        },
+        {
+          "pmid": "42252120",
+          "title": "Use of Glucagon-Like Peptide-1 Receptor Agonists in Danish Adolescents and Young Adults 2018-2025.",
+          "abstract": "Use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) has increased rapidly following approval for obesity treatment, but data on their use in younger populations remain limited. We examined trends in GLP-1RA use among 12- to 24-year-olds in Denmark during 2018-2025. Using nationwide prescription, hospital, and laboratory registries, we conducted a drug utilization study including all 12- to 24-year-olds who filled a GLP-1RA prescription between January 2018 and December 2025. We described incidence of use, baseline characteristics, prescribing patterns, and treatment persistence. GLP-1RA use rose more than 50-fold across the study period, reaching 418 new users per 100,000 by 2025, driven by semaglutide for weight management. Uptake was steepest among individuals aged 18-24\u2009years (from 13 to 686 per 100,000) and more modest among adolescents aged 12-17\u2009years (from 1.7 to 72 per 100,000). Most users were female, few had diabetes, and 33% had psychiatric comorbidity, particularly emotional and neurodevelopmental disorders. By 2025, 78% of new treatments were initiated in general practice. Only 38% were covered by a prescription after 1\u2009year. Findings demonstrate rapid uptake of GLP-1RAs in youth and the need for specialist involvement, long-term safety data, and careful evaluation of mental health in this population.",
+          "authors": [
+            "Helene Kildegaard",
+            "Jacob Harbo Andersen",
+            "Rebecca Kofod Vinding",
+            "et al."
+          ],
+          "journal": "Obesity (Silver Spring, Md.)",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42252120/"
+        },
+        {
+          "pmid": "42247231",
+          "title": "Patient Experiences With GLP-1 Receptor Agonists.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are transformational therapies in the treatment of obesity; yet discontinuation rates are high, and patients experience rapid weight regain after stopping treatment. Few scientific publications have reported patients' experiences of taking GLP-1 RAs in a variety of health contexts outside its use as treatment for type 2 diabetes. To provide insight into the lived experiences of patients taking GLP-1 RAs to inform optimal long-term weight management treatment. This qualitative study used inductive thematic analysis of semistructured video interviews conducted between July 22 and September 10, 2025, with participants from 15 US states. Participants included adults who were taking or had previously taken GLP-1 RAs for any treatment indication, recruited through ResearchMatch and snowball sampling. Themes identified through inductive thematic analysis. Of 30 participants, 10 self-identified as men, 1 as nonbinary, and 19 as women; their mean (SD) age was 54.0 (8.8) years. A total of 23 participants were using a GLP-1 RA at time of interview, and 7 participants had stopped GLP-1 RA use. Eight key themes were extracted and categorized into 2 overarching domains. The first domain was patient-reported benefits and trade-offs. It comprised the following themes: (1) reduction in food noise, psychological hunger, or appetite; (2) GLP-1 RAs are not a standalone weight loss solution; (3) wide spectrum of adverse effects experienced; and (4) patients prepared to withstand substantial adverse effects and logistical challenges to achieve weight loss. The second domain was social, clinical, and structural context. It comprised the following themes: (5) perceived stigma associated with taking GLP-1 RAs, influenced by primary indication for prescription; (6) information provision and clinical support are essential but highly variable; (7) access challenges and cost can be prohibitive; and (8) value of shared experiences. In this qualitative study of patient experiences with GLP-1 receptor agonists, participants described GLP-1 RA therapy functioning as a facilitator rather than a replacement for lifestyle change, emphasizing the need for behavioral interventions alongside pharmacotherapy to sustain treatment benefits. Quality of care was highly variable; thus, standardized guidelines for patient education and clinical support could improve expectation management around likely adverse effects and long-term management.",
+          "authors": [
+            "Isabella de Vere Hunt",
+            "Mariana Ramirez-Posada",
+            "Christopher Sam Babu",
+            "et al."
+          ],
+          "journal": "JAMA network open",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42247231/"
+        },
+        {
+          "pmid": "42247124",
+          "title": "Tirzepatide for Recurrent Weight Gain after Bariatric Procedures: Real-World Evidence of Efficacy and Safety.",
+          "abstract": "Recurrent weight gain after bariatric surgery (BS) or endoscopic bariatric therapy (EBT) remains a long-term clinical challenge, potentially undermining long-term treatment success. Tirzepatide, a dual agonist of the glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors, has shown promising results in obesity treatment, but data regarding its use in post BS or EBT recurrent weight gain are limited. This observational cohort study evaluated the effectiveness and safety of tirzepatide in patients with recurrent weight gain after BS or EBT. Anthropometric data, BMI categories, and adverse events were collected at baseline and after 24 weeks of treatment. A total of 34 patients (26 females, 8 males) who experienced recurrent weight gain after BS (n\u2009=\u200932) or EBT (n\u2009=\u20092) were treated with once-weekly subcutaneous tirzepatide (dosing range 2.5-10\u00a0mg/week). After 24 weeks, the mean percentage total body weight loss (%TBWL) was 18.1\u2009\u00b1\u20095.6% (p\u2009<\u20090.0001), with a significant reduction in waist circumference (p\u2009<\u20090.0001). Most patients shifted to lower BMI categories, with the majority reaching overweight or normal weight status. Adverse events were exclusively gastrointestinal (constipation, diarrhea, nausea), generally mild, and did not lead to treatment discontinuation. Preliminary evidence suggests that tirzepatide is associated with significant weight loss and good tolerability in this observational cohort for managing recurrent weight gain after bariatric surgery and endoscopic bariatric therapy. These findings suggest a potential role for tirzepatide as a valuable nonsurgical option in the multidisciplinary management of patients experiencing recurrent weight gain after bariatric procedures.",
+          "authors": [
+            "Federica Vinciguerra",
+            "Carla Di Stefano",
+            "Fabio Guccione",
+            "et al."
+          ],
+          "journal": "Obesity surgery",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42247124/"
+        },
+        {
+          "pmid": "42231269",
+          "title": "Perceptions, attitudes, and experiences of GLP-1 receptor agonists for weight management in the United Kingdom: a cross-sectional survey study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have significantly influenced contemporary obesity pharmacotherapy, emerging as a major development in obesity care. Rising visibility in public discourse, healthcare practice, and commercial markets highlights the need to understand how these medications are accessed and experienced outside controlled experimental studies. Despite widespread use, real-world patterns of engagement, motivations, and concerns remain poorly understood amid high discontinuation rates, substantial and accelerated weight regain following cessation compared to traditional weight management intervention, and the potential for reduced effectiveness outside of the controlled setting of clinical trials. This study is the first to explore public perceptions, attitudes, and lived experiences of GLP-1RA use among UK adults, with attention to age, sex, BMI and use duration-specific responses. A cross-sectional design was employed using a self-administered online survey (n\u2009=\u2009684), including 544 current or former GLP-1RA users. The survey captured demographic characteristics, health status, medication use, satisfaction, side effects, and body image. Findings showed high satisfaction with GLP-1RA use, however effects on perceived energy, dietary habits, and concerns about a reduction in muscle mass were reported, with age and BMI influencing these experiences. Most users sourced medication from online pharmacies, reporting inconsistent pre-assessment rigour. Social media was the dominant information source, while healthcare professionals were less frequently consulted. A minority of users reported behaviours suggestive of misuse, including exceeding recommended doses, often driven by perceived inefficacy. Non-users expressed conditional willingness to adopt GLP-1RAs, influenced by clinical recommendation and stronger evidence, though concerns about side effects and long-term safety were prevalent. This study suggests potential implications for regulatory strategy and highlights a need for targeted education and integrated behavioural support, particularly in light of reported rapid weight regain and reversal of beneficial effects on cardiometabolic markers following medication cessation. These results also provide important insights into demographic-specific experiences and provide important considerations to aid development of holistic, evidence-informed strategies to ensure safe and effective GLP-1RA use.",
+          "authors": [
+            "Jason Tallis",
+            "Darren Richardson",
+            "Michael J Duncan",
+            "et al."
+          ],
+          "journal": "BMC public health",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42231269/"
+        },
+        {
+          "pmid": "42222894",
+          "title": "Combining GLP-1 Receptor Agonists and Health-Behaviour and Lifestyle Therapy Yields Higher Adherence and Reduces Session Needs for Successful Weight Management in Adolescence: An Observational Real-World Single-Center Study.",
+          "abstract": "Evidence for the role of health behaviour and lifestyle treatment (HBLT) on the effectiveness of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in paediatric obesity is limited. To assess the role of HBLT on the effectiveness of GLP-1RAs in youth with obesity. Patients aged 8-18\u2009years with obesity (n\u2009=\u200951) receiving liraglutide were retrospectively divided into continuers (ongoing liraglutide treatment), discontinuers, or switches to semaglutide or metabolic-bariatric surgery. All were offered multidisciplinary HBLT and consecutively allocated to either high-frequency (HF) HBLT (\u2265\u200926 contact hours/year) or low-frequency obesity medication (OM)-specific HBLT (9 contacts of 0.5\u2009h/year). After 9.7\u2009\u00b1\u20096.6\u2009months, a BMI reduction of \u2265\u20095% and \u2265\u200910% was observed in 37.3% and 13.7%, respectively. Relative change in BMI was higher in continuers compared to discontinuers (-6.7%\u2009\u00b1\u20097.5% vs. -0.7%\u2009\u00b1\u20095.1%, p\u2009=\u20090.03). Whereas 39.2% of patients continued liraglutide, 33.3% discontinued, mainly due to gastrointestinal symptoms. 27.4% of patients switched treatment to semaglutide or underwent surgery. Patients with combined HBLT and liraglutide had markedly higher odds of continuation (OR 18.5, 95% CI 2.0-929.8, p\u2009<\u20090.01) and greater reductions in BMI, which was by trend higher with OM-HBLT compared to HF-HBLT (BMI change -6.9%\u2009\u00b1\u20097.2% vs. -4.0%\u2009\u00b1\u20096.6%). GLP-1RAs were effective in the real-world treatment of paediatric obesity. HBLT appears to be essential to increase persistence and efficacy of GLP-1RAs.",
+          "authors": [
+            "Julia Lischka",
+            "Gabriel Torbahn",
+            "Michael Vallis",
+            "et al."
+          ],
+          "journal": "Pediatric obesity",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42222894/"
+        },
+        {
+          "pmid": "42179812",
+          "title": "Missing Opportunity for Nephroprotective Therapy in Patients With Non-Dialysis CKD Under Stable Nephrology Care.",
+          "abstract": "Awareness of the implementation of guideline-directed nephroprotective therapy is an essential preliminary step to optimize implementation of nephroprotective strategies in nondialysis chronic kidney disease (CKD) (ND-CKD). However, updated information on this issue is lacking in the setting of nephrology clinics. In this multicenter prospective study, we collected data from 4523 patients with ND-CKD, either stage 3 to 5 or 1 and 2 with urinary albumin-to-creatinine ratio (ACR) > 30 mg/g, followed up in 30 Italian nephrology clinics. Patients were evaluated at 2 visits with a 6-month interval between May 2024 and May 2025. The aim was to evaluate the current phenotype of patients under tertiary nephrology care and the management of the 2 major modifiable determinants of renal risk, hypertension and ACR, including therapeutic inertia. The cohort was characterized by a severe cardiorenal risk profile: men comprised 65% of the cohort, mean age was 71 \u00b1 14 years, diabetes was present in 40%, cardiovascular disease in 40%, estimated glomerular filtration rate (eGFR) was 34 \u00b1 19 ml/min per 1.73 m The large majority of patients with ND-CKD currently followed up in Italian renal clinics are characterized by a severe risk profile that is paradoxically associated with remarkable therapeutic inertia for both traditional and innovative guideline-directed nephroprotective therapy.",
+          "authors": [
+            "Luca De Nicola",
+            "Chiara Ruotolo",
+            "Gaetano La Manna",
+            "et al."
+          ],
+          "journal": "Kidney international reports",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42179812/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "GLP-1 RA users with obesity or type 2 diabetes",
+          "medications": "GLP-1 receptor agonists, dual/triple co-agonists",
+          "country_dataset": "Not specified",
+          "key_findings": "Up to 65% of GLP-1 RA users discontinue therapy within one year of initiation. Upon discontinuation, patients experience rapid weight regain with two-thirds of lost weight typically regained within one year, accompanied by reversal of cardiometabolic improvements."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "All 12-24 year-olds in Denmark with GLP-1RA prescriptions 2018-2025",
+          "population": "Danish adolescents and young adults aged 12-24 years",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Denmark",
+          "key_findings": "Study examined trends in GLP-1RA use among adolescents and young adults, describing incidence, baseline characteristics, prescribing patterns, and treatment persistence in a nationwide prescription, hospital, and laboratory registry study."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Patients taking GLP-1 receptor agonists in various health contexts outside type 2 diabetes treatment",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not specified",
+          "key_findings": "Qualitative study using semistructured video interviews and inductive thematic analysis to understand lived experiences of GLP-1 RA users. Study aims to provide insight into patient experiences to inform optimal long-term weight management treatment strategies."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Patients with recurrent weight gain after bariatric surgery or endoscopic bariatric therapy",
+          "medications": "Tirzepatide (GIP/GLP-1 receptor agonist)",
+          "country_dataset": "Not specified",
+          "key_findings": "Observational cohort study evaluating tirzepatide effectiveness and safety in post-bariatric surgery/endoscopic bariatric therapy recurrent weight gain. Study addresses limited data on GLP-1 use in this specific population."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "United Kingdom population with interest in or experience with GLP-1 receptor agonists for weight management",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United Kingdom",
+          "key_findings": "Cross-sectional survey examining perceptions, attitudes, and experiences of GLP-1RAs for weight management outside controlled studies. Study addresses understanding of real-world patterns of engagement, motivations, and concerns amid high discontinuation rates."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=51",
+          "population": "Youth aged 8-18 years with obesity receiving GLP-1RA treatment",
+          "medications": "Liraglutide, semaglutide, or bariatric surgery",
+          "country_dataset": "Single-center, not specified",
+          "key_findings": "Combination of GLP-1RA with health-behavior and lifestyle therapy (HBLT) yielded higher adherence and reduced session needs for successful weight management. Patients were divided into continuers, discontinuers, or those who switched therapies."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=4523",
+          "population": "Patients with non-dialysis chronic kidney disease (stage 3-5 or 1-2 with elevated ACR)",
+          "medications": "Nephroprotective therapies (GLP-1RAs mentioned as part of therapy)",
+          "country_dataset": "Italy",
+          "key_findings": "Multicenter prospective study evaluated implementation of guideline-directed nephroprotective therapy in 30 Italian nephrology clinics with two visits at 6-month intervals, assessing awareness and optimization of nephroprotective strategies."
+        }
+      ],
+      "excluded_count": 18
+    }
+  ]
+}
