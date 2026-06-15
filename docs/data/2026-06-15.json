@@ -1,0 +1,249 @@
+{
+  "date": "2026-06-15",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42294355",
+          "title": "Comparative Effectiveness and Safety of Once-Weekly Injectable Semaglutide Versus Dulaglutide in Individuals with Type 2 Diabetes Managed in UK Primary Care: A Population-Based Cohort Study.",
+          "abstract": "The SUSTAIN-7 trial demonstrated greater HbA1c and bodyweight reductions with once-weekly semaglutide versus dulaglutide in type 2 diabetes, but strict eligibility criteria limit external validity. We evaluated the comparative real-world effectiveness and safety of these agents in UK primary care. Using the IQVIA Medical Research Data (IMRD) incorporating data from THIN, a Cegedim Database, we included adults with type 2 diabetes initiating semaglutide or dulaglutide between 01-Jan-2019 and 01-Dec-2022, followed through 30-Jun-2023. Co-primary outcomes were 1-year changes in HbA1c and bodyweight, estimated using a new-user, active-comparator cohort design with marginal structural models and inverse probability of treatment weighting. Treatment heterogeneity was assessed in the primary per-protocol analysis by SUSTAIN-7 trial-eligibility. Safety events were assessed while-on-treatment. Among 6616 new users, 4636 (70.1%) remained on-treatment and 1980 (29.9%) discontinued early. Semaglutide new users (n = 1901) achieved greater 1-year reductions than dulaglutide new users (n = 2735) in HbA1c (estimated treatment difference [ETD] -0.22 percentage points [95% CI -0.30, -0.15]) and bodyweight (ETD -1.92 kg [95% CI -2.91, -0.93]). While semaglutide's benefits were preserved across the 87.7% (n = 4064) not meeting SUSTAIN-7 trial-eligibility (HbA1c: ETD -0.23 percentage points [95% CI -0.31, -0.15]; bodyweight: ETD -2.01 kg [95% CI -3.07, -0.95]), reductions in HbA1c and bodyweight were greater among trial-eligible individuals (12.3%; n = 572) for both agents (trial-eligible [semaglutide/dulaglutide] versus non-eligible [semaglutide/dulaglutide] individuals, HbA1c: -1.10/-1.02 versus -0.83/-0.60 percentage points; bodyweight: -5.72/-4.18 versus -5.50/-3.49 kg). Early discontinuers showed attenuated treatment effects and higher gastrointestinal event rates than those remaining on-treatment (23.5-26.1 versus 10.6-13.8 per 100 person-years). New users of semaglutide achieved greater reductions in HbA1c and bodyweight than new users of dulaglutide with comparable safety, with benefits preserved across SUSTAIN-7 trial-eligible and non-eligible individuals, supporting preferential use of semaglutide in UK clinical practice. Swiss National Science Foundation.",
+          "authors": [
+            "Franziska S Ulrich",
+            "Morten Frost Nielsen",
+            "Nicola Napoli",
+            "et al."
+          ],
+          "journal": "The Lancet regional health. Europe",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42294355/"
+        },
+        {
+          "pmid": "42286330",
+          "title": "Impact of Preoperative Semaglutide Discontinuation Timing on Postoperative Outcomes in Aesthetic Abdominoplasty: A Retrospective Comparative Study.",
+          "abstract": "The widespread adoption of GLP-1 receptor agonists such as semaglutide for weight loss has led to an increasing number of non-diabetic patients seeking body contouring procedures after pharmacologic weight reduction. However, concerns have emerged regarding postoperative complications potentially linked to GLP-1 therapy, particularly when continued up to the time of surgery. This retrospective cohort study aimed to evaluate the impact of preoperative semaglutide discontinuation timing on short-term postoperative outcomes in aesthetic lipoabdominoplasty. Eighty patients who underwent primary lipoabdominoplasty were divided into four groups: continued semaglutide until surgery (Group A), 2-week discontinuation (Group B), 4-week discontinuation (Group C), and semaglutide-na\u00efve controls (Group D). All patients were matched for age, BMI, and surgical technique. Postoperative complications within 30 days were assessed. Group A exhibited the highest complication rate (45%), including wound dehiscence, infection, and seroma formation. Group B showed moderate improvement (30% complication rate), while Group C demonstrated a significant reduction in adverse outcomes (10%), comparable to the control group (10%). Gastrointestinal intolerance and prolonged drain duration were also more frequent in patients with ongoing semaglutide use. No reoperations or readmissions occurred. Continuation of semaglutide until surgery significantly increases postoperative complication risk in lipoabdominoplasty. A 4-week preoperative discontinuation period effectively normalizes outcomes, supporting its use as a safety measure in aesthetic surgery candidates. These findings emphasize the need for standardized perioperative management protocols for patients on GLP-1 therapy and underscore the importance of interdisciplinary coordination and nutritional assessment. This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+          "authors": [
+            "Agostino Bruno",
+            "Alessio Calicchia",
+            "Marco Schirosi"
+          ],
+          "journal": "Aesthetic plastic surgery",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42286330/"
+        },
+        {
+          "pmid": "42286088",
+          "title": "Retrospective case-control study of pre-diagnosis observational and prescription data in Parkinson's disease.",
+          "abstract": "There are currently no disease-modifying treatments for Parkinson's disease. Retrospective analysis of routinely collected health data may enable earlier risk detection and identify therapeutic candidates for drug repurposing. We conducted a retrospective case-control study using data from the Clinical Practice Research Datalink. Individuals diagnosed with Parkinson's disease (n\u2009=\u200937,910) were matched by age, sex, and general practice to 113,730 controls. Biometric measures and prescription histories were analysed across two pre-diagnostic windows (5-10 years and 10-20 years before diagnosis). Logistic regression models were used to evaluate associations between biomarkers, medication exposure, and Parkinson's disease incidence. A composite risk score was constructed and assessed using receiver operating characteristic analysis. Individuals who developed Parkinson's disease showed significant deviations in established vascular, metabolic, and inflammatory markers years before diagnosis, including elevated systolic blood pressure, serum urea, and creatinine. The combined risk model demonstrated moderate predictive accuracy (area under the curve\u2009=\u20090.73). Previously reported contrasting associations of salbutamol and propranolol with Parkinson's disease incidence were confirmed. Hormonal therapies and triptan medications were associated with lower disease incidence but were more frequently prescribed to individuals with more favourable biometric risk profiles, suggesting potential confounding. In contrast, glucagon-like peptide-1 receptor agonists were prescribed to individuals with higher underlying risk yet were associated with reduced disease incidence. Integration of biometric and prescription histories improves interpretation of medication-disease associations in population data. These findings support glucagon-like peptide-1 receptor agonists as candidates for further investigation in Parkinson's disease based on observational associations and demonstrate the value of real-world data for early identification of population-level risk patterns and therapeutic discovery in neurodegenerative disease.",
+          "authors": [
+            "Patrick Doherty",
+            "Susan Duty",
+            "Gareth Williams"
+          ],
+          "journal": "Scientific reports",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42286088/"
+        },
+        {
+          "pmid": "42277424",
+          "title": "Mapping the continuum of procedural bariatric care: real-world weight loss after endoscopic and surgical interventions.",
+          "abstract": "Obesity is a chronic, relapsing disease for which lifestyle and pharmacologic therapies, including glucagon-like peptide-1 receptor agonists, can achieve meaningful weight loss but are often limited by tolerability, access, and weight recurrence after discontinuation. Consequently, metabolic and bariatric interventions play a central role in the management of moderate to severe obesity. However, real-world comparative data spanning endoscopic and multiple surgical modalities remain limited. We performed a retrospective cohort study of consecutive adults undergoing endoscopic sleeve gastroplasty (ESG), sleeve gastrectomy (SG), Roux-en-Y gastric bypass (RYGB), or biliopancreatic diversion with duodenal switch (BPD-DS) at a single tertiary academic center. Patients with concurrent anti-obesity pharmacotherapy were excluded. The primary outcome was percent total body weight loss (TBWL%) at 12\u00a0months (\u00b1\u20092\u00a0months). Secondary outcomes included categorical TBWL thresholds (>\u200910%,\u2009>\u200915%,\u2009>\u200920%,\u2009>\u200925%,\u2009>\u200930%) and percent excess weight loss (EWL%). Multivariable linear regression was used to identify independent predictors of TBWL. Among 2,825 patients (79.3% female; mean age 47.5\u2009\u00b1\u200911.9\u00a0years; mean baseline BMI 45.6\u2009\u00b1\u20097.9\u00a0kg/m Endoscopic and surgical bariatric interventions are associated with distinct yet overlapping weight loss profiles at one year, reflecting differences in mechanism, invasiveness, and patient selection. While absolute TBWL varies across modalities, convergence in EWL highlights the influence of baseline adiposity and the importance of metric selection. These findings provide practical benchmarks to support individualized, patient-centered decision-making across the full continuum of metabolic therapies.",
+          "authors": [
+            "Wissam Ghusn",
+            "Nour El Ghazal",
+            "Simon J Laplante",
+            "et al."
+          ],
+          "journal": "Surgical endoscopy",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42277424/"
+        },
+        {
+          "pmid": "42269776",
+          "title": "GLP-1 receptor agonist adjunct therapy stabilises Ramadan dysglycaemia in insulin-treated diabetes: a CGM-based study.",
+          "abstract": "Patients with type 1 and insulin-treated type 2 diabetes are at higher risk of hypo- and hyperglycaemia during Ramadan fasting. The role of incretin-based add-on therapy (GLP-1 receptor agonist semaglutide and the GLP-1/GIP dual agonist tirzepatide) in attenuating Ramadan dysglycaemia in insulin-treated type 2 diabetes has not been characterised using continuous glucose monitoring. Emerging evidence indicates that exaggerated post-iftar hyperglycaemia, drives Ramadan dysglycaemia in insulin-treated individuals. To use continuous glucose monitoring (CGM) to characterise glycaemic control in patients with type 1 and type 2 diabetes on intensive insulin during Ramadan fasting, and to evaluate the role of add-on semaglutide or tirzepatide in attenuating post-iftar hyperglycaemia. Adults with type 1 or type 2 diabetes using FreeStyle Libre CGM who completed\u00a0\u2265\u00a014 full fasting days during Ramadan 2025 were included. Of 140 participants screened pre-Ramadan, 54 met all inclusion criteria and were analysed: type 2 diabetes on basal-bolus insulin alone (BB, n\u00a0=\u00a018), type 2 diabetes on basal-bolus plus tirzepatide or semaglutide (BB+, n\u00a0=\u00a018) - matched 1:1 by age, baseline HbA1c and BMI - and type 1 diabetes on basal-bolus insulin (T1DM, n\u00a0=\u00a018). CGM metrics were collected over 28\u00a0days pre-Ramadan (1-28 February 2025) and 29\u00a0days during Ramadan (1-29 March 2025) and compared within and between groups, and across fasting versus non-fasting windows. Dysglycaemia was driven predominantly by the post-iftar period. BB participants showed marked deterioration during non-fasting hours. Adjunctive therapy attenuated this effect: time in range 74.4\u00a0% vs 36.8\u00a0% (p\u00a0=\u00a00.007), glucose management indicator 6.9\u00a0% vs 8.3\u00a0% (p\u00a0=\u00a00.004), and\u00a0>\u00a02-fold (\u224861\u00a0%) reduction in incremental post-iftar area under the curve (102,014 vs 260,578\u00a0mg/dL\u00b7min over the 4-h post-iftar window). In matched insulin-treated type 2 diabetes cohorts, add-on semaglutide or tirzepatide stabilised Ramadan glycaemia and reduced post-iftar hyperglycaemia without increasing hypoglycaemia, and was well tolerated with no treatment discontinuations during Ramadan.",
+          "authors": [
+            "Tanveer Ashraf",
+            "Nader Lessan"
+          ],
+          "journal": "Diabetes research and clinical practice",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42269776/"
+        },
+        {
+          "pmid": "42265610",
+          "title": "Residual gastric content after holding of glucagon-like peptide-1 receptor agonists before elective surgery: a cross-sectional study - the RESIDUAL study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RA) are now increasingly used for glycemic control in type 2 diabetes mellitus as well as for weight loss. Their effect on gastric emptying may increase the risk of aspiration in the perioperative setting; unfortunately, the optimal schedule of perioperative holding of GLP-1 RA is unclear. We conducted a cross-sectional prospective study at two university affiliated hospitals in Montreal, Canada, comparing the preoperative prevalence of increased residual gastric content (RGC) on gastric ultrasound (GUS) between two groups of fasted adults scheduled for elective surgery: (i) an exposure group of patients receiving a weekly injectable GLP-1 RA and discontinued for \u2265\u20097 days before surgery, regardless of indication; and (ii) a control group of patients not receiving any GLP-1 RA, preferentially with type 2 diabetes or with a body mass index\u2009\u2265\u200925\u00a0kg/m\u00b2. The primary outcome was increased RGC, defined as the presence of solid content, thick liquid, or >\u20091.5 mL/kg of clear liquid. Confounding was addressed using overlap-weighting propensity-score adjustment. 93 patients were included. The unadjusted prevalence of increased RGC was 24% (10/41) in the control group and 42% (22/52) in the exposure group. Solid content accounted for 80% (8/10) and 82% (18/22) of positive exams in the control group and the exposure group, respectively. In the unadjusted analysis, there was no statistically significant difference in increased RGC between groups (prevalence ratio, 1.73; 95% CI, 0.96 to 3.75). There was no statistically significant difference between groups after adjustment for confounding (adjusted prevalence ratio, 1.65; 95% CI, 0.7 to 3.7) with an absolute average treatment effect of 15.4% (95% CI, -10 to 35.6). The prevalence of increased residual gastric content was 42% in patients who had discontinued weekly GLP-1 RA for at least 7 days, compared with 24% in non-exposed controls. Although this difference was not statistically significant, our study was underpowered. The findings therefore represent a clinically relevant but statistically inconclusive signal that the recommended 7-day discontinuation interval may not consistently restore an empty stomach in patients on weekly GLP-1 RA. This study was registered on clinicaltrials.gov (July 8th, 2024, NCT06500143).",
+          "authors": [
+            "Charles Boudreau",
+            "Marjorie Couture",
+            "Nicolas Rousseau-Saine",
+            "et al."
+          ],
+          "journal": "BMC anesthesiology",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42265610/"
+        },
+        {
+          "pmid": "42262435",
+          "title": "Use of Glucagon-Like Peptide-1 Receptor Agonists in Women with Type 2 Diabetes Before Pregnancy: Addressing the Dilemma in A Real-World Setting.",
+          "abstract": "To address the clinical dilemma of how best to counsel women with type 2 diabetes (T2D) using glucagon-like peptide-1 receptor agonists (GLP-1RA) regarding pregnancy. Animal studies raise concern for fetal loss, malformations and adverse fetal growth after GLP-1RA exposure. Nonetheless, three cohort studies and one prospective study including 2,994 women with T2D exposed to GLP-1RA in early pregnancy indicate no increased risk of malformations compared with unexposed pregnancies, and observational data in 168 GLP-1RA exposed pregnancies are reassuring regarding miscarriage and fetal growth. Women with T2D are advised to use contraception and to discontinue GLP-1RAs two months before planned pregnancy. Despite concerns in animal studies, GLP-1RA exposure in early T2D pregnancy has not been associated with increased risk of malformations. If a woman with T2D inadvertently becomes pregnant while using GLP-1RA, the existing human evidence does not support a recommendation of terminating pregnancy.",
+          "authors": [
+            "Aria Amiri",
+            "Sofie H\u00e6dersdal",
+            "Peter Damm",
+            "et al."
+          ],
+          "journal": "Current diabetes reports",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42262435/"
+        },
+        {
+          "pmid": "42261786",
+          "title": "Impact of GLP-1 Receptor Agonist on Atrial Fibrillation Recurrence After Catheter Ablation in Non-Obese Patients.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have been associated with reduced atrial fibrillation (AF) recurrence after catheter ablation in obese and diabetic populations, largely attributed to weight reduction. Whether these agents provide weight-independent antiarrhythmic benefits remains unclear. We evaluated the association between GLP-1 RA therapy and long-term clinical outcomes following AF ablation in non-obese patients. We conducted a retrospective cohort study using the TriNetX U.S. Collaborative Network. Adults (\u226518 years) with body mass index (BMI) \u226429.9\u00a0kg/m After matching, 1749 patients were included in each group (mean age 68 years; 38% female). At 1 year, GLP-1 RA use was associated with lower cardioversion (hazard ratio [HR] 0.61; 95% confidence interval [CI] 0.40-0.91), reduced AAD use (HR 0.68; 95% CI 0.61-0.77), decreased heart failure exacerbation (HR 0.53; 95% CI 0.32-0.85), and fewer hospitalizations (HR 0.69; 95% CI 0.51-0.94). Repeat ablation, stroke, and mortality were similar. At 3 years, reductions in cardioversion, AAD use, and heart failure exacerbation persisted. In non-obese patients undergoing AF ablation, GLP-1 RA therapy was associated with reduced arrhythmia-related interventions and heart failure exacerbation, supporting potential weight-independent antiarrhythmic effects. Prospective trials are warranted.",
+          "authors": [
+            "Saeed Abughazaleh",
+            "Khalid Sawalha",
+            "Ahmad Al Nawaiseh",
+            "et al."
+          ],
+          "journal": "Pacing and clinical electrophysiology : PACE",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42261786/"
+        },
+        {
+          "pmid": "42260171",
+          "title": "Differential impact of glucagon-like peptide-1 (GLP-1) receptor agonists for weight loss in the type 2 diabetic and non-diabetic populations.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have emerged as a cornerstone therapy for obesity management, yet long-term comparative effectiveness across diabetes status, adherence, and specific agents remains unclear. This study evaluates multi-year weight-loss outcomes associated with GLP-1 therapy and characterizes medication- and phenotype-specific differences. This study represents a subgroup analysis of a large-scale meta-analysis including clinical trials, observational and case-control studies published from 2010 to 2025 reporting long-term weight outcomes for GLP-1 agents. Outcomes were evaluated across mixed, intention-to-treat (ITT), and treatment-adherent populations and stratified by diabetes status. Mixed-effects meta-regression was performed to evaluate independent predictors of weight loss. A total of 56,580 patients from 45 studies were included. GLP-1 therapy consistently produced greater weight loss than placebo across all populations. Non-diabetic participants achieved the greatest reductions, losing 15.7% of baseline weight at 12\u00a0months versus 5.1% in diabetic users in the mixed cohort. ITT results were similar but modestly attenuated, whereas adherent patients demonstrated the largest reductions. Diabetes status was a strong effect modifier: non-diabetic individuals achieved 2.5-4\u2009\u00d7\u2009greater reductions than diabetics receiving the same agents. Meta-regression confirmed diabetes status as an independent negative predictor of weight loss (\u03b2\u2009=\u2009\u2009-\u20091.77, p\u2009<\u20090.001). Semaglutide produced significantly greater reductions than liraglutide after adjustment (\u03b2\u2009=\u2009\u2009+\u20091.67, p\u2009<\u20090.001), while baseline BMI was inversely associated with percent weight change (\u03b2\u2009=\u2009\u2009+\u20090.46, p\u2009<\u20090.001). GLP-1 therapies produce durable weight loss with outcomes strongly influenced by diabetes status, adherence, and agent selection. These findings support a personalized, phenotype-based approach to GLP-1 prescribing.",
+          "authors": [
+            "Iwanger-I-Ter T Jia",
+            "Grace C Bloomfield",
+            "Mike Y Chen",
+            "et al."
+          ],
+          "journal": "Surgical endoscopy",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42260171/"
+        },
+        {
+          "pmid": "42259626",
+          "title": "Investigating the Incremental Cost and Utilization Burden of Obstructive Sleep Apnea in Overweight to Severely Obese Patients.",
+          "abstract": "To quantify the incremental economic and utilization burden of comorbid obstructive sleep apnea (OSA) within an overweight to severely obese adult population. This retrospective cohort study utilized 2016-2025 IQVIA PharMetrics Plus Closed Health Plan commercial claims data to identify overweight to severely obese adults aged 18-64\u2009years. Patients with diagnosed OSA were propensity-score matched 1:1 to non-OSA controls. Generalized linear models were constructed to quantify the incremental burden of OSA through adjusted cost/rate ratios and average marginal effects (AMEs) over a 365-day follow up period. Outcomes were also stratified by obesity severity, cardiovascular disease (CVD), diabetes, sex, and baseline glucagon-like peptide-1 receptor agonist (GLP-1 RA) use. Among OSA patients, 13\u2009971 (99.9%) were successfully matched (total n\u2009=\u200927\u2009942). Patients with OSA incurred significantly higher total healthcare costs compared to controls (adjusted cost ratio\u2009=\u20091.24; 95% CI\u2009=\u2009[1.20, 1.28]), corresponding to an AME of $6942 per patient. Costs were driven by routine disease management such as outpatient visits (AME\u2009=\u2009$2955) and prescription costs (AME\u2009=\u2009$3198). Subgroup analyses revealed that incremental costs were high among patients with CVD (AME\u2009=\u2009$9257) and notably, the incremental cost of OSA remained substantial even among chronic users of GLP-1 RAs (AME\u2009=\u2009$12359). Comorbid OSA is associated with a significant increase in total healthcare costs driven largely by outpatient and prescription costs. This burden was concentrated among patients with cardiovascular comorbidity and persisted among chronic GLP-1 RA users.",
+          "authors": [
+            "Hyung Seok John Kim",
+            "Tien Hoang Tran",
+            "Christopher N Schmickl",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42259626/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with type 2 diabetes initiating semaglutide or dulaglutide in UK primary care between Jan 2019 and Dec 2022",
+          "medications": "Semaglutide versus dulaglutide",
+          "country_dataset": "UK (IQVIA Medical Research Data/THIN)",
+          "key_findings": "Study evaluated comparative real-world effectiveness and safety of once-weekly semaglutide versus dulaglutide in UK primary care using population-based cohort data from IQVIA IMRD. Co-primary outcomes included 1-year changes in HbA1c and bodyweight to assess external validity beyond the SUSTAIN-7 trial."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=80",
+          "population": "Non-diabetic patients undergoing primary lipoabdominoplasty after semaglutide-induced weight loss",
+          "medications": "Semaglutide (discontinuation timing)",
+          "country_dataset": "Not specified",
+          "key_findings": "Retrospective cohort study evaluated the impact of preoperative semaglutide discontinuation timing on short-term postoperative outcomes in aesthetic lipoabdominoplasty patients. Study assessed complications potentially linked to continued GLP-1 therapy near the time of surgery."
+        },
+        {
+          "study_type": "Case-control study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=37,910 cases; n=113,730 controls",
+          "population": "Individuals diagnosed with Parkinson's disease matched to controls by age, sex, and general practice",
+          "medications": "Various medications including potential GLP-1 related prescriptions",
+          "country_dataset": "UK (Clinical Practice Research Datalink)",
+          "key_findings": "Retrospective case-control study analyzed routinely collected health data to enable earlier Parkinson's disease risk detection and identify therapeutic candidates for drug repurposing. Prescription histories were analyzed across two pre-diagnostic windows (5-10 years and 10-20 years before diagnosis)."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Consecutive adults undergoing endoscopic and surgical interventions for moderate to severe obesity",
+          "medications": "Glucagon-like peptide-1 receptor agonists versus bariatric interventions",
+          "country_dataset": "Not specified",
+          "key_findings": "Retrospective cohort study evaluated real-world weight loss outcomes after endoscopic and surgical bariatric interventions, comparing pharmacologic therapy including GLP-1 RAs with procedural approaches. Study addressed limitations in tolerability, access, and weight recurrence after medication discontinuation."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with type 1 and insulin-treated type 2 diabetes during Ramadan fasting",
+          "medications": "Semaglutide and tirzepatide as add-on to insulin",
+          "country_dataset": "Not specified",
+          "key_findings": "CGM-based prospective study characterized the role of GLP-1 receptor agonist semaglutide and GLP-1/GIP dual agonist tirzepatide in attenuating Ramadan dysglycaemia in insulin-treated type 2 diabetes, with a focus on post-iftar hyperglycaemia patterns."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Fasted adults scheduled for elective surgery",
+          "medications": "GLP-1 receptor agonists (holding/discontinuation)",
+          "country_dataset": "Canada (Montreal, two university affiliated hospitals)",
+          "key_findings": "Cross-sectional prospective study compared the preoperative prevalence of increased residual gastric content on gastric ultrasound between fasted adults with different GLP-1 RA holding schedules. Study aimed to clarify the optimal perioperative discontinuation timing given GLP-1 RAs' effects on gastric emptying."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=2,994 (exposed to GLP-1RA in early pregnancy); n=168 (additional reassuring observational data)",
+          "population": "Women with type 2 diabetes using GLP-1 receptor agonists before and during pregnancy",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not specified",
+          "key_findings": "Review of three cohort studies and one prospective study totaling 2,994 women exposed to GLP-1RA in early pregnancy showed no increased risk of malformations compared with unexposed pregnancies, and observational data in 168 GLP-1RA exposed pregnancies were reassuring regarding miscarriage and fetal growth."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Non-obese adults (BMI \u226429.9 kg/m\u00b2) with atrial fibrillation undergoing catheter ablation",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States (TriNetX U.S. Collaborative Network)",
+          "key_findings": "Retrospective cohort study evaluated the association between GLP-1 RA therapy and long-term clinical outcomes following atrial fibrillation catheter ablation in non-obese patients to determine if weight-independent antiarrhythmic benefits exist."
+        },
+        {
+          "study_type": "Meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "23 studies (clinical trials, observational and case-control studies)",
+          "population": "Type 2 diabetic and non-diabetic populations treated with GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists (specific agents compared)",
+          "country_dataset": "Multiple countries (studies published 2010-2025)",
+          "key_findings": "Subgroup analysis of large-scale meta-analysis including 23 clinical trials and observational studies evaluated multi-year weight-loss outcomes and characterized medication- and phenotype-specific differences in GLP-1 therapy efficacy between type 2 diabetic and non-diabetic populations, with focus on adherence and long-term comparative effectiveness."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Overweight to severely obese adults aged 18-64 years with and without obstructive sleep apnea",
+          "medications": "Not GLP-1 specific (general obesity and comorbidity study)",
+          "country_dataset": "United States (IQVIA PharMetrics Plus Closed Health Plan commercial claims data, 2016-2025)",
+          "key_findings": "Retrospective cohort study utilized propensity-score matching to quantify the incremental economic and utilization burden of comorbid obstructive sleep apnea within overweight to severely obese adults, examining cost/rate ratios and average marginal effects over 365-day follow-up."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
