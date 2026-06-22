@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-22",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42321339",
+          "title": "GLP-1 receptor agonists and clinical outcomes in adults with Crohn's disease and obesity: a propensity score-matched real-world cohort study.",
+          "abstract": "Obesity affects 15%-40% of adults with Crohn's disease (CD) and is associated with worse outcomes. GLP-1 receptor agonists (GLP-1RAs) have pleiotropic anti-inflammatory effects, yet their clinical impact in CD with comorbid obesity is incompletely characterized. We evaluated whether GLP-1RA initiation was associated with mortality, health care utilization, and TNF inhibitor use as a proxy measure of treatment intensity. Retrospective new-user cohort study using the TriNetX Global Collaborative Network (162 organizations, 2015-2024). Adults (\u2265\u200918 years) with CD and obesity without prior GLP-1RA exposure were included. Nonusers received calendar-time-matched index dates to minimize immortal time bias. Propensity score matching (1:1) incorporated\u2009>\u200930 covariates including comorbidities, CD treatment intensity proxies, and inflammatory markers. Outcomes were assessed at 1 year (days 1-365 post-index) and 5 years (days 1-1,825 post-index); both time windows were analyzed as fixed horizons under an intention-to-treat framework using separate TriNetX query runs. Patients were censored at last recorded EHR encounter or study end (2024). Due to database constraints, detailed longitudinal exposure data (adherence, discontinuation, agent switching) were not available. Among 10,550 GLP-1RA users and 108,944 nonusers, 9,766 pairs were matched at 1 year and 9,320 at 5 years (the latter representing a subset of the base population with sufficient follow-up). After matching, covariates were well-balanced (all SMDs\u2009<\u20090.1 except BMI by design). At 1 year, GLP-1RA initiation was associated with lower mortality (0.7% vs. 4.2%; RR 0.17, 95% CI 0.13-0.22), hospitalization (10.0% vs. 24.7%; RR 0.40, 95% CI 0.38-0.43), ED visits (18.9% vs. 25.3%; RR 0.75, 95% CI 0.71-0.79), and TNF inhibitor use (7.1% vs. 10.9%; RR 0.65, 95% CI 0.60-0.72); corticosteroid rates were similar (RR 1.00, 95% CI 0.96-1.03). At 5 years, all utilization associations were sustained; corticosteroid use was modestly lower (RR 0.91, 95% CI 0.89-0.94). E-value for 1-year mortality upper CI: 8.56; healthy-user bias cannot be excluded. In adults with CD and obesity, GLP-1RA initiation was associated with lower health care utilization and lower TNF inhibitor use at 1 and 5 years; the latter should not be interpreted as evidence of reduced treatment escalation given inability to distinguish new initiation from continuation. The observed mortality difference is unlikely to reflect a true causal effect and should be treated as hypothesis-generating. These findings support GLP-1RA metabolic safety in this population and warrant prospective evaluation.",
+          "authors": [
+            "Nakul Ganju",
+            "Kenneth Ssebambulidde",
+            "Shubham Gupta",
+            "et al."
+          ],
+          "journal": "Scientific reports",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42321339/"
+        },
+        {
+          "pmid": "42309434",
+          "title": "Adjunctive GLP1 Receptor Agonists in Patients with Inflammatory Bowel Diseases and Obesity and/or Diabetes: A Target Trial Emulation.",
+          "abstract": "We conducted a target trial emulation study to examine the effect of two glucagon-like peptide-1 receptor agonists (GLP1RAs) (semaglutide and tirzepatide) on clinical outcomes in patients with inflammatory bowel diseases (IBD) with obesity and/or diabetes. We emulated a target trial of GLP1RAs in eligible, stable patients with IBD (no steroid use, no IBD-related hospitalization or surgery and stable dose of IBD therapy for >6 months) with comorbid obesity and/or diabetes using observational data from an administrative claims database (OptumLabs Data Warehouse) between 2018-23. We created two separate cohorts: (cohort 1) background 5-ASA or no IBD-directed medications; (cohort 2) background advanced therapies and/or immunomodulators. We compared 1-year risk of relapse (composite of IBD-related hospitalization, surgery or prednisone use) and safety with GLP1RA initiation vs. non-initiation, after 1:1 propensity score matching. (Cohort 1) In 2028 patients initiated on GLP1RAs (63\u00b111y, 63% female, 71% with UC) matched 1:1 to GLP1RA non-initiators, there was no difference in risk of relapse (7.9% vs. 7.9%; RR,1.01 [95% CI,0.82-1.24]) or safety outcomes (7.0% vs. 7.9%; RR,0.88 [0.71-1.10]); 36% patients discontinued GLP1RAs within 1 year. (Cohort 2) In 346 patients initiated on GLP1RAs (59\u00b112y, 62% female, 43% with UC) matched 1:1 to GLP1RA non-initiators, no significant difference was observed in the risk of relapse (12.4% vs. 15.6%; RR,0.80 [0.55-1.15]) or safety outcomes (5.5% vs. 6.6%; RR,0.88 [0.48-1.58]); 33% patients discontinued GLP1RAs within 1 year. Adjunctive treatment with semaglutide or tirzepatide does not improve outcomes in patients with stable IBD on advanced therapies and/or IMM and/or 5-ASA.",
+          "authors": [
+            "Kuan-Hung Yeh",
+            "Dhruv Ahuja",
+            "Sagar B Patel",
+            "et al."
+          ],
+          "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42309434/"
+        },
+        {
+          "pmid": "42304446",
+          "title": "Cardioprotective glucose-lowering drugs, statins, and secondary major adverse cardiovascular events: a nationwide cohort study of individuals with type 2 diabetes and cardiovascular disease.",
+          "abstract": "In type 2 diabetes, cardioprotective glucose-lowering drugs, including sodium-glucose cotransporter-2 inhibitors and glucagon-like peptide-1 receptor agonists, and statins reduce the risk of secondary major adverse cardiovascular events. No trials examined the combination of these drugs as withholding statins in high-risk individuals would be unethical. We tested the hypothesis that cardioprotective glucose-lowering drug and statin combined is associated with lower risk of secondary major adverse cardiovascular events than either drug alone. Individuals with type 2 diabetes and established cardiovascular disease from December 2012 through 2021 were identified via national Danish health registers. They were analyzed in an active comparator cohort including 15,404 individuals followed from treatment intensification with cardioprotective glucose-lowering drug or dipeptidyl peptidase-4 inhibitor and additionally in a time-varying cohort including 76,853 individuals with yearly updated treatment and covariate status. The treatment groups were: (i) no cardioprotective drug (no use of cardioprotective glucose-lowering drug or statin), (ii) cardioprotective glucose-lowering drug, (iii) statin, and (iv) cardioprotective glucose-lowering drug and statin. The primary outcome was a new major adverse cardiovascular event (myocardial infarction, stroke, or cardiovascular death). During mean 2.7 and 4.7\u00a0years of follow-up, 1,843 and 23,051 had major adverse cardiovascular events in the active comparator and time-varying cohorts. In the active comparator cohort, when compared to nonusers of cardioprotective glucose-lowering drug or statin, multivariable adjusted hazard ratios of major adverse cardiovascular events were 0.82 (95% confidence interval: 0.67 to 1.02) for cardioprotective glucose-lowering drug, 0.85 (0.74 to 0.97) for statin, and 0.71 (0.60 to 0.84) for cardioprotective glucose-lowering drug and statin combined. Corresponding hazard ratios in the time-varying cohort were 0.77 (0.69 to 0.86), 0.73 (0.70 to 0.75), and 0.57 (0.54 to 0.60), respectively. When restricting the active comparator cohort to individuals entering observation between 2019 and 2021 with reduced statistical power, the corresponding hazard ratios were 0.86 (0.57 to 1.31), 0.89 (0.60 to 1.30), and 0.79 (0.54 to 1.14), respectively. In both cohorts p for interaction between cardioprotective glucose-lowering drug and statin was\u2009>\u20090.05. In individuals with type 2 diabetes and established cardiovascular disease, treatment with a cardioprotective glucose-lowering drug and statin in combination was associated with lower risk of secondary major adverse cardiovascular events than using either drug alone. This is important given the persistently suboptimal uptake of both drug classes in real-world practice. Some biases can never be completely excluded in real-world pharmacotherapy use studies such as this one, including confounding by indication, time-related or immortal time biases, and shifting standards of care, rendering causal interpretation unattainable; however, our results seemed consistent across numerous sensitivity analyses and designs.",
+          "authors": [
+            "Tummas Ternhamar",
+            "Mia \u00d8 Johansen",
+            "B\u00f8rge G Nordestgaard",
+            "et al."
+          ],
+          "journal": "Cardiovascular diabetology",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42304446/"
+        },
+        {
+          "pmid": "42297761",
+          "title": "Temporal Trends and Clinical Characteristics of Incretin-Based Therapy Use in Women With Polycystic Ovary Syndrome: A Real-World Cohort Study From a Polish Private Healthcare Network.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and the dual GIP/GLP-1 receptor agonist tirzepatide are increasingly used for weight and cardiometabolic management, but real-world prescribing patterns in women with polycystic ovary syndrome (PCOS) remain poorly characterised. We performed a retrospective cohort study of 38\u2009263 adult women with ICD-coded PCOS in the LUX MED network, Poland, using electronic health records data from July 2006 to April 2026. The primary analysis included women diagnosed with PCOS in 2018-2024 and evaluated prescription-recorded initiation of GLP-1 RA/GIP-GLP-1 RA therapy within 365\u2009days after the index diagnosis. Temporal trends were assessed using logistic regression with unadjusted and multivariable-adjusted models. Overall, 4557 women (11.9%) had a recorded GLP-1 RA/GIP-GLP-1 RA prescription and 16\u2009381 (42.8%) received metformin. Among incretin-based therapy users, 75.5% had metformin co-exposure, whereas only 11.5% had coded type 2 diabetes mellitus. Recorded BMI was higher among GLP-1 RA/GIP-GLP-1 RA users than among metformin-only or untreated women (median 31.2 vs. 26.3 and 22.1\u2009kg/m Incretin-based therapy use in PCOS increased markedly over time, suggesting expansion beyond classical glycaemic indications toward weight-focused and cardiometabolic management. Studies using dispensing, persistence, safety and outcome data are needed.",
+          "authors": [
+            "Artur Dziewierz",
+            "Natalia Kulicka",
+            "Kaja Stolarska",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42297761/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with Crohn's disease and obesity",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "TriNetX Global Collaborative Network (162 organizations, 2015-2024)",
+          "key_findings": "Study evaluated association between GLP-1RA initiation and mortality, healthcare utilization, and TNF inhibitor use in adults with Crohn's disease and obesity using propensity score matching methodology across 162 organizations from 2015-2024."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with inflammatory bowel diseases with obesity and/or diabetes",
+          "medications": "Semaglutide and tirzepatide (GLP-1RAs)",
+          "country_dataset": "OptumLabs Data Warehouse (2018-2023)",
+          "key_findings": "Target trial emulation study examined effects of semaglutide and tirzepatide on clinical outcomes in stable IBD patients with comorbid obesity and/or diabetes using administrative claims data from OptumLabs between 2018-2023."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals with type 2 diabetes and established cardiovascular disease",
+          "medications": "GLP-1 receptor agonists, sodium-glucose cotransporter-2 inhibitors, and statins",
+          "country_dataset": "Nationwide cohort study",
+          "key_findings": "Nationwide cohort study tested hypothesis that combination of cardioprotective glucose-lowering drugs (including GLP-1RAs) and statins is associated with lower risk of secondary major adverse cardiovascular events compared to either drug alone in type 2 diabetes patients with established cardiovascular disease."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=38,263",
+          "population": "Adult women with polycystic ovary syndrome",
+          "medications": "GLP-1 receptor agonists and tirzepatide (GIP/GLP-1 receptor agonist)",
+          "country_dataset": "LUX MED network, Poland (July 2006 to April 2026)",
+          "key_findings": "Retrospective cohort study of 38,263 women with PCOS evaluated temporal trends and clinical characteristics of GLP-1RA and tirzepatide initiation, analyzing real-world prescribing patterns and patient characteristics in a Polish private healthcare network from 2006-2026."
+        }
+      ],
+      "excluded_count": 11
+    }
+  ]
+}
