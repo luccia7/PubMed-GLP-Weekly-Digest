@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-29",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42363271",
+          "title": "Efficacy and safety of orforglipron in obesity with type 2 diabetes mellitus: a GRADE-assessed meta-analysis of randomized controlled trials.",
+          "abstract": "Obesity and type 2 diabetes mellitus (T2DM) frequently coexist and markedly increase cardiometabolic risk. Orforglipron is a novel oral glucagon-like peptide-1 receptor agonist developed to improve adherence compared with injectable therapies. We performed a systematic review and meta-analysis to evaluate its efficacy and safety. PubMed, Scopus, Cochrane CENTRAL, and Web of Science were searched through January 2026 for randomized controlled trials (RCTs) comparing orforglipron with placebo in adults with obesity and T2DM. Random-effects models were used to pool mean differences (MDs) and risk ratios (RRs) with 95% confidence intervals (CIs). Three RCTs, including 2,505 participants, were analyzed. Dose-subgroup analyses demonstrated a consistent dose-response pattern across all efficacy outcomes. For body weight, reductions versus placebo ranged from MD\u2009-\u20092.43% at 3\u00a0mg to MD\u2009-\u20097.80% at 24\u00a0mg. BMI reductions ranged from MD\u2009-\u20090.88\u00a0kg/m\u00b2 at 3\u00a0mg to MD\u2009-\u20092.70\u00a0kg/m\u00b2 at 45\u00a0mg. Waist circumference reductions were significant at doses\u2009\u2265\u20096\u00a0mg, reaching MD\u2009-\u20095.90\u00a0cm at 24\u00a0mg. HbA1c reductions ranged from MD\u2009-\u20090.80% at 3\u00a0mg to MD\u2009-\u20091.67% at 45\u00a0mg, and fasting serum glucose reductions ranged from MD\u2009-\u200920.62\u00a0mg/dL at 3\u00a0mg to MD\u2009-\u200944.80\u00a0mg/dL at 45\u00a0mg. Treatment discontinuation due to adverse events was higher with orforglipron across doses, while serious adverse events were not significantly different from placebo at any dose. Orforglipron may improve weight and glycemic outcomes in obese patients with T2DM; however, these findings are based on only three randomized controlled trials, and several key efficacy outcomes were rated as low certainty, so the results should be interpreted cautiously pending larger confirmatory studies.",
+          "authors": [
+            "Ahmed Emara",
+            "Mohamed Emara",
+            "Ahmed Mansour",
+            "et al."
+          ],
+          "journal": "Diabetology & metabolic syndrome",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42363271/"
+        },
+        {
+          "pmid": "42348955",
+          "title": "Efficacy and tolerance of GLP-1 analogues in the treatment of adolescent obesity: analysis of a French population.",
+          "abstract": "Adolescent obesity is a chronic condition. The pathophysiology of this complex disease involves genetic mechanisms that influence appetite regulation via the hypothalamus, with environmental factors acting as triggers or aggravating factors. Curative treatment relies on a restrictive diet, which is difficult to maintain long term. In this context, pharmacotherapy, particularly GLP-1 analogues, has proven effective in adults and is considered a therapeutic alternative for adolescents. However, their efficacy and tolerance in obese adolescents without diabetes remain poorly studied, particularly in France. This study evaluated the efficacy and tolerance of liraglutide in 20 obese, non-diabetic adolescents in France. Overall efficacy was lower than expected and lower than in previous publications. Eleven patients (55%) lost weight, but only 3 (15%) lost >5%. However, 7 of the 12 patients (58%) whose body composition was measured lost at least 5% of their fat mass. Sixty-five percent of patients experienced gastrointestinal side effects (nausea, vomiting, diarrhea). These side effects led to discontinuation of treatment in 20% of patients. Although our study is limited by its small sample size and single-center design, it confirms the poor efficacy of liraglutide in obese adolescents. However, drug treatments remain a promising therapeutic option for adolescent obesity. Future development will likely enable more effective management of obese adolescents.",
+          "authors": [
+            "Sarah Bouhmouch",
+            "B\u00e9atrice Dubern",
+            "Catherine Terraz",
+            "et al."
+          ],
+          "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42348955/"
+        },
+        {
+          "pmid": "42331714",
+          "title": "Effects of Weight-Loss Interventions on Kidney, Cardiometabolic and Anthropometric Outcomes in Adults With CKD and Overweight or Obesity: A Systematic Review and Meta-Analysis.",
+          "abstract": "Obesity and chronic kidney disease (CKD) are highly prevalent conditions with substantial public health impacts; their co-existence is common and associated with an aggravated risk for adverse outcomes. We conducted an updated systematic review and meta-analysis to evaluate the effects of weight-loss interventions on kidney, cardiometabolic and anthropometric outcomes in overweight or obese adults with CKD. Systematic searches in PubMed, CENTRAL and Embase databases were performed up to August 2025. Randomised-controlled trials evaluating the effects of any weight-loss interventions (lifestyle, pharmacological, surgical approaches) in overweight or obese patients with any stage of CKD were included. Primary endpoints were kidney and cardiovascular outcomes and mortality; secondary endpoints included anthropometric parameters and blood pressure (BP). Forty-two studies (n\u2009=\u200911\u2009017) were included in qualitative and 27 (n\u2009=\u20097015) in quantitative analysis. Cardiovascular outcomes and mortality data were lacking. The estimated glomerular filtration rate (eGFR) demonstrated a non-significant upward trend following lifestyle and pharmacological interventions (incretin-based therapies) and a significant increase following bariatric surgery (MD: 6.09\u2009mL/min/1.73\u2009m In CKD patients with overweight or obesity, all types of interventions (lifestyle, pharmacological, surgical) are effective for weight-loss. Incretin-based therapies confer additional nephroprotective effects by significantly reducing albuminuria. Uncertainty persists for the remaining outcomes, highlighting the need for additional research.",
+          "authors": [
+            "Anastasia Stamatiou",
+            "Marieta P Theodorakopoulou",
+            "Fotini Iatridi",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42331714/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with obesity and type 2 diabetes mellitus",
+          "medications": "Orforglipron vs placebo",
+          "country_dataset": "Multi-database (PubMed, Scopus, Cochrane CENTRAL, Web of Science)",
+          "key_findings": "Systematic review and meta-analysis evaluated orforglipron, a novel oral GLP-1 receptor agonist developed to improve adherence compared with injectable therapies, for efficacy and safety in obesity with T2DM. The study pooled data from RCTs comparing orforglipron with placebo using random-effects models through January 2026."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Obese adolescents without diabetes",
+          "medications": "GLP-1 analogues",
+          "country_dataset": "France",
+          "key_findings": "Analysis of a French population evaluated efficacy and tolerance of GLP-1 analogues in adolescent obesity treatment. The study addresses a poorly studied area as GLP-1 analogues, proven effective in adults, are considered therapeutic alternatives for obese adolescents despite limited efficacy and tolerance data in this age group without diabetes."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with chronic kidney disease and overweight or obesity",
+          "medications": "Weight-loss interventions (including GLP-1 based therapies)",
+          "country_dataset": "Multi-database (PubMed, CENTRAL, Embase)",
+          "key_findings": "Updated systematic review and meta-analysis evaluated effects of weight-loss interventions on kidney, cardiometabolic and anthropometric outcomes in overweight or obese adults with CKD through August 2025. The study addresses the common co-existence of obesity and CKD, which is associated with aggravated risk for adverse outcomes."
+        }
+      ],
+      "excluded_count": 5
+    }
+  ]
+}
