@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-06",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42399550",
+          "title": "The impact of glucagon-like peptide-1 receptor agonists on objective physical activity in adults: a systematic review and exploratory meta-analysis.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are effective pharmacological treatments for obesity, through appetite suppression and weight reduction. However, their potential influence on physical activity (PA), a key determinant of long-term energy balance, remains unclear. This review aimed to evaluate whether GLP-1 RA treatment affects objectively measured PA in adults with overweight or obesity. A systematic review and exploratory meta-analysis were conducted in accordance with PRISMA guidelines. PubMed and Embase were searched from inception to March 10, 2026. Eligible studies included randomized and non-randomized controlled trials examining objectively measured PA outcomes (e.g., step counts, sedentary time, and intensity-specific PA). Narrative synthesis was performed across all studies, and a random-effects meta-analysis was conducted for studies reporting comparable free-living PA outcomes. Seven studies from six independent trials (n\u2009=\u2009924) were included. Most studies reported no statistically significant differences in PA between GLP-1 RA and control groups. However, five studies (71.4%) showed numerically lower free-living PA in GLP-1 RA-treated groups, with one study reporting a significant reduction in daily step counts (-1144 steps/day, p\u2009=\u20090.01). Structured exercise-related outcomes, including adherence and prescribed exercise duration, were comparable between groups. Meta-analysis of three RCTs showed no significant pooled effect (Hedges' g\u2009=\u2009-0.11, 95% CI -0.30 to 0.09, I",
+          "authors": [
+            "Heeyeon Kim",
+            "Ji Heon Chae",
+            "Hyo Youl Moon"
+          ],
+          "journal": "International journal of obesity (2005)",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42399550/"
+        },
+        {
+          "pmid": "42399086",
+          "title": "Glucagon-like peptide-1 receptor agonists versus dipeptidyl peptidase-4 inhibitors after liver resection for hepatocellular carcinoma in patients with type 2 diabetes: a target trial emulation study.",
+          "abstract": "Recurrence after curative-intent resection remains common in hepatocellular carcinoma (HCC), and whether postoperative incretin-based treatment choice influences outcomes in patients with type 2 diabetes (T2D) is unclear. To determine whether postoperative initiation of glucagon-like peptide-1 receptor agonists (GLP-1RAs), compared with dipeptidyl peptidase-4 inhibitors (DPP-4is), is associated with improved recurrence-free and overall survival after curative-intent resection for HCC. Active-comparator, new-user target trial emulation using electronic medical records from 36 hospitals across China from 2014 to 2023, with follow-up through 1 October 2025. Eligible adults had histologically confirmed HCC and T2D, underwent R0 resection and initiated a GLP-1RA or DPP-4i within postoperative days 0 to 90. Time zero was the first qualifying prescription or order date. The primary estimand was intention-to-treat; a prespecified per-protocol analysis assessed sustained adherence. The primary outcome was recurrence-free survival (RFS), treating death without recurrence as a competing event; overall survival (OS) was secondary. The study was registered with the Chinese Clinical Trial Registry (ChiCTR2600118495). Among 42\u2009855 patients with HCC and T2D who underwent liver resection, 1249 were included in the final analytical cohort, including 723 DPP-4i initiators and 526 GLP-1RA initiators; median follow-up was 50.8 months. In weighted intention-to-treat analyses, GLP-1RA versus DPP-4i initiation was associated with longer RFS (cause-specific HR 0.80, 95%\u2009CI 0.67 to 0.96; p=0.016) and OS (HR 0.58, 95%\u2009CI 0.47 to 0.71; p<0.001). Per-protocol analyses were directionally consistent. Postoperative GLP-1RA initiation, compared with DPP-4i initiation, was associated with delayed recurrence and longer OS; prospective confirmation is warranted. ChiCTR2600118495.",
+          "authors": [
+            "Yan-Jun Xiang",
+            "Zong-Han Liu",
+            "Jin-Kai Feng",
+            "et al."
+          ],
+          "journal": "Gut",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42399086/"
+        },
+        {
+          "pmid": "42398733",
+          "title": "Neighborhood-Level Material Resources and Risk of Cardiovascular Events in Patients with Atherosclerotic Cardiovascular Disease.",
+          "abstract": "Disparities in atherosclerotic cardiovascular disease (ASCVD) outcomes may persist despite universal health care. We examined the association between neighbourhood-level material resources, cardiovascular outcomes, and medication discontinuation among patients with established ASCVD. In this population-based cohort study using administrative data from Ontario, Canada (2019-2021), we included adults aged \u226566 years with an ASCVD event in the prior 10 years. The exposure was neighbourhood-level material resources (quintiles; Q1=most, Q5=least). The primary outcome was a composite of all-cause death, myocardial infarction (MI), or stroke. Secondary outcomes included individual components, heart failure (HF), coronary revascularization, and discontinuation of statins, ezetimibe, sodium-glucose cotransporter-2 inhibitors (SGLT2i), and glucagon-like peptide-1 receptor agonists (GLP-1RA). Among 195,742 individuals, those in the least resources neighbourhoods (Q5) had higher hazards of the composite outcome (HR 1.19, 95% CI 1.16-1.23) and all-cause death (HR 1.23, 95% CI 1.18-1.27) compared with Q1, with similar patterns observed for MI, stroke, and HF. Q5 residents also had higher hazards of discontinuation of statins (HR 1.13, 95% CI 1.03-1.24), ezetimibe (HR 1.26, 95% CI 1.07-1.49), SGLT2i (HR 1.20, 95% CI 1.05-1.37), and GLP-1RA (HR 1.14, 95% CI 1.01-1.29). Despite universal health care, lower neighbourhood-level material resources were independently associated with higher rates of cardiovascular outcomes and medication discontinuation among older adults with ASCVD, highlighting persistent inequities in secondary prevention.",
+          "authors": [
+            "Maya S Sheth",
+            "Irene Jeong",
+            "Anna Chu",
+            "et al."
+          ],
+          "journal": "The Canadian journal of cardiology",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42398733/"
+        },
+        {
+          "pmid": "42397506",
+          "title": "Efficacy of tirzepatide versus SGLT2 inhibitors in metabolic dysfunction-associated steatotic liver disease (MASLD): a multicenter propensity-matched real-world study.",
+          "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent condition with significant cardiometabolic and hepatic risks. Tirzepatide, a dual GLP-1/GIP receptor agonist, shows promise in MASLD, but real-world comparative data against sodium-glucose cotransporter-2 inhibitors (SGLT2is) are lacking. In this multicenter, retrospective, propensity score-matched cohort study using the TriNetX US Collaborative Network, we compared outcomes in 43,743 new tirzepatide initiators versus 43,743 matched SGLT2i users with MASLD and \u2265\u20091 metabolic comorbidity. Propensity Score Matching (1:1, caliper 0.1) balanced >\u200950 covariates. Primary outcomes included all-cause mortality, hospitalization, major adverse cardiovascular events (MACE), major adverse liver outcomes (MALO), and major adverse kidney events (MAKE) at 1- and 3-year follow-up, analyzed via Kaplan-Meier estimation and Cox proportional hazards models. Tirzepatide was associated with significantly lower risks versus SGLT2is. At 1-year follow-up (n\u2009=\u200943,743 per group), all-cause mortality events were 144 (cumulative incidence 0.48%, KM event-free survival 99.52%) with tirzepatide versus 533 (1.38%, 98.62%) with SGLT2i (HR 0.328, 95% CI 0.272-0.394; log-rank p\u2009<\u20090.0001). All-cause hospitalization occurred in 3033 versus 7143 (HR 0.460, 95% CI 0.441-0.480). MACE events were 1064 versus 2376 (HR 0.506, 95%CI 0.471-0.544). MALO events were 149 versus 465 (HR 0.379, 95% CI 0.315-0.456). Hepatic failure and ascites also favored tirzepatide, while MAKE, varices, and hepatic encephalopathy showed no significant differences. Benefits persisted at 3\u00a0years (n\u2009=\u200939,838 per group): mortality 208 versus 963 (HR 0.374, 95% CI 0.321-0.436); hospitalization 3723 versus 9548 (HR 0.528, 95%CI 0.508-0.549); MACE 1260 versus 3282 (HR 0.545, 95%CI 0.510-0.582); and MALO 220 versus 726 (HR 0.478, 95%CI 0.410-0.558). In this large real-world MASLD cohort, tirzepatide was associated with substantial reductions in mortality, hospitalizations, cardiovascular, and liver-related events compared to SGLT2is. These observational findings suggest potential advantages of tirzepatide and warrant prospective validation in randomized trials.",
+          "authors": [
+            "Ibrahim Khalil",
+            "Pallab Sarker",
+            "Nabila Nur",
+            "et al."
+          ],
+          "journal": "Hepatology international",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42397506/"
+        },
+        {
+          "pmid": "42247124",
+          "title": "Tirzepatide for Recurrent Weight Gain after Bariatric Procedures: Real-World Evidence of Efficacy and Safety.",
+          "abstract": "Recurrent weight gain after bariatric surgery (BS) or endoscopic bariatric therapy (EBT) remains a long-term clinical challenge, potentially undermining long-term treatment success. Tirzepatide, a dual agonist of the glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors, has shown promising results in obesity treatment, but data regarding its use in post BS or EBT recurrent weight gain are limited. This observational cohort study evaluated the effectiveness and safety of tirzepatide in patients with recurrent weight gain after BS or EBT. Anthropometric data, BMI categories, and adverse events were collected at baseline and after 24 weeks of treatment. A total of 34 patients (26 females, 8 males) who experienced recurrent weight gain after BS (n\u2009=\u200932) or EBT (n\u2009=\u20092) were treated with once-weekly subcutaneous tirzepatide (dosing range 2.5-10\u00a0mg/week). After 24 weeks, the mean percentage total body weight loss (%TBWL) was 18.1\u2009\u00b1\u20095.6% (p\u2009<\u20090.0001), with a significant reduction in waist circumference (p\u2009<\u20090.0001). Most patients shifted to lower BMI categories, with the majority reaching overweight or normal weight status. Adverse events were exclusively gastrointestinal (constipation, diarrhea, nausea), generally mild, and did not lead to treatment discontinuation. Preliminary evidence suggests that tirzepatide is associated with significant weight loss and good tolerability in this observational cohort for managing recurrent weight gain after bariatric surgery and endoscopic bariatric therapy. These findings suggest a potential role for tirzepatide as a valuable nonsurgical option in the multidisciplinary management of patients experiencing recurrent weight gain after bariatric procedures.",
+          "authors": [
+            "Federica Vinciguerra",
+            "Carla Di Stefano",
+            "Fabio Guccione",
+            "et al."
+          ],
+          "journal": "Obesity surgery",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42247124/"
+        },
+        {
+          "pmid": "42207966",
+          "title": "Comparative Effectiveness of CagriSegma, Semaglutide, Cagrilintide and Tirzepatide in the Management of Overweight and Obesity: A Network Meta-Analysis of Randomized Clinical Trials.",
+          "abstract": "Obesity is a chronic, progressive disease affecting over 1 billion adults worldwide, linked to serious comorbidities, including diabetes, hypertension, and cardiovascular disease and associated with increased mortality. Achieving clinically meaningful weight loss is critical to reducing cardiometabolic risk. Tirzepatide, semaglutide, cagrilintide and their combination (CagriSema) have demonstrated efficacy in clinical trials; however, no direct head-to-head studies have compared all advanced anti-obesity medications. This network meta-analysis examines their comparative efficacy and safety. We systematically searched PubMed, Scopus and Cochrane Central for randomized controlled trials comparing these medications with placebo in adults with overweight or obesity. Outcomes included changes in percent body weight, absolute weight, waist circumference, BMI, patients achieving \u2265\u20095% to \u2265\u200920% weight loss, HDL-C and safety outcomes (AEs, serious AEs, gastrointestinal AEs and treatment discontinuation). Random-effects model and network meta-analysis methods were employed. Twenty-five trials involving 12 interventions met the inclusion criteria. Tirzepatide 15\u2009mg resulted in the greatest percent weight reduction (MD -17.97%), followed by CagriSema (MD -17.84%) and semaglutide 7.2\u2009mg (MD -14.66%). At the \u2265\u200920% weight-loss threshold, CagriSema demonstrated marked superiority (RR 27.82), followed by tirzepatide 15\u2009mg (RR 23.70). Gastrointestinal adverse events increased with all treatments (RR 1.33-1.91), and treatment discontinuation was highest with semaglutide 7.2\u2009mg (RR 3.09). Serious adverse events remained comparable to placebo across all regimens. Tirzepatide 15\u2009mg and CagriSema achieve the greatest weight reduction, including \u2265\u200920% body weight loss. Gastrointestinal adverse events rise with treatment intensity, while serious adverse events remain comparable to placebo. These findings support dual-pathway and combination incretin therapies as preferred options for patients requiring substantial weight loss. Treatment selection should be individualized based on comorbidity burden, tolerability and weight loss goals, recognizing that \u2265\u20095% weight loss improves metabolic parameters while \u2265\u200910% is needed for meaningful comorbidity reduction. Future head-to-head trials are needed.",
+          "authors": [
+            "Sultan Hamarsheh",
+            "Abdel Rahman Jaber",
+            "Omar Abu-Khazneh",
+            "et al."
+          ],
+          "journal": "Endocrinology, diabetes & metabolism",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42207966/"
+        },
+        {
+          "pmid": "42191528",
+          "title": "Withholding or continuing glucose-lowering drugs for elective surgery in patients with type 2 diabetes mellitus: a secondary analysis of the MOPED international, prospective, observational study.",
+          "abstract": "There are conflicting guidelines on whether patients with type 2 diabetes mellitus should withhold or continue glucose-lowering drugs before surgery, especially newer agents. We tested the hypothesis that continuing glucose-lowering drugs increases days alive at home and out of hospital at 30 days (DAH-30). We performed a secondary analysis of a prospective, observational study in 21 European countries of patients with type 2 diabetes mellitus undergoing elective surgery. The primary outcome was DAH-30. The exposure of interest was the continuation or discontinuation of glucose-lowering drugs (metformin, sodium-glucose cotransporter 2 inhibitors [SGLT2i], glucagon-like peptide-1 receptor agonists [GLP-1 RA]). Median (interquartile [IQR]) values are shown. Between January 2021 and December 2024, 5767 participants with type 2 diabetes mellitus (age 64 [range: 22-89] yr; 43% female) were enrolled from 89 centres, with 4988 (87%) undergoing elective surgery. For 3623/5767 (73%) participants receiving metformin, DAH-30 was higher (28 days [24-29]) in 421/3623 (12%) participants who continued metformin on the day of surgery compared with 27 days (23-29) in 3202 of 5767 (88%) participants who had not taken metformin (P=0.001). After adjusting for prespecified covariates, continuing metformin on the day of surgery remained associated with higher DAH-30 (0.47 days [95% confidence interval:0.01-0.93]; P=0.044). No association was found for either stopping/continuing SGLT2i (n=836 participants) or GLP-1 RA (n=304 participants) with DAH-30. Continuing metformin during surgery among patients with type 2 diabetes mellitus was associated with marginally shorter DAH-30, but the sample size for participants receiving SGLT2i and GLP-1 RA therapy precluded any meaningful estimates. ESA-IC_CTN_MOPED.",
+          "authors": [
+            "Donal J Buggy",
+            "Malachy O Columb",
+            "Jeroen Hermanides",
+            "et al."
+          ],
+          "journal": "British journal of anaesthesia",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42191528/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with overweight or obesity",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Multiple (PubMed and Embase search)",
+          "key_findings": "This systematic review and exploratory meta-analysis evaluated the effect of GLP-1RA treatment on objectively measured physical activity in adults with overweight or obesity. The review aims to clarify whether GLP-1RAs influence PA beyond their weight reduction effects, which is important for understanding long-term energy balance and sustainability of treatment benefits."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with type 2 diabetes undergoing curative-intent resection for hepatocellular carcinoma",
+          "medications": "GLP-1 receptor agonists vs dipeptidyl peptidase-4 inhibitors",
+          "country_dataset": "China (36 hospitals, electronic medical records)",
+          "key_findings": "This target trial emulation study compared postoperative initiation of GLP-1RAs versus DPP-4 inhibitors in patients with type 2 diabetes after HCC resection. The study examined whether treatment choice influences recurrence-free and overall survival outcomes, addressing a gap in evidence regarding optimal incretin-based therapy selection in this post-operative population."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Adults aged \u226566 years with established atherosclerotic cardiovascular disease (ASCVD)",
+          "medications": "Cardiovascular medications (GLP-1 mentioned in context of discontinuation)",
+          "country_dataset": "Ontario, Canada (administrative data 2019-2021)",
+          "key_findings": "This population-based cohort study examined the association between neighbourhood-level material resources and cardiovascular outcomes, including medication discontinuation among patients with ASCVD. The study addresses health disparities in cardiovascular outcomes and factors contributing to medication non-persistence in a universal healthcare system."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=87,486 (43,743 tirzepatide vs 43,743 SGLT2i users after matching)",
+          "population": "Patients with metabolic dysfunction-associated steatotic liver disease (MASLD) and \u22651 metabolic comorbidity",
+          "medications": "Tirzepatide (dual GLP-1/GIP receptor agonist) vs SGLT2 inhibitors",
+          "country_dataset": "United States (TriNetX US Collaborative Network)",
+          "key_findings": "This multicenter propensity-matched real-world study compared tirzepatide versus SGLT2 inhibitors in patients with MASLD and metabolic comorbidities. The study provides comparative effectiveness data for these agents in MASLD management, addressing a gap in real-world evidence for tirzepatide versus alternative therapies in this prevalent liver disease population."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Patients with recurrent weight gain after bariatric surgery or endoscopic bariatric therapy",
+          "medications": "Tirzepatide (dual GIP/GLP-1 receptor agonist)",
+          "country_dataset": "Not specified",
+          "key_findings": "This observational cohort study evaluated the effectiveness and safety of tirzepatide in patients experiencing recurrent weight gain after bariatric surgery or endoscopic bariatric therapy. The study addresses a significant clinical gap by providing real-world evidence on tirzepatide use in post-bariatric populations, where long-term weight regain remains a major treatment challenge."
+        },
+        {
+          "study_type": "Meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with overweight and obesity",
+          "medications": "CagriSema, semaglutide, cagrilintide, and tirzepatide",
+          "country_dataset": "Multiple (randomized clinical trials)",
+          "key_findings": "This network meta-analysis compared the comparative efficacy and safety of tirzepatide, semaglutide, cagrilintide, and their combination (CagriSema) in managing overweight and obesity. The analysis provides evidence on the relative effectiveness of these advanced anti-obesity medications, which lack direct head-to-head comparison studies, to inform treatment selection."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Patients with type 2 diabetes mellitus undergoing elective surgery",
+          "medications": "Glucose-lowering drugs including newer agents and GLP-1 receptor agonists",
+          "country_dataset": "21 European countries",
+          "key_findings": "This secondary analysis of a prospective, observational study examined whether continuing versus withholding glucose-lowering drugs (including newer agents like GLP-1RAs) before elective surgery affects days alive at home and out of hospital at 30 days in patients with type 2 diabetes. The study addresses conflicting guidelines on perioperative medication management for patients taking advanced diabetes therapies."
+        }
+      ],
+      "excluded_count": 18
+    }
+  ]
+}
