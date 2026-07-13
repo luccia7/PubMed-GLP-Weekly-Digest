@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-13",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42426387",
+          "title": "Effect of two-week perioperative glucagon-like peptide-1 receptor agonist interruption on retained gastric contents during esophagogastroduodenoscopy: a retrospective, observational study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) slow gastric emptying and may therefore increase the risk of retained gastric contents (RGC). The optimal duration of discontinuation before esophagogastroduodenoscopy (EGD) under sedation or general anesthesia remains controversial. We conducted a single-center, retrospective, observational study of patients who underwent elective EGD between August 2023 and May 2025. According to GLP-1RA exposure, patients were classified as (i) no GLP-1RA use, (ii) GLP-1RA continued use, or (iii) GLP-1RA two-week hold. The primary outcome was the presence of RGC, defined as any solid residue or\u2009>\u2009100\u00a0mL of fluid visualized during EGD. Multivariate logistic regression was used to explore the relationship between GLP-1RA use and RGC. RGC occurred in 0.4% (63/15902) of patients with no GLP-1RA use, 5.83% (6/103) of patients with GLP-1RA continued use, and 1.61% (1/62) of patients with GLP-1RA two-week hold. GLP-1RA continued use was associated with a tenfold higher RGC risk versus no GLP-1RA use (odds ratio [OR] 10.68, 95% CI 3.74-30.55; p\u2009<\u20090.001), whereas a two-week hold reduced risk to a level statistically comparable with no GLP-1RA use (OR 2.99, 95% CI 0.37-23.89, p\u2009=\u20090.302). Obesity (BMI\u2009\u2265\u200928\u00a0kg/m A two-week hold of GLP-1RA lowered RGC incidence to a low level comparable with no GLP-1RA use, especially in normal-weight or overweight patients and in those undergoing concurrent colonoscopy, but may be insufficient for obesity.",
+          "authors": [
+            "Zhiyu Dong",
+            "Ouyang Li",
+            "Jiajun Wu",
+            "et al."
+          ],
+          "journal": "Surgical endoscopy",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42426387/"
+        },
+        {
+          "pmid": "42426287",
+          "title": "Association of GLP-1RA discontinuation and risk of depressive and anxiety disorders in people with type 2 diabetes: a cohort study.",
+          "abstract": "The psychiatric safety profile of glucagon-like peptide-1 receptor agonists (GLP-1RAs) is characterized by inconsistent findings during active treatment and remains largely unexplored after cessation. Here we show that GLP-1RA discontinuation is associated with an increased risk of psychiatric events. Using large-scale electronic health records from the Shanghai Hospital Link Database, we investigate incident depressive and anxiety disorders during GLP-1RA treatment and after its discontinuation in people with type 2 diabetes, compared with dipeptidyl peptidase-4 inhibitors (DPP4is) or sodium-glucose cotransporter-2 inhibitors (SGLT2is). During treatment, GLP-1RAs show a neutral risk compared with DPP4is and a lower risk compared with SGLT2is. In contrast, after cessation, prior use of GLP-1RAs is associated with a higher risk than prior use of DPP4is or SGLT2is. This increase is modestly mediated by elevated triglyceride levels. These findings highlight the need for clinical vigilance regarding anxiety following GLP-1RA discontinuation.",
+          "authors": [
+            "Tingyu Zhang",
+            "Ping He",
+            "Yunxi Ji",
+            "et al."
+          ],
+          "journal": "Nature metabolism",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42426287/"
+        },
+        {
+          "pmid": "42424303",
+          "title": "Patterns of Use for GLP-1 Receptor Agonists in a Weight Management Cohort: A Military Health System Database Analysis of Active Duty Service Members From 2021 to 2025.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly prescribed for weight management, but real-world data on long-term persistence are crucial for understanding their effectiveness. This study aimed to compare persistence, adherence, and predictors of discontinuation among new users of different GLP-1RAs in the Military Health System (MHS). This is a retrospective cohort study of 10,649 active duty service members (ADSMs) who initiated therapy with liraglutide (Saxenda), semaglutide (Wegovy), or tirzepatide (Zepbound) between January 1, 2021, and December 31, 2025. Persistence was defined as the time to the first gap in therapy exceeding 90 days. We used Kaplan-Meier survival analysis to estimate persistence rates and a multivariable Cox proportional hazards model to identify predictors of discontinuation. Significant differences in treatment outcomes were observed across all agents. Patients initiating Zepbound demonstrated the highest mean yearly adherence (proportion of days covered [PDC]: 78.2%), followed by Wegovy (71.6%), and Saxenda (48.7%). One-year persistence was highest for Zepbound (81.9%) and Wegovy (70.7%), and significantly lower for Saxenda (34.2%) (log-rank P\u2009<\u2009.001). In the adjusted Cox model, compared to Wegovy, the hazard of discontinuation was 33% lower for Zepbound (hazard ratio [HR]: 0.67, 95% confidence interval [CI]: 0.61-0.74) and 26% higher for Saxenda (HR: 1.26, 95% CI: 1.01-1.16). Male service members also had a significantly higher hazard of discontinuation compared to females (HR: 1.12, 95% CI: 1.02-1.22). In this large cohort of ADSMs, Zepbound and Wegovy were associated with substantially higher persistence and adherence compared to Saxenda. These findings have important implications for clinical decision-making and formulary management to optimize long-term outcomes for weight management.",
+          "authors": [
+            "Luke B Miller",
+            "Matthew J Dellen",
+            "Ester J Gilbert",
+            "et al."
+          ],
+          "journal": "Military medicine",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42424303/"
+        },
+        {
+          "pmid": "42420255",
+          "title": "Glucagon-like peptide-1 receptor agonists for weight management in mental illness: a network meta-analysis.",
+          "abstract": "This network meta-analysis involved nine randomized controlled trials, comprising 595 participants (average age = 37.8 years, 55.3% female, 83.9% schizophrenia spectrum disorders), evaluating the comparative risk-benefit profiles of glucagon-like peptide-1 receptor agonists in individuals with obesity comorbid with mental illness. Outcomes included body weight (primary); body mass index (BMI); waist circumference; blood-based measures, including fasting plasma glucose, hemoglobin A1c (HbA1c), total cholesterol, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, and triglycerides; systolic and diastolic blood pressure; death; all-cause discontinuation; adverse event-related discontinuation; serious adverse events (SAEs), injection site-related adverse events, headache, dizziness, nausea, vomiting, constipation, and diarrhea; psychiatric hospitalization; and changes in overall schizophrenia symptoms. Treatment arms comprised subcutaneous exenatide (S-EXE)(twice-daily [BID]/once-weekly [QW]), subcutaneous liraglutide (S-LIR)(once-daily [QD]), and subcutaneous semaglutide (S-SEM)(QW), alongside a control group (placebo, k\u2009=\u20098; non-placebo, k\u2009=\u20091). S-LIR(QD) and S-SEM(QW) were significantly associated with reduced body weight compared with control, with standardized mean differences (95% confidence intervals) of -0.945 (\u2009-\u20091.784 to -0.106) and -2.101 (\u2009-\u20092.978 to -1.224), respectively. S-LIR(QD) was associated with waist circumference and HbA1c level reductions, lower SAE incidences, and higher nausea, vomiting, and constipation incidences compared with the control. S-SEM(QW) was associated with reduced BMI, waist circumference, fasting plasma glucose, and HbA1c levels, and higher nausea, vomiting, and constipation compared with the control. Each drug did not differ from control regarding other outcomes. S-SEM(QW) may be the preferred treatment option, given its largest estimated effects versus control on body weight; however, its comparative ranking is uncertain due to sparse networks, substantial heterogeneity, and predominant indirect evidence.",
+          "authors": [
+            "Taro Kishi",
+            "Toshikazu Ikuta",
+            "Kenji Sakuma",
+            "et al."
+          ],
+          "journal": "Translational psychiatry",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42420255/"
+        },
+        {
+          "pmid": "42414609",
+          "title": "GLP-1 medications: use and interest in a representative survey of Finns.",
+          "abstract": "GLP-1-based medications have rapidly reshaped the landscape of obesity treatment. Semaglutide was approved for obesity treatment in 2021 in the US and 2022 in Europe, sparking global interest, and the GLP-1/GIP dual-agonist tirzepatide has demonstrated even greater efficacy. However, survey-based data on who uses or considers these medications-particularly across socioeconomic groups, BMI categories, and weight management experiences-remain limited. A nationally representative online survey of Finnish adults (n\u2009=\u20091729, of which 1693 were included) was conducted in June 2025 via a market research company using quota sampling. Use and awareness of GLP-1 medications for obesity were measured with a single item listing widely known brands-Ozempic, Wegovy, Zepbound, and Mounjaro-to aid recognition. In regression analyses, current, past, and potential users (n\u2009=\u2009322) were combined. In total, 3.5% reported current and 2.0% past use, and 13.5% expressed interest in future use. Notably, ~40% of individuals with obesity reported no interest. Bivariate analysis showed that current use was more common among women, those aged 50-69, those with household income exceeding \u20ac70,000, individuals with higher BMI, frequent weight loss attempts, experiences of weight-based discrimination, and self-blame. Multivariable analysis showed that current, past, and potential use had strongest associations with BMI \u226530.0\u2009kg/m\u00b2, repeated or persistent weight loss attempts, experiences of discriminatory treatment due to weight, self-blaming thoughts and hopeful perceptions of GLP-1 medications. Concern about serious health risks was associated with lower likelihood of use or interest. GLP-1-based medications are gaining recognition, but uptake remains heterogeneous and many individuals with obesity remain uninterested. Concerns about potential health risks persist. Attitudes toward these medications are shaped not only by weight status but also by prior weight management experiences and perceptions. Clinical communication should be sensitive to these factors.",
+          "authors": [
+            "Piia Tuuli Jallinoja",
+            "Kirsi H Pietil\u00e4inen",
+            "Virginia W Chang"
+          ],
+          "journal": "International journal of obesity (2005)",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42414609/"
+        },
+        {
+          "pmid": "42410325",
+          "title": "Efficacy and Safety of the Dual Glucagon-Like Peptide-1 and Glucagon Receptor Agonist Mazdutide in Predominantly Chinese Adults With Obesity and/or Type 2 Diabetes: A Systematic Review and Meta-Analysis.",
+          "abstract": "To assess the effects of mazdutide on body weight, HbA1c, metabolic outcomes, and adverse events in adults with overweight/obesity and/or type 2 diabetes (T2D). This systematic review and meta-analysis included randomized controlled trials (RCTs) comparing mazdutide with placebo or active comparators in adults with overweight/obesity and/or T2D, identified through PubMed, Scopus, Web of Science, and ClinicalTrials.gov to 20 February 2026. Co-primary outcomes were percent change in body weight and change in HbA1c. Secondary outcomes included other weight-related and metabolic outcomes, as well as safety. Random-effects models were used to generate pooled mean differences (MDs) or risk ratios with 95% confidence intervals, and the certainty of the evidence (COE) was assessed using GRADE. Nine RCTs (N\u2009=\u20092292; most with low risk of bias) were included. In overweight/obesity without diabetes, mazdutide 3, 4, and 6\u2009mg reduced body weight more than placebo (MDs -6.56%, -9.92%, and -11.1%, respectively; very low COE due to substantial heterogeneity and few trials). In T2D, mazdutide 4 and 6\u2009mg reduced body weight and HbA1c versus placebo (moderate COE) and also outperformed dulaglutide for both outcomes. Mazdutide also improved waist circumference, lipids, liver enzymes, and uric acid levels. Gastrointestinal adverse events were more frequent, but serious adverse events and treatment discontinuation rates were comparable with those of the comparators. Mazdutide was associated with dose-dependent reductions in body weight and HbA1c, with broader metabolic benefits in predominantly Chinese adults with obesity and/or T2D. Longer-term, multi-ethnic studies are needed to confirm durability, generalizability, and cardiovascular safety.",
+          "authors": [
+            "A B M Kamrul-Hasan",
+            "Subhankar Chatterjee",
+            "Hamid Ashraf",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42410325/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients undergoing elective esophagogastroduodenoscopy (EGD) between August 2023 and May 2025",
+          "medications": "GLP-1 receptor agonists (various, not specified) vs no GLP-1RA use",
+          "country_dataset": "Single-center study, location not specified",
+          "key_findings": "Study examined the effect of two-week GLP-1RA discontinuation on retained gastric contents during EGD. GLP-1RAs slow gastric emptying and may increase retained gastric contents risk. Outcomes measured included presence of retained gastric contents in three exposure groups: no GLP-1RA use, continued GLP-1RA use, and two-week GLP-1RA hold."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "People with type 2 diabetes",
+          "medications": "GLP-1 receptor agonists vs dipeptidyl peptidase-4 inhibitors (DPP4is) or sodium-glucose cotransporter-2 inhibitors",
+          "country_dataset": "Shanghai Hospital Link Database",
+          "key_findings": "GLP-1RA discontinuation was associated with increased risk of depressive and anxiety disorders in people with type 2 diabetes. The study examined incident psychiatric events during active treatment and after cessation, revealing psychiatric safety concerns not previously well-characterized after GLP-1RA discontinuation."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=10,649",
+          "population": "Active duty service members (ADSMs) initiating GLP-1RA therapy for weight management between January 1, 2021, and December 31, 2025",
+          "medications": "Liraglutide (Saxenda), semaglutide (Wegovy), tirzepatide (Zepbound)",
+          "country_dataset": "Military Health System (MHS), United States",
+          "key_findings": "This real-world analysis examined persistence, adherence, and predictors of discontinuation among new users of different GLP-1RAs in active duty service members. Study aimed to compare long-term persistence patterns and identify factors associated with drug discontinuation across the three GLP-1RA formulations."
+        },
+        {
+          "study_type": "Meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "9 RCTs, 595 participants",
+          "population": "Adults with obesity comorbid with mental illness (average age 37.8 years, 55.3% female, 83.9% schizophrenia spectrum disorders)",
+          "medications": "GLP-1 receptor agonists (various)",
+          "country_dataset": "Multiple countries",
+          "key_findings": "Network meta-analysis of nine randomized controlled trials evaluated comparative risk-benefit profiles of GLP-1RAs in individuals with obesity and mental illness. Primary outcome was body weight change; secondary outcomes included BMI, waist circumference, and various blood-based metabolic measures (fasting plasma glucose, HbA1c, cholesterol, triglycerides)."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=1,693",
+          "population": "Nationally representative sample of Finnish adults",
+          "medications": "GLP-1-based medications (semaglutide, tirzepatide)",
+          "country_dataset": "Finland",
+          "key_findings": "Nationally representative online survey conducted in June 2025 assessed GLP-1 medication use and interest among Finnish adults. Study examined who uses or considers these medications, particularly across socioeconomic groups, BMI categories, and weight management experiences, providing data on real-world adoption patterns."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Multiple RCTs",
+          "population": "Adults with overweight/obesity and/or type 2 diabetes, predominantly Chinese",
+          "medications": "Mazdutide (dual GLP-1 and glucagon receptor agonist) vs placebo or active comparators",
+          "country_dataset": "Multiple sources including PubMed, Scopus, Web of Science, ClinicalTrials.gov, search date February 20, 2026",
+          "key_findings": "Systematic review and meta-analysis assessed efficacy and safety of mazdutide in predominantly Chinese adults with overweight/obesity and/or type 2 diabetes. Co-primary outcomes were percent change in body weight and change in HbA1c; secondary outcomes included other weight-related and metabolic outcomes plus adverse events."
+        }
+      ],
+      "excluded_count": 7
+    }
+  ]
+}
