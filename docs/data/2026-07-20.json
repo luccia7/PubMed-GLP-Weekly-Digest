@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-20",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42457308",
+          "title": "Association between GLP-1-based therapy and small-bowel transit time during capsule endoscopy: a prospective, multicentre, observational study.",
+          "abstract": "To evaluate the association between glucagon-like peptide-1 (GLP-1) based therapy and small-bowel transit time during capsule endoscopy. We conducted a prospective, multicentre, observational study of consecutive adults undergoing small-bowel capsule endoscopy for standard clinical indications. Patients receiving GLP-1-based therapy, defined as treatment with a GLP-1 receptor agonist or dual glucose-dependent insulinotropic polypeptide/GLP-1 receptor agonist, were compared with non-exposed controls. The primary outcome was small-bowel transit time. Secondary outcomes included gastric transit time, capsule completion, bowel preparation quality, repeat-examination recommendation and endoscopic findings. Among 129 participants, 34 were receiving GLP-1-based therapy and 95 were non-exposed controls. Exposed patients had longer unadjusted small-bowel transit time than controls (median 311.0 (IQR 252.8-433.0)\u2009vs 236.0 (188.0-282.5)\u2009min; p<0.001). Gastric transit time was not significantly different between groups (33.5 (15.2-51.8)\u2009vs 22.5 (11.0-42.5)\u2009min; p=0.263). Capsule completion was numerically lower among exposed patients, but the difference was not statistically significant (91.2% vs 98.9%; p=0.056). Repeat capsule recommendation (11.8% vs 3.2%; p=0.078) and clinically significant endoscopic findings (23.5% vs 34.7%; p=0.322) were also not significantly different. In multivariable linear regression restricted to examinations with calculable small-bowel transit time and complete covariate data, GLP-1-based therapy was independently associated with longer small-bowel transit time after adjustment for age, body mass index, diabetes mellitus and indication for capsule endoscopy (adjusted \u03b2+83\u2009min, 95% CI 3.1 to 162.8; p=0.042). GLP-1-based therapy was associated with longer small-bowel transit time during capsule endoscopy. These findings do not support routine discontinuation of GLP-1-based therapy before capsule endoscopy, but they support individualised assessment and larger studies powered to evaluate capsule completion and repeat examination.",
+          "authors": [
+            "Fadi Abu Baker",
+            "Melhem Melhem",
+            "Osnat Kalnizki",
+            "et al."
+          ],
+          "journal": "BMJ open gastroenterology",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42457308/"
+        },
+        {
+          "pmid": "42452903",
+          "title": "Comparative Outcomes of Metabolic and Bariatric Surgery Versus GLP-1 Receptor Agonists: An Updated Systematic Review and Meta-Analysis of 14,548 Patients.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RA) have seen a sharp rise in use for obesity management in recent years. No studies incorporate the latest evidence directing comparing their effectiveness and costs against metabolic and bariatric surgery (MBS). We performed a systematic review on five different databases. The primary outcome was the difference in percentage of total weight loss (%TWL). Secondary outcomes included differences in glycated hemoglobin (HbA1c), body mass index (BMI), and cots out-of-pockets (OOP) from patients. The random-effects model was used to calculate the pooled odds ratios (OR) and mean difference (MD) with 95% confidence intervals (CI). Of 1763 studies screened, 11 were included, comprising 14,548. The GLP-1 group accounted for 51.1% of patients ( MBS achieves greater and more sustained weight loss, superior BMI reduction, and better glycemic control than GLP-1 agonists, while also being associated with lower 24-month OOP costs. GLP-1 therapies do not match the effectiveness of surgery, yet they may serve as a complementary strategy in multidisciplinary obesity management.",
+          "authors": [
+            "Yeisson Rivero-Moreno",
+            "Diego Zamata-Ovalle",
+            "Andres Fontaine-Nicola",
+            "et al."
+          ],
+          "journal": "Journal of laparoendoscopic & advanced surgical techniques. Part A",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42452903/"
+        },
+        {
+          "pmid": "42446801",
+          "title": "Optimal Timing for Initiating Liraglutide 3.0\u00a0mg in Patients With Persistent Obesity Six Months After Metabolic and Bariatric Surgery.",
+          "abstract": "To determine the optimal timing for initiating liraglutide in patients with persistent obesity (BMI\u2009\u2265\u200928\u00a0kg/m\u00b2 in China) six months after metabolic and bariatric surgery, a key gap in postoperative weight management. In this prospective study, 100 patients were allocated to receive liraglutide (3.0\u00a0mg/day) starting at 6 (LG-6), 9 (LG-9), or 12 (LG-12) months post-surgery, or standard care without liraglutide (n\u2009=\u200925 each). The primary endpoint was percent total weight loss (%TWL) at 18 months. Secondary outcomes included changes in body composition and remission of obesity-related comorbidities. All three liraglutide groups showed greater %TWL (LG-6 16.3\u2009\u00b1\u20095.7%, LG-9 13.7\u2009\u00b1\u20095.3%, LG-12 12.6\u2009\u00b1\u20096.0%) compared with controls (5.3\u2009\u00b1\u20095.2%; P\u2009<\u20090.05). Higher proportions of patients in liraglutide groups achieved BMI\u2009<\u200928\u00a0kg/m\u00b2 (LG-6 40%, LG-9 52%, LG-12 36%) and \u2265\u200915% TWL (64%, 32%, 28%) versus controls (16%, 4%; P\u2009<\u20090.05). The LG-6 group showed the highest proportion reaching\u2009\u2265\u200920% TWL (24% vs. 0% in controls; P\u2009<\u20090.05). Reductions in fat mass and alanine transaminase, preservation of muscle mass, and remission of metabolic dysfunction-associated steatotic liver disease and hyperuricaemia were observed in association with liraglutide treatment. Early liraglutide initiation, particularly at six months post-surgery, was linked to greater weight loss and more favourable metabolic profiles compared with standard care. These findings suggest that timely pharmacotherapy may be associated with improved long-term weight management outcomes, though causality remains to be established.",
+          "authors": [
+            "Yuqin Ouyang",
+            "Wanying Zhong",
+            "Lijun Chen",
+            "et al."
+          ],
+          "journal": "Obesity surgery",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42446801/"
+        },
+        {
+          "pmid": "42441965",
+          "title": "Comparative Effectiveness of Glucagon-like Peptide-1 Receptor Agonists Versus Oral Agents for Insulin Discontinuation in Type 2 Diabetes : A Target Trial Emulation.",
+          "abstract": "Addition of glucagon-like peptide-1 receptor agonists (GLP-1RAs) to basal insulin can decrease insulin requirements, but whether it permits insulin discontinuation is unclear. To compare rates of insulin discontinuation among patients with type 2 diabetes (T2D) receiving basal insulin who initiated treatment with a GLP-1RA, sodium-glucose cotransporter-2 inhibitor (SGLT-2i), or dipeptidyl peptidase-4 inhibitor (DPP-4i) between 2020 and 2022. Target trial emulation. U.S. Veterans Health Administration electronic health record (EHR) data. Veterans with T2D receiving basal insulin. Insulin discontinuation, defined as the first gap in insulin prescription fills of 12 months or more over 3 years of follow-up. Among 8869 matched sets of GLP-1RA (76.6% semaglutide, 15.2% dulaglutide, 7.9% liraglutide, and 0.3% exenatide), SGLT-2i (99.7% empagliflozin), and DPP-4i (95.9% alogliptin) initiators, 63% were 65 years or older, 93% were male, 70% were White, and 48% had a hemoglobin A Possible residual confounding; misclassification of exposure and outcome using EHRs may bias associations toward the null. Among veterans with T2D receiving basal insulin therapy, addition of GLP-1RA did not increase the chances of stopping insulin therapy compared with SGLT-2i or DPP-4i therapy. U.S. Department of Veterans Affairs.",
+          "authors": [
+            "Kasia J Lipska",
+            "Kelson Zawack",
+            "Lei Yan",
+            "et al."
+          ],
+          "journal": "Annals of internal medicine",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42441965/"
+        },
+        {
+          "pmid": "42439225",
+          "title": "Discontinuation of Glucagon-Like Peptide-1 Receptor Agonists After Bowel Obstruction or Ileus: A Nationwide, Real-World, Database Study.",
+          "abstract": "Although concerns have been raised that glucagon-like peptide-1 receptor agonists (GLP-1RAs) may increase the risk of bowel obstruction or ileus, evidence remains inconclusive. In this context of uncertainty, we examined the frequency and determinants of GLP-1RA discontinuation after hospitalization for bowel obstruction/ileus. We conducted a retrospective cohort study using a nationwide Japanese health insurance claims database (DeSC). We identified individuals aged \u226518 years with type 2 diabetes who were hospitalized for bowel obstruction/ileus between 2016 and 2023 while receiving GLP-1RA therapy. The primary outcome was GLP-1RA discontinuation, defined as no prescription at discharge or within 6 months of discharge. Factors potentially associated with discontinuation were grouped into (1) general factors, (2) severity of bowel obstruction/ileus, and (3) potential therapeutic benefit of GLP-1RA therapy. Risk differences (RDs) for discontinuation were estimated using multivariable linear regression with robust standard errors. GLP-1RAs were discontinued in 86 (43.9%) of the 196 patients analyzed. Multivariable analysis revealed that surgery for bowel obstruction during hospitalization (RD = 32.1%; 95% confidence interval [CI] 11.2% to 53.0%, p = 0.003), longer length of stay (\u226515 days vs. \u22647 days; RD = 32.4%; 95% CI 11.2% to 53.5%, p = 0.003), and heart failure (RD = 17.6%; 95% CI 2.1% to 33.2%, p = 0.027) were associated with GLP-1RA discontinuation. Nearly half of the patients discontinued GLP-1RAs after a bowel obstruction/ileus event. While GLP-1RAs were more likely to be discontinued after severe events, their potential therapeutic benefits appeared less frequently considered in continuation decisions.",
+          "authors": [
+            "Yuichiro Matsuo",
+            "Akira Okada",
+            "Takashi Sakamoto",
+            "et al."
+          ],
+          "journal": "Journal of evidence-based medicine",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42439225/"
+        },
+        {
+          "pmid": "42069283",
+          "title": "Divergent Efficacy of GLP-1 Receptor Agonists in HFpEF Versus HFrEF: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+          "abstract": "GLP-1 receptor agonists (GLP-1 RAs) are increasingly evaluated for cardiovascular outcomes, including heart failure (HF), due to their weight-reducing and anti-inflammatory effects. Individual trials in HF have reported heterogeneous results, which appear to differ by HF subtype. No previous quantitative synthesis has systematically compared GLP-1 RA effects in heart failure with preserved (HFpEF) versus reduced ejection fraction (HFrEF) across a wide range of clinically relevant outcomes. This meta-analysis addresses this gap by evaluating subtype-specific efficacy across clinical, functional, biochemical, and hemodynamic domains to guide therapy and inform future research. Eight randomized controlled trials enrolling 11,234 patients were included following a systematic search of major databases per PRISMA 2020 guidelines. Risk of bias was assessed using the Cochrane ROB 2.0 tool. Data were pooled using random-effects models with Hartung-Knapp adjustment. Sensitivity analyses assessed robustness, and the certainty of evidence was rated using GRADE. In HFpEF, GLP-1 RAs significantly reduced HF worsening events (hazard ratios [HR] 0.67, 95% confidence intervals [CI] 0.50-0.89; I\u00b2 = 9.9%, high certainty) and improved NT-proBNP (ratio 0.85), 6-minute walk distance (+17.6 m), Kansas City Cardiomyopathy Questionnaire score (+7.4 points), and systolic blood pressure (-3.6 mmHg). The composite of HF worsening events or cardiovascular death was also reduced (HR 0.76, 95% CI 0.64-0.90). In HFrEF, no benefit was observed for HF worsening events (HR 1.23, 95% CI 0.89-1.69; I\u00b2 = 0%, moderate certainty) or secondary outcomes. Gastrointestinal adverse events were the most frequent cause of drug discontinuation (risk ratio 3.12, 95% CI 1.28-7.63). In conclusion, GLP-1 RAs improve clinical, functional, and biomarker outcomes in HFpEF but not in HFrEF, highlighting subtype-specific efficacy. Gastrointestinal intolerance remains a key limitation, emphasizing the need for careful patient selection to optimize adherence. PROSPERO Registration: CRD420251138529. (Central Illustration).",
+          "authors": [
+            "Hafiz M Ahmed",
+            "Ubaid Ur Rehman",
+            "Muhammad Owais",
+            "et al."
+          ],
+          "journal": "The American journal of cardiology",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42069283/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults undergoing small-bowel capsule endoscopy; those receiving GLP-1-based therapy versus non-exposed controls",
+          "medications": "GLP-1 receptor agonists, dual GIP/GLP-1 receptor agonists",
+          "country_dataset": "Multi-centre",
+          "key_findings": "The study compared small-bowel transit time and other endpoints between patients receiving GLP-1-based therapy versus controls undergoing capsule endoscopy for standard clinical indications."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "14,548 patients across 14 studies",
+          "population": "Patients with obesity or overweight; comparing metabolic and bariatric surgery versus GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Multi-centre",
+          "key_findings": "The meta-analysis compared effectiveness and costs of GLP-1 RAs versus metabolic and bariatric surgery, evaluating outcomes including percentage total weight loss, HbA1c reduction, BMI change, and out-of-pocket costs."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=100",
+          "population": "Patients with persistent obesity (BMI \u226528 kg/m\u00b2 in China) six months after metabolic and bariatric surgery",
+          "medications": "Liraglutide 3.0 mg",
+          "country_dataset": "China",
+          "key_findings": "The study evaluated optimal timing for initiating liraglutide (at 6, 9, or 12 months post-surgery versus standard care) with primary endpoint of percent total weight loss at 18 months and secondary outcomes of body composition changes and obesity-related comorbidity remission."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Veterans with type 2 diabetes receiving basal insulin who initiated treatment with GLP-1RA, SGLT-2i, or DPP-4i between 2020-2022",
+          "medications": "GLP-1 receptor agonists, sodium-glucose cotransporter-2 inhibitors, dipeptidyl peptidase-4 inhibitors",
+          "country_dataset": "United States (Veterans Health Administration EHR)",
+          "key_findings": "The target trial emulation compared rates of insulin discontinuation among patients with type 2 diabetes receiving basal insulin who initiated GLP-1RAs versus SGLT-2i or DPP-4i therapy."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals aged \u226518 years with type 2 diabetes hospitalized for bowel obstruction/ileus while receiving GLP-1RA therapy between 2016-2023",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Japan (nationwide health insurance claims database - DeSC)",
+          "key_findings": "The study examined frequency and determinants of GLP-1RA discontinuation following hospitalization for bowel obstruction or ileus, addressing concerns about GLP-1RA safety in this context."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Multiple RCTs (specific number not reported in abstract)",
+          "population": "Patients with heart failure with preserved ejection fraction (HFpEF) versus reduced ejection fraction (HFrEF)",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Multi-centre",
+          "key_findings": "The meta-analysis compared efficacy of GLP-1 RAs in HFpEF versus HFrEF across randomized controlled trials, showing divergent effects by heart failure subtype on clinical and functional outcomes."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
