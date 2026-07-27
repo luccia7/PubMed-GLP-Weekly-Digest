@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-27",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42503568",
+          "title": "Nonadherence to GLP-1 Receptor Agonists Among Individuals With Overweight or Obesity: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+          "abstract": "Glucagon-like peptide 1 (GLP-1) agonists are widely used for obesity management in patients with or without diabetes. However, treatment persistence is often limited due to adverse drug reactions (ADRs). Understanding adherence patterns in randomized controlled trials (RCTs) is crucial for predicting real-world treatment acceptance. To estimate the pooled nonadherence rates and reasons for nonadherence to GLP-1 agonists in overweight or patients with obesity participating in RCTs. A systematic review and meta-analysis of RCTs was conducted to evaluate nonadherence to GLP-1 receptor agonists. A literature search was performed in PubMed, Embase, and Web of Science from inception to October 2, 2024. Studies were included if they evaluated GLP-1 receptor agonists for overweight or obesity management and reported adherence outcomes. The pooled RR for nonadherence to GLP-1 receptor agonists was 0.63 (95% CI: 0.48, 0.82, p\u2009=\u20090.01), indicating a 37% lower risk of nonadherence compared with the control group. However, ADR-induced nonadherence was significantly higher in the GLP-1 group (RR: 2.29 [95% CI: 1.47, 3.56, p\u2009=\u20090.04]), particularly due to gastrointestinal side effects. Nonadherence due to loss to follow-up was lower in the GLP-1 group (RR: 0.43 [95% CI: 0.27, 0.71, p\u2009=\u20090.18]). GLP-1 receptor agonists were associated with a lower overall nonadherence rate in RCTs compared with control treatments, suggesting higher persistence. However, ADR-related nonadherence was significantly higher, particularly due to gastrointestinal side effects. These findings highlight the need for strategies to improve treatment tolerability and adherence in real-world settings.",
+          "authors": [
+            "Efrata A Shegena",
+            "Mekdes Kiflu",
+            "Muktar Ahmed",
+            "et al."
+          ],
+          "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42503568/"
+        },
+        {
+          "pmid": "42499082",
+          "title": "Therapeutic role of semaglutide in metabolic dysfunction-associated steatotic liver disease and metabolic dysfunction-associated steatohepatitis: A systematic review and meta-analysis of placebo-controlled trials with GRADE evidence assessment.",
+          "abstract": "Nonalcoholic fatty liver disease (NAFLD) and its progressive form, nonalcoholic steatohepatitis (NASH), are leading causes of chronic liver disease worldwide. Despite the rising clinical burden, there are currently no approved pharmacologic therapies. Semaglutide, a glucagon-like peptide-1 receptor agonist with established metabolic and weight-loss benefits, is being evaluated for potential disease-modifying effects in NAFLD/NASH. To assess the efficacy and tolerability of subcutaneous semaglutide versus placebo in adults with NAFLD or NASH, focusing on biochemical, histologic, metabolic, and safety outcomes. We conducted a systematic review and meta-analysis of placebo-controlled randomized controlled trials evaluating subcutaneous semaglutide in adults (\u226518 years) with NAFLD or NASH diagnosed by imaging, histology, and/or biochemical markers. PubMed, CENTRAL, and Scopus were searched from inception to May 15, 2025 using predefined terms related to semaglutide and fatty liver disease. Two independent assessors extracted data and evaluated risk of bias using the Cochrane RoB 2 tool, while certainty of evidence was appraised with Grading of Recommendations, Assessment, Development, and Evaluation. Pooled effect estimates were calculated using a random-effects model and reported as risk ratios (RRs) or mean differences (MDs) with 95% confidence intervals (CIs). Semaglutide significantly reduced liver enzymes, including aspartate aminotransferase (MD\u2005=\u2005-6.72 U/L, 95% CI\u2005=\u2005-11.79 to -1.64; P\u2005=\u2005.009). Histologically, semaglutide more than doubled the likelihood of NASH resolution without fibrosis progression (RR\u2005=\u20052.14, 95% CI\u2005=\u20051.44-3.17; P\u2005=\u2005.0002). Improvement in fibrosis stage was not statistically significant (RR\u2005=\u20051.14, 95% CI\u2005=\u20050.63-2.05; P\u2005=\u2005.67), though the direction of effect favored semaglutide. Metabolic outcomes showed substantial benefits, including weight loss (MD\u2005=\u2005-6.99%, 95% CI\u2005=\u2005-13.92 to -0.06; P\u2005=\u2005.05) and improved glycated hemoglobin (MD\u2005=\u2005-1.29%, 95% CI\u2005=\u2005-1.46 to -1.13; P\u2005<\u2005.00001). Gastrointestinal adverse events and treatment discontinuation occurred more frequently with semaglutide, while serious adverse events were comparable to placebo (95% CI\u2005=\u20050.81-1.41; P\u2005=\u2005.64; P\u2005=\u2005.65). Semaglutide demonstrates promising efficacy for NASH resolution and meaningful metabolic improvement with an overall acceptable safety profile. Its effect on fibrosis remains uncertain, and longer-term, adequately powered trials are needed to clarify its role in NAFLD/NASH treatment.",
+          "authors": [
+            "Suleman Khan",
+            "Asad Jamal",
+            "Maria Qadri",
+            "et al."
+          ],
+          "journal": "Medicine",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42499082/"
+        },
+        {
+          "pmid": "42484967",
+          "title": "Mortality and persistence in therapy in elderly subjects with type 2 diabetes receiving gliflozins or incretins.",
+          "abstract": "Evidence supporting the use of sodium-glucose cotransporter 2 inhibitors (SGLT2i) and glucagon-like peptide-1 receptor agonists (GLP1-RA) in individuals aged\u2009\u2265\u200980 years remains limited, particularly regarding treatment persistence and real-world outcomes. In this retrospective real-world study, 292 individuals with type 2 diabetes (T2D) aged\u2009\u2265\u200980 years who started SGLT2i (n\u2009=\u2009155) or GLP1-RA (n\u2009=\u2009137) after the age of 75 were stratified by age at treatment initiation (75-80 vs.\u2009>\u200980). Primary outcomes were all-cause mortality and treatment persistence; longitudinal renal function was also assessed. Survival analyses were performed using Cox models adjusted for confounders. Over a median follow-up of 40 (37-43) months, 47 deaths (16.1%) occurred. The incidence rate of mortality was 37.5 and 68.6 events/1000 person-years in the GLP1-RA and SGLT2i groups, respectively (adjusted HR\u2009=\u20090.58, 95% CI [0.28-1.21]; p\u2009=\u20090.148). Stratifying participants by age at first prescription, those starting either GLP1-RA or SGLT2i at age 75-80 showed similar mortality. In contrast, subjects starting GLP1-RA vs. SGLT2i after 80 years showed a higher survival rate (adjusted HR\u2009=\u20090.33, 95% CI [0.12-0.91]; p\u2009=\u20090.034); significance disappeared after further adjustment for cardiovascular burden. Treatment discontinuation was 14% with GLP1-RA and 20% with SGLT2i (HR 0.53, 95% CI [0.30-0.95]; p\u2009=\u20090.032), due to a better persistence in GLP1-RA of more elderly subjects. Longitudinal eGFR trajectories were similar between treatments. GLP1-RA and SGLT2i were associated with similar all-cause mortality risk when started in very late age. Kidney function over time was comparable. Persistence on SGLT2i was lower when therapy was started after the age of 80. These findings highlight the need for individualized treatment decisions in older, frail patients and for prospective studies on glucose-lowering therapies in very old populations.",
+          "authors": [
+            "Alice Del Zoppo",
+            "Diego Moriconi",
+            "Eleni Rebelos",
+            "et al."
+          ],
+          "journal": "Journal of endocrinological investigation",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42484967/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals with overweight or obesity with or without diabetes participating in RCTs",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "This systematic review and meta-analysis evaluated nonadherence rates and reasons for discontinuation of GLP-1 agonists in obese/overweight populations enrolled in randomized controlled trials. The study aimed to estimate pooled nonadherence rates and identify patterns of treatment persistence, with adverse drug reactions being a key factor limiting treatment continuation."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "medications": "Semaglutide versus placebo",
+          "population": "Adults with metabolic dysfunction-associated steatotic liver disease (MASLD) or steatohepatitis (MASH)",
+          "country_dataset": "Not reported",
+          "key_findings": "This systematic review and meta-analysis with GRADE evidence assessment evaluated the efficacy and tolerability of subcutaneous semaglutide versus placebo in adults with NAFLD/NASH, focusing on biochemical, histologic, metabolic outcomes and tolerability as potential disease-modifying therapy for this leading cause of chronic liver disease."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=292",
+          "population": "Elderly subjects aged \u226580 years with type 2 diabetes (155 on SGLT2i, 137 on GLP-1 RA)",
+          "medications": "Sodium-glucose cotransporter 2 inhibitors (SGLT2i) and glucagon-like peptide-1 receptor agonists (GLP-1 RA)",
+          "country_dataset": "Not reported",
+          "key_findings": "This real-world retrospective study evaluated treatment persistence and mortality outcomes in 292 elderly patients aged \u226580 years with type 2 diabetes initiating SGLT2i or GLP-1 RA after age 75, stratified by age at treatment initiation, with primary outcomes including all-cause mortality, treatment persistence, and longitudinal renal function changes."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
