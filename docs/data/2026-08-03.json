@@ -1,0 +1,274 @@
+{
+  "date": "2026-08-03",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42543796",
+          "title": "Real-World Use of Subsidised Semaglutide in Icelandic Children With Obesity: A Nationwide Retrospective Cohort Study.",
+          "abstract": "Real-world evidence of subsidised semaglutide in children with obesity is scarce. To describe clinical outcomes (%IOTF30 change) in a nationwide cohort of Icelandic children prescribed subsidised semaglutide, describing outcomes across treatment settings and examining treatment response in children with and without neurodevelopmental disorders (ND). Retrospective, population-based cohort study using longitudinal anthropometric measurements, March 20, 2021-June 6, 2025. Children aged \u2265\u200912 with grade 2 obesity were eligible for subsidised semaglutide under a universal reimbursement policy. Main outcomes were changes in %IOTF30 (BMI expressed as a percentage of the age- and sex-specific IOTF obesity threshold), modelled using piecewise linear mixed-effects regression. Among 113 participants (44% female; mean [SD] age 15.2 [2.0] years), pre-treatment %IOTF30 rose at 0.29 percentage points (pp)/month (95% CI, 0.26, 0.33). Semaglutide was associated with trajectory reversal at -0.86\u2009pp/month (95% CI, -1.06 to -0.66); estimated reductions were 5.17 (95% CI, 3.98, 6.36) and 10.33 (95% CI, 7.96, 12.71) pp at six and 12\u2009months. On-treatment slopes were numerically similar across settings but not interpretable as evidence of equivalent response. ND-status did not significantly modify treatment response among 56 Pediatric Obesity Center participants (interaction p\u2009=\u20090.83; underpowered). Overall, 63% achieved %IOTF30 reductions exceeding 10\u2009pp. Semaglutide was associated with reversal of a longstanding upward weight trajectory in children with obesity. ND-status did not significantly modify treatment response; analysis was underpowered. Universal subsidisation policy enabled high treatment persistence and may inform reimbursement policy in other countries, though generalisability to settings without universal coverage remains uncertain.",
+          "authors": [
+            "Sigrun Thorsteinsdottir",
+            "Berglind Jonsdottir",
+            "Anna S Olafsdottir",
+            "et al."
+          ],
+          "journal": "Pediatric obesity",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42543796/"
+        },
+        {
+          "pmid": "42543082",
+          "title": "Guideline on treatment intensification with injectable therapies beyond GLP-1 RA based therapies in type 2 diabetes.",
+          "abstract": "Guideline on Treatment Intensification with Injectable Therapies Beyond GLP-1 RA Monotherapy in Type 2 Diabetes AIMS: To provide evidence-based recommendations for selecting injectable therapies in adults with type 2 diabetes (T2DM) who have suboptimal response to GLP\u20111 receptor agonists (GLP\u20111 RAs). Using the GRADE framework, a systematic search (updated November 2025) identified eight RCTs evaluating four intensification strategies (switching to another GLP\u20111 RA, switching to dual GIP/GLP\u20111 RA, switching to fixed\u2011ratio combination (FRC), or adding basal insulin). A 22\u2011member Guideline Development Group from 11 Asia\u2011Pacific countries formulated recommendations requiring\u202f\u2265\u202f80% consensus. AGREE and RIGHT checklists guided reporting. The panel conditionally recommends against switching to another GLP\u20111 RA (very low certainty). It conditionally recommends switching to dual GIP/GLP\u20111 RA (low certainty) for glycemic and weight benefits, switching to FRC (very low to moderate certainty) when prioritizing glycemic improvement, and adding basal insulin (low certainty) with structured education. Choice among strategies should be individualized. This guideline offers a framework for treatment intensification beyond GLP\u20111 RA monotherapy in T2DM, emphasizing shared decision\u2011making based on glycemic goals, hypoglycemia risk, weight needs, and patient preferences.",
+          "authors": [
+            "Yingying Luo",
+            "Jun Xia",
+            "Xiaomei Yao",
+            "et al."
+          ],
+          "journal": "Diabetes research and clinical practice",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42543082/"
+        },
+        {
+          "pmid": "42536519",
+          "title": "Effectiveness & safety of semaglutide in weight reduction in obese nondiabetic patients: A systematic review and meta-analysis.",
+          "abstract": "Obesity is a chronic multifactorial disease characterized by excess adiposity and persistent low-grade systemic inflammation, contributing substantially to cardiometabolic morbidity and mortality. Semaglutide, a long-acting glucagon-like peptide-1 receptor agonist approved for chronic weight management, promotes weight loss by reducing appetite, delaying gastric emptying, and decreasing energy intake while also demonstrating potential anti-inflammatory effects. Although semaglutide has shown promising efficacy for weight reduction, an updated evaluation of its efficacy and safety in nondiabetic individuals with overweight or obesity is warranted. A systematic review and meta-analysis was conducted according to PRISMA 2020 guidelines. PubMed/MEDLINE, Embase, Scopus, and CINAHL were searched from inception to March 2025 for randomized controlled trials evaluating subcutaneous semaglutide in adults with overweight or obesity without type 2 diabetes mellitus. The primary outcome was the percentage change in body weight from baseline. Secondary outcomes included overall gastrointestinal adverse events, nausea, vomiting, diarrhea, constipation, treatment discontinuation due to adverse events, and serious adverse events. Pooled estimates were calculated using a random-effects model. Four randomized controlled trials involving 3613 participants met the eligibility criteria. Semaglutide produced significantly greater weight loss than placebo (mean difference: -11.85%; 95% confidence interval [CI]: -12.81 to\u2005-\u200510.90; P\u2005<\u2005.00001). Overall gastrointestinal adverse events were significantly more frequent with semaglutide, with nausea, vomiting, diarrhea, and constipation representing the most commonly reported events. Treatment discontinuation due to adverse events was also significantly higher in the semaglutide group (RR 2.62, 95% CI: 1.70-4.03; P\u2005=\u2005.001). Serious adverse events, including acute pancreatitis and cholelithiasis, were uncommon. Subcutaneous semaglutide is an effective treatment for weight reduction in adults with overweight or obesity without type 2 diabetes mellitus but is associated with an increased risk of gastrointestinal adverse events, particularly nausea, vomiting, diarrhea, and constipation, as well as higher treatment discontinuation. Serious adverse events were rare. Further long-term randomized trials are needed to evaluate the durability of weight loss and the long-term safety profile of semaglutide.",
+          "authors": [
+            "Faryal Naz",
+            "Fawad Qaiser",
+            "Arif Mumtaz",
+            "et al."
+          ],
+          "journal": "Medicine",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42536519/"
+        },
+        {
+          "pmid": "42535213",
+          "title": "Outpatient Dispensing Patterns and Changes in Tirzepatide Strength Mix in Japan: A Study Using the National Open Claims Data.",
+          "abstract": "Tirzepatide is a once-weekly injectable dual agonist of the glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors; in Japan, it is approved for the treatment of type 2 diabetes and marketed under the brand name Mounjaro, which is available in six strengths. Japanese studies of tirzepatide have primarily evaluated efficacy, real-world effectiveness, safety, persistence, and patient-level maintenance doses. National patterns in dispensing settings and longitudinal changes in the product-strength mix have not been described. We examined whether increases in claim-recorded quantities were accompanied by structural changes in outpatient dispensing and strength mix. We analyzed injectable-drug quantity tables for the fiscal year 2024 from the 11th National Database of Health Insurance Claims and Specific Health Checkups of Japan Open Data. Full National Health Insurance drug codes were used to identify all six Mounjaro strengths. The primary tables excluded public-expense claims, and public-expense-inclusive tables were used in a sensitivity analysis. Monthly analyses required numeric values for every strength in both the within-institution and outside-institution outpatient prescription worksheets. Outcomes included annual quantities by dispensing category and strength, monthly total quantity, the share dispensed outside medical institutions, strength-mix indicators, and each strength's contribution to the increase from June 2024 to March 2025. The primary outpatient total was 7,829,974.7 kit units. Of this total, 6,748,743.5 kit units (86.2%) were recorded as outpatient prescriptions dispensed outside medical institutions. Complete monthly data were available from June 2024 through March 2025. During this interval, monthly quantity increased from 392,354 to 1,027,955 kit units; outside-institution quantity increased from 329,431 kit units (84.0%) to 899,994 kit units (87.6%); and the quantity represented by strengths of 7.5 mg or higher increased from 50,902 kit units (13.0%) to 246,316 kit units (24.0%). The quantity of the 2.5-mg product increased from 159,318 kit units (40.6%) to 278,540 kit units (27.1%), while its share decreased. The 5-mg product accounted for 320,965 kit units (50.5%) of the absolute increase, whereas strengths of 7.5 mg or higher collectively accounted for 195,414 kit units (30.7%). The public-expense-inclusive sensitivity analysis preserved the ranking of strengths and the predominance of outside-institution dispensing. Tirzepatide dispensing in Japan was concentrated in the outside-institution outpatient category, and the share in this category increased over the fully observable period. Growth was also accompanied by a measurable shift in the product-strength mix. This study provides an auditable national description of dispensing-setting and product-mix dynamics rather than an analysis of patient uptake, adherence, clinical outcomes, or individual titration.",
+          "authors": [
+            "Takuya Omura",
+            "Takahiro Kamihara"
+          ],
+          "journal": "Cureus",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42535213/"
+        },
+        {
+          "pmid": "42533276",
+          "title": "Real-World Effectiveness and Safety of Finerenone in People With Type 2 Diabetes and Chronic Kidney Disease: A Spanish Multicentre Retrospective Observational Study (MEDFINE-RWD).",
+          "abstract": "Although finerenone has shown efficacy in randomized trials, evidence from routine clinical practice remains limited. We aimed to assess the real-world effectiveness and safety of finerenone in people with type 2 diabetes (PWT2D) and chronic kidney disease (CKD), with a particular focus on residual cardiorenal risk as reflected by changes in urinary albumin-to-creatinine ratio (UACR). MEDFINE-RWD was a multicentre, retrospective study across eight Spanish centres, enrolling patients initiating finerenone (June 2024-December 2025). The primary endpoint was a \u2265\u200930% reduction in UACR. Multivariable logistic regression identified response predictors. Secondary outcomes included safety (hyperkalaemia \u2265\u20095.5\u2009mmol/L, major kidney [MAKE] and cardiovascular events [MACE]). Among 844 participants (median age 72\u2009years; median follow-up 184\u2009days; 76.8% male; baseline eGFR 49\u2009mL/min/1.73\u2009m In real-world practice, finerenone was associated with a substantial reduction in albuminuria. Finerenone demonstrated high persistence and a favourable safety profile, irrespective of baseline renoprotective regimens or KDIGO risk.",
+          "authors": [
+            "Oscar Moreno-P\u00e9rez",
+            "Antonio Tejera-Mu\u00f1oz",
+            "Patricia Tom\u00e1s-G\u00f3mez",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42533276/"
+        },
+        {
+          "pmid": "42521631",
+          "title": "Low-Dose Tirzepatide for Obesity: Comparative Efficacy of 2.5\u2009mg Versus 5\u2009mg in Non-Diabetic Japanese Adults.",
+          "abstract": "Obesity is a major global health issue. While tirzepatide demonstrates robust weight reduction in clinical trials, data comparing low maintenance doses (2.5 vs. 5\u2009mg) in non-diabetic adults with obesity remain limited. This study evaluated the comparative efficacy and safety of 2.5 versus 5\u2009mg tirzepatide combined with lifestyle intervention. This multicentre, prospective, non-randomised cohort study enrolled non-diabetic Japanese adults (18-65\u2009years) with BMI \u2265\u200930\u2009kg/m Of 112 participants analysed (58 on 2.5\u2009mg, 54 on 5\u2009mg), baseline characteristics were well balanced (mean BMI 30.8\u2009kg/m In non-diabetic Japanese adults with obesity, 2.5 and 5\u2009mg tirzepatide combined with lifestyle modification yielded similar weight loss at 6\u2009months, with better tolerability at the lower dose. These findings support the potential utility of low-dose tirzepatide strategies in real-world practice.",
+          "authors": [
+            "Michitaka Amioka",
+            "Hideyo Amioka",
+            "Hiroki Kinoshita",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42521631/"
+        },
+        {
+          "pmid": "42520970",
+          "title": "Diet Quality and Micronutrient Intake Among U.S. Adults Eligible for GLP-1 Receptor Agonist Anti-Obesity Medications: A Nationally Representative Analysis.",
+          "abstract": "Glucagon-like peptide-1 receptor agonist anti-obesity medications (GLP-1 RA AOMs) are increasingly prescribed for obesity management; however, baseline dietary quality and nutritional risk among treatment-eligible populations remain poorly characterized. To compare diet quality and micronutrient adequacy among U.S. adults meeting GLP-1 RA AOMs eligibility criteria and examine whether differences persist after accounting for sociodemographic, behavioral, and clinical factors. We conducted a cross-sectional analysis of adults \u226520 years from NHANES 2005-2020. GLP-1 RA AOMs eligibility was defined according to prescribing criteria (BMI \u226530 kg/m Among 16,143 adults (representing 97.7 million U.S. adults), 43.5% (95% CI: 42.6-44.5) met GLP-1 RA AOMs eligibility criteria. Eligible adults had poorer diet quality than non-eligible adults (HEI-2015: 49.2 vs 51.7; P<0.001), corresponding to an unadjusted difference of -2.50 points. Differences persisted after demographic (\u03b2 = -2.19) and socioeconomic adjustment (\u03b2 = -2.05) but were substantially attenuated and no longer statistically significant after additional adjustment for waist circumference (\u03b2 = -0.42; P=0.29), suggesting that central adiposity was strongly associated with the observed association between GLP-1 RA AOMs eligibility and diet quality. Component analyses showed poorer scores for nutrient-dense foods including fruits, vegetables, whole grains, and plant proteins. Higher waist circumference was independently associated with poorer diet quality (\u03b2 \u2248 -1.47 HEI points per quartile). Micronutrient inadequacy was modestly higher among eligible adults for several nutrients including vitamin C, vitamin A, magnesium, vitamin E, vitamin D, fiber, potassium, and vitamin K. Adults eligible for GLP-1 RA AOMs therapy demonstrate modest but consistent differences in baseline diet quality and micronutrient adequacy. These findings suggest that modest nutrition risk may co-occur with GLP-1 RA AOMs eligibility and support consideration of nutrition assessment as part of comprehensive obesity care.",
+          "authors": [
+            "Demsina Babazadeh",
+            "Huimin Zhong",
+            "Francene M Steinberg"
+          ],
+          "journal": "The Journal of nutrition",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42520970/"
+        },
+        {
+          "pmid": "42507284",
+          "title": "Glucagon and GLP-1 in hemodialysis: associations with mortality and nutritional decline.",
+          "abstract": "Glucagon is a key regulator of amino acid metabolism, and elevated levels are frequently observed in maintenance hemodialysis (MHD) patients. Yet, the relationship between plasma glucagon levels, nutritional parameters, and prognosis in MHD patients remains unclear. We evaluated whether glucagon levels in MHD patients are associated with normalized protein catabolic rate (nPCR), glucagon-like peptide-1 (GLP-1), nutritional status, and all-cause mortality. In this prospective observational study, plasma hormone levels were measured alongside clinical, biochemical, anthropometric, bioimpedance-derived nutritional markers, and inflammatory indices. Mortality was assessed using Kaplan-Meier and Cox regression analyses. This study included 82 prevalent MHD patients. Patients were followed for 18.0\u2009\u00b1\u20094.9 months. Glucagon correlated positively with nPCR (r\u2009=\u20090.25, p\u2009=\u20090.03) and inversely with phase angle (PhA) (r\u2009=\u2009\u2009-\u20090.24, p\u2009=\u20090.03) after adjustment. Additional correlations with GLP-1 became marginal after adjustment. The subgroup with high glucagon and low nPCR showed the lowest PhA (p\u2009=\u20090.03), and remained significant after multivariable adjustment. Patients with glucagon\u2009\u2265\u2009120 pg/mL (ROC-derived cutoff) had higher mortality (log-rank p\u2009=\u20090.05); however, the discriminative power of this cutoff was limited (AUC 0.63). In multivariable models, the association persisted after adjustment for age and diabetes but was attenuated after further controlling for PhA, GLP-1, or MIS. Elevated glucagon in MHD patients was modestly associated with altered protein metabolism, impaired nutritional integrity, and borderline higher all-cause mortality. The independent prognostic value of glucagon remains uncertain, and a concept of a glucagon resistance phenotype is speculative.",
+          "authors": [
+            "Elad Nizri",
+            "Lawi Suissa",
+            "Ada Azar",
+            "et al."
+          ],
+          "journal": "International urology and nephrology",
+          "pub_date": "Jul 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42507284/"
+        },
+        {
+          "pmid": "42504813",
+          "title": "Discontinuation of glucagon-like peptide-1 receptor agonists among US adults: A national survey.",
+          "abstract": "Although many people discontinue glucagon-like peptide-1 receptor agonists (GLP-1 RAs), the reasons for discontinuation are unclear. To identify self-reported reasons for GLP-1 RA discontinuation among US adults. Cross-sectional survey of US adults fielded in June 2025 using Ipsos Omnibus and incorporating survey weights calibrated to census benchmarks. We included individuals who initiated a GLP-1 RA between January 2022 and June 2025 and subsequently discontinued therapy. Outcomes included duration of use, self-reported reason(s) for discontinuation, medication source, out-of-pocket payment, and insurance coverage. Descriptive statistics and chi-square tests for statistical significance were used. Of 7,035 individuals screened, 440 respondents met eligibility criteria and completed the survey. Of these 440 participants, 51.1% were female, 42.3% were aged between 18 and 34\u00a0years, and 23.8% reported having type 2 diabetes. More than half of these discontinuers (54.6%) reported discontinuing a GLP-1 RA within 6 months of initiation, and 79.7% reported discontinuation within 12 months of use. Approximately 1 in 7 (14.4%) reported sourcing GLP-1 RAs from a friend or family member, and more than half reported using a copayment coupon (35.4%) or free sample (22.0%). Many respondents (31.3%) reported first filling a prescription without insurance. Approximately 1 in 5 reported sourcing their medicine from a compounding pharmacy (9.8%) or Internet-based (9.1%) source. The most frequently cited reasons for discontinuation were cost (36.1%), side effects (33.3%), no insurance coverage (28.2%), and achieving a weight-loss goal (26.1%). Compared with those without diabetes, respondents with diabetes were significantly more likely to discontinue because of side effects (50.1% vs 28.1%,  In this national survey, most US adults who stopped GLP-1 RAs did so within 6 months because of cost, adverse effects, lack of coverage, or having achieved a weight loss goal. Differences in coverage, costs, and sourcing are modifiable targets that may decrease high rates of GLP-1 RA discontinuation.",
+          "authors": [
+            "Michael J DiStefano",
+            "Juliet Zon",
+            "Erik G Olson",
+            "et al."
+          ],
+          "journal": "Journal of managed care & specialty pharmacy",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42504813/"
+        },
+        {
+          "pmid": "42456704",
+          "title": "Association of GLP-1 receptor agonists with alcohol use disorder-related and substance use disorder-related hospital admissions during treatment and after discontinuation: a Swedish register-based within-individual observational study.",
+          "abstract": "Evidence suggests that GLP-1 receptor agonists might reduce substance use across different substance use disorders. However, data on substance use-related outcomes after GLP-1 discontinuation are absent. This study aimed to investigate the risk of alcohol and substance use-related hospitalisations during and after exposure to GLP-1 receptor agonists. This within-individual observational study used Swedish registers to identify residents of Stockholm County with a first registered diagnosis of type 2 diabetes between Jan 1, 2005, and Dec 31, 2024 who had received GLP-1 receptor agonists and, for comparison, DPP-4 inhibitors. Active follow\u2011up started on Jan 1, 2015, or on the date of the first registered diabetes diagnosis, whichever occurred later. Patients were followed up until the end of the observation period (Dec 31, 2024). The main outcomes were hospitalisations related to alcohol use disorder and substance use disorder (which included the alcohol use disorder-related events). Fixed-effects Poisson regression models were used to estimate rate ratios (RRs) of hospitalisations, comparing periods of GLP-1 receptor agonist or DPP-4 inhibitor exposure and two post-exposure windows (days 1-182 and 183-364) with unexposed periods in the same individuals. People with lived experience were not involved in the study. 167\u2008026 individuals with type 2 diabetes (mean age 63\u00b798 years [SD 13\u00b777]; median age 65\u00b700 years [IQR 55\u00b700-74\u00b700]; 96\u2008133 [57\u00b76%] males and 70 893 [42\u00b74%] females) were included in the study. Ethnicity data were unavailable. 1559 (0\u00b79%) individuals had at least one alcohol use disorder-related hospitalisation and 2008 (1\u00b72%) had at least one substance use disorder-related hospitalisation. 41\u2008109 (24\u00b76%) individuals received GLP-1 receptor agonists during the study period, and 23\u2008666 (14\u00b72%) received DPP-4 inhibitors. 308 (0\u00b77%) of those receiving GLP-1 receptor agonists had at least one alcohol-related hospitalisation during the observational period, and 444 (1\u00b71%) had at least one substance use-related hospitalisation; 957 (66\u00b71%) of the 1447 substance use disorder-related hospitalisations recorded in these 444 individuals were attributed to alcohol use disorder. GLP-1 exposure was associated with lower rates of hospitalisations related to alcohol use disorder (RR 0\u00b755, 95% CI 0\u00b743-0\u00b770) and substance use disorder (0\u00b761, 0\u00b750-0\u00b774) compared with unexposed periods for the same individuals. For individuals with alcohol use disorder, the association with hospitalisation rate reduction persisted during days 1-182 after discontinuation of GLP-1 receptor agonists (0\u00b770, 0\u00b750-0\u00b798) but was no longer evident during days 183-364 after discontinuation (1\u00b707, 0\u00b771-1\u00b763); for substance use disorder, there were no statistically significant associations with reduction after discontinuation of GLP-1 receptor agonists (days 1-182: 0\u00b779, 0\u00b761-1\u00b702; days 183-364: 0\u00b789, 0\u00b763-1\u00b726). DPP-4 inhibitors were not associated with consistent rate reductions. GLP-1 receptor agonist treatment was associated with lower rates of hospitalisation in individuals with alcohol use disorder and substance use disorder. This association extended into the first 182 days after discontinuation for alcohol use disorder but not for substance use disorder. Findings support clinical monitoring of substance use when GLP-1 receptor agonist treatment is stopped. Forte, Karolinska Institutet, and Region Stockholm.",
+          "authors": [
+            "Patrick Bach",
+            "Johan Franck",
+            "Jonas H\u00e4llgren",
+            "et al."
+          ],
+          "journal": "The lancet. Psychiatry",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42456704/"
+        },
+        {
+          "pmid": "42446801",
+          "title": "Optimal Timing for Initiating Liraglutide 3.0\u00a0mg in Patients With Persistent Obesity Six Months After Metabolic and Bariatric Surgery.",
+          "abstract": "To determine the optimal timing for initiating liraglutide in patients with persistent obesity (BMI\u2009\u2265\u200928\u00a0kg/m\u00b2 in China) six months after metabolic and bariatric surgery, a key gap in postoperative weight management. In this prospective study, 100 patients were allocated to receive liraglutide (3.0\u00a0mg/day) starting at 6 (LG-6), 9 (LG-9), or 12 (LG-12) months post-surgery, or standard care without liraglutide (n\u2009=\u200925 each). The primary endpoint was percent total weight loss (%TWL) at 18 months. Secondary outcomes included changes in body composition and remission of obesity-related comorbidities. All three liraglutide groups showed greater %TWL (LG-6 16.3\u2009\u00b1\u20095.7%, LG-9 13.7\u2009\u00b1\u20095.3%, LG-12 12.6\u2009\u00b1\u20096.0%) compared with controls (5.3\u2009\u00b1\u20095.2%; P\u2009<\u20090.05). Higher proportions of patients in liraglutide groups achieved BMI\u2009<\u200928\u00a0kg/m\u00b2 (LG-6 40%, LG-9 52%, LG-12 36%) and \u2265\u200915% TWL (64%, 32%, 28%) versus controls (16%, 4%; P\u2009<\u20090.05). The LG-6 group showed the highest proportion reaching\u2009\u2265\u200920% TWL (24% vs. 0% in controls; P\u2009<\u20090.05). Reductions in fat mass and alanine transaminase, preservation of muscle mass, and remission of metabolic dysfunction-associated steatotic liver disease and hyperuricaemia were observed in association with liraglutide treatment. Early liraglutide initiation, particularly at six months post-surgery, was linked to greater weight loss and more favourable metabolic profiles compared with standard care. These findings suggest that timely pharmacotherapy may be associated with improved long-term weight management outcomes, though causality remains to be established.",
+          "authors": [
+            "Yuqin Ouyang",
+            "Wanying Zhong",
+            "Lijun Chen",
+            "et al."
+          ],
+          "journal": "Obesity surgery",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42446801/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Icelandic children aged \u226512 years with grade 2 obesity",
+          "medications": "Semaglutide",
+          "country_dataset": "Iceland",
+          "key_findings": "Real-world study examining clinical outcomes of subsidised semaglutide in children with obesity, including treatment response in children with and without neurodevelopmental disorders across different treatment settings."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "8 RCTs",
+          "population": "Adults with type 2 diabetes with suboptimal response to GLP-1 receptor agonists",
+          "medications": "GLP-1 RAs, dual GIP/GLP-1 RA, fixed-ratio combinations, basal insulin",
+          "country_dataset": "Not specified",
+          "key_findings": "Evidence-based guideline recommendations for four intensification strategies when GLP-1 RA monotherapy provides suboptimal response: switching to another GLP-1 RA, switching to dual GIP/GLP-1 RA, switching to fixed-ratio combination, or adding basal insulin."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Obese nondiabetic patients",
+          "medications": "Semaglutide",
+          "country_dataset": "Not specified",
+          "key_findings": "Updated systematic review and meta-analysis evaluating effectiveness and safety of semaglutide for weight reduction in nondiabetic patients, demonstrating weight loss through appetite reduction, delayed gastric emptying, and decreased energy intake with potential anti-inflammatory effects."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Japanese patients with type 2 diabetes receiving tirzepatide",
+          "medications": "Tirzepatide",
+          "country_dataset": "Japan, national open claims data",
+          "key_findings": "Study examining outpatient dispensing patterns and longitudinal changes in tirzepatide strength mix in Japan, with previous Japanese studies showing real-world effectiveness, safety, persistence, and patient-level maintenance doses."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Spanish patients with type 2 diabetes and chronic kidney disease",
+          "medications": "Finerenone",
+          "country_dataset": "Spain, 8 centres",
+          "key_findings": "Real-world retrospective observational study assessing effectiveness and safety of finerenone in type 2 diabetes patients with chronic kidney disease, with focus on residual cardiorenal risk reflected by changes in urinary albumin-to-creatinine ratio."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=112",
+          "population": "Non-diabetic Japanese adults aged 18-65 years with BMI \u226530 kg/m\u00b2",
+          "medications": "Tirzepatide 2.5 mg versus 5 mg",
+          "country_dataset": "Japan",
+          "key_findings": "Multicentre prospective non-randomised cohort study comparing efficacy and safety of low-dose tirzepatide maintenance doses (2.5 vs 5 mg) combined with lifestyle intervention in non-diabetic obese Japanese adults."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "U.S. adults aged \u226520 years meeting GLP-1 RA anti-obesity medication eligibility criteria",
+          "medications": "GLP-1 receptor agonist anti-obesity medications",
+          "country_dataset": "United States, NHANES 2005-2020",
+          "key_findings": "Cross-sectional analysis of baseline dietary quality and micronutrient adequacy among U.S. adults eligible for GLP-1 RA anti-obesity medications, examining differences across sociodemographic, behavioral, and clinical factors."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Maintenance hemodialysis patients",
+          "medications": "Not GLP-1 focused; glucagon and endogenous GLP-1 assessed",
+          "country_dataset": "Not specified",
+          "key_findings": "Prospective observational study evaluating relationships between plasma glucagon levels, GLP-1, nutritional parameters including normalized protein catabolic rate, nutritional status, and all-cause mortality in hemodialysis patients."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "U.S. adults who initiated GLP-1 RAs between January 2022 and June 2025 and subsequently discontinued therapy",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States, Ipsos Omnibus survey, June 2025",
+          "key_findings": "National cross-sectional survey identifying self-reported reasons for GLP-1 RA discontinuation among U.S. adults, examining duration of use, medication source, out-of-pocket payment, and demographic factors associated with discontinuation."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Swedish residents with type 2 diabetes who received GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Sweden, Stockholm County registers",
+          "key_findings": "Within-individual observational register-based study investigating risk of alcohol and substance use-related hospitalizations during GLP-1 receptor agonist treatment and after discontinuation, addressing evidence gap on post-discontinuation substance use outcomes."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=100",
+          "population": "Chinese patients with persistent obesity (BMI \u226528 kg/m\u00b2) six months after metabolic and bariatric surgery",
+          "medications": "Liraglutide 3.0 mg versus standard care",
+          "country_dataset": "China",
+          "key_findings": "Prospective study comparing optimal timing for initiating liraglutide (at 6, 9, or 12 months post-bariatric surgery) in patients with persistent obesity, examining percent total weight loss at 18 months and changes in body composition and comorbidity remission."
+        }
+      ],
+      "excluded_count": 14
+    }
+  ]
+}
