@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-10",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42572911",
+          "title": "Perceived Competence and GLP-1RA Weight Management Engagement: Mixed-Methods Insights From Six Patient Groups.",
+          "abstract": "This study aimed to explore patients' perspectives on GLP-1 receptor agonists (GLP-1RAs) for weight loss across the continuum of contemplating use to discontinuation, with and without achieving weight loss goals. From June to October 2025, participants completed a 30-item survey and ~30-question semi-structured interview regarding their perceptions of GLP-1RAs for weight loss. Interviews were tailored to six GLP-1RA groups: (1) considering use; (2) <\u20093\u2009months on therapy; (3) \u2265\u20093\u2009months on therapy without achieving weight loss goal; (4) \u2265\u20093\u2009months on therapy with achieving weight loss goal; (5) discontinued without achieving goal; and (6) discontinued after achieving goal. Qualitative coding and thematic analysis were conducted in Dedoose (9.0.107); quantitative analyses used SAS 9.4. A total of 185 participants consented, and\u00a0141 completed data collection (76%). Descriptive profiles suggested heterogeneity across psychosocial and behavioral domains. Groups 3 and 4 showed stronger profiles (higher perceived competence, intrinsic motivation, and self-monitoring). After false discovery rate adjustment across 78 comparisons, perceived competence was the only statistically significant differentiator: Group 1 was lower (z\u2009=\u2009-3.15; q\u2009=\u20090.0347) and Group 4 higher (z\u2009=\u20094.44; q\u2009<\u20090.001). Findings underscore the importance of tailoring behavioral support to individuals' stage of engagement in GLP-1RA-supported weight loss journeys.",
+          "authors": [
+            "Jane A McElroy",
+            "Isabella Bertarelli",
+            "Chloe Maltagliati",
+            "et al."
+          ],
+          "journal": "Obesity (Silver Spring, Md.)",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42572911/"
+        },
+        {
+          "pmid": "42551699",
+          "title": "Safety and efficacy of glucagon like peptide-1 receptor agonism-based therapies in end-stage renal disease: A systematic review and meta-analysis.",
+          "abstract": "No systematic review and meta-analysis (SRM) has analyzed the safety and efficacy of glucagon like peptide-1 receptor agonism-based therapies (GLP1RA-BT) in people with end stage renal disease (ESRD) [GFR<15ml/min/1.73m Electronic databases were searched for articles evaluating the use of GLP1RA-BT in ESRD. Primary outcome was mean reduction in body weight from baseline following treatment with GLP1RA-BT. Secondary outcomes were changes in BMI, glycaemia, and safety profile. Data from 388 patients [semaglutide(266), liraglutide(66), dulaglutide(47) and tirzepatide(9); 19 studies] with ESRD (91.5% on RRT) having baseline weight, BMI and HbA1c of 97.7\u00b123.8kg, 34.4\u00b16.8kg/m2, and 7.26\u00b11.53% respectively were analysed. Weight reduction with semaglutide after 3, 6 and 12-months therapy were -3.09kg(95%CI:-5.95,-0.24;I GLP1RA-BT specifically semaglutide, may be considered for use in ESRD. The results are primarily hypothesis generating, and prospective RCTs are urgently needed.",
+          "authors": [
+            "Deep Dutta",
+            "Sweekruti Jena",
+            "Kunal Mahajan",
+            "et al."
+          ],
+          "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42551699/"
+        },
+        {
+          "pmid": "42563367",
+          "title": "Time to Insulin Initiation Among Patients With Type 2 Diabetes Treated With Second-Line Antidiabetic Drugs.",
+          "abstract": "To examine the effect of second-line treatments (insulin secretagogues, thiazolidinediones, glucagon-like peptide-1 (GLP-1) receptor agonists, dipeptidyl peptidase-4 (DPP-4) inhibitors or sodium-glucose co-transporter 2 (SGLT-2) inhibitors) on time to insulin initiation among patients with type 2 diabetes. We conducted a retrospective cohort study using the Clinical Practice Research Datalink (CPRD) Aurum. Initiation of metformin monotherapy (1998-2021) defined base cohort entry, and initiation of second-line treatment (2013-2021) defined study cohort entry (time zero). After propensity score trimming, we applied inverse probability of treatment weighted Cox models to estimate the association between second-line agents and time to insulin initiation. The secondary outcome was time to treatment modification, defined as the addition of or switch to another antidiabetic drug class. Our analytic cohort included 64\u2009404 patients; 44% initiated DPP-4 inhibitors, 36% insulin secretagogues, 18% SGLT-2 inhibitors, 1% thiazolidinediones and 3% GLP-1 receptor agonists. Over a mean follow-up of 2.9\u2009years, initiation of TZDs, DPP-4 inhibitors, or SGLT-2 inhibitors was associated with a lower risk of insulin initiation than initiation of insulin secretagogues (HR [95% CI]: 0.59 [0.43-0.83], 0.75 [0.69-0.80] and 0.62 [0.56-0.68], respectively). For treatment modification, the risk was higher among TZD and DPP-4 inhibitor initiators, and slightly lower among SGLT-2 inhibitor initiators and GLP-1 receptor agonist initiators than among insulin secretagogue initiators. This study provides real-world evidence that TZDs, DPP-4 inhibitors and SGLT-2 inhibitors may offer an advantage over insulin secretagogues in delaying insulin initiation after metformin monotherapy.",
+          "authors": [
+            "Ya-Hui Yu",
+            "Qi Zhang",
+            "Estefania Zapata-Bravo",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42563367/"
+        },
+        {
+          "pmid": "42560457",
+          "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis.",
+          "abstract": "The rapid rise in overweight and obesity worldwide underscores the need for comparative evidence on long-term pharmacotherapy. The recent introduction of a 7.2\u00a0mg maintenance dose of semaglutide warrants particular attention. We assessed the efficacy and safety of glucagon-like peptide-1 (GLP-1) and GLP-1/glucose-dependent insulinotropic polypeptide (GIP) receptor agonists-liraglutide, semaglutide, and tirzepatide-focusing on the incremental value of semaglutide 7.2\u00a0mg. We conducted a systematic review and frequentist network meta-analysis (NMA) of phase 3 randomized controlled trials (RCTs) in adults (\u2265\u200918 years) with body mass index (BMI)\u2009\u2265\u200925\u00a0kg/m\u00b2, duration\u2009\u2265\u200952 weeks, comparing the above agents at approved weight management doses vs. placebo or each other (PROSPERO: CRD420251014401). Random effects models using the netmeta package estimated relative effects, ranking used P-scores. Twenty-four RCTs were included in the analysis, of which 23 were eligible for inclusion in the NMA. All active treatments reduced body weight, waist circumference, and BMI vs. placebo. Tirzepatide 15\u00a0mg ranked highest for weight and waist reduction across analyses based on P-scores. Semaglutide 7.2\u00a0mg ranked above semaglutide 2.4\u00a0mg for all efficacy endpoints based on P-scores; but the significant advantage in percentage bodyweight change was found only in the diabetes subgroup. Liraglutide 3.0\u00a0mg yielded the smallest weight loss. No significant between treatment differences were observed for serious adverse events (SAEs); however, tirzepatide was associated with higher risk of injection site reactions, and liraglutide with higher risks of any AEs and discontinuation due to AEs. Considerable heterogeneity was present for efficacy outcomes, with limited evidence of networkwide inconsistency; safety networks showed low to moderate heterogeneity. GLP-1 and GLP-1/GIP receptor agonists produce clinically meaningful weight loss vs. placebo over \u2265\u20091 year. Semaglutide 7.2\u00a0mg consistently ranks above 2.4\u00a0mg, but the average incremental benefit (~\u20092-3% points) appears modest and should be interpreted in the context of limited statistically significant differences between doses, as well as balanced against considerations of tolerability and patient preferences. Further head-to-head trials and real world studies are warranted to refine dose selection and long-term safety.",
+          "authors": [
+            "Wiktoria Pa\u0142ka",
+            "Pawe\u0142 Mo\u0107ko",
+            "Katarzyna \u015aladowska",
+            "et al."
+          ],
+          "journal": "Journal of endocrinological investigation",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/"
+        },
+        {
+          "pmid": "42560020",
+          "title": "Real-World Effectiveness and Treatment Patterns of Tirzepatide in a Large UK Digital Health Cohort.",
+          "abstract": "Tirzepatide has demonstrated substantial weight-loss efficacy in clinical trials, but real-world evidence from routine digital prescribing remains limited. We conducted a retrospective cohort study of adults initiating tirzepatide for obesity via a UK digital prescribing service between March 2024 and July 2025. Linked order-level prescribing data and self-reported weights were analysed to estimate percentage weight change at 3, 6, 9, and 12\u2009months. Adherence was assessed using mean days between medication orders. A 6-month survey captured patient-reported outcomes including lifestyle changes and side effects. The primary endpoint was percentage weight change at 6\u2009months. Following analysis of 630\u2009545 eligible patients (80.3% female, mean BMI 36.1\u2009kg/m Tirzepatide was associated with substantial weight loss and significant patient-reported benefits including mood and mobility improvement. Treatment continuity was a correlate of effectiveness, and maximal dose escalation was often unnecessary. These findings support the effective delivery of GLP-1 medication for the treatment of obesity via digital prescribing pathways.",
+          "authors": [
+            "Onayomi Rosenior-Patten",
+            "Zoe Lees",
+            "Rebecca Rowe",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42560020/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults across six groups: considering GLP-1RA use, <3 months on therapy, \u22653 months on therapy with/without weight loss goals, and those who discontinued",
+          "medications": "GLP-1 receptor agonists (unspecified agents)",
+          "country_dataset": "Not reported",
+          "key_findings": "Study explored patient perspectives on GLP-1RAs for weight loss across the continuum from consideration through discontinuation, examining perceived competence and engagement with therapy at different stages of treatment."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "388 patients from 19 studies",
+          "population": "People with end-stage renal disease (GFR<15 ml/min/1.73m\u00b2)",
+          "medications": "GLP-1 receptor agonism-based therapies (semaglutide, liraglutide, dulaglutide, tirzepatide)",
+          "country_dataset": "Multiple electronic databases",
+          "key_findings": "GLP-1RA-based therapies demonstrated efficacy in reducing body weight, BMI, and glycaemia in ESRD patients; comprised semaglutide (266 patients), liraglutide (66), dulaglutide (47), and tirzepatide (9) with favorable safety profiles reported."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with type 2 diabetes treated with metformin monotherapy who initiated second-line antidiabetic drugs",
+          "medications": "GLP-1 receptor agonists versus insulin secretagogues, thiazolidinediones, DPP-4 inhibitors, SGLT-2 inhibitors",
+          "country_dataset": "Clinical Practice Research Datalink (CPRD) Aurum, UK",
+          "key_findings": "Retrospective cohort study examined time to insulin initiation among patients receiving various second-line antidiabetic treatments including GLP-1RAs using propensity score matching to adjust for baseline differences."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Multiple RCTs analyzed",
+          "population": "Adults with overweight and obesity",
+          "medications": "Liraglutide, semaglutide (including 7.2 mg dose), tirzepatide (GLP-1 and GLP-1/GIP receptor agonists)",
+          "country_dataset": "Multiple phase 3 RCTs",
+          "key_findings": "Network meta-analysis of GLP-1 and GLP-1/GIP receptor agonists demonstrated comparative efficacy and safety for weight loss, with particular focus on the incremental value of semaglutide 7.2 mg maintenance dose in overweight and obesity treatment."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults initiating tirzepatide for obesity via UK digital prescribing service, March 2024 - July 2025",
+          "medications": "Tirzepatide",
+          "country_dataset": "UK digital health cohort",
+          "key_findings": "Real-world retrospective cohort study assessed tirzepatide effectiveness through linked prescribing data and self-reported weights at 3, 6, 9, and 12 months, with adherence measured by mean days between medication orders and patient-reported outcomes captured via 6-month survey."
+        }
+      ],
+      "excluded_count": 10
+    }
+  ]
+}
