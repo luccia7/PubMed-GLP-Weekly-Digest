@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-17",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42596603",
+          "title": "When Sex Shapes Diabetes Care: Evidence from the AMD Annals Registry.",
+          "abstract": "Sex and gender differences substantially influence the epidemiology, clinical presentation, and outcomes of type 2 diabetes (T2D). Although guideline-recommended cardiometabolic therapies have expanded in recent years, evidence suggests that women with T2D continue to experience disparities in risk factor control, access to cardioprotective treatments, and clinical outcomes. This study aimed to evaluate sex-based differences in quality of care, treatment patterns, and clinical inertia using real-world data from the Associazione Medici Diabetologi (AMD) Annals Initiative. We conducted a cross-sectional analysis of 2023 data from 296 diabetes clinics participating in the AMD Annals registry. Adults with active T2D (\u22651 antidiabetic prescription and \u22651 clinical assessment in 2023) were included. Process indicators, intermediate outcomes, pharmacologic treatments, and final outcomes were assessed according to AMD Indicators (Revision 9). All analyses were stratified by sex. The study included 571,962 individuals with T2D (41.5% women). Glycemic control and overall quality-of-care scores were similar between sexes. However, women exhibited higher BMI, greater prevalence of severe obesity, poorer lipid control, and higher rates of reduced eGFR. Despite comparable or higher cardiometabolic risk, women were less frequently monitored for albuminuria and retinopathy and were significantly less likely to receive SGLT2 inhibitors and GLP-1 receptor agonists, particularly in the presence of chronic kidney disease, cardiovascular disease, or heart failure. Indicators of clinical inertia consistently disadvantaged women, especially regarding cardioprotective therapies. Despite comparable overall quality-of-care scores, clinically meaningful sex disparities persist in T2D management in Italy. Women experience a higher burden of metabolic risk and reduced access to evidence-based cardioprotective treatments. These findings highlight the urgent need for gender-sensitive diabetes care strategies to reduce therapeutic inequities and improve cardiovascular and renal outcomes in women with T2D.",
+          "authors": [
+            "Andrea Da Porto",
+            "Sara Piccini",
+            "Valeria Manicardi",
+            "et al."
+          ],
+          "journal": "Journal of women's health (2002)",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42596603/"
+        },
+        {
+          "pmid": "42584814",
+          "title": "Comparative risk of hepatocellular carcinoma and mortality among initiators of GLP-1 receptor agonists versus other glucose-lowering therapies: a target trial emulation.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RA) may influence pathways involved in hepatocarcinogenesis, but evidence regarding their association with hepatocellular carcinoma (HCC) and mortality risk remains heterogeneous. We evaluated the association between GLP-1 RA initiation and HCC incidence compared with commonly used glucose-lowering medications, with secondary exploratory analyses of all-cause mortality following HCC diagnosis. We emulated active-comparator, new-user target trials using Patient-Centered Clinical Research Network data from UT Southwestern Medical Center (PCORnet-UTSW; 2010-2025). Adults with T2D initiating GLP-1 RA were compared with initiators of metformin, insulin, sodium-glucose cotransporter-2 inhibitors (SGLT2i), dipeptidyl peptidase-4 inhibitors (DPP4i), and sulfonylureas. The primary outcome was incident HCC; a secondary analysis evaluated all-cause mortality after HCC diagnosis. Five-year risks and risk differences under the intention-to-treat (ITT) approach were estimated using pooled logistic regression with inverse probability of treatment weighting. Per-protocol analyses accounted for treatment adherence using inverse probability of censoring weights. GLP-1 RA initiators had lower five-year HCC risk than comparator groups. Under ITT, risk differences were\u2009-\u20090.37% (95% CI\u2009-\u20090.59 to\u2009-\u20090.08) versus metformin,\u2009-\u20090.52% (95% CI\u2009-\u20090.74 to\u2009-\u20090.35) versus insulin,\u2009-\u20090.37% (95% CI\u2009-\u20090.70 to\u2009-\u20090.06) versus DPP4i, and\u2009-\u20090.39% (95% CI\u2009-\u20090.64 to\u2009-\u20090.13) versus sulfonylureas. Findings were stronger in per-protocol analyses and consistent across subgroups, sensitivity analyses and by individual GLP-1 RA agent. Mortality analyses were limited by small sample sizes but suggested a potential survival benefit. GLP-1 RA initiation was associated with lower HCC risk versus several comparators. Mortality findings were inconclusive and exploratory, warranting confirmation in larger studies.",
+          "authors": [
+            "Jesus Gibran Hern\u00e1ndez-P\u00e9rez",
+            "Omer Abdelgadir",
+            "Subin Jang",
+            "et al."
+          ],
+          "journal": "Hepatology international",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42584814/"
+        },
+        {
+          "pmid": "42575845",
+          "title": "AI Patient Support and 6-Month Medication Adherence in a Digital Obesity Program: A Retrospective Analysis.",
+          "abstract": "Real-world glucagon-like peptide-1 receptor agonist (GLP-1 RA) therapies face substantial attrition rates in commercial digital weight loss services (DWLSs). Conversational artificial intelligence (AI) has been proposed to enhance patient support at production scale, but robust evidence of its effectiveness in improving medication retention is scarce. To evaluate the effect of integrating an asynchronous AI patient support agent (Junebot) into a commercial DWLS on 6-month medication adherence and to assess the independent relationship of digital engagement on retention. This retrospective analysis evaluated 16\u2009556 adults prescribed semaglutide within an Australian DWLS between May 2024 and October 2025. The primary endpoint was 6-month medication adherence (\u2265\u20096 orders fulfilled within 183\u2009days). Analytical protocols featured a multivariate binary logistic regression on the full intention-to-treat cohort and three distinct 1:1 propensity score matching (PSM) sensitivity analyses to isolate era-based and tier-specific engagement effects. Six-month adherence was higher post-Junebot than in the pre-Junebot control (53.2% vs. 47.3%; p\u2009<\u20090.001). However, the full cohort model (R Integrating an AI digital assistant did not independently improve medication adherence; programmatic costs, program pauses and initial tracking anxiety were stronger predictors of long-term retention. After matching post-Junebot cohorts, moderate, active digital engagement appeared to correlate with 6-month retention. Digital providers should prioritise proactive behavioural risk screening and financial accessibility over baseline AI integration.",
+          "authors": [
+            "Louis Talay",
+            "Connie Xu",
+            "John Alderete",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575845/"
+        },
+        {
+          "pmid": "42575714",
+          "title": "Tirzepatide Persistence and Associated Changes in Clinical Outcomes in US Adults With Obesity or Overweight: A 6-Month Claims Database Analysis.",
+          "abstract": "Tirzepatide is a once-weekly glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist (GLP-1 RA) approved in the US for the treatment of Type 2 diabetes (T2D), weight loss and obstructive sleep apnoea. This study aimed to assess the utilisation and effectiveness of tirzepatide among individuals in a large US commercially insured population. This retrospective, observational study used administrative claims and electronic health records from the Healthcare Integrated Research Database (HIRD). Adults with \u2265\u20091 prescription claim for tirzepatide (for obesity/overweight, without T2D), between November 2023-June 2024 and continuous medical/pharmacy enrollment for \u2265\u200912\u2009months pre-index and \u2265\u20096\u2009months post-index were included. Descriptive analyses included baseline demographic and clinical characteristics, treatment patterns and tirzepatide effectiveness (change from baseline in weight, BMI, cardiometabolic risk factors evaluated among persistent individuals) and were stratified by individuals who were GLP-1 RA na\u00efve and individuals who switched to tirzepatide from a GLP-1 RA obesity medication. Of the 22\u2009512 individuals who initiated tirzepatide (mean age: 46\u2009years, 73% female), 55% (n\u2009=\u200912\u2009292) were adherent (PDC \u2265\u200980%) and 68% (n\u2009=\u200915\u2009208) were persistent during the 6-month follow-up period. Of the overall population, 91% (n\u2009=\u200920\u2009554) had \u2265\u20091 obesity-related complication at baseline, with dyslipidaemia, hypertension and anxiety being the most frequent complications. Clinically meaningful mean weight reduction (10.5%; n\u2009=\u2009808) and numerical reductions in most cardiometabolic risk factors were observed among persistent individuals with available pre- and post-index measurements, including 12.0% body weight reduction in the GLP-na\u00efve subgroup. Over half of US adults with obesity or overweight who initiated tirzepatide were adherent (PDC \u2265\u200980%) and had a favourable persistence profile during a 6-month follow-up period. Persistent users achieved clinically meaningful weight reduction and numerical reductions in most cardiometabolic risk factors.",
+          "authors": [
+            "Theresa Hunter Gibble",
+            "Malvika Venkataraman",
+            "Donna Mojdami",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575714/"
+        },
+        {
+          "pmid": "42574286",
+          "title": "Effects of Glucagon-Like Peptide-1 Receptor Agonists on Upper Gastrointestinal Adverse Events in Patients Receiving Platinum Analog-Based Chemotherapy.",
+          "abstract": "Many patients with cancer receive chemotherapy alongside glucagon-like peptide-1 receptor agonists (GLP-1 RA) to manage type 2 diabetes or obesity. However, both GLP-1 RA and platinum-based chemotherapies can cause upper gastrointestinal (GI) adverse effects (AE) such as nausea and vomiting. This study aimed to evaluate the impact of GLP-1 RA use in patients receiving platinum-based chemotherapy, focusing on GI AE incidence, risk factors, and treatment outcomes. This single-center study retrospectively reviewed patients who were treated with a platinum-based therapy and concurrent GLP-1 RA and developed symptoms of upper GI AE. The study included 200 patients. Upper GI adverse events occurred in 126 patients. Compared with patients without GI AE, patients with GI AE received fewer doses of platinum therapy (median: 2.5 vs. 5, P<0.0001) and had higher all-cause mortality (40.5% vs. 25.7%, P=0.034), shorter follow-up (median: 1.5 vs. 2.7\u00a0y, P<0.0001), and a higher rate of hypothyroidism (35.1% vs. 20.6%, P=0.025). GI AEs were treated with 5-HT3 receptor antagonists in 123 (99.2%) patients and corticosteroids in 5 (4.0%). GI AE symptoms lasted a median of 42.5 days; 92.7% achieved clinical remission of GI AE. Twenty-one (16.7%) patients required hospitalization for GI AE, of whom 4 required rehospitalization. Platinum analogs were discontinued in 72 (57.1%) patients and resumed in 57 (79.2%). GLP-1 RA was discontinued in 11 (8.7%) patients. Most patients receiving GLP-1 RA and platinum-based chemotherapy developed mild GI AE that responded to conservative management.",
+          "authors": [
+            "Varun Vemulapalli",
+            "Carolina C Cruz",
+            "Maria J M N Santos",
+            "et al."
+          ],
+          "journal": "American journal of clinical oncology",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42574286/"
+        },
+        {
+          "pmid": "42572911",
+          "title": "Perceived Competence and GLP-1RA Weight Management Engagement: Mixed-Methods Insights From Six Patient Groups.",
+          "abstract": "This study aimed to explore patients' perspectives on GLP-1 receptor agonists (GLP-1RAs) for weight loss across the continuum of contemplating use to discontinuation, with and without achieving weight loss goals. From June to October 2025, participants completed a 30-item survey and ~30-question semi-structured interview regarding their perceptions of GLP-1RAs for weight loss. Interviews were tailored to six GLP-1RA groups: (1) considering use; (2) <\u20093\u2009months on therapy; (3) \u2265\u20093\u2009months on therapy without achieving weight loss goal; (4) \u2265\u20093\u2009months on therapy with achieving weight loss goal; (5) discontinued without achieving goal; and (6) discontinued after achieving goal. Qualitative coding and thematic analysis were conducted in Dedoose (9.0.107); quantitative analyses used SAS 9.4. A total of 185 participants consented, and\u00a0141 completed data collection (76%). Descriptive profiles suggested heterogeneity across psychosocial and behavioral domains. Groups 3 and 4 showed stronger profiles (higher perceived competence, intrinsic motivation, and self-monitoring). After false discovery rate adjustment across 78 comparisons, perceived competence was the only statistically significant differentiator: Group 1 was lower (z\u2009=\u2009-3.15; q\u2009=\u20090.0347) and Group 4 higher (z\u2009=\u20094.44; q\u2009<\u20090.001). Findings underscore the importance of tailoring behavioral support to individuals' stage of engagement in GLP-1RA-supported weight loss journeys.",
+          "authors": [
+            "Jane A McElroy",
+            "Isabella Bertarelli",
+            "Chloe Maltagliati",
+            "et al."
+          ],
+          "journal": "Obesity (Silver Spring, Md.)",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42572911/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Type 2 diabetes patients; sex and gender differences evaluated",
+          "medications": "Cardiometabolic therapies including guideline-recommended agents",
+          "country_dataset": "AMD Annals Initiative (Italy)",
+          "key_findings": "Women with type 2 diabetes experience disparities in risk factor control, access to cardioprotective treatments, and clinical outcomes compared to men, with differences in quality of care and treatment patterns observed."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "GLP-1 RA initiators vs other glucose-lowering therapy initiators",
+          "medications": "GLP-1 receptor agonists vs other glucose-lowering medications",
+          "country_dataset": "PCORnet-UT Southwestern Medical Center (United States)",
+          "key_findings": "Study evaluated the association between GLP-1 RA initiation and hepatocellular carcinoma incidence compared with commonly used glucose-lowering medications, with secondary analyses of all-cause mortality following HCC diagnosis using target trial emulation."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "GLP-1 RA users in commercial digital weight loss services",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Commercial digital weight loss service (country not specified)",
+          "key_findings": "Integration of an asynchronous AI patient support agent (Junebot) into a commercial digital weight loss service was evaluated for its effect on 6-month GLP-1RA medication adherence, with assessment of the independent relationship between digital engagement and medication retention."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "US adults with obesity or overweight prescribed tirzepatide",
+          "medications": "Tirzepatide (GLP-1 RA and glucose-dependent insulinotropic polypeptide receptor agonist)",
+          "country_dataset": "Healthcare Integrated Research Database (HIRD, United States)",
+          "key_findings": "Study assessed tirzepatide utilisation, persistence, and effectiveness among individuals in a large US commercially insured population over 6 months, examining associated changes in clinical outcomes."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Cancer patients with type 2 diabetes or obesity receiving platinum-based chemotherapy and concurrent GLP-1RA",
+          "medications": "GLP-1 receptor agonists with platinum-based chemotherapy",
+          "country_dataset": "Single-center study (country not specified)",
+          "key_findings": "Study evaluated the impact of GLP-1RA use in patients receiving platinum-based chemotherapy, focusing on upper gastrointestinal adverse events incidence, risk factors, and treatment outcomes."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "GLP-1RA users across six groups: considering use, <3 months therapy, \u22653 months without weight loss goal, \u22653 months with weight loss goal, discontinued therapy, and weight regain post-discontinuation",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "Mixed-methods study explored patients' perspectives on GLP-1RAs for weight loss across the continuum from contemplating use to discontinuation, examining perceived competence and engagement with weight management among six distinct patient groups."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
