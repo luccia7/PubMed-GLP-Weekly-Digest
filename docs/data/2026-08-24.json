@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-24",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42624330",
+          "title": "Trends in utilization of glucagon-like peptide\u20111 receptor agonists, sodium-glucose cotransporter\u20112 inhibitors, and metabolic bariatric surgery in U.S. Adults with diabetes and obesity.",
+          "abstract": "To characterize trends in utilization of glucagon-like peptide\u20111 receptor agonists (GLP\u20111RAs), sodium-glucose cotransporter\u20112 inhibitors (SGLT2is), and metabolic/bariatric surgery among US adults with type 2 diabetes (T2D) and obesity. We conducted a cohort study using electronic health record and claims data from Optum Labs Data Warehouse for US private and Medicare Advantage plan enrollees aged 18-79 with T2D and obesity initiating GLP\u20111RAs or SGLT2is or undergoing MBS (2010-2024). We evaluated initiation, adherence (\u226580% of days with medication), and persistence. Among 342,932 treatment initiations (335,605 individuals), 60.8% initiated GLP\u20111RAs, 35.7% SGLT2is, and 3.6% MBS. Use of both medication classes increased over time (GLP-1RAs: 1,988 to 44,852; SGLT2is: 861 to 19,892). In 2024, semaglutide (62.2%) and tirzepatide (32.6%) were the most initiated GLP-1RAs; MBS was rare (0.7% of treatments). Median treatment duration was 240\u202fdays for GLP\u20111RAs and 254\u202fdays for SGLT2is; \u223c50% were adherent. Tirzepatide had the highest adherence and persistence. At one-year, 53.0% of GLP\u20111RA and 56.0% of SGLT2i initiators were using their initiated treatment; transition to other therapies was uncommon. Initiation of GLP\u20111RAs and SGLT2is, but not MBS utilization, has expanded in recent years, although adherence and persistence remain low. Further studies should evaluate how these shifting patterns affect health outcomes.",
+          "authors": [
+            "Paige D Wartko",
+            "Rui Zhang",
+            "Eric Johnson",
+            "et al."
+          ],
+          "journal": "Diabetes research and clinical practice",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42624330/"
+        },
+        {
+          "pmid": "42622874",
+          "title": "Investigating the impact of Glucagon-like peptide-1 therapy on total shoulder arthroplasty outcomes.",
+          "abstract": "The increasing prevalence of Glucagon-like peptide-1 receptor agonists (GLP-1 RA) has raised concerns about their perioperative impact. Although database studies on GLP-1 RAs in total shoulder arthroplasty (TSA) have been published for diabetic and general TSA patients, results are conflicting, and the effects on patients across various obesity classes remain unexplored. This study aims to fill this gap. The PearlDiver database was used to identify patients who underwent primary TSA, grouped by GLP-1 use, obesity status, and obesity class. Post-operative outcomes included 90-day readmission and emergency department (ED) visit rates, medical complications (including thromboembolic, infectious, and renal events), and orthopaedic complications (including revision, periprosthetic joint infection, and instability). Cohorts were matched 10:1 by exact matching on age, sex, Elixhauser comorbidity index, diabetes, hypertension and overall obesity status, and multivariable regression was used to adjust for comorbidities that remained imbalanced after matching. Among 95,566 patients, 1,549 (1.62%) were GLP-1 users. Initially, GLP-1 users exhibited higher pre-operative comorbidity burdens and rates of complications. However, after matching and multivariable adjustment for residual imbalance, no significant differences in medical or orthopaedic outcomes persisted. Notably, GLP-1 users demonstrated significantly lower odds of 90-day ED visits (OR 0.75; P\u2009<\u2009.01) and readmissions (OR 0.71; P\u2009<\u2009.01). Similar trends were observed within each individual obesity class, but none reached statistical significance, most likely reflecting the small size of these subgroups. After accounting for pre-operative comorbidities, our findings suggest that GLP-1 RA use is not associated with worse surgical outcomes in TSA patients and may be associated with lower post-operative healthcare utilisation, although residual confounding cannot be excluded. Further longitudinal studies are warranted to optimise perioperative GLP-1 RA administration.",
+          "authors": [
+            "Peter Chebi",
+            "Apurva Choubey",
+            "Ryan Rutherford",
+            "et al."
+          ],
+          "journal": "International orthopaedics",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42622874/"
+        },
+        {
+          "pmid": "42618722",
+          "title": "Preoperative fasting status and retained gastric contents in patients undergoing endoscopy who are using glucagon-like peptide type 1 receptor agonists: a multicentre retrospective study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly prescribed for the management of type 2 diabetes mellitus and obesity. Nevertheless, their known effect of delaying gastric emptying raises perioperative concerns, particularly regarding the risk of pulmonary aspiration. There is limited evidence to guide fasting practices in this population. Our aim was to evaluate the association between preoperative fasting duration and the presence of retained gastric contents (RGC) in patients receiving GLP-1 RAs who underwent esophagogastroduodenoscopy (EGD). We conducted a multicentre retrospective cohort study involving 337 patients from five Henry Ford Health System hospitals who underwent elective EGD between January 2018 and December 2023. Eligible patients were actively taking or had recently discontinued a GLP-1 RA within 90 days prior to the procedure. The primary outcome was the presence of RGC, defined as any small, moderate, or large amount of food or gastric material explicitly reported by the endoscopist in the EGD report. For regression analyses, fasting duration for solids was dichotomized at the cohort's median value (15\u2009hr). We performed multivariable logistic regression to evaluate the association between preoperative fasting duration, the timing of GLP-1 RA suspension, and the presence of RGC, adjusting for clinically relevant covariates. The overall prevalence of RGC was 8.4%. In the adjusted model, fasting from solid foods for more than 15\u2009hr was significantly associated with lower odds of RGC (adjusted odds ratio [OR], 0.33; 95% confidence interval [CI], 0.13 to 0.81; P = 0.02). Fasting duration for liquids and presence of diabetes were not significantly associated with RGC. Suspension of GLP-1 RA within less than 7 days of the procedure related to RGC was not statistically significant (adjusted OR, 5.23; 95% CI, 0.67 to 39.38; P = 0.12). No significant association was observed between the duration of GLP-1 RA use and RGC prevalence. Patients with an active prescription for GLP-1 RA had lower odds of RGC during EGD after more than 15\u2009hr fasting of solids. R\u00e9SUM\u00e9: OBJECTIF: La prise en charge actuelle du diab\u00e8te de type 2 et de l\u2019ob\u00e9sit\u00e9 inclut de plus en plus le recours aux agonistes des r\u00e9cepteurs du peptide-1 de type glucagon (AR GLP-1). Cependant, leur effet reconnu de ralentissement de la vidange gastrique soul\u00e8ve des pr\u00e9occupations d\u2019ordre p\u00e9riop\u00e9ratoire, notamment quant au risque d\u2019aspiration pulmonaire. Les donn\u00e9es probantes permettant d\u2019orienter les pratiques de je\u00fbne dans cette population demeurent limit\u00e9es. Notre objectif \u00e9tait d'\u00e9valuer l\u2019association entre la dur\u00e9e du je\u00fbne pr\u00e9op\u00e9ratoire et la pr\u00e9sence de contenu gastrique r\u00e9siduel chez des personnes recevant des AR GLP-1 ayant b\u00e9n\u00e9fici\u00e9 d\u2019une \u0153sophagogastroduod\u00e9noscopie (OGD). M\u00e9THODES: Nous avons men\u00e9 une \u00e9tude de cohorte r\u00e9trospective multicentrique portant sur 337 personnes prises en charge dans cinq h\u00f4pitaux du syst\u00e8me de sant\u00e9 Henry Ford ayant b\u00e9n\u00e9fici\u00e9 d\u2019une OGD non urgente entre janvier 2018 et d\u00e9cembre 2023. Les personnes admissibles prenaient activement un AR GLP-1 ou en avaient r\u00e9cemment cess\u00e9 l\u2019usage dans les 90 jours pr\u00e9c\u00e9dant l\u2019intervention. Le crit\u00e8re d'\u00e9valuation principal \u00e9tait la pr\u00e9sence de contenu gastrique r\u00e9siduel, d\u00e9finie comme toute quantit\u00e9 (faible, mod\u00e9r\u00e9e ou importante) d\u2019aliments ou de mati\u00e8re gastrique explicitement rapport\u00e9e par l\u2019endoscopiste dans le compte rendu de l\u2019OGD. Aux fins des analyses de r\u00e9gression, la dur\u00e9e du je\u00fbne pour les solides a \u00e9t\u00e9 dichotomis\u00e9e selon la valeur m\u00e9diane de la cohorte (15\u2009h). Nous avons r\u00e9alis\u00e9 une analyse de r\u00e9gression logistique multivari\u00e9e afin d'\u00e9valuer l\u2019association entre la dur\u00e9e du je\u00fbne pr\u00e9op\u00e9ratoire, le moment de la cessation de l\u2019AR GLP-1 et la pr\u00e9sence de contenu gastrique r\u00e9siduel, avec ajustement pour tenir compte des covariables cliniquement pertinentes. R\u00e9SULTATS: La pr\u00e9valence globale de contenu gastrique r\u00e9siduel \u00e9tait de 8,4 %. Dans le mod\u00e8le ajust\u00e9, un je\u00fbne de plus de 15\u2009h pour les solides \u00e9tait associ\u00e9 de fa\u00e7on significative \u00e0 une probabilit\u00e9 r\u00e9duite de contenu gastrique r\u00e9siduel (rapport de cotes ajust\u00e9 [RCA], 0,33; intervalle de confiance [IC] 95 %, 0,13 \u00e0 0,81; P = 0,02). La dur\u00e9e du je\u00fbne pour les liquides et la pr\u00e9sence de diab\u00e8te n'\u00e9taient pas associ\u00e9es de fa\u00e7on significative \u00e0 un contenu gastrique r\u00e9siduel. La cessation de l\u2019AR GLP-1 moins de 7 jours avant l\u2019intervention n'\u00e9tait pas associ\u00e9e de fa\u00e7on statistiquement significative \u00e0 un contenu gastrique r\u00e9siduel (RCA, 5,23; IC 95 %, 0,67 \u00e0 39,38; P = 0,12). Aucune association notable n\u2019a \u00e9t\u00e9 observ\u00e9e entre la dur\u00e9e d\u2019utilisation de l\u2019AR GLP-1 et la pr\u00e9valence de contenu gastrique r\u00e9siduel. CONCLUSION: Les personnes sous prescription active d\u2019un AR GLP-1 pr\u00e9sentaient une probabilit\u00e9 r\u00e9duite de contenu gastrique r\u00e9siduel lors de l\u2019OGD apr\u00e8s un je\u00fbne de plus de 15\u2009h pour les solides.",
+          "authors": [
+            "Laura Mendez-Pino",
+            "Joshua Goldblatt",
+            "Dawit Godie",
+            "et al."
+          ],
+          "journal": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42618722/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=342,932",
+          "population": "US adults aged 18-79 with type 2 diabetes and obesity",
+          "medications": "GLP-1 receptor agonists (GLP-1RAs), SGLT2 inhibitors (SGLT2is), metabolic/bariatric surgery",
+          "country_dataset": "United States (Optum Labs Data Warehouse)",
+          "key_findings": "Study characterized trends in utilization, initiation, adherence (\u226580% of days with medication), and persistence of GLP-1RAs and SGLT2is among US adults with type 2 diabetes and obesity from 2010-2024, providing real-world data on treatment patterns and medication adherence rates."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients undergoing total shoulder arthroplasty (TSA) grouped by GLP-1 use, obesity status, and obesity class",
+          "medications": "GLP-1 receptor agonists (GLP-1 RA)",
+          "country_dataset": "United States (PearlDiver database)",
+          "key_findings": "Study investigated perioperative impact of GLP-1 RA use on total shoulder arthroplasty outcomes including 90-day readmission rates across various obesity classes, addressing previously unexplored differential effects by obesity severity."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients using GLP-1 receptor agonists undergoing esophagogastroduodenoscopy (EGD)",
+          "medications": "GLP-1 receptor agonists (GLP-1 RAs)",
+          "country_dataset": "Multicentre (country not specified)",
+          "key_findings": "Multicentre retrospective study evaluated the association between preoperative fasting duration and retained gastric contents in patients receiving GLP-1 RAs undergoing endoscopy, addressing perioperative safety concerns related to delayed gastric emptying."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
