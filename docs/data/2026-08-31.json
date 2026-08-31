@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-31",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42664518",
+          "title": "GLP-1 agonist use and lower rates of pseudarthrosis and dysphagia following anterior cervical discectomy and fusion surgery, with time-dependent effects.",
+          "abstract": "Anterior cervical discectomy and fusion (ACDF) is among the most frequently performed spinal procedures in the US. Despite high success rates, complications such as pseudarthrosis, dysphagia, and revision surgery remain clinically significant, particularly in patients with diabetes mellitus (DM) and obesity. Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) have demonstrated anti-inflammatory and bone-modulating properties in existing clinical and laboratory orthopedic research, yet their relationship to cervical fusion outcomes remains unclear, especially regarding therapy timing. The aim of this study was to evaluate the association between GLP-1 RA use and pseudarthrosis, dysphagia, and revision surgery, as well as perioperative complications, following ACDF surgery. TriNetX, a global health research network, was queried (2014-2024) for patients undergoing ACDF surgery (CPT code 22551) with GLP-1 RA exposure. Subcohort analyses were conducted based on overall therapy timing (preoperative, perioperative, and postoperative) and further stratified by initiation and discontinuation timing. Postoperative initiators were analyzed using a landmark approach to mitigate immortal time bias. Each subcohort was 1:1 propensity score-matched to controls by age, sex, race, smoking, DM, BMI, and uremia. Ninety-day outcomes included deep vein thrombosis, pulmonary embolism, emergency department visit, inpatient hospitalization, sepsis, surgical site infection, and wound disruption. Two-year outcomes included pseudarthrosis, dysphagia, and revision surgery. Odds ratios with 95% confidence intervals were calculated using chi-square analysis. Among 2345 patients with GLP-1 RA exposure within 2 years after undergoing ACDF, overall use was associated with reduced pseudarthrosis and dysphagia, but not revision surgery. Preoperative GLP-1 RA use was associated with increased odds of dysphagia when discontinued > 12 months before surgery. Continuous perioperative use was associated with increased odds of dysphagia and revision surgery, as well as reduced odds of sepsis. Postoperative initiation was associated with reduced odds of pseudarthrosis and dysphagia in the overall subcohort, reduced odds of pseudarthrosis in patients with DM, and increased odds of dysphagia in those with multilevel fusion surgeries. GLP-1 RA use demonstrated timing-dependent associations with outcomes following ACDF surgery. Postoperative initiation of therapy was associated with reduced pseudarthrosis, particularly in patients with DM, and dysphagia, while continuous perioperative exposure increased the risk of dysphagia and revision. These findings suggest a potential role for temporally targeted GLP-1 RA therapy during postoperative healing. Prospective studies are required for validation and to determine causal relationships.",
+          "authors": [
+            "Manaav K S Mehta",
+            "Abhinav K Sharma",
+            "Vishaal Mehta",
+            "et al."
+          ],
+          "journal": "Journal of neurosurgery. Spine",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42664518/"
+        },
+        {
+          "pmid": "42647034",
+          "title": "Glucagon-Like Peptide 1 Receptor Agonists, Mortality, and Cardiovascular Outcomes in Serious Mental Illness.",
+          "abstract": "Bipolar disorder, major depressive disorder, and schizophrenia are associated with substantial excess mortality, principally from cardiovascular disease. Identifying strategies to reduce this burden is a critical psychiatric priority. To evaluate associations between initiation of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) vs sodium-glucose cotransporter-2 (SGLT2) inhibitors and all-cause mortality and major adverse cardiovascular events (MACEs) among adults with and without serious mental illness (SMI). This was a retrospective target trial emulation within the TriNetX Analytics Network, a multinational federated electronic health record network. Adults initiating GLP-1 RAs or SGLT2 inhibitors were included using a new-user, active-comparator design with propensity score matching and separate psychiatric and nonpsychiatric cohorts. The study included all available data in the TriNetX network through the most recent database refresh. Data were queried and analyzed in March 2026, with prespecified follow-up intervals of 1, 4, and 10 years. Additional subgroup analyses were conducted following peer review in May 2026. First-recorded GLP-1 RA vs SGLT2 inhibitor prescription. The primary outcome was 4-year all-cause mortality; the key secondary outcome, 1-year mortality. Additional outcomes included 3- and 5-point MACEs and individual cardiovascular end points. Sensitivity analyses included diabetes stratification, exclusion of baseline heart failure and chronic kidney disease, and censoring at crossover. Exploratory analyses examined SMI subgroups, agent-specific effects, and combination therapy. For the primary 4-year analysis, 1\u202f528\u202f230 adults were propensity score matched (764\u202f115 pairs; 195\u202f184 pairs with serious mental illness [SMI] and 568\u202f931 pairs without SMI). The mean [SD] age in the GLP-1RA and SGLT2 inhibitor groups was 60.5 [12.0] and 60.2 [13.3] years, respectively, in the SMI cohort and 60.9 [12.2] and 60.6 [13.0] years, respectively, in the non-SMI cohort; 112\u202f911 [57.8%], 113\u202f488 [58.1%], 251\u202f679 [44.2%], and 260\u202f480 [45.8%] were female, respectively. Among participants with SMI, mortality was lower with GLP-1RA initiation than with SGLT2 inhibitor initiation (9585 of 195\u202f184 [4.91%] vs 12\u202f584 of 195\u202f184 [6.45%]; hazard ratio [HR], 0.76; 95% CI, 0.74-0.78; absolute risk difference [ARD], -1.54 percentage points; 95% CI, -1.68 to -1.39; P\u2009<\u2009.001). Among participants with SMI and type 2 diabetes, semaglutide initiation, compared with SGLT2 inhibitor initiation, was associated with lower risks of 3-point MACE (HR, 0.77; 95% CI, 0.76-0.79), 5-point MACE, myocardial infarction, stroke, heart failure, and coronary artery bypass grafting. In a separately matched 1-year SMI cohort, mortality was lower with GLP-1RA initiation than with SGLT2 inhibitor initiation (2898 of 198\u202f065; 1.46% vs 5624 of 198\u202f065; 2.84%; RR, 0.52; 95% CI, 0.49-0.54; ARD, -1.38 percentage points; 95% CI, -1.47 to -1.29; P\u2009<\u2009.001). In 10-year exploratory analyses among participants with type 2 diabetes, semaglutide initiation, compared with SGLT2 inhibitor initiation, was associated with lower mortality in the major depressive disorder (RR, 0.55; 95% CI, 0.53-0.56), bipolar disorder (RR, 0.57; 95% CI, 0.51-0.63), and schizophrenia (RR, 0.67; 95% CI, 0.59-0.75) groups (all P\u2009<\u2009.001). The primary mortality association persisted across prespecified sensitivity analyses. In this study, GLP-1 RA initiation was associated with lower mortality and cardiovascular events compared to SGLT2 inhibitor initiation, with greater absolute reductions in SMI. Benefits were evident within 1 year, consistent across SMI subgroups, and driven by semaglutide and tirzepatide. Prospective randomized trials are warranted.",
+          "authors": [
+            "Roger S McIntyre",
+            "Yanli Zhang-James",
+            "Angela T H Kwan"
+          ],
+          "journal": "JAMA psychiatry",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42647034/"
+        },
+        {
+          "pmid": "42643762",
+          "title": "Real-World Evidence of the GLP-1RA/SGLT2-i Therapy versus Standard Care: A Retrospective Cohort Study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RA) and Sodium-glucose cotransporter-2 inhibitors (SGLT2-i) are effective antidiabetic therapies in patients with type 2 diabetes mellitus (T2DM). However, real-world evidence regarding the combined effectiveness and safety of these agents in this population remains limited. This study aimed to evaluate the effectiveness and safety of GLP-1RA/SGLT2-i therapy (GLP-1RAs and/or SGLT2-i) in patients with T2DM, in comparison with standard treatment approaches. This retrospective cohort study reviewed medical records of patients with T2DM attending the diabetes clinic at the University Hospital of Sharjah. Patients on anti-diabetic medications for at least 6 months were included, while those with irregular follow-up, a T2DM diagnosis within the past year, or non-diabetic obesity were excluded. Data were collected at baseline, 3, 6, 12, and 18 months and compared the effectiveness (HbA1c, blood pressure, weight) and safety (gastrointestinal and genitourinary symptoms) of GLP-1RA/SGLT2-i therapy (GLP-1 RA and/or SGLT2-I) with standard treatment. A total of 199 patients were included in the analysis, of whom 50% were female, with a median age of 61 years (interquartile range [IQR] = 19). Patients receiving the GLP-1RA/SGLT2-i therapy demonstrated a statistically significant reduction in body weight (p = 0.002), whereas no significant weight change was observed in the standard treatment group over the 18-month follow-up period.Glycaemic outcomes showed greater improvement in the GLP-1RA/SGLT2-i therapy (median change:-2% VS -1%; p=0.001) in 18 months. Both groups demonstrated modest improvements in blood pressure, with no clear superiority observed between the treatment arms.Regarding safety, hypoglycaemia was the most commonly reported adverse event in the standard treatment group (5.5%, n=11). Within the GLP-1RA/SGLT2-i therapy group, GLP-1 RA were associated with gastrointestinal side effects in 0.5% of patients, leading to treatment discontinuation, while SGLT2 inhibitors were associated with genitourinary symptoms in 2.5% of patients. GLP-1RA/SGLT2-i therapy with SGLT2-i and/or GLP-1RA showed clinically significant weight loss and HbA1c, with a low percentage of patients experiencing side effects that led to discontinuation and improvement in blood pressure. This study looked at how GLP-1RA/SGLT2-i therapy medications, GLP-1 receptor agonists and SGLT2 inhibitors, work in real-life patients with type 2 diabetes in the UAE. We found that these medications were more effective in lowering blood sugar levels and body weight compared to standard treatments. However, their effect on blood pressure was not significantly different from that of standard treatment. Side effects were generally mild but may have been underreported. These findings help clinicians understand how these medications perform outside clinical trials.",
+          "authors": [
+            "Nada Maher Mahmoud",
+            "Amal Hussein",
+            "Bashair M Mussa",
+            "et al."
+          ],
+          "journal": "Clinical medicine insights. Endocrinology and diabetes",
+          "pub_date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42643762/"
+        },
+        {
+          "pmid": "42642078",
+          "title": "Metabolic effects of GLP-1 receptor agonists in rheumatology patients and inflammatory outcomes: a single-centre retrospective cohort.",
+          "abstract": "Obesity and type 2 diabetes are common in rheumatology, often exacerbated by glucocorticoids. Real-world data on glucagon-like peptide-1 receptor agonists (GLP-1RAs) in this setting remain limited. To evaluate the metabolic effectiveness and safety of GLP-1RAs in rheumatology outpatients, including inflammatory marker and subgroup analyses. Single-centre retrospective study (October 2024-October 2025) including 119 patients (from 169 screened) treated with GLP-1RAs. Paired analyses were performed at 3, 6 and 12 months. Exploratory comparisons included participants with chronic inflammatory arthritis (n=46) and those with non-inflammatory disease (n=43). Patients had high baseline cardiometabolic burden (mean body mass index (BMI) 34.9\u00b19.9\u2009kg/m\u00b2; diabetes 96.6%). GLP-1RA initiation was associated with sustained weight loss: -4.0 kg, -4.5 kg and -7.7 kg at 3, 6 and 12 months (all p<0.001; -8.2% at 12 months), with 56.5% improving \u22651\u2009BMI category. Haemoglobin A1c decreased by -0.97%, -0.69% and -0.91% (all p<0.001), alongside significant reductions in fasting glucose (up to -24.8 mg/dL; p<0.001). Lipid improvements included reductions in low-density lipoprotein-cholesterol (-12.2 mg/dL; p=0.006) and triglycerides (-21.7 mg/dL; p=0.007). At 12 months, erythrocyte sedimentation rate decreased significantly (p=0.023), while CRP showed a non-significant decline (p=0.076); both were significantly reduced in the inflammatory subgroup. No significant differences were observed between inflammatory and non-inflammatory groups in adjusted metabolic trajectories. Adverse events were mainly gastrointestinal (13.4%); pancreatitis (0.8%) and cholecystitis (1.7%) were rare. Discontinuation occurred in 6.7%. One death (mesenteric ischaemia) had unclear causality. GLP-1RAs were associated with meaningful metabolic improvements in patients with rheumatic diseases, with a favourable safety profile. Potential anti-inflammatory effects require confirmation in prospective studies.",
+          "authors": [
+            "Miriam Retuerto-Guerrero",
+            "Ignacio Gonz\u00e1lez Fern\u00e1ndez",
+            "Mirian Alejo Ramos",
+            "et al."
+          ],
+          "journal": "RMD open",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42642078/"
+        },
+        {
+          "pmid": "42638166",
+          "title": "Trends in Cost of Care With Tirzepatide in Adults Aged Over 55\u2009Years With Obesity or Overweight Without Diabetes: A Matched Cohort Analysis.",
+          "abstract": "Compare healthcare cost trends among older adults with obesity or overweight treated with tirzepatide versus no treatment. Retrospective cohort study using real-world data from US Komodo Research Dataset, 8 November 2022 to 30 September 2025. Adults >\u200955\u2009years with obesity, or overweight with \u2265\u20091 weight-related comorbidity, without T2 diabetes who initiated tirzepatide for weight management were compared with propensity score-matched individuals who did not receive any incretin-based therapies. Changes in all-cause healthcare costs (excluding tirzepatide; per-person-per-month) between cohorts were assessed at 3-6, 6-12 and 12-18 months using a difference in differences (DiD) framework. Informative censoring and differential follow-up were addressed with inverse-probability-of-censoring-weights and pairwise censoring. Each cohort comprised 15843 individuals. Healthcare cost DiD estimates (95% CI) for the tirzepatide versus control cohorts were -$145 (-266, -25; 12.3% reduction; p\u2009=\u20090.022) during 6-12\u2009months and -$319 (-544, -94; 25.4% reduction; p\u2009=\u20090.015) during 12-18\u2009months; using pairwise censoring, estimates were -$181 (-319, -43; p\u2009=\u20090.021) and -$607 (-1007, -207; p\u2009=\u20090.023), respectively. Cost offsets with tirzepatide were driven by higher medical costs in controls during 12-18\u2009months (-$211 [-$407, -$15]; p\u2009=\u20090.065) and fewer inpatient/emergency department visits with tirzepatide versus controls; incidence rate ratio (95% CI) 0.69 (0.50, 0.94; p\u2009=\u20090.021) during 12-18\u2009months. Monthly cost offsets for persistent tirzepatide users versus untreated individuals grew over time, offsetting $319 (ranging from $94 to $544) tirzepatide costs by 12-18\u2009months. These results have implications for the $195 monthly net Medicare cost for the Bridge programme, suggesting tirzepatide may generate near-term cost savings in an older population that stays on treatment.",
+          "authors": [
+            "Navneet Upadhyay",
+            "Ali Bonakdar",
+            "Keshab Subedi",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Aug 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42638166/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with diabetes mellitus and/or obesity undergoing anterior cervical discectomy and fusion (ACDF) surgery",
+          "medications": "GLP-1 receptor agonists vs. standard care",
+          "country_dataset": "United States",
+          "key_findings": "GLP-1 agonist use was associated with lower rates of pseudarthrosis and dysphagia following ACDF surgery. The study demonstrates time-dependent effects of GLP-1 RA therapy on cervical fusion outcomes, suggesting anti-inflammatory and bone-modulating properties may benefit surgical complications in patients with diabetes and obesity."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with and without serious mental illness (bipolar disorder, major depressive disorder, schizophrenia) with type 2 diabetes",
+          "medications": "GLP-1 receptor agonists vs. sodium-glucose cotransporter-2 (SGLT2) inhibitors",
+          "country_dataset": "TriNetX Analytics Network",
+          "key_findings": "The study evaluated associations between initiation of GLP-1 RAs versus SGLT2 inhibitors and all-cause mortality and major adverse cardiovascular events (MACEs) among adults with and without serious mental illness, addressing the critical need to reduce cardiovascular disease burden in this high-risk population."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with type 2 diabetes mellitus (T2DM)",
+          "medications": "GLP-1 receptor agonists (GLP-1RA) and/or sodium-glucose cotransporter-2 inhibitors (SGLT2-i) vs. standard care",
+          "country_dataset": "Not reported",
+          "key_findings": "This real-world evidence study compared the combined effectiveness and safety of GLP-1RA/SGLT2-i therapy versus standard treatment approaches in T2DM patients, providing insights into the practical clinical outcomes of combination antidiabetic therapy outside controlled trial settings."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=119",
+          "population": "Rheumatology outpatients with obesity and/or type 2 diabetes, often treated with glucocorticoids",
+          "medications": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs)",
+          "country_dataset": "Single centre (October 2024-October 2025)",
+          "key_findings": "GLP-1RAs demonstrated metabolic effectiveness and safety in rheumatology outpatients with obesity and/or type 2 diabetes. The study included subgroup analyses of inflammatory markers and patients with chronic inflammatory arthritis, providing real-world evidence for GLP-1RA use in this specialized population."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults aged over 55 years with obesity or overweight without type 2 diabetes",
+          "medications": "Tirzepatide vs. no incretin-based therapy",
+          "country_dataset": "United States (Komodo Research Dataset, November 2022 - September 2025)",
+          "key_findings": "Among older adults with obesity or overweight treated with tirzepatide for weight management versus propensity score-matched controls, the study analyzed trends in all-cause healthcare costs, providing real-world evidence on the economic impact of tirzepatide therapy in this age group without diabetes."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
