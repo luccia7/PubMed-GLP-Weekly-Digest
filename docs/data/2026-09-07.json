@@ -1,0 +1,253 @@
+{
+  "date": "2026-09-07",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42700367",
+          "title": "Comparative Cardiovascular Outcomes of GLP-1 Receptor Agonists Versus Bariatric Surgery: A Systematic Review and Network Meta-Analysis.",
+          "abstract": "Obesity, a major global health issue, heightens the risk of cardiovascular diseases, including major adverse cardiovascular events (MACE), heart failure (HF) and myocardial infarction (MI). This study provides the first network meta-analysis (NMA) integrating direct and indirect evidence to compare the cardiovascular efficacy of bariatric surgery (BS) and glucagon-like peptide-1 receptor agonists (GLP-1RAs) in individuals with obesity. A systematic review and NMA were performed in adherence to PRISMA guidelines. PubMed, Embase, Cochrane Library and Google Scholar were searched for studies published from January 2000 to September 2024. Eligible studies reported cardiovascular outcomes, specifically MACEs, HF and MI, in patients with obesity receiving BS, GLP-1RAs or control treatment. Fixed- and random-effects models were used to analyse hazard ratios (HRs) and risk ratios (RRs), with heterogeneity assessed with I Forty-three studies involving 932,380 patients were included BS was associated with significantly greater reductions in MACEs (HR 0.66; 95% CI 0.60-0.74), HF (HR 0.45; 95% CI 0.38-0.53) and MI (HR 0.53; 95% CI 0.45-0.63) compared with controls in random-effects models. GLP-1RAs reduced MACEs (HR 0.85; 95% CI 0.77-0.94) but showed non-significant effects on HF and MI. Despite high heterogeneity (I BS demonstrated more consistent and statistically significant reductions in all cardiovascular outcomes compared to GLP-1RAs, which showed more variable efficacy, particularly for HF and MI. Nevertheless, GLP-1RAs remain effective evidence-based alternatives for cardiovascular risk reduction in patients who are not candidates for surgery, but future studies on newer GLP-1RAs are required. The high heterogeneity across studies highlights the need for cautious interpretation. These results may inform individualized treatment selection in patients with obesity at high cardiovascular risk.",
+          "authors": [
+            "Erfan Shirmohammadi",
+            "Negar Ghasemloo",
+            "Navid Ebrahimi",
+            "et al."
+          ],
+          "journal": "Endocrinology, diabetes & metabolism",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42700367/"
+        },
+        {
+          "pmid": "42685881",
+          "title": "Pulmonary response to glucagon-like peptide-1 receptor agonist therapy in adults with cystic fibrosis-related diabetes: factors associated with improvement in FEV",
+          "abstract": "Obesity and cardiometabolic dysfunction are increasingly recognized among people with cystic fibrosis (pwCF) in the CFTR modulator era. Emerging evidence suggests glucagon-like peptide-1 receptor agonists (GLP-1 RAs) may influence pulmonary physiology and respiratory outcomes in pwCF. However, factors associated with pulmonary response remain poorly understood. We hypothesized that pulmonary improvement following GLP-1 RA initiation would be associated with both metabolic response and treatment intensity. We performed a retrospective cohort study of adults with CF-related diabetes (CFRD) treated with GLP-1 RAs. Clinical, metabolic, and pulmonary variables were assessed following GLP-1 RA initiation. Associations between baseline characteristics, treatment-related factors, and change in forced expiratory volume in 1\u202fs (FEV1) were evaluated using regression analyses. Twenty-three adults with CFRD treated with GLP-1 RAs were included. Median FEV1 increased by 6.0 percentage points (IQR 3.5-10.0) over 6 months following therapy initiation. Greater reduction in body mass index (BMI) and achievement of therapeutic GLP-1 RA dosing were both associated with greater improvement in FEV1. Importantly, the association between therapeutic-dose GLP-1 RA therapy and improved FEV1 persisted after adjustment for BMI reduction, suggesting that pulmonary improvement may not be fully explained by weight loss alone. In adults with CFRD, greater BMI reduction and achievement of therapeutic GLP-1 RA dosing were associated with greater improvement in FEV1. These findings support further investigation of GLP-1 RAs as a potential therapeutic strategy that may influence pulmonary outcomes while improving metabolic health in pwCF.",
+          "authors": [
+            "Sasan Mirfakhraee",
+            "Marconi Abreu",
+            "Akruti Singh",
+            "et al."
+          ],
+          "journal": "Respiratory medicine",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42685881/"
+        },
+        {
+          "pmid": "42683541",
+          "title": "Investigating the Relationship Between Glucagon-Like Peptide-1 Receptor Agonist Use and Incidence of Vertebral Fractures in Female Patients Aged Over 50 Years With Osteoporosis: A Propensity-Matched Analysis.",
+          "abstract": "Retrospective cohort. To investigate the relationship between GLP-1 receptor agonist exposure and incidence of vertebral fracture and surgical intervention for these injuries in patients with osteoporosis. Vertebral fractures are relatively common in patients with osteoporosis and frequently result in substantial morbidity, such as persistent pain and functional deficit. Although primarily indicated for the management of type 2 diabetes mellitus and obesity, glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have demonstrated positive effects on bone mineral density (BMD) in the lumbar spine. However, it remains unknown if this effect translates to positive clinical outcomes for patients with osteoporosis. This study utilized the TriNetX database to identify female patients aged over 50 years diagnosed with osteoporosis without a current pathologic fracture within the 10-year period ended January 1, 2025. The study group included patients with a history of GLP-1 RA use after osteoporosis diagnosis compared with a control group with no GLP-1 RA exposure. Cohorts were propensity-matched based on baseline demographic characteristics, BMI, HbA1c, eGFR, medical comorbidities, osteoporotic medication use, and serum calcium, phosphate, and vitamin D levels. Primary outcomes included incidence of vertebral collapse and vertebral augmentation within the 10-year study period. There were 56,142 matched pairs. The rate of vertebral fracture in the experimental group was \u223c1.9% compared with 4.3% in the control group (RR: 0.434, 95% CI: 0.404-0.467, P<0.001). In addition, GLP-1 RA exposure was associated with a lower incidence of kyphoplasty or vertebroplasty (RR: 0.453, 95% CI: 0.381-0.538, P<0.001). Glucagon-like peptide-1 receptor agonist use is associated with a lower incidence of vertebral fracture and osteoporotic fracture intervention in female patients aged 50+ with osteoporosis. These findings underscore the potential protective effects of GLP-1 receptor agonists in patients with poor bone quality. Level III.",
+          "authors": [
+            "Kyle Stump",
+            "Sean Kelleher",
+            "Stephan Aynaszyan",
+            "et al."
+          ],
+          "journal": "Clinical spine surgery",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42683541/"
+        },
+        {
+          "pmid": "42683049",
+          "title": "Patient-Reported Continuity of GLP-1 Receptor Agonist Therapy.",
+          "abstract": "Use of GLP-1 receptor agonists is associated with significant weight loss in many individuals. Discontinuation is associated with weight regain. Patients' experience with this is not well characterized. This study describes the patient experience of continuity of care. A cross-sectional electronic survey was administered to adults identified from an academic medical center's electronic health records as having at least one GLP-1 RA prescription in the preceding 6\u00a0years and a subsequent prescription gap of greater than 90\u00a0days. The 87-item instrument spanned six domains: care settings, comorbidity and treatment context, continuity, discontinuity, dietitian/lifestyle support, and digital-feature preferences. Primary outcomes were item-level frequencies. Exploratory composites included a 7-item Continuity-of-Care Index (CCI) and a 5-item Discontinuity Index (DIS), each rescaled 0-100; subgroup comparisons used Kruskal-Wallis, Mann-Whitney, and chi-square tests, with multiple-imputation sensitivity analyses. Of 4890 invitations, 261 adults completed the survey (5.3%); 143 (54.8%) reported current use of a prescription weight-management medication and 159 (60.9%) reported prior-authorization requirements. Among them, 79 (49.7%) either waited more than 7\u00a0days or were never approved. Continuity strengths included knowing whom to contact about medications (76.2%) and timely team responses (70.7%); the weakest items were cross-clinic coordination (54.1%) and visibility into required next steps (52.2%). The CCI (mean 69.5 [SD 22.7];  Patients described obesity-care disruptions primarily as process failures, including prior authorization delay, out-of-pocket cost, pharmacy stock-outs and dispensing delays, and fragmented cross-clinic coordination. They prioritized transparent, workflow-oriented navigation.",
+          "authors": [
+            "You Chen",
+            "Gracie Piantek",
+            "Xinmeng Zhang",
+            "et al."
+          ],
+          "journal": "Obesity science & practice",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42683049/"
+        },
+        {
+          "pmid": "42681675",
+          "title": "Cardiometabolic outcomes of once-weekly IcoSema in adults with type 2 diabetes: systematic review and meta-analysis of the COMBINE trials.",
+          "abstract": "Patients with type 2 diabetes face a high residual risk of atherosclerotic cardiovascular disease (ASCVD) despite advances in therapy. Once-weekly IcoSema, a fixed-ratio combination of basal insulin icodec and semaglutide, offers the potential to simultaneously address glycemic control, weight, and multiple cardiometabolic risk factors with a single weekly injection. We conducted a PRISMA-compliant systematic review and random-effects meta-analysis of randomized trials from the COMBINE program. Data from COMBINE 1 (active comparator: once-weekly insulin icodec) and COMBINE 3 (active comparator: basal-bolus insulin therapy) (N\u2009=\u20091,970) were pooled comparing IcoSema with insulin-based intensification strategies in patients inadequately controlled on basal insulin. COMBINE 2 was excluded because its semaglutide monotherapy comparator addresses a fundamentally different clinical question (escalation from GLP-1 RA monotherapy). The primary focus was on changes in body weight, Systolic blood pressure and HbA1c; key secondary outcomes included changes in lipid profile relevant to ASCVD risk. Certainty of evidence was assessed using GRADE. IcoSema showed no statistically significant difference in HbA1c reduction compared with control (pooled MD -0.37%, 95% CI -0.95 to 0.21; P\u2009=\u20090.21; I\u00b2=98%) but shows highly significant body weight reduction (pooled MD -6.10\u00a0kg, 95% CI -7.21 to -5.00; P\u2009<\u20090.00001). It significantly lowered systolic blood pressure (MD -2.45 mmHg, 95% CI -3.52 to -1.38; P\u2009<\u20090.00001), total cholesterol (ETR 0.97, 95% CI 0.95-0.98; P\u2009=\u20090.0001), LDL-C (ETR 0.94, 95% CI 0.90-0.98; P\u2009=\u20090.005), triglycerides (ETR 0.94, 95% CI 0.91-0.97; P\u2009=\u20090.0006), and VLDL-C (ETR 0.94). An exploratory, hypothetical ASCVD risk modeling analysis based on these surrogate-marker changes is presented in the Supplementary Appendix and is intended as an illustration only. Once-weekly IcoSema delivers meaningful improvements in weight, blood pressure, and atherogenic lipids, all key modifiable drivers of ASCVD in adults with type 2 diabetes. These surrogate benefits, combined with reduced injection burden and low risk of hypoglycemia, suggest potential for enhanced ASCVD prevention and improved long-term adherence. Results should be interpreted as hypothesis-generating only because only two trials met the inclusion criteria. Dedicated cardiovascular outcome trials are essential to validate these surrogate-marker benefits and to confirm whether they translate into a reduction in cardiovascular events.",
+          "authors": [
+            "Adir Alper",
+            "Adina Fagin",
+            "Aditya Karthikeyan",
+            "et al."
+          ],
+          "journal": "Cardiovascular diabetology. Endocrinology reports",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42681675/"
+        },
+        {
+          "pmid": "42673608",
+          "title": "Association of GLP-1 Agonists With Postoperative Complications Following Knee Extensor Mechanism Repair:An Analysis of 1,092 Patients.",
+          "abstract": "Diabetes and obesity are recognized as risk factors for postoperative complications including increased surgical site infection (SSI) and reoperation in patients undergoing knee extensor mechanism repair. However, limited literature evaluates how preoperative glucagon-like peptide-1 (GLP-1) receptor agonist therapy may influence these outcomes. This study evaluated GLP-1 receptor agonist use as an independent risk factor for postoperative outcomes following knee extensor mechanism repair. Patients who underwent quadriceps or patellar tendon repair from 2012 to 2025 were identified in the TriNetX database and stratified by GLP-1 agonist use within 1 year of surgery. One-to-one propensity score matching yielded 2 well-balanced cohorts (n = 546). Postoperative complications were assessed at 90 days, 1 year, and 2 years, and Kaplan-Meier survival analysis was performed. No significant 90-day postoperative differences were observed. At 1 year, patients using GLP-1 agonists demonstrated significantly lower rates of SSI (2.38% vs 5.31%; odds ratio [OR] = 0.435;  Preoperative GLP-1 receptor agonist therapy was associated with reduced postoperative SSI and wound complications following knee extensor mechanism repair. These findings suggest potential for perioperative risk modulation as GLP-1 use becomes increasingly prevalent in patients undergoing knee extensor mechanism repair.",
+          "authors": [
+            "Elliot Forst",
+            "Lindsey Tully",
+            "Thomas E Moran",
+            "et al."
+          ],
+          "journal": "Orthopedics",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42673608/"
+        },
+        {
+          "pmid": "42656629",
+          "title": "GLP-1 and GLP-1/GIP receptor agonist medication use and self-reported outcomes in individuals with lipedema: Results from a large online survey.",
+          "abstract": "Lipedema is a chronic medical condition primarily affecting women, characterized by bilateral, symmetrical, disproportionate fat deposition in the lower limbs, and sometimes arms and lower trunk. Pharmacological interventions remain limited, but glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual GLP-1/glucose-dependent insulinotropic polypeptide receptor agonists (GLP-1/GIP RAs) could provide potential therapeutic benefit due to their effects on weight, metabolism, pain, and inflammation. This was a cross-sectional, patient-reported online survey study comparing self-reported lipedema symptom severity, medication use history, and physical and mental health outcomes across three groups of women with lipedema stratified by GLP-1/GIP receptor agonist medication use status (current users, discontinued users, and never-users). The survey captured demographics, lipedema characteristics, medication use history, and intensity of lipedema symptoms. Additionally, the Patient-Reported Outcomes Measurement Information System (PROMIS) Global Health-10 (PROMIS-10) instrument was used to assess physical and mental health. Analyses compared current users, discontinued users, and never-users of GLP-1/GIP RA medications. Of 2852 respondents, 2719 met inclusion criteria for analysis. Most participants (99.7%) identified as female, with a mean age of 52.4 years. Approximately 55% were current GLP-1/GIP RA users, most commonly taking tirzepatide. The primary reported reason for medication use was weight management (67.2%), followed by lipedema symptom management (19.3%). PROMIS-10 scores demonstrated higher physical and mental health ratings among current users compared with never-users (median Global Physical Health (GPH): 42.3 vs. 39.1; Global Mental Health (GMH): 44.9 vs. 40.8). Participants recalled improvements in both general health and lipedema symptoms after starting medication. Symptom severity scores for pain, swelling, and functional limitation were consistently lower among current users. Self-reported participant responses indicated improved health and symptom severity while using GLP-1/GIP RA medication. These findings support further investigation of GLP-1/GIP RA medications as potential therapeutic options for lipedema.",
+          "authors": [
+            "Ashok Srinivasan",
+            "Jonathan Kartt",
+            "Felicitie Daftuar",
+            "et al."
+          ],
+          "journal": "Obesity pillars",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42656629/"
+        },
+        {
+          "pmid": "42643169",
+          "title": "One-year weight loss and metabolic outcomes after laparoscopic sleeve gastrectomy in adolescents compared with young adults: A propensity score-matched cohort study.",
+          "abstract": "Adolescent bariatric surgery is rising, but comparative outcome data for sleeve gastrectomy in adolescents and young adults remain limited. Pre-surgical glucagon-like peptide-1 receptor agonist use in younger patients represents an unaddressed confounder. We therefor compared 1-year weight loss, metabolic comorbidity, nutritional and surgical outcomes of laparoscopic SG between adolescents (13-17 years) and young adults (18-21years) with severe obesity, using propensity score matching (PSM). This retrospective comparative cohort study used the TriNetX US Collaborative Network,a fedrated electronic health record platform spanning 66 health care organizations and approximately 113 million patients. Patients who underwent laparoscopic SG with morbid obesity were identified and stratified by age group. After exclusion of prior or concurrent alternative bariatric procedures, adolescents (n\u202f=\u202f327) and young adults (n\u202f=\u202f1056) were matched 1:1 using 25 pre-surgical characteristics, including GLP-1 RA medications. Outcomes were assessed at 1 year. After PSM, 318 matched pairs were analyzed. Pre-surgical semaglutide use was markedly higher among adolescents (29.4% vs 14.6%; SMD 0.363 before matching) and was balanced after matching (27.4% vs 26.1%; SMD 0.028). At 1-year, post-operative Body Mass Index (BMI) was equivalent (38.6\u202f\u00b1\u202f8.7 vs 39.1\u202f\u00b1\u202f8.8\u202fkg/m Adolescents achieve equivalent 1-year weight loss and metabolic outcomes following SG compared with young adults. Pre-surgical GLP-1 RA exposure is substantially higher in adolescents and must be controlled for in comparative bariatric research. The high prevalence of pre-existing vitamin D insufficiency in this population warrants routine pre-operative assessment and supplementation.",
+          "authors": [
+            "Ahmed Taki-Eldin",
+            "Ahmed Lotfy",
+            "Mohamed Saif Eldin Mahmoud El-Soudani",
+            "et al."
+          ],
+          "journal": "Obesity pillars",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42643169/"
+        },
+        {
+          "pmid": "42598160",
+          "title": "Patient Experiences and Safety Concerns Regarding GLP-1 Receptor Agonists for Obesity: ",
+          "abstract": "To evaluate the perceptions, experiences, and safety concerns of patients regarding the glucagon-like peptide-1 (GLP-1) receptor agonists. Obesity is a significant public health issue. The newer anti-obesity medications: GLP-1 receptor agonists, with an increase in therapeutic options. However, little is known about the perceived benefits, safety, cost, and accessibility. Cross-sectional survey included adults who previously used at least 1 anti-obesity medication and conducted in 3 general hospitals in Jeddah, Kingdom of Saudi Arabia (KSA) during June 2025 to February 2026. The questionnaire was created after reviewing the current evidence and validated the contents. It included questions on demographic and clinical information, medication use patterns, perceptions, and safety experiences. Data were analyzed using descriptive statistics. A total of 365 participants (median age: 41 years; 55.3% female) included, with a median body mass index (BMI) of 29.59 kg/m Substantial gaps in perceived effectiveness, safety confidence, affordability, and therapy continuity of GLP-1 receptor. This highlights need for structured education, improved access, and system interventions to improve anti-obesity pharmacotherapy adherence.",
+          "authors": [
+            "Mansour A Tobaiqy",
+            "Sulafa T Alqutub",
+            "Mohammed A Alzahrani",
+            "et al."
+          ],
+          "journal": "Saudi medical journal",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42598160/"
+        },
+        {
+          "pmid": "42572911",
+          "title": "Perceived Competence and GLP-1RA Weight Management Engagement: Mixed-Methods Insights From Six Patient Groups.",
+          "abstract": "This study aimed to explore patients' perspectives on GLP-1 receptor agonists (GLP-1RAs) for weight loss across the continuum of contemplating use to discontinuation, with and without achieving weight loss goals. From June to October 2025, participants completed a 30-item survey and ~30-question semi-structured interview regarding their perceptions of GLP-1RAs for weight loss. Interviews were tailored to six GLP-1RA groups: (1) considering use; (2) <\u20093\u2009months on therapy; (3) \u2265\u20093\u2009months on therapy without achieving weight loss goal; (4) \u2265\u20093\u2009months on therapy with achieving weight loss goal; (5) discontinued without achieving goal; and (6) discontinued after achieving goal. Qualitative coding and thematic analysis were conducted in Dedoose (9.0.107); quantitative analyses used SAS 9.4. A total of 185 participants consented, and\u00a0141 completed data collection (76%). Descriptive profiles suggested heterogeneity across psychosocial and behavioral domains. Groups 3 and 4 showed stronger profiles (higher perceived competence, intrinsic motivation, and self-monitoring). After false discovery rate adjustment across 78 comparisons, perceived competence was the only statistically significant differentiator: Group 1 was lower (z\u2009=\u2009-3.15; q\u2009=\u20090.0347) and Group 4 higher (z\u2009=\u20094.44; q\u2009<\u20090.001). Findings underscore the importance of tailoring behavioral support to individuals' stage of engagement in GLP-1RA-supported weight loss journeys.",
+          "authors": [
+            "Jane A McElroy",
+            "Isabella Bertarelli",
+            "Chloe Maltagliati",
+            "et al."
+          ],
+          "journal": "Obesity (Silver Spring, Md.)",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42572911/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals with obesity at risk for cardiovascular diseases",
+          "medications": "GLP-1 receptor agonists vs bariatric surgery",
+          "country_dataset": "Multiple countries",
+          "key_findings": "Network meta-analysis comparing cardiovascular efficacy of bariatric surgery and GLP-1 receptor agonists in reducing MACE, heart failure, and myocardial infarction in individuals with obesity. First study to integrate direct and indirect evidence on these interventions."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with cystic fibrosis-related diabetes (CFRD) treated with GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "Retrospective cohort study investigating pulmonary response to GLP-1 receptor agonist therapy in adults with CF-related diabetes, examining factors associated with improvement in FEV1 related to metabolic response and treatment intensity."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Female patients aged over 50 years with osteoporosis",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "Propensity-matched retrospective cohort study investigating the relationship between GLP-1 receptor agonist exposure and incidence of vertebral fractures and surgical intervention in patients with osteoporosis, examining effects on bone mineral density."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=87",
+          "population": "Adults with prior GLP-1 receptor agonist prescriptions and treatment discontinuation (>90 days gap)",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Academic medical center electronic health records",
+          "key_findings": "Cross-sectional survey describing patient experience of continuity of GLP-1 receptor agonist therapy, assessing care settings, comorbidities, and factors associated with discontinuation and weight regain."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Studies from COMBINE trials (COMBINE 1 and COMBINE 3)",
+          "population": "Adults with type 2 diabetes",
+          "medications": "Once-weekly IcoSema (fixed-ratio combination of basal insulin icodec and semaglutide) vs once-weekly insulin icodec",
+          "country_dataset": "Multiple countries (COMBINE program)",
+          "key_findings": "Meta-analysis of COMBINE randomized trials evaluating cardiometabolic outcomes of once-weekly IcoSema combination therapy, demonstrating simultaneous improvements in glycemic control, weight, and multiple cardiometabolic risk factors with weekly injection."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=1092",
+          "population": "Patients undergoing knee extensor mechanism repair (quadriceps or patellar tendon repair)",
+          "medications": "GLP-1 receptor agonists vs no GLP-1 receptor agonist use",
+          "country_dataset": "TriNetX collaborative network (United States)",
+          "key_findings": "Retrospective cohort analysis of 1,092 patients evaluating preoperative GLP-1 receptor agonist use as an independent risk factor for postoperative complications including surgical site infection and reoperation following knee extensor mechanism repair."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals with lipedema",
+          "medications": "GLP-1 receptor agonists and GLP-1/GIP receptor agonists",
+          "country_dataset": "Large online survey",
+          "key_findings": "Cross-sectional patient-reported online survey comparing self-reported lipedema outcomes and medication use in individuals treated with GLP-1 and GLP-1/GIP receptor agonists, evaluating effects on weight, metabolism, pain, and inflammation."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adolescents (13-17 years) and young adults (18-21 years) with severe obesity undergoing laparoscopic sleeve gastrectomy",
+          "medications": "Pre-surgical GLP-1 receptor agonist use",
+          "country_dataset": "TriNetX US Collaborative Network",
+          "key_findings": "Propensity score-matched retrospective cohort study comparing 1-year weight loss, metabolic outcomes, and surgical outcomes of laparoscopic sleeve gastrectomy between adolescents and young adults, accounting for pre-surgical GLP-1 receptor agonist use as a confounder."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults who previously used at least one anti-obesity medication",
+          "medications": "GLP-1 receptor agonists and other anti-obesity medications",
+          "country_dataset": "Saudi Arabia (3 general hospitals in Jeddah)",
+          "key_findings": "Cross-sectional survey evaluating patient perceptions, experiences, and safety concerns regarding GLP-1 receptor agonists for obesity, assessing perceived benefits, safety, cost, and accessibility in Saudi Arabia during 2025-2026."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients across the continuum of considering, initiating, continuing, and discontinuing GLP-1 receptor agonists for weight loss",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "Mixed-methods cross-sectional study exploring patient perspectives on GLP-1 receptor agonists across six groups from contemplation through discontinuation, examining perceived competence and weight management engagement related to achieving weight loss goals."
+        }
+      ],
+      "excluded_count": 15
+    }
+  ]
+}
