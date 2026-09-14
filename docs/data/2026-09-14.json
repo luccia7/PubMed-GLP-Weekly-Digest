@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-14",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42734024",
+          "title": "Fracture-Centred Skeletal Reporting Profiles of Glucose-Lowering Drug Classes in FAERS and JADER: Cross-Database and Regional Reporting-Context Analyses.",
+          "abstract": "To characterise fracture-centred skeletal adverse-event reporting across nine glucose-lowering drug classes and test whether regional differences persist after separating Japan from non-Japan Asian reporting contexts. We analysed FAERS and JADER reports, with fracture as the primary endpoint and reporting frequency per 10\u2009000 mapped suspect reports. FAERS older age was harmonised to \u2265\u200960\u2009years, with \u2265\u200965 and \u2265\u200970-year sensitivity analyses. Regional analyses separated Western, Japan, and non-Japan Asia; class-specific reporting odds were adjusted for age, sex, calendar year, and reporter type. Disproportionality analyses were supplementary. The study included 15\u2009473\u2009015 FAERS and 1\u2009037\u2009161 JADER reports, including 202\u2009881 and 10\u2009678 fractures. Using final deduplicated FAERS denominators, fracture reporting was highest for insulin (126.08/10000), DPP-4 inhibitors (111.03) and sulfonylureas (103.76), whereas thiazolidinediones (152.54), SGLT2 inhibitors (115.14) and GLP-1 receptor agonists (112.15) were most prominent in JADER. Age was unavailable in 44.9% of unique FAERS suspect reports, but findings were stable across age thresholds. Japan accounted for 83.0%-92.9% of total-Asian fractures for thiazolidinediones, GLP-1 receptor agonists, SGLT2 inhibitors and DPP-4 inhibitors; corresponding non-Japan Asian RFRs were not clearly elevated. Insulin remained higher after excluding Japan (RFR 1.96, 95% CI 1.57-2.45). No class met FDR-positive fracture disproportionality criteria. Skeletal reporting profiles varied by drug class, database, and reporting context. Apparent total-Asian elevations for several classes were predominantly Japan-driven and should not be interpreted as patient-level Asian fracture risk.",
+          "authors": [
+            "Bin Huang",
+            "Panpan Ma",
+            "Wei Wang"
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42734024/"
+        },
+        {
+          "pmid": "42733229",
+          "title": "Association of GLP-1-based therapy with asthma-related outcomes in patients with obesity: a propensity-matched retrospective cohort study.",
+          "abstract": "Obesity worsens asthma morbidity, but observational associations between glucagon-like peptide-1 (GLP-1)-based therapy and respiratory outcomes may be confounded by treatment selection. We conducted an active-comparator retrospective cohort study in the TriNetX US Collaborative Network across 72 healthcare organizations. Adults with body mass index (BMI) \u226530\u2009kg/m Recorded asthma exacerbation occurred in 1.7% versus 4.0% (risk difference [RD], -2.2%; 95% confidence interval (CI), -3.2% to -1.3%; risk ratio [RR], 0.438; 95% CI, 0.306-0.626). GLP-1-based therapy was also associated with lower systemic glucocorticoid exposure (16.4% vs 23.1%; RR, 0.712), emergency department/critical-care utilization (7.1% vs 13.0%; RR, 0.541), and acute respiratory failure (0.7% vs 1.8%; RR, 0.364). BMI- and glycated hemoglobin (HbA1c)-restricted sensitivity analyses were generally directionally concordant. GLP-1-specific adverse events were not systematically assessed. GLP-1-based therapy was associated with fewer recorded one-year respiratory and utilization events than active non-GLP pharmacotherapy. Residual confounding, treatment-persistence uncertainty, and exposure/outcome misclassification preclude causal inference.",
+          "authors": [
+            "Cameron Dean McCraw",
+            "Dominique Rose Grayeb",
+            "Navneet Gupta",
+            "et al."
+          ],
+          "journal": "Expert review of respiratory medicine",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42733229/"
+        },
+        {
+          "pmid": "42730869",
+          "title": "GLP-1 Receptor Agonists and Musculoskeletal Outcomes: A Systematic Literature Review and Meta-Analysis.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for the treatment of type 2 diabetes and obesity, but their effects on musculoskeletal health remain completely misunderstood. This systematic review/meta-analysis aims to synthesise clinical data on the effects of GLP-1 RAs on key relevant bone, muscle, and joint outcomes. MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL) (both via Ovid From 1148 potentially relevant references, 60 articles (46 RCTs, 13 RWE studies and 1 pharmacovigilance study, comprising 1,250,717 individuals) met our inclusion criteria. Different GLP-1 RAs were represented across the panel of studies, i.e., semaglutide, liraglutide, exenatide, dulaglutide, tirzepatide (dual agonist gastric inhibitory polypeptide [GIP]/GLP-1) and others. No effect on bone outcomes (i.e., bone mineral density [all sites] and fractures [all sites]) were observed when the meta-analytical models included the most adjusted effect size. Regarding muscle outcomes, a significant decrease of lean body mass/fat-free mass was consistently observed with GLP-1 RAs in the global model (k = 28, standardised mean difference [SMD] 0.52, 95% confidence interval [CI] -0.8; -0.23, I This meta-analysis is the first to investigate the effects of GLP-1 RAs on a large panel of musculoskeletal health outcomes. While no significant effects were observed on bone- or joint-related outcomes, GLP-1 RAs were associated with reductions in lean body mass/fat-free mass, although the certainty of evidence was low and these changes appeared largely related to weight loss. Whether these changes translate into clinically meaningful impairments in muscle function or physical performance remains uncertain. Further studies in this field, including those looking at muscle function, strength or performance and using multivariate models considering confounding are needed to better reinforce the models and final findings.",
+          "authors": [
+            "Charlotte Beaudart",
+            "Yveline Malr\u00e9chauff\u00e9",
+            "Sophie van Heden",
+            "et al."
+          ],
+          "journal": "Drugs",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42730869/"
+        },
+        {
+          "pmid": "42729958",
+          "title": "Weight regain following discontinuation of glucagon-like peptide-1 receptor agonists in adults who are overweight or obese: a systematic review and meta-analysis.",
+          "abstract": "This study aims to explore the effects of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on weight changes and the occurrence of adverse reactions in overweight or obese adults after drug withdrawal. Computerized searches were conducted in evidence-based databases such as PubMed, Embase, Cochrane Library and Scopus. The search period was from the establishment of the database to December 2025. Collect randomised controlled trials (RCTs) and controlled trials on GLP-1RAs, including tirzepatide, semaglutide, liraglutide, and dulaglutide, for the treatment of overweight or obese adult patients. The risk of bias in the included studies was assessed using the Cochrane Risk of Bias V2.0 tool provided by the Cochrane Collaboration, and meta-analysis was performed using the R programming language. A total of 699 studies were initially retrieved. Eventually, six studies involving 8,993 patients were included in the quantitative analysis, comprising 5,553 patients in the discontinuation group and 3,440 in the continued treatment group. The results of the meta-analysis showed that, compared with the continued treatment group, the weight difference in the discontinuation group was mean difference (MD) = 17.90%, 95% confidence interval (CI) [14.11-21.69],  There is a significant weight rebound phenomenon after discontinuation of GLP-1RAs, and the rebound magnitudes vary among different types of drugs. At the same time, there is a risk of adverse reactions during the use of such drugs.",
+          "authors": [
+            "Huaji Qi",
+            "Qiang Gao",
+            "Haiyan Chen",
+            "et al."
+          ],
+          "journal": "PeerJ",
+          "pub_date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42729958/"
+        },
+        {
+          "pmid": "42723061",
+          "title": "Fasting gut hormone levels following long-term recovery from Anorexia Nervosa: A cross-sectional study.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1), gastric inhibitory peptide (GIP), glucagon, and glicentin are gastrointestinal hormones derived from proglucagon that play crucial roles in regulating appetite and glucose homeostasis. These hormones have been examined during the acute state of anorexia nervosa (AN), with our previous study showing elevated GIP levels in the acute state which normalized following short-term weight restoration. GLP-1 and glicentin concentrations remain unchanged in the acute state, but decrease after short-term weight restoration. However, few studies have investigated whether these alterations are more than mere consequences of the severe underweight, whether they persist after long-term recovery, and whether they could therefore be considered potential trait markers. In the current study, we assessed fasting serum concentrations of GLP-1, GIP, glucagon, and glicentin in 80 female individuals who had long-term recovered from AN and 100 healthy female controls. For group comparisons, a subset of 70 controls was pairwise age-matched to the recovered patients. Participants were further stratified by oral contraceptive (OC) use. No significant differences in hormone concentrations, confirmed by Bayesian statistics, were observed between controls and recovered patients, regardless of OC use, except for glucagon levels. These findings suggest that alterations in gut-secreted hormones associated with glucose homeostasis during the acute, malnourished phase of AN reflect state-dependent changes that do not persist after recovery. OC use in former patients with AN does not affect the concentration of these hormones during recovery. Anorexia nervosa (AN) is a serious eating disorder that can be life-threatening. People with AN restrict their food intake severely, experience intense fear of weight gain, and have a distorted body image. It most commonly affects girls and young women. People with this condition often have imbalanced levels of certain hormones that help control hunger and blood sugar. In this study, we wanted to know if these hormone imbalances are just temporary effects of being severely underweight, or if they might be long-lasting characteristics that could help explain part of the illness. We measured four different hormones in 80 women who had fully recovered from AN and compared them to 100 healthy women who had never had the condition. We also tested whether using birth control pills (which affect a variety of hormones in the body) made any difference to the results. Our findings showed that the hormone levels in recovered women were almost identical to those in healthy women. This suggests that the unusual hormone levels seen when someone is actively ill with AN are caused by the state of being underweight, rather than being a permanent characteristic. Once a person recovers and restores their weight, these hormone levels return to normal. Birth control pill use did not affect hormone levels in recovered women.",
+          "authors": [
+            "Theresa Kolb",
+            "Friederike Ingrid Tam",
+            "Claudia F\u00f6rster Ribet",
+            "et al."
+          ],
+          "journal": "Journal of eating disorders",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42723061/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Reports in FAERS and JADER databases across all ages",
+          "medications": "Nine glucose-lowering drug classes including GLP-1 RAs",
+          "country_dataset": "FAERS (US) and JADER (Japan)",
+          "key_findings": "Cross-database analysis characterized fracture-centred skeletal adverse event reporting across glucose-lowering drug classes with regional differences between Western, Japan, and non-Japan Asia contexts. Class-specific reporting odds were adjusted for age, sex, calendar year, and reporter type."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with obesity (BMI \u226530 kg/m\u00b2) and asthma",
+          "medications": "GLP-1-based therapy versus comparators",
+          "country_dataset": "TriNetX US Collaborative Network across 72 healthcare organizations",
+          "key_findings": "GLP-1-based therapy was associated with significantly lower asthma exacerbation rates (1.7% vs 4.0%, RR 0.438) and lower systolic blood pressure compared to control group in propensity-matched analysis."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "60 articles (1,250,717 individuals)",
+          "population": "Patients with type 2 diabetes and obesity treated with GLP-1 RAs",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "MEDLINE and Cochrane Central Register of Controlled Trials",
+          "key_findings": "Systematic review and meta-analysis of 60 articles (46 RCTs, 13 real-world evidence studies) synthesizing effects of GLP-1 RAs on musculoskeletal outcomes including bone, muscle, and joint health in 1.25 million individuals."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not specified",
+          "population": "Overweight or obese adults treated with GLP-1 RAs",
+          "medications": "Tirzepatide, semaglutide, liraglutide, dulaglutide",
+          "country_dataset": "PubMed, Embase, Cochrane Library, Scopus",
+          "key_findings": "Systematic review and meta-analysis examining weight regain following GLP-1 RA discontinuation in overweight/obese adults, including analysis of adverse reactions after drug withdrawal across multiple GLP-1 RA agents."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults in long-term recovery from anorexia nervosa",
+          "medications": "Not applicable (measuring endogenous GLP-1 and other gut hormones)",
+          "country_dataset": "Not specified",
+          "key_findings": "Cross-sectional analysis of fasting gut hormone levels including GLP-1, GIP, glucagon, and glicentin in patients with long-term anorexia nervosa recovery, building on prior findings of hormone changes during weight restoration."
+        }
+      ],
+      "excluded_count": 12
+    }
+  ]
+}
