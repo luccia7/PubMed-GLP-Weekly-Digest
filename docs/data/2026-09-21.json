@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-21",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42762981",
+          "title": "Changes in Body Composition Assessed by Bioelectrical Impedance Analysis in Patients Treated with GLP-1 Receptor Agonists: A Real-World Experience.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) induce significant weight loss in patients with obesity; however, data on real-world body composition changes are limited. We conducted a retrospective real-world observational study including 388 obese adults treated with GLP-1 RAs and followed them for 6 months in a specialized endocrinology clinic. Body composition was assessed using multifrequency bioelectrical impedance analysis at baseline and at 6 weeks, 3 months, and 6 months. Linear mixed models with a random intercept per patient were used to compare timepoints, with a fully adjusted model to test the independent contribution of adherence and obesity phenotype. A total of 388 patients (40.7% women; mean age 50.3 years) were included in the study. Mean weight loss reached 11.3% at 6 months (p<0.001), predominantly driven by fat mass reduction (-8.95%), with a marked decrease in visceral fat area (-40.6 cm In real-world clinical practice, GLP-1 RA therapy combined with lifestyle interventions led to substantial improvements in body composition, characterized by predominant fat and visceral fat loss, with minimal skeletal muscle reduction. These findings support the use of body composition assessments beyond BMI in obesity management.",
+          "authors": [
+            "Jose Atencia Go\u00f1i",
+            "Mercedes S\u00e1nchez Barba",
+            "Gilberto P\u00e9rez L\u00f3pez",
+            "et al."
+          ],
+          "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42762981/"
+        },
+        {
+          "pmid": "42762166",
+          "title": "Association Between Continuous Glucose Monitoring Utilization and Glucagon-Like Peptide-1 Receptor Agonist Discontinuation in Type 2 Diabetes: A Real-World Study.",
+          "abstract": "Continuous glucose monitoring (CGM) and glucagon-like peptide-1 receptor agonists (GLP-1 RAs) when used jointly are associated with significant improvement in glycemic outcomes. However, it is unknown if using CGM enhances GLP-1 RA continuation. This study assesses the relationship between adherent CGM utilization and GLP-1 RA adherence among people living with type 2 diabetes (T2D) on nonintensive therapy. This retrospective matched-cohort study analyzed data from Inovalon The study included 934 adherent CGM users matched with 3747 non-CGM users. One year post GLP-1 RA initiation, 68.4% (95% confidence interval [CI]: 65.5%-71.5%) of adherent CGM users remained on GLP-1 RA compared with 51.9% (95% CI: 50.3%-53.5%) of non-CGM users ( This study suggests that adherent CGM utilization is associated with a significantly lower risk of GLP-1 RA discontinuation and may potentially enhance adherence to GLP-1 RA medication in people living with T2D on nonintensive therapy.",
+          "authors": [
+            "Eugene E Wright",
+            "Eileen Huang",
+            "Anila Bindal"
+          ],
+          "journal": "Diabetes technology & therapeutics",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42762166/"
+        },
+        {
+          "pmid": "42755139",
+          "title": "Real-World Adherence Trajectories of GLP-1 Receptor Agonists Among Adults and Paediatric Patients With Obesity.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for obesity treatment, but real-world adherence patterns, particularly among individuals without diabetes and paediatric patients, remain poorly characterised. We aimed to identify 12-month GLP-1 RA adherence trajectories among adults and paediatric patients with obesity without diabetes and to evaluate factors associated with adherence. We conducted a retrospective cohort study using 2021-2023 MarketScan commercial claims data. Individuals aged \u2265\u200910\u2009years with obesity without diabetes who initiated GLP-1 RAs were included. Adherence was measured as monthly proportion of days covered (PDC) over 12\u2009months. Group-based trajectory modelling was conducted separately in adult and paediatric cohorts. Multivariable logistic regression was used to identify factors associated with membership in the persistent-user trajectory. The study included 201\u2009229 adults and 1139 paediatric patients. Five adherence trajectories were identified in each cohort. Among adults, trajectories included immediate discontinuers (19.6%), early discontinuers (23.5%), late discontinuers (20.7%), intermittent adherents (5.5%) and persistent users (30.7%), with mean annual PDC ranging from 0.10 to 0.87. Paediatric trajectory groups were more evenly distributed, with each group representing approximately 18%-22% of the cohort and persistent users comprising 20.3%. Geographic region was consistently associated with adherence, with higher odds of persistent use in the Northeast versus the South among adults (odds ratio [OR], 1.32) and paediatric patients (OR, 1.65). Most adults and paediatric patients with obesity had suboptimal adherence to GLP-1 RA use over 12\u2009months. Distinct adherence trajectories and consistent regional differences highlight opportunities to better understand and address barriers to long-term obesity pharmacotherapy.",
+          "authors": [
+            "Wenxi Huang",
+            "Pareeta Kotecha",
+            "Stephen E Kimmel",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42755139/"
+        },
+        {
+          "pmid": "42746999",
+          "title": "Adjunctive GLP-1 receptor agonists for cardiometabolic risk in antipsychotic-treated patients: A GRADE-assessed meta-analysis of randomized trials.",
+          "abstract": "Patients with schizophrenia spectrum or bipolar disorders have reduced life expectancy due to cardiometabolic risk. We conducted this meta-analysis to evaluate glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for their effects on cardiometabolic outcomes. We systematically searched PubMed, Embase, Scopus, Web of Science, and Cochrane up to May 2026 for randomized controlled trials (RCTs). We pooled continuous outcomes as mean differences (MDs) and dichotomous outcomes as risk ratios (RRs) using random-effects models with 95% confidence intervals (CIs). We included 8 RCTs with 664 patients. Compared with control, GLP-1 RA significantly reduced body weight (MD: -6.74, 95% CI: -10.05 to -3.43), body mass index (BMI; MD: -2.37\u2009kg/m GLP-1RA, particularly semaglutide, was associated with clinically meaningful improvements in antipsychotic-related cardiometabolic outcomes without compromising psychiatric stability or treatment adherence. However, the significant increase in GI AEs necessitates careful clinical titration. Larger RCTs with longer follow-up are needed to confirm these findings.",
+          "authors": [
+            "Elsayed S Moubarak",
+            "Mohamed S Elgendy",
+            "Omar Elkoumi",
+            "et al."
+          ],
+          "journal": "Journal of psychopharmacology (Oxford, England)",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42746999/"
+        },
+        {
+          "pmid": "42744726",
+          "title": "A multicenter real-world study on the safety and effectiveness of the glucagon-like peptide-1 receptor agonist (liraglutide) in adolescents with obesity in Taiwan.",
+          "abstract": "Pediatric obesity is linked to many metabolic complications and has limited treatment options. We evaluated the safety and effectiveness of GLP-1 receptor agonist (liraglutide) in adolescents with obesity in clinical practice in Taiwan. We conducted a prospective study (NCT06283641) across 14 hospitals and clinics from February 2024 to March 2025 evaluating adolescents receiving liraglutide at baseline, week 13, and week 26. Demographics, and safety and effectiveness outcomes, including incidence proportions of adverse events and adverse drug reactions, and changes in body weight and body mass index, were assessed. Among 41 participants, 22 (53.7%) were male, with mean age (\u00b1standard deviation) 13.9\u202f\u00b1\u202f1.8 years, body weight (BW) 88.5\u202f\u00b1\u202f19.3\u202fkg, and body mass index (BMI) 33.4\u202f\u00b1\u202f5.1\u202fkg/m In adolescents with obesity in Taiwan, liraglutide at doses below 3.0\u202fmg/day was well-tolerated, and reductions in BW, BMI, and BMI standard deviation score were observed.",
+          "authors": [
+            "Chiao-Fan Chiu",
+            "Chu-Kuang Chou",
+            "Shu-Wei Hu",
+            "et al."
+          ],
+          "journal": "Obesity research & clinical practice",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42744726/"
+        },
+        {
+          "pmid": "42736027",
+          "title": "Psychiatric Safety of GLP-1 and Dual GIP/GLP-1 Receptor Agonists in Adolescents With Obesity.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and dual GIP/GLP-1 receptor agonists are increasingly used for adolescent obesity, but concerns persist regarding psychiatric adverse events, particularly suicidality. This retrospective cohort study used deidentified electronic health records from the TriNetX Global Collaborative Network. Adolescents with overweight or obesity were included. New users of semaglutide, liraglutide, or tirzepatide were compared with those receiving lifestyle interventions. Cohorts were balanced using propensity score matching. The primary outcome was suicide-related events (suicidal ideation or suicide attempt). Secondary outcomes included suicidal ideation, suicide attempt, anxiety, insomnia, depression, and eating disorders, assessed from 30\u2009days to 1095\u2009days after the index date. After propensity score matching, 9222 adolescents were included in each group. Incretin-based therapy was associated with lower risks of suicide-related events (HR, 0.74; 95% CI, 0.57-0.95), suicidal ideation (HR, 0.73; 95% CI, 0.56-0.96), and anxiety (HR, 0.92; 95% CI, 0.84-0.99) compared with lifestyle intervention. No significant differences were observed for suicide attempt, insomnia, depression, or eating disorders. Risk reductions were significant among female adolescents (HR, 0.61; 95% CI, 0.46-0.82) and those without Type 2 diabetes (HR, 0.63; 95% CI, 0.47-0.85), but not among males or those with Type 2 diabetes. Sensitivity analyses supported the primary findings. Among adolescents with obesity, incretin-based therapy was not associated with increased psychiatric risk and was associated with lower risks of suicide-related events, suicidal ideation, and anxiety compared with lifestyle intervention. Although a lower risk was observed compared with lifestyle intervention, this finding should be interpreted cautiously given potential selection bias and the lack of a significant difference in the active-comparator analysis with metformin.",
+          "authors": [
+            "Ting-Hui Liu",
+            "Yang-Li Shen",
+            "Tien-Hsiang Kuo",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42736027/"
+        },
+        {
+          "pmid": "42734024",
+          "title": "Fracture-Centred Skeletal Reporting Profiles of Glucose-Lowering Drug Classes in FAERS and JADER: Cross-Database and Regional Reporting-Context Analyses.",
+          "abstract": "To characterise fracture-centred skeletal adverse-event reporting across nine glucose-lowering drug classes and test whether regional differences persist after separating Japan from non-Japan Asian reporting contexts. We analysed FAERS and JADER reports, with fracture as the primary endpoint and reporting frequency per 10\u2009000 mapped suspect reports. FAERS older age was harmonised to \u2265\u200960\u2009years, with \u2265\u200965 and \u2265\u200970-year sensitivity analyses. Regional analyses separated Western, Japan, and non-Japan Asia; class-specific reporting odds were adjusted for age, sex, calendar year, and reporter type. Disproportionality analyses were supplementary. The study included 15\u2009473\u2009015 FAERS and 1\u2009037\u2009161 JADER reports, including 202\u2009881 and 10\u2009678 fractures. Using final deduplicated FAERS denominators, fracture reporting was highest for insulin (126.08/10000), DPP-4 inhibitors (111.03) and sulfonylureas (103.76), whereas thiazolidinediones (152.54), SGLT2 inhibitors (115.14) and GLP-1 receptor agonists (112.15) were most prominent in JADER. Age was unavailable in 44.9% of unique FAERS suspect reports, but findings were stable across age thresholds. Japan accounted for 83.0%-92.9% of total-Asian fractures for thiazolidinediones, GLP-1 receptor agonists, SGLT2 inhibitors and DPP-4 inhibitors; corresponding non-Japan Asian RFRs were not clearly elevated. Insulin remained higher after excluding Japan (RFR 1.96, 95% CI 1.57-2.45). No class met FDR-positive fracture disproportionality criteria. Skeletal reporting profiles varied by drug class, database, and reporting context. Apparent total-Asian elevations for several classes were predominantly Japan-driven and should not be interpreted as patient-level Asian fracture risk.",
+          "authors": [
+            "Bin Huang",
+            "Panpan Ma",
+            "Wei Wang"
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42734024/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=388",
+          "population": "Obese adults treated with GLP-1 RAs in specialized endocrinology clinic",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "Real-world study assessed body composition changes using bioelectrical impedance analysis in 388 obese adults treated with GLP-1 RAs over 6 months. Linear mixed models compared body composition at baseline, 6 weeks, 3 months, and 6 months."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=934 CGM users matched with n=3,747 non-CGM users",
+          "population": "Type 2 diabetes patients on non-intensive therapy initiating GLP-1 RAs",
+          "medications": "GLP-1 receptor agonists; continuous glucose monitoring",
+          "country_dataset": "Inovalon database (US)",
+          "key_findings": "Among 934 adherent CGM users matched with 3,747 non-CGM users, 68.4% of CGM users continued GLP-1 RA at one year post-initiation. Study demonstrates association between CGM utilization and improved GLP-1 RA adherence in type 2 diabetes patients."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Adults and paediatric patients aged \u226510 years with obesity without diabetes initiating GLP-1 RAs",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "MarketScan commercial claims data (2021-2023)",
+          "key_findings": "Study identified 12-month GLP-1 RA adherence trajectories among individuals without diabetes using 2021-2023 claims data. Evaluated factors associated with adherence patterns in both adult and paediatric populations with obesity."
+        },
+        {
+          "study_type": "Meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "8 RCTs with 664 patients",
+          "population": "Patients with schizophrenia spectrum or bipolar disorders",
+          "medications": "GLP-1 receptor agonists versus comparators",
+          "country_dataset": "PubMed, Embase, Scopus, Web of Science, Cochrane (up to May 2026)",
+          "key_findings": "Meta-analysis of 8 RCTs including 664 patients evaluated GLP-1 RAs for cardiometabolic outcomes in patients with schizophrenia spectrum or bipolar disorders. Pooled continuous outcomes as mean differences and dichotomous outcomes as risk ratios using random-effects models."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Adolescents with obesity in Taiwan",
+          "medications": "Liraglutide (GLP-1 receptor agonist)",
+          "country_dataset": "Taiwan (14 hospitals and clinics, NCT06283641)",
+          "key_findings": "Prospective multicenter study evaluated safety and effectiveness of liraglutide in adolescents with obesity across 14 hospitals/clinics in Taiwan. Assessed adverse events, adverse drug reactions, and changes in body weight/BMI at baseline, week 13, and week 26."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported in abstract",
+          "population": "Adolescents with overweight or obesity",
+          "medications": "Semaglutide, liraglutide, tirzepatide versus lifestyle interventions",
+          "country_dataset": "TriNetX Global Collaborative Network (electronic health records)",
+          "key_findings": "Retrospective cohort study examined psychiatric safety of GLP-1 RAs and dual GIP/GLP-1 agonists in adolescents with overweight/obesity. New users of semaglutide, liraglutide, or tirzepatide were compared with lifestyle intervention controls using propensity score matching."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not specified in abstract",
+          "population": "Patients reported in adverse event databases",
+          "medications": "Nine glucose-lowering drug classes including GLP-1 RAs",
+          "country_dataset": "FAERS and JADER databases",
+          "key_findings": "Cross-database analysis of FAERS and JADER reports characterized fracture-related skeletal adverse events across nine glucose-lowering drug classes. Regional analyses separated Western, Japan, and non-Japan Asia reporting contexts with adjusted reporting odds for age, sex, calendar year, and reporter type."
+        }
+      ],
+      "excluded_count": 14
+    }
+  ]
+}
