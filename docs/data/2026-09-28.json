@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-28",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42785671",
+          "title": "Clinical outcomes associated with glucagon-like peptide-1 receptor agonist therapy in patients with peripheral artery disease and diabetes.",
+          "abstract": "Peripheral artery disease (PAD) and diabetes are associated with high risks of limb complications and mortality. Although glucagon-like peptide-1 receptor agonists (GLP1-RAs) improve cardiovascular outcomes, their effect on limb outcomes in PAD remains uncertain. We conducted a retrospective cohort study using the Clalit Health Services database. Adults with PAD and diabetes were classified according to GLP1-RA dispensing exposure, and inverse probability of treatment weighting was used to balance measured baseline characteristics in the primary analysis. The primary outcome was major adverse limb events (MALE), defined as lower-limb revascularization or amputation. To address potential immortal time bias, all-cause mortality was additionally evaluated using an incident-treatment risk-set approach aligned to the qualifying GLP1-RA exposure date, while sustained GLP1-RA exposure was evaluated for MALE using a time-varying persistent-use model. Among 20,031 patients, 5,960 met the original GLP1-RA exposure definition and 14,071 were classified as non-users. In the original IPTW-weighted analysis, GLP1-RA exposure was associated with lower risks of MALE, revascularization, major amputation, and all-cause mortality. In the time-aligned risk-set analysis, GLP1-RA exposure remained associated with lower all-cause mortality (HR 0.80, 95% CI 0.73-0.88; P < 0.001). In a time-varying analysis of sustained exposure, persistent GLP1-RA use was associated with a lower hazard of MALE (adjusted HR 0.65, 95% CI 0.44-0.94; P\u202f=\u202f0.022). In patients with PAD and diabetes, GLP1-RA exposure was associated with favorable clinical outcomes. Time-aligned analyses demonstrated a lower risk of all-cause mortality, while sustained GLP1-RA exposure was associated with lower MALE risk. Given the observational design, these findings should be interpreted as associations rather than causal treatment effects.",
+          "authors": [
+            "Haitham Abu Khadija",
+            "Mohammad Alnees",
+            "Ali Abdullah",
+            "et al."
+          ],
+          "journal": "Diabetes & metabolism",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42785671/"
+        },
+        {
+          "pmid": "42784738",
+          "title": "Use of antiobesity medications in a bariatric surgery population: A collaborative approach with ambulatory care pharmacy services.",
+          "abstract": "Antiobesity medications (AOMs) are increasingly utilized in patients before and after bariatric surgery. However, patients experience challenges to initiating and continuing these medications, leading to high real-world rates of discontinuation. We describe collaboration between an ambulatory care pharmacy service and bariatric surgeons as an opportunity to enhance patient care and medication access, with the collaboration encompassing ambulatory care pharmacists, pharmacy technicians, surgeons, advanced practice providers, and clinic support staff. The strategies employed to design, implement, and optimize patient care to meet the increasing demand for support with AOMs are discussed. The workflow incorporated key activities from highly diverse existing ambulatory care pharmacy and bariatric surgery practices. Resources utilized included an electronic pharmacy referral, collaborative practice agreements, and facilitation of medication access, including through completion of prior authorizations. Enhancements focused on coordination of visits to stagger the timing of follow-up visits, providing support to patients through insurance and coverage challenges, and communication to allow the pharmacy team to focus on all medication-related challenges while triaging other concerns to the multidisciplinary team. A pilot program to assess feasibility was implemented with a single pharmacist in August 2022, and the workflow was expanded by the end of 2024 to include 4 ambulatory care pharmacists and 2 pharmacy technicians collaborating with every bariatric surgeon in a large academic health system. The collaboration created a workflow to support an interdisciplinary standard of care for patients utilizing AOMs before and after bariatric surgery. This implementation approach can serve as a roadmap for other healthcare systems to support use of AOMs.",
+          "authors": [
+            "Veronica Arceri",
+            "Jenna Lee",
+            "John Morton",
+            "et al."
+          ],
+          "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42784738/"
+        },
+        {
+          "pmid": "42768825",
+          "title": "Oral Semaglutide in Routine Clinical Practice: 24-Month Real-World Effectiveness, Persistence and Safety in Adults With Type 2 Diabetes.",
+          "abstract": "Real-world long-term data on oral semaglutide are limited. We evaluated its 24-month effectiveness, persistence, and safety in adults with type 2 diabetes (T2D). This retrospective real-world study included 232 adults with T2D initiating oral semaglutide at an Italian diabetes clinic. Changes in HbA1c, body weight, eGFR, urinary albumin-to-creatinine ratio (UACR) and lipid profile were assessed using linear mixed models. The composite endpoint of HbA1c \u2264\u20097% and \u2265\u20095% weight loss was assessed over follow-up. Treatment persistence was evaluated by Kaplan-Meier analysis, and predictors of discontinuation by multivariable Cox regression with time-dependent covariates. HbA1c and body weight before and after switching to another GLP1 receptor agonist were also evaluated. Over 24\u2009months, oral semaglutide significantly reduced HbA1c (-0.8%; p\u2009<\u20090.0001) and body weight (-5.7\u2009kg; p\u2009<\u20090.0001). The composite endpoint was progressively achieved by 44.0% of individuals at 24\u2009months. Non-breakfast administration was independently associated with lower HbA1c after adjustment for BMI, age and sex (\u03b2\u2009=\u2009-0.32; p\u2009=\u20090.041). eGFR and UACR remained stable while total and LDL cholesterol decreased significantly (both p\u2009<\u20090.0001). Treatment persistence at 24\u2009months was 68.5% (mean 19.4\u2009months). Among discontinuers, switching to another GLP1 receptor agonist was the most common strategy (36.2%) and resulted in a further HbA1c reduction (\u0394\u2009=\u2009-0.98%; p\u2009=\u20090.005). No safety concerns emerged. In this real-world cohort, oral semaglutide provided sustained improvements in glycaemic control, body weight, and lipid profile, with preserved renal function and high treatment persistence over 24\u2009months.",
+          "authors": [
+            "Maria Pompea Antonia Baldassarre",
+            "Giulia Di Dalmazi",
+            "Federica Carrieri",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42768825/"
+        },
+        {
+          "pmid": "42766389",
+          "title": "Hemoglobin A",
+          "abstract": "Type 2 diabetes mellitus (T2D) is one of the most significant chronic health challenges in Michigan, especially for individuals with food insecurity. Improving nutrition, including lowering carbohydrate intake, is foundational to T2D prevention and management. Grocery delivery paired with low-carbohydrate education has the potential to reduce logistical barriers to dietary change but is not well understood in individuals with food insecurity. The objective of our study was to evaluate changes in clinical metrics of hemoglobin A The Healthy Eating Jumpstart Program (hereafter, Jumpstart) enrolled adult Michiganders with T2D and low income or food insecurity from 21 Michigan primary care practices between October 2022 and May 2023. Jumpstart was a 3-month, nonrandomized grocery delivery and low-carbohydrate education quality improvement program without a control group. Participants received US $80 every month through Shipt to purchase eligible healthy foods, along with low-carbohydrate educational materials. Clinical metrics of HbA A total of 83 patients participated in Jumpstart. Participants were primarily female (57/79, 72%), White (70/79, 89%), and had a high school degree or less (35/79, 44%). At baseline, the average HbA The results from this clinical evaluation suggest that the Jumpstart quality improvement program was associated with improvements in HbA",
+          "authors": [
+            "Marika Waselewski",
+            "Eric Waselewski",
+            "Lauren Oshman",
+            "et al."
+          ],
+          "journal": "JMIR formative research",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42766389/"
+        },
+        {
+          "pmid": "42733229",
+          "title": "Association of GLP-1-based therapy with asthma-related outcomes in patients with obesity: a propensity-matched retrospective cohort study.",
+          "abstract": "Obesity worsens asthma morbidity, but observational associations between glucagon-like peptide-1 (GLP-1)-based therapy and respiratory outcomes may be confounded by treatment selection. We conducted an active-comparator retrospective cohort study in the TriNetX US Collaborative Network across 72\u00a0healthcare organizations. Adults with body mass index (BMI) \u226530\u2009kg/m Recorded asthma exacerbation occurred in 1.7% versus 4.0% (risk difference [RD], -2.2%; 95% confidence interval (CI), -3.2% to -1.3%; risk ratio [RR], 0.438; 95% CI, 0.306-0.626). GLP-1-based therapy was also associated with lower systemic glucocorticoid exposure (16.4% vs 23.1%; RR, 0.712), emergency department/critical-care utilization (7.1% vs 13.0%; RR, 0.541), and acute respiratory failure (0.7% vs 1.8%; RR, 0.364). BMI- and glycated hemoglobin (HbA1c)-restricted sensitivity analyses were generally directionally concordant. GLP-1-specific adverse events were not systematically assessed. GLP-1-based therapy was associated with fewer recorded one-year respiratory and utilization events than active non-GLP pharmacotherapy. Residual confounding, treatment-persistence uncertainty, and exposure/outcome misclassification preclude causal inference.",
+          "authors": [
+            "Cameron Dean McCraw",
+            "Dominique Rose Grayeb",
+            "Navneet Gupta",
+            "et al."
+          ],
+          "journal": "Expert review of respiratory medicine",
+          "pub_date": "Sep 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42733229/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with peripheral artery disease and diabetes",
+          "medications": "GLP-1 receptor agonists vs comparators",
+          "country_dataset": "Clalit Health Services database, Israel",
+          "key_findings": "Retrospective cohort study using inverse probability of treatment weighting to evaluate major adverse limb outcomes in patients with PAD and diabetes exposed to GLP-1RA therapy compared to unexposed controls."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients before and after bariatric surgery",
+          "medications": "Antiobesity medications including GLP-1 receptor agonists",
+          "country_dataset": "United States",
+          "key_findings": "Describes collaborative pharmacy and surgical team approach to enhance patient care and medication access for antiobesity medications, addressing high real-world discontinuation rates through implementation of system-wide strategies."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=232",
+          "population": "Adults with type 2 diabetes initiating oral semaglutide",
+          "medications": "Oral semaglutide",
+          "country_dataset": "Italy",
+          "key_findings": "24-month real-world study demonstrated effectiveness of oral semaglutide on HbA1c reduction and weight loss, with treatment persistence evaluated by Kaplan-Meier analysis to identify predictors of discontinuation in adults with type 2 diabetes."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Individuals with type 2 diabetes and food insecurity in Michigan",
+          "medications": "Antidiabetic medications (not specified)",
+          "country_dataset": "Michigan, United States",
+          "key_findings": "Prospective evaluation of the Healthy Eating Jumpstart Program combining grocery delivery with low-carbohydrate education to assess changes in hemoglobin A1c and clinical metrics in individuals with food insecurity and type 2 diabetes."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with obesity and asthma",
+          "medications": "GLP-1-based therapy vs active comparators",
+          "country_dataset": "TriNetX US Collaborative Network, 72 healthcare organizations",
+          "key_findings": "Active-comparator propensity-matched retrospective cohort study demonstrated that GLP-1-based therapy was associated with significant reductions in asthma exacerbation risk and systemic corticosteroid use in patients with obesity."
+        }
+      ],
+      "excluded_count": 9
+    }
+  ]
+}
