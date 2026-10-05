@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-05",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42808550",
+          "title": "Real-world treatment patterns and cost per patient achieving treatment targets among tirzepatide and semaglutide initiators in US patients with type 2 diabetes.",
+          "abstract": "Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 (GLP-1) receptor agonist (RA), and semaglutide, a GLP-1 RA, are approved for type 2 diabetes (T2D) management. Clinical trials demonstrated that tirzepatide provided greater hemoglobin A1c and weight reduction vs comparators. Studies using trial-based effect estimates indicate it may also offer a lower cost per patient achieving treatment targets. However, real-world comparative data on treatment patterns, effectiveness, and economic value are limited. To compare real-world treatment patterns, A1c and weight outcomes, and type 2 diabetes-related pharmacy (T2D-Rx) costs per patient achieving treatment targets in patients initiating tirzepatide for T2D, stratified by prior GLP-1 RA use. This retrospective cohort study used claims and laboratory data from the Healthcare Integrated Research Database. Adults with T2D initiating tirzepatide (Mounjaro only) or semaglutide (Ozempic only) from May 2022 to May 2023 were propensity score matched and classified as naive or non-naive based on GLP-1 RA exposure in the 6 months before initiation. Outcomes over 12 months of follow-up included adherence (proportion of days covered \u22650.80), persistence (no \u226545-day gap), and T2D-Rx cost per responder (mean T2D-related pharmacy cost\u2009\u00f7\u2009proportion achieving treatment target) to achieve A1c (<8%, <7%, \u22646.5%, <5.7%) and weight loss (\u22655%, \u226510%, \u226515%) thresholds. Outcomes were compared using chi-square and t-tests. After matching, 10,702 naive and 5,577 non-naive patient pairs were included in each treatment group. Tirzepatide initiators demonstrated higher adherence (naive: 60% vs 45%; non-naive: 66% vs 48%) and persistence (naive: 62% vs 47%; non-naive: 68% vs 49%) than semaglutide initiators. A greater proportion of tirzepatide users achieved all A1c and weight outcomes, including the most stringent targets of A1c less than 5.7% (naive: 30% vs 18%; non-naive: 17% vs 6%) and weight loss greater than or equal to 15% (naive: 23% vs 10%; non-naive: 17% vs 5%). Tirzepatide also had lower T2D-Rx cost per responder for these most stringent endpoints: A1c less than 5.7% (naive: $45,300 vs $65,300; non-naive: $107,700 vs $270,300) and weight loss greater than or equal to 15% (naive: $62,900 vs $124,400; non-naive: $110,200 vs $326,800), as well as for most other weight loss thresholds. For less stringent A1c goals, T2D-Rx cost per responder was similar across tirzepatide and semaglutide. In this real-world analysis, tirzepatide demonstrated better adherence, persistence, and A1c and weight reductions and lower T2D-Rx cost per responder for the most stringent treatment targets than semaglutide in both GLP-1 RA-naive and non-naive patients with T2D. These findings support the clinical and economic value of tirzepatide for achieving meaningful treatment outcomes in real-world patient populations.",
+          "authors": [
+            "Meredith M Hoog",
+            "Carlos Vallarino",
+            "Juan M Maldonado",
+            "et al."
+          ],
+          "journal": "Journal of managed care & specialty pharmacy",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42808550/"
+        },
+        {
+          "pmid": "42808548",
+          "title": "Return on investment of SGLT2 inhibitors and GLP-1 receptor agonists: Implications of real-world use for managed care.",
+          "abstract": "Sodium-glucose cotransporter 2 inhibitors (SGLT2is) and glucagon-like peptide-1 receptor agonists (GLP-1RAs) use has rapidly expanded across multiple chronic disease states, resulting in substantial growth in pharmacy spending. Although these agents demonstrate strong clinical benefit in clinical trials, real-world adherence and persistence remain suboptimal, raising questions about their financial value to payers.This viewpoint examines return on investment (ROI) associated with real-world use of SGLT2is and GLP-1RAs, alone and in combination, within a regional managed care organization. Review of claims and electronic health record data from more than 29,000 treatment-naive members revealed negative short-term ROI across treatment groups, driven primarily by high pharmacy costs and compounded by low adherence and persistence. Although adherent members generally experienced less growth in acute care use compared with nonadherent members, these trends were insufficient to offset medication costs within an 18-month time horizon.These findings highlight the limitations of using short-term ROI as a proxy for clinical value in high-cost chronic therapies. Negative ROI in this setting does not directly correlate to low therapeutic benefit but rather reflects delayed time to benefit, high baseline medical risk, and real-world medication use patterns. Payers may benefit from reassessing success metrics and pairing access to these therapies with targeted adherence and use management strategies to better align financial expectations with long-term value.",
+          "authors": [
+            "Hannah Rapp",
+            "David Marr",
+            "Ashley Modany",
+            "et al."
+          ],
+          "journal": "Journal of managed care & specialty pharmacy",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42808548/"
+        },
+        {
+          "pmid": "42730869",
+          "title": "GLP-1 Receptor Agonists and Musculoskeletal Outcomes: A Systematic Literature Review and Meta-Analysis.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for the treatment of type 2 diabetes and obesity, but their effects on musculoskeletal health remain completely misunderstood. This systematic review/meta-analysis aims to synthesise clinical data on the effects of GLP-1 RAs on key relevant bone, muscle, and joint outcomes. MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL) (both via Ovid From 1148 potentially relevant references, 60 articles (46 RCTs, 13 RWE studies and 1 pharmacovigilance study, comprising 1,250,717 individuals) met our inclusion criteria. Different GLP-1 RAs were represented across the panel of studies, i.e., semaglutide, liraglutide, exenatide, dulaglutide, tirzepatide (dual agonist gastric inhibitory polypeptide [GIP]/GLP-1) and others. No effect on bone outcomes (i.e., bone mineral density [all sites] and fractures [all sites]) were observed when the meta-analytical models included the most adjusted effect size. Regarding muscle outcomes, a significant decrease of lean body mass/fat-free mass was consistently observed with GLP-1 RAs in the global model (k = 28, standardised mean difference [SMD] 0.52, 95% confidence interval [CI] -0.8; -0.23, I This meta-analysis is the first to investigate the effects of GLP-1 RAs on a large panel of musculoskeletal health outcomes. While no significant effects were observed on bone- or joint-related outcomes, GLP-1 RAs were associated with reductions in lean body mass/fat-free mass, although the certainty of evidence was low and these changes appeared largely related to weight loss. Whether these changes translate into clinically meaningful impairments in muscle function or physical performance remains uncertain. Further studies in this field, including those looking at muscle function, strength or performance and using multivariate models considering confounding are needed to better reinforce the models and final findings.",
+          "authors": [
+            "Charlotte Beaudart",
+            "Yveline Malr\u00e9chauff\u00e9",
+            "Sophie van Heden",
+            "et al."
+          ],
+          "journal": "Drugs",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42730869/"
+        },
+        {
+          "pmid": "42683049",
+          "title": "Patient-Reported Continuity of GLP-1 Receptor Agonist Therapy.",
+          "abstract": "Use of GLP-1 receptor agonists is associated with significant weight loss in many individuals. Discontinuation is associated with weight regain. Patients' experience with this is not well characterized. This study describes the patient experience of continuity of care. A cross-sectional electronic survey was administered to adults identified from an academic medical center's electronic health records as having at least one GLP-1 RA prescription in the preceding 6\u00a0years and a subsequent prescription gap of greater than 90\u00a0days. The 87-item instrument spanned six domains: care settings, comorbidity and treatment context, continuity, discontinuity, dietitian/lifestyle support, and digital-feature preferences. Primary outcomes were item-level frequencies. Exploratory composites included a 7-item Continuity-of-Care Index (CCI) and a 5-item Discontinuity Index (DIS), each rescaled 0-100; subgroup comparisons used Kruskal-Wallis, Mann-Whitney, and chi-square tests, with multiple-imputation sensitivity analyses. Of 4890 invitations, 261 adults completed the survey (5.3%); 143 (54.8%) reported current use of a prescription weight-management medication and 159 (60.9%) reported prior-authorization requirements. Among them, 79 (49.7%) either waited more than 7\u00a0days or were never approved. Continuity strengths included knowing whom to contact about medications (76.2%) and timely team responses (70.7%); the weakest items were cross-clinic coordination (54.1%) and visibility into required next steps (52.2%). The CCI (mean 69.5 [SD 22.7];  Patients described obesity-care disruptions primarily as process failures, including prior authorization delay, out-of-pocket cost, pharmacy stock-outs and dispensing delays, and fragmented cross-clinic coordination. They prioritized transparent, workflow-oriented navigation.",
+          "authors": [
+            "You Chen",
+            "Gracie Piantek",
+            "Xinmeng Zhang",
+            "et al."
+          ],
+          "journal": "Obesity science & practice",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42683049/"
+        },
+        {
+          "pmid": "42639588",
+          "title": "Aesthetic, muscle, and dermatologic effects of medical weight management: patient-reported outcomes shape a holistic preventive procedural approach.",
+          "abstract": "As glucagon-like peptide-1 receptor agonists (GLP-1RAs) have become increasingly central to obesity care, calls for protocols to mitigate or prevent potential aesthetic and muscle sequelae have emerged. This study aimed to to evaluate patient-reported concerns regarding aesthetic and muscle-related changes during pharmacologic weight management, particularly among individuals treated with GLP-1RAs, and to highlight potential strategies to address these effects. An institutional review board-approved anonymous survey of 1,226 patients receiving pharmacologic weight management through a national telemedicine platform assessed patient-reported dermatologic, aesthetic, and muscle-related outcomes. Survey findings were analyzed and supplemented with a targeted PubMed literature review to develop a practical management framework. Over 60% of participants reported concerns including skin laxity, facial volume loss, hair shedding, worsened skin quality, and reduced muscle strength. These concerns increased with greater weight loss and were more common among GLP-1RA users, who generally experienced greater weight reduction than non-GLP-1RA users. Limitations of this study include the voluntary survey design, potential selection and recall bias, and a study population largely consisting of White, female telemedicine patients, which may limit generalizability. Rate of weight loss was not captured, leaving its impact on outcomes uncertain. As unwanted aesthetic and muscle effects can undermine treatment adherence, a holistic approach including nutrition, strength preservation, and - when appropriate - aesthetic and regenerative therapies - could promote improved weight and health outcomes.",
+          "authors": [
+            "Kathyana P Santiago Mangual",
+            "Isabella Midura",
+            "Eryn Patin",
+            "et al."
+          ],
+          "journal": "International journal of women's dermatology",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42639588/"
+        },
+        {
+          "pmid": "42624330",
+          "title": "Trends in utilization of glucagon-like peptide\u20111 receptor agonists, sodium-glucose cotransporter\u20112 inhibitors, and metabolic bariatric surgery in U.S. adults with diabetes and obesity.",
+          "abstract": "To characterize trends in utilization of glucagon-like peptide\u20111 receptor agonists (GLP\u20111RAs), sodium-glucose cotransporter\u20112 inhibitors (SGLT2is), and metabolic/bariatric surgery among US adults with type 2 diabetes (T2D) and obesity. We conducted a cohort study using electronic health record and claims data from Optum Labs Data Warehouse for US private and Medicare Advantage plan enrollees aged 18-79 with T2D and obesity initiating GLP\u20111RAs or SGLT2is or undergoing MBS (2010-2024). We evaluated initiation, adherence (\u226580% of days with medication), and persistence. Among 342,932 treatment initiations (335,605 individuals), 60.8% initiated GLP\u20111RAs, 35.7% SGLT2is, and 3.6% MBS. Use of both medication classes increased over time (GLP-1RAs: 1,988 to 44,852; SGLT2is: 861 to 19,892). In 2024, semaglutide (62.2%) and tirzepatide (32.6%) were the most initiated GLP-1RAs; MBS was rare (0.7% of treatments). Median treatment duration was 240\u00a0days for GLP\u20111RAs and 254\u00a0days for SGLT2is; \u223c50% were adherent. Tirzepatide had the highest adherence and persistence. At one-year, 53.0% of GLP\u20111RA and 56.0% of SGLT2i initiators were using their initiated treatment; transition to other therapies was uncommon. Initiation of GLP\u20111RAs and SGLT2is, but not MBS utilization, has expanded in recent years, although adherence and persistence remain low. Further studies should evaluate how these shifting patterns affect health outcomes.",
+          "authors": [
+            "Paige D Wartko",
+            "Rui Zhang",
+            "Eric Johnson",
+            "et al."
+          ],
+          "journal": "Diabetes research and clinical practice",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42624330/"
+        },
+        {
+          "pmid": "42622874",
+          "title": "Investigating the impact of Glucagon-like peptide-1 therapy on total shoulder arthroplasty outcomes.",
+          "abstract": "The increasing prevalence of Glucagon-like peptide-1 receptor agonists (GLP-1 RA) has raised concerns about their perioperative impact. Although database studies on GLP-1 RAs in total shoulder arthroplasty (TSA) have been published for diabetic and general TSA patients, results are conflicting, and the effects on patients across various obesity classes remain unexplored. This study aims to fill this gap. The PearlDiver database was used to identify patients who underwent primary TSA, grouped by GLP-1 use, obesity status, and obesity class. Post-operative outcomes included 90-day readmission and emergency department (ED) visit rates, medical complications (including thromboembolic, infectious, and renal events), and orthopaedic complications (including revision, periprosthetic joint infection, and instability). Cohorts were matched 10:1 by exact matching on age, sex, Elixhauser comorbidity index, diabetes, hypertension and overall obesity status, and multivariable regression was used to adjust for comorbidities that remained imbalanced after matching. Among 95,566 patients, 1,549 (1.62%) were GLP-1 users. Initially, GLP-1 users exhibited higher pre-operative comorbidity burdens and rates of complications. However, after matching and multivariable adjustment for residual imbalance, no significant differences in medical or orthopaedic outcomes persisted. Notably, GLP-1 users demonstrated significantly lower odds of 90-day ED visits (OR 0.75; P\u2009<\u2009.01) and readmissions (OR 0.71; P\u2009<\u2009.01). Similar trends were observed within each individual obesity class, but none reached statistical significance, most likely reflecting the small size of these subgroups. After accounting for pre-operative comorbidities, our findings suggest that GLP-1 RA use is not associated with worse surgical outcomes in TSA patients and may be associated with lower post-operative healthcare utilisation, although residual confounding cannot be excluded. Further longitudinal studies are warranted to optimise perioperative GLP-1 RA administration.",
+          "authors": [
+            "Peter Chebi",
+            "Apurva Choubey",
+            "Ryan Rutherford",
+            "et al."
+          ],
+          "journal": "International orthopaedics",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42622874/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "US patients with type 2 diabetes initiating tirzepatide or semaglutide",
+          "medications": "Tirzepatide, semaglutide",
+          "country_dataset": "United States",
+          "key_findings": "Real-world treatment patterns and cost-effectiveness outcomes of tirzepatide versus semaglutide were evaluated for achieving treatment targets in T2D patients. The study compared adherence patterns and economic value between these two GLP-1 based therapies in clinical practice settings."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Managed care patients receiving SGLT2 inhibitors and GLP-1 receptor agonists",
+          "medications": "SGLT2 inhibitors, GLP-1 receptor agonists",
+          "country_dataset": "Regional managed care organization",
+          "key_findings": "Real-world adherence and persistence with SGLT2 inhibitors and GLP-1 receptor agonists remain suboptimal despite strong clinical trial benefits, raising questions about their financial return on investment to payers. The study examined ROI associated with real-world use of these agents alone and in combination."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "60 articles, n=1,250,717",
+          "population": "Type 2 diabetes and obesity patients treated with GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not specified",
+          "key_findings": "This meta-analysis of 60 articles including 46 RCTs, 13 real-world evidence studies, and 1 pharmacovigilance study involving over 1.2 million individuals systematically reviewed the effects of GLP-1 RAs on bone, muscle, and joint outcomes. The comprehensive synthesis characterizes musculoskeletal health effects of increasingly used GLP-1 RAs for type 2 diabetes and obesity treatment."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with at least one GLP-1 RA prescription in preceding 6 years and prescription gap >90 days",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Academic medical center (United States)",
+          "key_findings": "This cross-sectional survey characterized patient experience of continuity of GLP-1 RA therapy, examining factors associated with discontinuation gaps exceeding 90 days. The study captured six domains of patient experience including care settings and comorbidities affecting GLP-1 RA treatment continuation."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=1,226",
+          "population": "Adults receiving pharmacologic weight management, particularly GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States (national)",
+          "key_findings": "This institutional survey of 1,226 patients evaluated patient-reported concerns regarding aesthetic and muscle-related changes during pharmacologic weight management with GLP-1 RAs. The study identified strategies to address these effects and highlighted the importance of considering cosmetic and musculoskeletal outcomes in holistic obesity care."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=342,932",
+          "population": "US adults aged 18-79 with type 2 diabetes and obesity initiating GLP-1 RAs, SGLT2 inhibitors, or undergoing metabolic bariatric surgery",
+          "medications": "GLP-1 receptor agonists, SGLT2 inhibitors",
+          "country_dataset": "United States (Optum Labs Data Warehouse, private and Medicare Advantage plans)",
+          "key_findings": "This large cohort study of 342,932 treatment initiators (2010-2024) characterized trends in utilization, initiation, adherence (\u226580% of days with medication), and persistence of GLP-1 RAs and SGLT2 inhibitors among US adults with type 2 diabetes and obesity. The study provides contemporary real-world evidence on adoption and continuation patterns of these therapies."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients undergoing total shoulder arthroplasty stratified by GLP-1 use and obesity status",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States (PearlDiver database)",
+          "key_findings": "This database study examined perioperative outcomes of total shoulder arthroplasty in patients grouped by GLP-1 RA use and obesity class, including 90-day readmission and complication rates. The study addresses concerns about GLP-1 RA use impact on surgical outcomes across different obesity levels."
+        }
+      ],
+      "excluded_count": 18
+    }
+  ]
+}
