@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-12",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42856761",
+          "title": "GLP-1 Receptor Agonists Are Associated With Lower Early Revision Risk Compared to Bariatric Surgery Following Total Hip Arthroplasty: A Retrospective Cohort Study.",
+          "abstract": "Obesity is a major modifiable risk factor in total hip arthroplasty (THA), associated with increased complications. While bariatric surgery has been the standard for massive weight loss, glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used. We sought to answer 2 questions: (1) Are early postoperative complication risks different between THA patients using GLP-1 RAs versus prior bariatric surgery? (2) Do differences persist at mid-term follow-up? We conducted a retrospective cohort study using the TriNetX Global Collaborative Network to identify adult patients (\u226518\u2009years) who underwent primary THA (current procedural terminology code 27130) between January 2015 and December 2025. Patients were divided into 2 cohorts: those with an active prescription for a GLP-1 RA (semaglutide, dulaglutide, liraglutide, tirzepatide, exenatide, albiglutide, or lixisenatide) within 18\u2009months prior to the index THA procedure (N\u2009=\u20096877) or those with a history of bariatric surgery (sleeve gastrectomy, Roux-en-Y gastric bypass, adjustable gastric banding, and biliopancreatic diversion) within 18\u2009months prior to the index THA procedure (N\u2009=\u20093960). Propensity-score matching (1:1) balanced cohorts on demographics and comorbidities. Outcomes included revision THA, dislocation/instability, PJI, wound complications, emergency department (ED) visits, and readmission at 1 to 90\u2009days and 91\u2009days to 1\u2009year postoperatively. Within 90\u2009days, the GLP-1 RA cohort had lower risks of revision, PJI, ED visits, readmission, wound dehiscence, and dislocation. At mid-term follow-up, GLP-1 RA patients continued to show lower risks of PJI, readmission, and all-cause revision. Preoperative GLP-1 RA use was associated with lower early and mid-term complications compared to bariatric surgery, suggesting a potentially safer option for pre-THA weight optimization. Level III: retrospective cohort study.",
+          "authors": [
+            "Smit Brahmbhatt",
+            "Amal Mathew",
+            "Seth Shoap",
+            "et al."
+          ],
+          "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42856761/"
+        },
+        {
+          "pmid": "42854804",
+          "title": "Association between Socioeconomic Deprivation and Clinical Outcomes of Glucagon-Like Peptide-1 Receptor Agonists in Heart Failure.",
+          "abstract": "The impact of socioeconomic deprivation on the effectiveness and safety of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in heart failure (HF) remains unclear. We evaluated GLP-1RA-associated outcomes across socioeconomic strata and quantified residual disparities among GLP-1RA users. Using the TriNetX Global Network (2020-2024), adults with HF initiating GLP-1RA therapy were categorized as socioeconomically deprived or non-deprived. Cohorts were 1:1 propensity-score matched within each stratum, enabling three comparisons: GLP-1RA users vs non-users in deprived patients, GLP-1RA users vs non-users in non-deprived patients, and deprived vs non-deprived among GLP-1RA users. Cox models estimated adjusted hazard ratios (aHRs) for 12-month mortality and hospitalization outcomes. Among deprived patients, GLP-1RA users (n=22,585) were compared with non-users (n=194,967); among non-deprived patients, users (n=116,439) were compared with non-users (n=2,254,050). In a direct comparison restricted to GLP-1RA users, deprived (n=21,171) and non-deprived (n=104,887) patients were analyzed. GLP-1RA therapy was associated with similar relative reductions in all-cause mortality or hospitalization in deprived (aHR 0.68, 95% CI 0.66-0.70) and non-deprived patients (aHR 0.68, 95% CI 0.67-0.69). However, deprived users had worse outcomes than non-deprived users (35.5% vs 27.1%; aHR 1.50, 95% CI 1.44-1.55), driven by higher hospitalization (aHR 1.53, 95% CI 1.48-1.58) and mortality (aHR 1.13, 95% CI 1.02-1.24). HF exacerbation (aHR 1.11) and ischemic stroke (aHR 1.16) were also increased. GLP-1RA use was associated with similar relative reductions in adverse outcomes across socioeconomic groups; however, socioeconomically deprived patients continued to experience higher absolute event rates, likely reflecting persistent baseline disparities and residual risk.",
+          "authors": [
+            "Shaheer Qureshi",
+            "Maryam Sajid",
+            "Habib R Khan",
+            "et al."
+          ],
+          "journal": "The American journal of cardiology",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42854804/"
+        },
+        {
+          "pmid": "42854065",
+          "title": "Short-term clinical efficacy and recorded adverse events of semaglutide combined with dapagliflozin in patients with type 2 diabetes mellitus and chronic kidney disease.",
+          "abstract": "Type 2 diabetes mellitus (T2DM) complicated by chronic kidney disease (CKD) is associated with persistent hyperglycemia, progressive renal impairment, systemic inflammation, and an increased risk of adverse clinical outcomes. Sodium-glucose cotransporter 2 inhibitors and glucagon-like peptide-1 receptor agonists have shown metabolic and cardiorenal benefits, but clinical evidence regarding their combined use in patients with T2DM and CKD remains limited. This retrospective observational study included 126 patients with T2DM complicated by CKD who were treated at our hospital between March 2023 and July 2024. Patients were identified through a review of electronic medical records and the application of predefined eligibility criteria. Treatment groups reflected the actual regimen documented in the medical record rather than random allocation. The final analytic cohort comprised 42 patients in each group; the equal group size reflected the eligible records with complete baseline and 8-week follow-up data available in each treatment category during the study period rather than a prospective 1:1:1 enrollment target. The treatment duration was 8 weeks. Glycemic indices, renal function-related parameters, inflammatory markers, clinical response, and recorded adverse events were compared among the 3 groups. After 8 weeks of treatment, fasting plasma glucose, 2-hour postprandial plasma glucose, hemoglobin A1c, blood urea nitrogen, serum creatinine, 24-hour urinary protein, erythrocyte sedimentation rate, interleukin-6, and high-sensitivity C-reactive protein were significantly reduced in all 3 groups compared with baseline. The combination group showed greater short-term reductions in glycemic indices, renal function-related parameters, and inflammatory markers than either monotherapy group. The overall clinical response rate was significantly higher in the combination group than in the dapagliflozin or semaglutide group. In patients with T2DM complicated by CKD, semaglutide combined with dapagliflozin was associated with greater short-term improvements in glycemic control, inflammatory markers, and renal function-related indicators, as well as a higher exploratory clinical response rate, than either monotherapy. No increase in recorded adverse events was detected during 8 weeks of treatment. Because of the retrospective design, modest sample size, and short observation period, these findings should not be interpreted as demonstrating definitive long-term renal benefit or equivalent long-term safety. Further large-scale prospective studies with standardized renal outcomes are required.",
+          "authors": [
+            "Cheng Gong",
+            "Qiong Luo",
+            "Qin Li"
+          ],
+          "journal": "Medicine",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42854065/"
+        },
+        {
+          "pmid": "42831955",
+          "title": "Real-World Adherence Patterns and Predictors of GLP-1 Receptor Agonist Use for Obesity Management in a Medicaid Population.",
+          "abstract": "Glucagon-like peptide\u00a01 receptor agonists (GLP-1 RAs) have emerged as effective anti-obesity medications (AOMs); however, real-world adherence and persistence patterns among Medicaid populations remain poorly understood, specifically after medication shortage resolution. This study examined adherence and persistence to GLP-1 RA AOMs among Mississippi (MS) Medicaid members following statewide coverage initiation in July 2023. This cohort study utilized MS Medicaid claims data from January 2023 to December 2025. Members aged\u2009\u2265\u200918\u00a0years initiating GLP-1 RA AOMs between July 2023 and June 2025, with 6\u00a0months of continuous enrollment pre- and post-initiation, were included. Adherence rate was defined as percentage of members with proportion of days covered (PDC) greater than 0.8, and persistence rate was defined as percentage of members with continuous therapy without a 60-day gap, evaluated at 3- and 6-month intervals. Group-based trajectory modeling (GBTM) identified distinct adherence trajectories, and multinomial logistic regression assessed predictors of trajectory membership. A subgroup analysis was conducted for members initiating between July 2023 and December 2024, who had 12-month follow-up period. The final analytic cohort included 3968 members, predominantly female (92.52%), Black (50.28%), and younger adults (18-39\u00a0years; 61.95%). Adherence rates declined from 56.85% at 3\u00a0months to 38.16% at 6\u00a0months, with persistence rates decreasing from 72.98% to 51.03% over the same period. In the 12-month subgroup analysis, adherence and persistence rates declined to 25.26% and 36.67%, respectively. GBTM identified five trajectories: consistent adherent (52.27%), delayed decliner (13.53%), consistent decliner (12.85%), fluctuating adherent (11.14%), and rapid discontinuer (10.21%). Treatment initiation in 2023, younger age, Black race, type\u00a02 diabetes mellitus, and cardiovascular comorbidities were associated with suboptimal adherence trajectories, while managed care organization enrollment and hypertension were protective. GLP-1 RA AOM adherence declines substantially over time among MS Medicaid members. Targeted interventions are needed to sustain long-term therapeutic engagement.",
+          "authors": [
+            "Shadi Bazzazzadehgan",
+            "Eric Pittman",
+            "Liang-Yuan Lin",
+            "et al."
+          ],
+          "journal": "Advances in therapy",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42831955/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults aged \u226518 years undergoing total hip arthroplasty with obesity",
+          "medications": "GLP-1 receptor agonists vs bariatric surgery",
+          "country_dataset": "TriNetX Global Collaborative Network",
+          "key_findings": "GLP-1 receptor agonists were associated with lower early postoperative revision risk compared to prior bariatric surgery in total hip arthroplasty patients with obesity. Differences in complications persisted at mid-term follow-up, suggesting GLP-1 RAs may be a safer alternative for weight management in this surgical population."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with heart failure stratified by socioeconomic deprivation status",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "TriNetX Global Network (2020-2024)",
+          "key_findings": "Socioeconomic deprivation was associated with differential outcomes of GLP-1 receptor agonist therapy in heart failure patients. Among GLP-1RA users, residual disparities in clinical effectiveness and safety outcomes persisted across socioeconomic strata even after propensity-score matching."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=126",
+          "population": "Patients with type 2 diabetes mellitus complicated by chronic kidney disease",
+          "medications": "Semaglutide combined with dapagliflozin",
+          "country_dataset": "Single hospital (Japan), March 2023 to unspecified date",
+          "key_findings": "Combined semaglutide and dapagliflozin therapy demonstrated short-term clinical efficacy in T2DM patients with CKD, with documented metabolic and cardiorenal benefits. Adverse events were recorded and analyzed to characterize safety profile of this dual-agent approach."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Mississippi Medicaid members aged \u226518 years with obesity initiating GLP-1 RAs",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Mississippi Medicaid claims data (January 2023 to December 2025)",
+          "key_findings": "Real-world adherence and persistence patterns to GLP-1 receptor agonist anti-obesity medications were examined in a Medicaid population following statewide coverage initiation in July 2023 and medication shortage resolution. Specific predictors of adherence and persistence were identified to characterize treatment patterns in this vulnerable population."
+        }
+      ],
+      "excluded_count": 18
+    }
+  ]
+}
