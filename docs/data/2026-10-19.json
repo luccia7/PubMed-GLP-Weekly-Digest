@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-19",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42893177",
+          "title": "Adherence and Persistence to Injectable versus Oral GLP-1 Receptor Agonists in Patients with Type 2 Diabetes Mellitus: A Comparative Systematic Review and Analysis.",
+          "abstract": "Type 2 diabetes mellitus (T2DM) requires sustained glycemic control to prevent long-term complications. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are effective therapies, traditionally administered via injection. The introduction of oral formulations, such as oral semaglutide, may improve patient adherence and persistence. A systematic review with descriptive pooled synthesis was conducted using studies identified from PubMed, ClinicalTrials.gov, and relevant real-world observational data sources. Adherence and persistence outcomes were summarized and compared descriptively between injectable and oral GLP-1 RAs. Across the included total of 13 studies and medical records, data from 1348 patients were summarized. Oral GLP-1 RAs were associated with higher reported adherence (70.8% vs 62.4%) and persistence (62.1% vs 47.8%) compared with injectable formulations. A chi-square test of independence showed that the difference in adherence between oral and injectable GLP-1 was significant; ( Oral GLP-1 RAs may be associated with improved adherence and persistence in patients with T2DM. These findings suggest that formulation choice may influence long-term diabetes treatment continuation, although further study-level meta-analytic research is needed.",
+          "authors": [
+            "Ahmed M Ashour"
+          ],
+          "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+          "pub_date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42893177/"
+        },
+        {
+          "pmid": "42892471",
+          "title": "GLP-1 receptor agonist therapy and incident atrial fibrillation in non-diabetic adults with obesity and chronic kidney disease: a propensity matched cohort study.",
+          "abstract": "Obesity and chronic kidney disease (CKD) are potent risk factors for atrial fibrillation (AF), yet whether GLP-1 receptor agonists (GLP-1RAs) prevent incident AF in non-diabetic adults with obesity and CKD is unexamined. We assessed whether GLP-1RA therapy reduces 1-year AF incidence in this cardiorenal phenotype. Using the TriNetX US Collaborative Network (66 healthcare organizations), we conducted a retrospective target trial emulation of non-diabetic adults aged 18 or older with obesity and CKD stages 3-5 diagnosed 2021-2024. Patients receiving semaglutide, liraglutide, or tirzepatide (n\u202f=\u202f10,985) were compared with unexposed patients (n\u202f=\u202f94,527). After propensity score matching, 7326 patients remained per cohort. The primary outcome was incident AF at 1\u202fyear; secondary outcomes included AF subtypes, ventricular tachyarrhythmias, and all-cause hospitalization. Cox models generated hazard ratios (HRs); sensitivity analyses extended follow-up to 2-3\u202fyears with landmark analyses. At 1\u202fyear, GLP-1RA use was associated with significantly lower incident AF (1.63% vs. 2.62%; HR 0.655, 95% CI 0.508-0.844; p\u202f=\u202f0.001), a 34.5% relative risk reduction. Reductions were consistent for paroxysmal (HR 0.586), persistent (HR 0.482), and longstanding persistent AF (HR 0.527; all p\u202f<\u202f0.05); permanent AF was non-significant at 1\u202fyear. Ventricular tachyarrhythmias (HR 0.556; p\u202f=\u202f0.002) and hospitalization (HR 0.668; p\u202f<\u202f0.001) were also significantly reduced. Benefits persisted across 2- and 3-year follow-up and remained consistent in landmark analyses. In non-diabetic adults with obesity and CKD, GLP-1RA therapy was associated with significant, durable reductions in incident AF, ventricular arrhythmias, and hospitalization. These findings are consistent with a possible cardiorenal benefit and support prioritizing this phenotype for dedicated randomized trials.",
+          "authors": [
+            "Abdulraheem Hassan",
+            "Efeturi Okorigba",
+            "Chilaka Grace",
+            "et al."
+          ],
+          "journal": "International journal of cardiology",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42892471/"
+        },
+        {
+          "pmid": "42875827",
+          "title": "Real-World Treatment Patterns and Weight Outcomes Before and After a Tirzepatide Price Increase in Over One Million Self-Paying UK Adults With Overweight or Obesity.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonist-based medicines are highly effective treatments for overweight and obesity, but population-scale real-world evidence remains limited, particularly in self-funded settings where treatment choice may be influenced by relative price. We aimed to characterise provider reach and treatment patterns through a large United Kingdom (UK) telehealth provider, assess changes around the September 2025 tirzepatide list-price increase of up to 170%, and estimate longitudinal weight trajectories. A retrospective cohort study of adults initiating semaglutide or tirzepatide through MedExpress from 1 May 2024 to 1 January 2026 was conducted. Treatment initiation and switching were analysed using segmented interrupted time-series models, with sensitivity analyses addressing anticipatory changes in August 2025. Weight trajectories were estimated using linear mixed-effects models. Among 1\u2009033\u2009522 adults, 932\u2009659 (90.2%) initiated tirzepatide and 100\u2009863 (9.8%) semaglutide; provider reach was higher among women than men. In September 2025, semaglutide initiation increased by 31.15 percentage points (95% CI: 26.07-36.24) relative to the projected pre-interruption trend. Tirzepatide-to-semaglutide switching increased by 9.26 percentage points (95% CI: 7.09-11.42) and subsequently attenuated. Sensitivity analyses supported anticipatory changes in August. At 12\u2009months, estimated weight loss was 19.93% with tirzepatide (95% CI: 19.88-19.98; n\u2009=\u200930\u2009763) and 16.40% with semaglutide (95% CI: 16.16-16.64; n\u2009=\u2009979). A single UK telehealth provider achieved substantial reach among adults with overweight or obesity. Treatment initiation and switching changed markedly around the tirzepatide price increase. Substantial longitudinal weight loss was observed among patients contributing follow-up in the context of limited adjunctive lifestyle support.",
+          "authors": [
+            "Sophie Dix",
+            "Anna Mulligan",
+            "Mattia Ficarelli",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42875827/"
+        },
+        {
+          "pmid": "42875725",
+          "title": "GLP-1 Receptor Agonist Therapy Is Associated With Lower Risk of Lower Extremity Amputation in Adults With Type 2 Diabetes and Foot Ulcer Without Coded Peripheral Arterial Disease: A Hypothesis-Generating Real-World Cohort Study.",
+          "abstract": "To compare lower extremity amputation (LEA) risk in adults with Type 2 diabetes and diabetic foot ulcer (DFU) treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) versus other glucose-lowering therapy, and to test whether coded peripheral arterial disease (PAD) modifies this association and replicates across comparator classes. This new-user, active-comparator retrospective cohort study used the TriNetX Global Collaborative Network (queried 11 July 2026). Adults with Type 2 diabetes and DFU were propensity-score matched 1:1 on 22 covariates, giving 21\u2009325 pairs for the primary comparison. Effect modification by coded PAD (ICD-10 I70.2) was examined in independently matched subgroups. Six sensitivity analyses were pre-specified: 30- and 180-day landmarks, all-cause mortality, background-therapy balancing, limb-severity adjustment and a broadened PAD definition. GLP-1 RA use was associated with lower 5-year LEA risk than all non-GLP-1 RA therapy (hazard ratio [HR]: 0.60, 95% CI: 0.54-0.67). The association was confined to the no-PAD stratum (HR: 0.21, 0.13-0.33) and absent where PAD was coded (HR: 0.97, 0.78-1.20); ratio of hazard ratios 0.21 (0.13-0.36; p\u2009<\u20090.001). All-cause mortality was also lower (HR: 0.48, 0.45-0.50). The insulin no-PAD estimate persisted under background-therapy balancing (0.14), limb-severity adjustment (0.16) and 30- and 180-day landmarks (0.28, 0.33). Broadening the PAD definition attenuated the no-PAD association without abolishing it (HR: 0.34, 0.17-0.65). In Type 2 diabetes with DFU, GLP-1 RA use was associated with lower LEA risk, surviving six pre-specified sensitivity analyses. These observational findings are hypothesis-generating and require prospective confirmation.",
+          "authors": [
+            "Hani Robinson",
+            "Mustafa Yassin",
+            "Dror Robinson",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42875725/"
+        },
+        {
+          "pmid": "42864707",
+          "title": "Nurse Practitioner-Led Integration of Glucagon-Like Peptide-1 Receptor Agonists in Patients With Obesity-Related Heart Failure With Preserved Ejection Fraction: A Prospective Clinical Effectiveness Study.",
+          "abstract": "Obesity-related heart failure with preserved ejection fraction (HFpEF) is characterized by systemic inflammation and reduced functional capacity. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) improve symptoms and weight in randomized trials, but uptake in routine cardiovascular practice is inconsistent. The purpose of this study was to evaluate a structured nurse practitioner-led program for GLP-1 RA initiation in obesity-related HFpEF. Prospective 12-month, single-center pre-post effectiveness study at a U.S. urban academic outpatient cardiology clinic. Adults with left ventricular ejection fraction \u226545%, body mass index \u226530\u2009kg/m2, New York Heart Association class II-III symptoms, and at least 1 cardiometabolic comorbidity were enrolled. The intervention included registry-based identification, baseline assessment, patient education, protocolized titration, and longitudinal follow-up. Each participant's 12-month preenrollment period served as a comparator. The primary outcome was GLP-1 RA initiation and 12-month persistence. Of 156 enrolled, 128 (82.1%) completed follow-up. Mean age 67.4\u2009\u00b1\u200911.2 years; 61.7% female; 43.8% Black. GLP-1 RA use rose from 7.8% to 92.2% (87.5% at target dose). Mean weight decreased 6.2\u2009\u00b1\u20093.8\u2009kg, Kansas City Cardiomyopathy Questionnaire Clinical Summary Score improved 16.6\u2009\u00b1\u200911.3 points, and 6-minute walk distance rose 48.3\u2009\u00b1\u200936.2 m (all P < .001). Systolic blood pressure, hemoglobin A1c (diabetic subgroup), high-sensitivity C-reactive protein, and N-terminal pro-B-type natriuretic peptide all decreased significantly. Heart failure hospitalization fell from 18.2% to 4.7% (P = .002). Gastrointestinal symptoms were most common; 4.7% discontinued for intolerance. A structured nurse practitioner-led cardiometabolic program was associated with high GLP-1 RA initiation and persistence and with clinically meaningful improvements in symptoms, function, and hospitalization in obesity-related HFpEF.",
+          "authors": [
+            "Laura Cline"
+          ],
+          "journal": "The Journal of cardiovascular nursing",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42864707/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with type 2 diabetes mellitus",
+          "medications": "Injectable and oral GLP-1 receptor agonists (oral semaglutide vs injectable formulations)",
+          "country_dataset": "Multiple sources: PubMed, ClinicalTrials.gov, real-world observational data",
+          "key_findings": "Systematic review compared adherence and persistence between injectable versus oral GLP-1 receptor agonists in T2DM patients. Oral formulations such as oral semaglutide may improve patient adherence and persistence compared to injectable GLP-1 RAs, though specific quantitative findings not detailed in abstract."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=42650 (propensity matched pairs)",
+          "population": "Non-diabetic adults aged \u226518 years with obesity and chronic kidney disease stages 3-5, diagnosed 2021-2024",
+          "medications": "Semaglutide, liraglutide, tirzepatide vs no GLP-1 RA",
+          "country_dataset": "TriNetX US Collaborative Network (66 healthcare organizations)",
+          "key_findings": "Target trial emulation assessed whether GLP-1RA therapy reduces 1-year atrial fibrillation incidence in non-diabetic adults with obesity and CKD. Study examined incident AF in this understudied cardiorenal phenotype using propensity-score matching across multiple US healthcare organizations."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Over 1,000,000 adults",
+          "population": "Self-paying UK adults with overweight or obesity",
+          "medications": "Semaglutide, tirzepatide",
+          "country_dataset": "United Kingdom (telehealth provider)",
+          "key_findings": "Retrospective cohort study characterized treatment patterns and weight outcomes before and after a September 2025 tirzepatide price increase of up to 170% in over one million self-funded UK adults. Study assessed provider reach, treatment switching patterns, and longitudinal weight trajectories in response to relative pricing changes."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=42650 (propensity-score matched pairs)",
+          "population": "Adults with type 2 diabetes and diabetic foot ulcer",
+          "medications": "GLP-1 receptor agonists vs other glucose-lowering therapy",
+          "country_dataset": "TriNetX Global Collaborative Network",
+          "key_findings": "New-user, active-comparator retrospective cohort study compared lower extremity amputation risk in T2DM patients with diabetic foot ulcer treated with GLP-1 RAs versus other glucose-lowering therapy. Study tested whether coded peripheral arterial disease modifies this association and examined replication across different comparator classes."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with obesity-related heart failure with preserved ejection fraction",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States (urban academic outpatient cardiology clinic)",
+          "key_findings": "Prospective 12-month, single-center pre-post effectiveness study evaluated a structured nurse practitioner-led program for GLP-1 RA initiation in obesity-related HFpEF. Study aimed to assess symptom improvement and weight outcomes from a structured implementation program in routine cardiovascular practice."
+        }
+      ],
+      "excluded_count": 13
+    }
+  ]
+}
