@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-26",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42930014",
+          "title": "Real-World Pharmacological Patterns and Residual Cardiometabolic Risk in Patients with Type 2 Diabetes in Romania.",
+          "abstract": "Contemporary management of type 2 diabetes mellitus (T2DM) has shifted from a glucose-centered approach toward integrated cardio-renal-metabolic protection. Although sodium-glucose cotransporter-2 (SGLT2) inhibitors, glucagon-like peptide-1 receptor agonists (GLP-1 RAs), and intensive lipid-lowering therapies have demonstrated substantial cardiovascular and renal benefits, implementation in routine outpatient care and the burden of persistent residual risk remain insufficiently characterized in Romania. We aimed to evaluate routine-care pharmacological treatment patterns, identify residual cardio-renal-metabolic risk despite ongoing therapy, determine independent correlates of persistent adverse outcomes, and explore potential therapeutic gaps in adults with T2DM. This cross-sectional observational study included 232 unique adults with T2DM attending a specialized outpatient diabetes clinic in Romania between 1 October 2024 and 19 February 2026. One eligible outpatient record per participant was analyzed; when multiple records were available, the earliest eligible record in the exported dataset was used as the index visit. No a priori sample-size calculation was performed. Pharmacological therapies, cardiovascular and renal phenotypes, metabolic biomarkers, and clinical outcomes were extracted from routinely collected electronic medical records. Residual risk was evaluated using glycemic, lipid, renal, obesity, and blood-pressure targets. Multivariable logistic regression analyses identified independent correlates of persistent cardio-metabolic abnormalities. An exploratory cumulative residual-risk count was constructed by summing seven clinically relevant uncontrolled risk factors. Biguanides were the most frequently prescribed glucose-lowering agents (53.0%), followed by SGLT2 inhibitors (44.8%), insulin (32.3% of the total cohort), GLP-1 receptor agonists (15.5%), and DPP-4 inhibitors (14.7%). Statins were prescribed to 48.7% of participants. SGLT2 inhibitor use did not differ significantly according to established atherosclerotic cardiovascular disease, heart failure, or chronic kidney disease phenotypes, whereas GLP-1 receptor agonists were prescribed more frequently in participants with obesity (22.0% vs. 7.6%,  Significant residual cardio-renal-metabolic risk persists in adults with T2DM despite use of contemporary pharmacological therapies. Disease severity markers and treatment exposure were associated with persistent adverse outcomes, but the cross-sectional design does not establish causality. The study identified potentially modifiable therapeutic gaps among patients with established cardiovascular and renal disease. Comprehensive and repeatedly reassessed cardio-renal-metabolic management, integrating pharmacological optimization with individualized risk stratification, may improve implementation of guideline-directed therapy and reduce long-term complications in routine clinical practice.",
+          "authors": [
+            "Bianca-L\u0103crimioara Petca",
+            "Paula-Alexandra Popovici",
+            "Andreea Diana Igna",
+            "et al."
+          ],
+          "journal": "Diseases (Basel, Switzerland)",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42930014/"
+        },
+        {
+          "pmid": "42928425",
+          "title": "Neuropsychiatric Outcomes Associated With GLP-1 Receptor Agonist Use in Medicare Beneficiaries With Type 2 Diabetes: Variation by Treatment Pattern and Obesity Status.",
+          "abstract": "Glucagon-like peptide-1 (GLP-1) receptors are expressed in brain regions governing mood, reward and stress, yet the neuropsychiatric effects of GLP-1 receptor agonist (GLP-1 RA) therapy remain poorly characterized. We estimated associations between GLP-1 RA use and neuropsychiatric disorders and variation by obesity status and treatment pattern. This population-based cohort study used claims data from Medicare enrolees with Type 2 diabetes mellitus. GLP-1 RAs were compared with other second-line glucose-lowering medications and evaluated across four treatment patterns: monotherapy, switch, escalation and augmentation. Eight neuropsychiatric outcomes were examined using 1:1 propensity score-matched, covariate-adjusted stratified Cox regression with time-varying covariates. GLP-1 RA use was associated with a small increase in aggregate psychiatric disorder risk (Hazard Ratio [HR]\u2009=\u20091.04; 95% Confidence Interval: 1.03-1.06; 1.7 excess events/1000 person-years), of uncertain clinical significance given the large cohort size. Risk was elevated for depression (HR\u2009=\u20091.11; 3.0 excess events/1000 person-years) but reduced for substance use disorders (HR\u2009=\u20090.84; 4.1 fewer events/1000 person-years), dementia (HR\u2009=\u20090.87; 2.8 fewer) and suicidal/self-harm (HR\u2009=\u20090.81; 0.4 fewer events/1000 person-years). Associations varied by treatment pattern: monotherapy showed elevated psychiatric (HR\u2009=\u20091.43) and elevated emotional symptom (HR\u2009=\u20091.32) risks; escalation also exhibited elevated psychiatric risk, whereas switch and augmentation demonstrated reduced or null risks. Rather than a uniform class effect, the neuropsychiatric profile of GLP-1 RA appears context-dependent, differing by treatment pattern, obesity status and outcome examined. Elevated risk with monotherapy or escalation may reflect baseline clinical differences rather than pharmacological effect. Reduced risks of substance use disorders, dementia and suicidal/self-harm are reassuring.",
+          "authors": [
+            "Seo Hyon Baik",
+            "Fitsum Baye",
+            "Haotian Xian",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42928425/"
+        },
+        {
+          "pmid": "42927270",
+          "title": "Metformin Use Is Associated With Reduced Rates of Primary Nerve Decompression Surgery and Revision in Type 2 Diabetes: A Retrospective Cohort Study.",
+          "abstract": "Type 2 diabetes mellitus is a risk factor for compressive neuropathy. The purpose of this study was to determine whether metformin use is associated with reduced rates of compressive neuropathy, primary nerve decompression surgery, and revision after carpal tunnel release and cubital tunnel release, while controlling for concurrent diabetes medications. We performed a retrospective cohort study using the TriNetX federated research network. Adults with type 2 diabetes mellitus were stratified by metformin exposure, defined as at least 10 prescriptions over 5 years. The primary outcomes were incident compressive neuropathy and nerve decompression surgery. In a unilateral revision cohort, the outcome was ipsilateral revision between 30 days and 5 years after the index procedure. One-to-one propensity score matching balanced cohorts on demographics, comorbidities, and concurrent diabetes medications. Four prespecified medication-stratified sensitivity analyses addressed insulin, sodium-glucose cotransporter-2 inhibitors, and glucagon-like peptide-1 receptor agonists. Carpal tunnel release and cubital tunnel release revision results were pooled via fixed-effect meta-analysis. After matching, the primary analysis included 260,823 pairs. Metformin users had lower rates of nerve decompression surgery (0.60% vs 0.72%; odds ratio, OR, 0.831 [0.776-0.889]) and compressive neuropathy diagnosis (2.78% vs 3.05%; OR, 0.909 [0.879-0.941]). The surgery-level association was stronger without concurrent insulin (OR, 0.727 [0.662-0.799]) and attenuated to nonsignificance with concurrent insulin (OR, 0.948 [0.836-1.076]), though the diagnosis-level association persisted. Among patients with unilateral carpal or cubital tunnel syndrome, ipsilateral revision was less frequent in metformin users (pooled OR, 0.711 [0.533-0.950]). Metformin users also had lower vitamin B12 levels (mean, 646.4 vs 707.4 pg/mL), consistent with sustained metformin exposure. Metformin use was associated with reduced incidence of nerve decompression surgery and ipsilateral revision after carpal tunnel release and cubital tunnel release in patients with type 2 diabetes mellitus, with directionally consistent effects across sensitivity analyses. These findings suggest that maintaining metformin therapy may carry benefit beyond glycemic control. Prospective studies are needed to validate these findings. Prognostic II.",
+          "authors": [
+            "Yamen Abbas",
+            "Amir Kucharski",
+            "Adam Boukind",
+            "et al."
+          ],
+          "journal": "Journal of hand surgery global online",
+          "pub_date": "Jan 2027",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42927270/"
+        },
+        {
+          "pmid": "42925811",
+          "title": "Efficacy and safety of GLP-1 receptor agonists in patients with schizophrenia spectrum disorders treated with antipsychotics: a systematic review and meta-analysis.",
+          "abstract": "Weight gain and impaired glucose metabolism are common complications of antipsychotic treatment in schizophrenia spectrum disorders (SSD). While beneficial in other populations, the efficacy and safety of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in SSD remain unclear. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) evaluating GLP-1 RAs versus placebo in SSD patients treated with antipsychotics. PubMed, Scopus, and Web of Science were searched until January 2026. Random-effects models were used to pool mean differences (MDs), standardized mean differences (SMDs), and risk ratios (RRs), as appropriate. Seven RCTs including 481 participants were included. Compared with placebo, GLP-1 RAs significantly reduced body weight (MD -6.98\u202fkg; 95% CI -10.53 to -3.43), BMI (MD -2.51\u202fkg/m\u00b2; 95% CI -3.51 to -1.51), waist circumference (MD -5.05\u202fcm; 95% CI -6.66 to -3.44), HbA1c (MD -0.32 percentage points; 95% CI -0.38 to -0.26), and fasting blood glucose (MD -0.54\u202fmmol/L; 95% CI -0.83 to -0.25). Heterogeneity was substantial for body weight (I\u00b2=93%) and BMI (I\u00b2=80%). No significant effects emerged for blood pressure or lipid parameters. Psychiatric symptom severity did not differ between GLP-1 RAs and placebo (SMD -0.05; 95% CI -0.36 to 0.25). Gastrointestinal adverse events were more frequent with GLP-1 RAs than with placebo, while overall study drop-out did not differ between groups. GLP-1 RAs improve short-term anthropometric and glycemic outcomes in SSD patients treated with antipsychotics. However, the limited number of trials, substantial heterogeneity in weight-related outcomes, and relatively short follow-up warrant cautious interpretation and further large-scale RCTs.",
+          "authors": [
+            "Adam G\u0119dek",
+            "Szymon Modrzejewski",
+            "Krzysztof Pola\u0144ski",
+            "et al."
+          ],
+          "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42925811/"
+        },
+        {
+          "pmid": "42921716",
+          "title": "Parasympathetic dysfunction assessed by deep-breathing CVR-R is associated with early discontinuation of oral semaglutide in type 2 diabetes: A multicenter retrospective study.",
+          "abstract": "Although glucagon-like peptide-1 receptor agonists are widely used for type 2 diabetes, gastrointestinal intolerance frequently leads to early discontinuation. Predictors of oral semaglutide discontinuation remain poorly defined, and its formulation-specific dependence on gastric conditions may influence tolerability. We examined whether the coefficient of variation of R-R intervals (CVR-R) was associated with discontinuation within 6\u2009months. In this multicenter retrospective study, 203 consecutive patients initiating oral semaglutide between February 2021 and December 2024 were screened, and 61 were analyzed after exclusions. The Discontinuation Group (n\u2009=\u200921) discontinued because of nausea and/or vomiting within 6\u2009months, whereas the Maintenance Group (n\u2009=\u200940) continued for \u2265\u20096\u2009months. CVR-R was assessed at rest (CVR-R_rest) and during deep breathing (CVR-R_DB). Associations with discontinuation were evaluated using multivariable logistic regression; exploratory machine learning and time-to-event analyses were performed. CVR-R_DB was lower in the Discontinuation Group than in the Maintenance Group (median 1.93% vs 3.26%, P\u2009<\u20090.001). CVR-R_DB remained independently associated with discontinuation after adjustment for age and sex (adjusted OR 0.191; 95% CI 0.071-0.512; P\u2009=\u20090.001; AUC 0.832) and further adjustment for neuropathy stage. The AUC was numerically higher for the age- and sex-adjusted model containing CVR-R_DB than for that containing CVR-R_rest (0.832 vs 0.699; DeLong P\u2009=\u20090.085). An internally derived CVR-R_DB cutoff of 2.55% stratified 6-month persistence (43.3% vs 87.1%; log-rank P\u2009<\u20090.001), and machine learning analyses prioritized CVR-R_DB. Lower CVR-R during deep breathing was associated with early oral semaglutide discontinuation due to nausea and/or vomiting. CVR-R_DB may support risk stratification at initiation.",
+          "authors": [
+            "Kazuma Ogiso",
+            "Takahisa Deguchi",
+            "Shigeru Kawade",
+            "et al."
+          ],
+          "journal": "Journal of diabetes investigation",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42921716/"
+        },
+        {
+          "pmid": "42920001",
+          "title": "Efficacy and safety of GLP-1 receptor agonists for antipsychotic-related overweight and metabolic dysregulation: a systematic review and meta-analysis.",
+          "abstract": "Antipsychotic-related overweight and metabolic dysregulation are highly prevalent among patients with severe mental illness. Although glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial metabolic benefits in the general population, their efficacy and safety in antipsychotic-treated patients remain unclear. This review aimed to systematically evaluate the efficacy and safety of GLP-1RAs in patients with antipsychotic-related overweight and metabolic dysregulation. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) evaluating GLP-1RAs in adults receiving antipsychotic treatment. PubMed, Web of Science, Embase, MEDLINE, the Cochrane Library, and ClinicalTrials.gov were searched from inception to September 13, 2026. Primary outcomes included changes in body weight, body mass index (BMI), HbA1c, and total cholesterol. Random-effects models were used to pool mean differences (MDs) and risk ratios (RRs). This study was registered with PROSPERO (CRD420261290294). Eight RCTs involving 535 randomized participants were included. GLP-1RAs treatment was associated with significant reductions in body weight (MD = -6.54\u00a0kg, 95% CI: -9.80 to -3.29, P\u2009<\u20090.001, I GLP-1RAs significantly improve weight-related and glycemic outcomes in antipsychotic-treated patients, at the cost of an increased risk of gastrointestinal adverse events. Their psychiatric safety could not be established owing to sparse data. Longer-term trials with standardized safety reporting are warranted.",
+          "authors": [
+            "Lingyan Zhou",
+            "Ying Zhang",
+            "Chao Shen",
+            "et al."
+          ],
+          "journal": "European journal of clinical pharmacology",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42920001/"
+        },
+        {
+          "pmid": "42897121",
+          "title": "Real-World Semaglutide Initiation Behaviours in the United States: Impact on Early Treatment Discontinuation and on 1-Year Persistence.",
+          "abstract": "Little is known about how glucagon-like peptide-1 receptor agonists (GLP-1RA) are initiated in real-world settings and whether prescribing behaviours in routine care contribute to the high discontinuation rates seen in practice. We examined prescribing behaviours for injectable semaglutide at treatment initiation and evaluated their impact on early medication discontinuation and on 1-year persistence among US adults. Using MarketScan data (2018-2021), this retrospective cohort study identified US adults with diabetes and/or obesity on no prior incretin therapy starting injectable semaglutide. Initiating dose was categorized as low or high (\u2264\u20090.5 and \u2265\u20091.0\u2009mg/week, respectively); treatment status was followed for 12\u2009months. Medication persistence was estimated using Kaplan-Meier analysis. Piecewise Cox proportional hazards regression assessed early discontinuation risk, logistic regression assessed the odds of high-dose initiation. Among this cohort of 48\u2009658 adults, 14.5% were started on semaglutide using high doses. The off-label high-dose regimen was associated with decreased 1-year persistence (p\u2009=\u20090.01), and a 25% increase in early discontinuation risk (HR: 1.25, 95% CI: 1.17-1.34, p\u2009<\u20090.001) independently of age, obesity status, co-morbidity measures and cost. Odds of high-dose initiation were increased in the West and South (p\u2009<\u20090.001), for endocrinologists (p\u2009=\u20090.02), for patients who were male (p\u2009<\u20090.001), younger (p\u2009=\u20090.02), with obesity versus overweight (p\u2009=\u20090.002), and for treatment initiation in 2018 compared with 2019-2021 (p\u2009<\u20090.001). Initiation of injectable semaglutide therapy using high doses is common in real-world settings. High-dose initiation represents a modifiable risk factor for early medication discontinuation and decreased 1-year persistence.",
+          "authors": [
+            "L Maria Belalcazar",
+            "Daoqi Gao",
+            "Saman Modi",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42897121/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Type 2 diabetes patients in Romania",
+          "medications": "GLP-1 RAs, SGLT2 inhibitors, lipid-lowering therapies",
+          "country_dataset": "Romania",
+          "key_findings": "The study evaluates pharmacological treatment patterns for type 2 diabetes in routine care in Romania, examining the use of GLP-1 RAs, SGLT2 inhibitors, and lipid-lowering therapies in clinical practice. The research characterizes implementation of evidence-based cardio-renal-metabolic protective therapies and quantifies residual cardiometabolic risk burden in this population."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Medicare beneficiaries with type 2 diabetes, stratified by obesity status",
+          "medications": "GLP-1 receptor agonists vs other second-line glucose-lowering medications",
+          "country_dataset": "United States (Medicare)",
+          "key_findings": "This population-based cohort study examined associations between GLP-1 RA use and neuropsychiatric disorders, evaluating variation by obesity status and treatment patterns including monotherapy, switch, and escalation strategies. The study uses claims data to characterize neuropsychiatric outcomes related to GLP-1 RA treatment in Medicare beneficiaries with type 2 diabetes."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with type 2 diabetes stratified by metformin exposure",
+          "medications": "Metformin vs concurrent diabetes medications",
+          "country_dataset": "TriNetX federated research network",
+          "key_findings": "This retrospective cohort study examined whether metformin use was associated with reduced rates of compressive neuropathy and nerve decompression surgery in type 2 diabetes patients. The study stratified patients by metformin exposure (at least 10 prescriptions over 5 years) and evaluated surgical outcomes while controlling for concurrent diabetes medications."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with schizophrenia spectrum disorders treated with antipsychotics",
+          "medications": "GLP-1 receptor agonists vs placebo",
+          "country_dataset": "Multiple (PubMed, Scopus, Web of Science searched through January 2026)",
+          "key_findings": "This systematic review and meta-analysis of RCTs evaluated efficacy and safety of GLP-1 RAs versus placebo in schizophrenia spectrum disorder patients treated with antipsychotics. The analysis addresses weight gain and impaired glucose metabolism complications associated with antipsychotic treatment by examining GLP-1 RA efficacy in this population."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=203",
+          "population": "Patients with type 2 diabetes initiating oral semaglutide",
+          "medications": "Oral semaglutide (GLP-1 RA)",
+          "country_dataset": "Multicenter (February 2021 - December 2024)",
+          "key_findings": "This multicenter retrospective study identified parasympathetic dysfunction as measured by coefficient of variation of R-R intervals (CVR-R) as a predictor of early discontinuation of oral semaglutide within 6 months in type 2 diabetes patients. The study examines gastrointestinal intolerance and formulation-specific factors affecting tolerability and persistence with oral semaglutide."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with severe mental illness experiencing antipsychotic-related overweight and metabolic dysregulation",
+          "medications": "GLP-1 receptor agonists vs control",
+          "country_dataset": "Multiple (systematic search of RCTs)",
+          "key_findings": "This systematic review and meta-analysis evaluated efficacy and safety of GLP-1 RAs in patients with antipsychotic-related overweight and metabolic dysregulation. The analysis synthesizes evidence for GLP-1 RA use in severe mental illness patients managed with antipsychotics to address metabolic complications."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "US adults with diabetes and/or obesity on no prior incretin therapy starting injectable semaglutide",
+          "medications": "Injectable semaglutide (GLP-1 RA)",
+          "country_dataset": "United States (MarketScan 2018-2021)",
+          "key_findings": "This retrospective cohort study examined real-world prescribing behaviors for injectable semaglutide at treatment initiation and their impact on early medication discontinuation and 1-year persistence among US adults with diabetes and/or obesity. The study demonstrates how routine care prescribing practices contribute to high discontinuation rates observed in clinical practice."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
