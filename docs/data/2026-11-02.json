@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-02",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42969666",
+          "title": "GLP-1 Receptor Agonists Versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study.",
+          "abstract": "Treatment selection may confound observational comparisons of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and sodium-glucose cotransporter-2 inhibitors (SGLT2i) in adults with metabolic dysfunction-associated steatotic liver disease and heart failure (HF). To compare recorded outcomes between treatment groups and examine whether the associations persisted after restricting the analysis by agent and diabetes status and separating early and later outcome windows. Retrospective, initiation-based, active-comparator cohort study (new-user design not verified). We used the TriNetX US Collaborative Network and a common index eligibility period from January 1, 2018, through June 2, 2026. The revised analyses were performed on September 12, 2026. An additional sensitivity analysis of acute HF excluded patients with this outcome before the start of the day 1-1825 window. The primary analysis compared semaglutide, liraglutide, or dulaglutide with empagliflozin or dapagliflozin using 1:1 propensity score matching and assessed outcomes during days 1-1825. Separate analyses of the broader GLP-1 RA group examined outcomes during days 1-90 and 91-1825 and among patients with type 2 diabetes and no recorded type 1 diabetes. We report endpoint-specific event proportions, risk differences, hazard ratios (HRs), 95% confidence intervals (CIs), and proportionality test results. The primary analysis included 8,550 patients per group after matching. Mortality occurred in 599/8,514 (7.0%) versus 861/8,509 (10.1%); the HR was 0.607 (95% CI, 0.546-0.673). Coded acute HF diagnoses occurred in 1,217/8,550 (14.2%) versus 2,525/8,550 (29.5%); the HR was 0.398 (95% CI, 0.372-0.427), with evidence of non-proportional hazards. In separately matched descriptive interval analyses (8,489 patients per group), the HR for coded acute HF was 0.262 (95% CI, 0.236-0.291) during days 1-90 and 0.507 (95% CI, 0.469-0.548) during days 91-1825. The HR for acute kidney injury during the later interval was 0.740 (95% CI, 0.650-0.842). Among 5,709 matched pairs with type 2 diabetes and no recorded type 1 diabetes, the HR for coded acute HF was 0.431 (95% CI, 0.397-0.468), whereas the HR for ketoacidosis was 0.683 (95% CI, 0.455-1.025). No advantage was observed for acute pancreatitis in any analysis. In a separate analysis excluding patients with prior acute HF, the HR was 0.421 (95% CI, 0.362-0.489), with evidence of non-proportional hazards. Albumin and bilirubin remained imbalanced in a direction favoring the GLP-1 RA group; body mass index also remained imbalanced. GLP-1 RA exposure was associated with lower observed hazards for several outcomes, and the association with coded acute HF was weaker after day 90. The early concentration and magnitude of this association make treatment channeling a plausible explanation, although this analysis cannot establish that explanation. These exploratory findings do not support causal inferences or treatment-preference conclusions and do not challenge randomized evidence supporting SGLT2i use in HF.",
+          "authors": [
+            "Naveen Gautam",
+            "Tien Manh Huynh",
+            "Hong Hieu Truong",
+            "et al."
+          ],
+          "journal": "Balkan medical journal",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42969666/"
+        },
+        {
+          "pmid": "42968841",
+          "title": "Baseline depressive-symptom severity and divergent psychological trajectories during GIP and/or GLP-1 receptor agonist therapy: a prospective ecological momentary assessment study.",
+          "abstract": "The influence of baseline depressive-symptom severity on psychological trajectories during incretin receptor agonists (glucose-dependent insulinotropic polypeptide [GIP] and/or glucagon-like peptide-1 receptor agonists [GLP-1RA]) therapy remains unclear. We evaluated short-term changes in binge-eating tendency and depressive symptoms during GIP/GLP-1RA therapy, stratified by baseline severity. Fifteen adults with type 2 diabetes or obesity (mean age 55.6\u00a0years; body weight 89.9\u00a0kg) initiating or switching GIP/GLP-1RA therapy completed daily ecological momentary assessment (EMA) of binge-eating tendency for 85\u00a0days and weekly Patient Health Questionnaire-9 (PHQ-9) assessments. Longitudinal changes were analysed using linear mixed-effects models, stratified by baseline PHQ-9 severity (low: <10; high: \u226510). Body weight and binge-eating tendency decreased significantly (both  In this exploratory study, baseline depressive-symptom severity was associated with divergent depressive-symptom trajectories during incretin receptor agonist therapy, whereas reductions in body weight and binge-eating tendency appeared independent of baseline mood. The online version contains supplementary material available at https://doi.org/10.1007/s13340-026-00942-1.",
+          "authors": [
+            "Aika Miya",
+            "Michihiro Kaneko",
+            "Yuka Ozaki",
+            "et al."
+          ],
+          "journal": "Diabetology international",
+          "pub_date": "Jan 2027",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42968841/"
+        },
+        {
+          "pmid": "42968811",
+          "title": "Baseline monocyte GIP receptor mRNA expression is associated with reductions in body weight and FIB-4 index after switching to tirzepatide in patients with type 2 diabetes.",
+          "abstract": "Tirzepatide improves body weight and glycemic control in patients with type 2 diabetes, but factors associated with inter-individual differences after switching remain unclear. We examined whether baseline monocyte glucose-dependent insulinotropic polypeptide receptor (GIPR) mRNA expression was associated with changes in body weight and the fibrosis-4 (FIB-4) index after switching from glucagon-like peptide-1 receptor agonists (GLP-1RAs) to tirzepatide. This single-center retrospective study included 90 patients with type 2 diabetes who had received a GLP-1RA for at least 6\u00a0months before switching. Baseline monocyte  Higher baseline monocyte  Baseline monocyte  Summary of the study design and main finding. Baseline  The online version contains supplementary material available at https://doi.org/10.1007/s13340-026-00940-3.",
+          "authors": [
+            "Hideyuki Okuma"
+          ],
+          "journal": "Diabetology international",
+          "pub_date": "Jan 2027",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42968811/"
+        },
+        {
+          "pmid": "42968774",
+          "title": "Efficacy and safety of semaglutide versus placebo in adults with overweight or obesity without diabetes: updated meta-analysis of randomized trials.",
+          "abstract": "Obesity poses significant challenges for those seeking long-term weight loss through diet and exercise alone. Semaglutide is a GLP-1 receptor agonist approved for chronic weight management in eligible adults. In this systematic review and meta-analysis, we aimed to evaluate the efficacy and safety of semaglutide for treating obesity in adults without diabetes. The protocol was registered in PROSPERO (CRD420261338170). PubMed, Embase, Cochrane Library, Web of Science, and ClinicalTrials.gov were searched through February 28, 2026. We included randomized controlled trials (RCTs) comparing semaglutide with placebo in adults without diabetes with BMI\u2009\u2265\u200930\u00a0kg/m We included 10 RCTs with a total of 7,131 participants. Risk-of-bias was judged at the level of each outcome: all included trials were at low risk-of-bias for the efficacy outcomes and the prespecified safety outcomes, while cardiovascular and psychiatric disorders raised some concerns. Compared to placebo, semaglutide produced significantly greater reductions in percentage change in body weight (WMD\u2009-12.29%, 95% CI -13.38 to -11.20, I Semaglutide was associated with clinically meaningful weight loss during trial treatment periods in adults with overweight or obesity without diabetes; however, low-certainty evidence and substantial between-study heterogeneity warrant cautious interpretation of the magnitude of benefit. The online version contains supplementary material available at https://doi.org/10.1007/s40200-026-02108-x.",
+          "authors": [
+            "Rida Wajid",
+            "Ravi Kumar",
+            "Misbah Muneer",
+            "et al."
+          ],
+          "journal": "Journal of diabetes and metabolic disorders",
+          "pub_date": "Dec 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42968774/"
+        },
+        {
+          "pmid": "42951303",
+          "title": "Tirzepatide Use Resulted in Clinically Meaningful Weight Reduction in Individuals With Obesity or Overweight: 12-Month Real-World Results.",
+          "abstract": "This study assessed the real-world effectiveness of tirzepatide in commercially insured individuals without diabetes, eligible for obesity medications (OMs), including glucagon like-peptide-1 receptor agonist (GLP-1 RA)-na\u00efve individuals (i.e., no GLP-1 RA prescription during the 12-month pre-index period) and GLP-1 RA-experienced individuals. This retrospective, observational cohort study used Optum's de-identified Market Clarity Data (Optum Market Clarity). Adults with \u2265\u20091 prescription claim for tirzepatide between November 2023 and March 2024, with continuous medical/pharmacy enrollment for \u2265\u200912\u2009months pre-index and post-index and available pre- and post-index data were included. Baseline demographics, clinical characteristics, and treatment effectiveness (change from baseline in weight, body mass index, and cardiometabolic risk factors) were assessed among OM-eligible individuals who were persistent on tirzepatide for \u2265\u200912\u2009months. The GLP-1 RA-na\u00efve and experienced cohorts included 230 individuals (mean age: 49.5\u2009years, 72.2% female) and 123 individuals (mean age: 48.9\u2009years, 81.3% female), respectively, who were persistent on tirzepatide for 12\u2009months with documented pre- and post-index weight measurements. At baseline, more than 85% of individuals in each cohort had \u2265\u20091 obesity-related complication, most commonly dyslipidemia, hypertension, and prediabetes. At 12\u2009months post-index, the GLP-1 RA-na\u00efve cohort achieved a mean weight reduction of 19.3%, while the GLP-1 RA-experienced cohort achieved a mean weight reduction of 13.1%. After 12\u2009months of persistent tirzepatide use, individuals experienced clinically meaningful weight reduction, comparable to outcomes reported in clinical trials. These real-world findings were observed both in GLP-1 RA-na\u00efve and experienced individuals.",
+          "authors": [
+            "Chanadda Chinthammit",
+            "Theresa Hunter Gibble",
+            "Melody Dehghan",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42951303/"
+        },
+        {
+          "pmid": "42935458",
+          "title": "Oral Health-Related Adverse Events of GLP-1 Receptor Agonists.",
+          "abstract": "As the clinical use of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) continues to grow for the management of type 2 diabetes, cardiovascular and renal protection, noncirrhotic fatty liver disease, and weight management, their potential implications for oral health need to be considered. This study examined oral health-related adverse events (AEs) associated with GLP-1 RAs using postmarketing data from the US Food and Drug Administration Adverse Event Reporting System (FAERS). FAERS reports for available GLP-1 RAs, exenatide, liraglutide, semaglutide, dulaglutide, and tirzepatide, were screened from their initial market introduction through December 2025, identifying 364,274 total AE reports, of which 31,195 (8.6%) involved oral, craniofacial, or dental manifestations. Tirzepatide, despite being one of the most recently approved GLP-1 RAs, accounted for the highest overall AE volume, and semaglutide demonstrated the largest proportion of oral health-related AEs. A disproportionality analysis revealed a significant drug-specific signal for dry mouth of semaglutide, while vomiting, regurgitation, and reflux-related events produced a significant signal across all 5 drugs. Sensory disorders, including dysgeusia and taste disturbances, also demonstrated significant proportional reporting ratios (PRRs) and reporting odds ratios (RORs) for several GLP-1 RAs. Association analysis of AEs showed significant associations between vomiting and taste disturbances, as well as between dry mouth and dysgeusia, particularly with semaglutide and dulaglutide. This analysis highlights emerging safety signals in oral health and underscores the need for heightened clinical awareness and prospective studies to characterize the incidence, timing, and mechanisms of oral AEs associated with GLP-1 RA therapy.Knowledge Transfer Statement:Understanding the oral adverse effects associated with GLP-1 receptor agonists allows clinicians and dental providers to more effectively counsel patients initiating or continuing these medications. By recognizing early symptoms such as dry mouth, dysgeusia, and reflux-related irritation, providers can implement targeted preventive strategies-including hydration guidance, salivary substitutes, dietary modifications, and closer oral health monitoring-to reduce complications and improve patient comfort, adherence, and overall treatment outcomes. This knowledge enhances interdisciplinary management of individuals using GLP-1 RAs.",
+          "authors": [
+            "F C Massarotto",
+            "A H Mahmoud",
+            "G E Watson",
+            "et al."
+          ],
+          "journal": "JDR clinical and translational research",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42935458/"
+        },
+        {
+          "pmid": "42935015",
+          "title": "Use of SGLT2 Inhibitors, GLP-1 Receptor Agonists, and DPP-4 Inhibitors in Incident Hyponatremia in Patients with Type 2 Diabetes: Multicenter Target Trial Emulations.",
+          "abstract": "Hyponatremia poses risks in type 2 diabetes, yet comparative electrolyte safety across glucose-lowering therapies remains unclear. We evaluated the risk of incident hyponatremia associated with sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 receptor agonists (GLP-1 RAs), and dipeptidyl peptidase-4 (DPP-4) inhibitors in real-world practice. Using electronic health records from 155 healthcare organizations in the TriNetX Global Collaborative Network, we conducted multicenter active-comparator, new-user target trial emulations with 1:1 propensity score matching. For each pairwise comparison, adults with type 2 diabetes initiating either drug class, with no record of either class during the preceding 365\u2009days, were included. The primary outcome was incident hyponatremia (ICD-10-CM E87.1 or serum sodium \u2264\u2009135\u2009mmol/L); sensitivity outcomes included diagnosis-only, laboratory-only, and stricter laboratory thresholds. Among more than 300,000 matched pairs per comparison, SGLT2 inhibitors and GLP-1 RAs were each associated with a 15% lower hazard of hyponatremia than DPP-4 inhibitors (hazard ratio [HR], 0.850; 95% confidence interval [CI], 0.842-0.858 and HR, 0.847; 95% CI: 0.838-0.856). The lower risk persisted at stricter sodium thresholds and across clinically relevant subgroups, including patients with heart failure, chronic kidney disease, or high-risk medications use. SGLT2 inhibitors and GLP-1 RAs were broadly comparable (HR, 0.962; 95% CI: 0.952-0.971). Positive and negative control outcomes were consistent with expectations. Overall, SGLT2 inhibitors and GLP-1 RAs were associated with a lower risk of incident hyponatremia than DPP-4 inhibitors. These real-world findings provide reassurance regarding the electrolyte safety of SGLT2 inhibitors and GLP-1 RAs, complementing their established cardiorenal benefits.",
+          "authors": [
+            "Ying-Hsuan Lin",
+            "Daniel Hsiang-Te Tsai",
+            "Miyuki Hsing-Chun Hsieh",
+            "et al."
+          ],
+          "journal": "Clinical pharmacology and therapeutics",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42935015/"
+        },
+        {
+          "pmid": "42934302",
+          "title": "Glucagon-like peptide-1 receptor agonist use and risk of postmastectomy lymphedema in breast cancer survivors: a multicenter real-world cohort study.",
+          "abstract": "Postmastectomy lymphedema is a chronic survivorship complication after breast cancer treatment, particularly among patients exposed to axillary surgery. Obesity and metabolic inflammation are recognized contributors to lymphedema risk. This study evaluated whether glucagon-like peptide\u2009-\u20091 receptor agonist exposure was associated with lower incidence of coded postmastectomy lymphedema among breast cancer patients with mastectomy and/or axillary procedure exposure. We performed a retrospective cohort study using deidentified electronic health record data from the TriNetX Research Network. Adult patients with breast cancer and coded mastectomy and/or axillary procedural exposure were stratified by GLP-1 receptor agonist exposure versus no exposure. One-to-one propensity score matching was used to balance measured baseline characteristics. The primary outcome was incident coded postmastectomy lymphedema syndrome. Outcomes were assessed from 1 to 650 days after the index event using risk estimates, Kaplan-Meier analysis, and Cox proportional hazards models. After propensity score matching, 61,630 patients were included, with 30,815 patients in each cohort. Coded postmastectomy lymphedema occurred in 258 of 29,259 GLP-1 receptor agonist users and 779 of 30,237 non-users, corresponding to incidence rates of 0.88% and 2.58%, respectively. GLP-1 receptor agonist exposure was associated with lower incidence of coded postmastectomy lymphedema in time-to-event analysis (hazard ratio 0.373, 95% CI 0.324-0.429; p\u2009<\u20090.001). The absolute risk difference was\u2009-\u20091.7%, with an estimated number needed to treat of 59. In this large real-world breast cancer surgical/procedural cohort, GLP-1 receptor agonist exposure was associated with lower incidence of coded postmastectomy lymphedema over 650 days of follow-up. These findings are hypothesis-generating and require prospective validation with systematic lymphedema assessment and detailed characterization of GLP-1 receptor agonist timing, duration, dose, and adherence.",
+          "authors": [
+            "Dawit Hailemariam Yesho",
+            "Muluken Zeleke Megiso",
+            "Chidiebube Ugwu",
+            "et al."
+          ],
+          "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42934302/"
+        },
+        {
+          "pmid": "42934184",
+          "title": "Glucagon-like Peptide-1 Receptor Agonists in Heart Transplant Recipients With Type 2 Diabetes: A Multicenter Study.",
+          "abstract": "Type 2 diabetes mellitus (T2DM) is frequent after heart transplantation (HT) and is exacerbated by immunosuppressive therapy. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) may improve metabolic control, but data in HT recipients are limited. We performed a retrospective, multicenter study including HT recipients with T2DM from 14 Spanish centers. In patients treated with GLP-1 RAs, we assessed antidiabetic and immunosuppressive therapies, adverse events, and changes in metabolic parameters, insulin dose, and immunosuppressant trough levels during the first year after GLP-1 RA initiation. Among 734 HT recipients with T2DM (2011-2021), 108 (14.7%) received GLP-1 RAs (mean age 55.4\u2005\u00b1\u20059.0 y; 79.6% male), initiated 4.0\u2005\u00b1\u20053.1 y post-HT. At baseline, 64.8% had obesity. Semaglutide was used in 59%, dulaglutide in 27%, liraglutide in 13%, and tirzepatide in 1%; 41.7% achieved the maximum therapeutic dose. After 1 y, significant reductions were observed in body weight (-6.2\u2009kg; 95% confidence interval [CI], -7.7 to -4.5\u2009kg), fasting glucose (-27\u2009mg/dL; 95% CI, -41 to -7\u2009mg/dL), glycated hemoglobin (-0.74%; 95% CI, -1.12% to -0.35%), total cholesterol (-12\u2009mg/dL; 95% CI, -19 to -6\u2009mg/dL), low-density lipoprotein cholesterol (-8\u2009mg/dL; 95% CI, -14 to -2\u2009mg/dL), triglycerides (-29\u2009mg/dL; 95% CI, -53 to -5\u2009mg/dL), and systolic blood pressure (-3.6\u2009mm Hg; 95% CI, -6.4 to -0.9\u2009mm Hg). Tacrolimus trough levels decreased modestly (-0.7\u2009ng/mL; 95% CI, -1.4 to -0.1\u2009ng/mL; P\u2005=\u20050.025), without episodes of acute rejection. Gastrointestinal adverse events occurred in 12.0%, leading to discontinuation in 3.7%. In HT recipients with T2DM, GLP-1 RAs were associated with improved glycemic and cardiometabolic parameters and were generally well tolerated. These findings support the use of GLP-1 RAs as a valuable therapeutic strategy for the management of T2DM after HT.",
+          "authors": [
+            "Zorba Blazquez-Bermejo",
+            "Daniel Enr\u00edquez-V\u00e1zquez",
+            "Elena Garc\u00eda-Romero",
+            "et al."
+          ],
+          "journal": "Transplantation",
+          "pub_date": "Oct 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42934184/"
+        },
+        {
+          "pmid": "42874603",
+          "title": "GLP-1 receptor agonist initiation and risk of psychiatric hospitalisation and emergency department presentation in adults with schizophrenia and type 2 diabetes in the USA: an observational cohort study using electronic health records data.",
+          "abstract": "Many individuals with schizophrenia have persistent psychotic symptoms despite antipsychotic treatment, and the disorder is associated with a disproportionately high burden of metabolic dysregulation. Whether GLP-1 receptor agonists are associated with psychiatric benefit alongside their metabolic effects remains unknown. We aimed to examine associations between GLP-1 receptor agonist initiation and psychiatric hospitalisation and emergency department presentation in adults with schizophrenia and type 2 diabetes, compared with DPP-4 inhibitor initiation, SGLT2 inhibitor initiation, and non-initiation. In this observational cohort study, we used electronic health record (EHR) data from the US NeuroBlu Data repository to construct a cohort of adults (\u226518 years) with documented diagnosis of schizophrenia and comorbid type 2 diabetes. The exposure was the initiation of GLP-1 receptor agonists, compared with non-initiation or initiation of DPP-4 inhibitors or SGLT2 inhibitors. The index date, from Jan 1, 2018, was defined as the date of the first recorded psychiatric visit at which both a diagnosis of schizophrenia and comorbid type 2 diabetes were present in the participant's record. Time zero (T A total of 70\u2008257 individuals met the inclusion criteria; mean age was 53\u00b71 years [SD 12\u00b732] and 33\u2008882 [48\u00b72%] were women. Among the 70\u2008257 eligible individuals, 9093 (12\u00b79%) initiated GLP-1 receptor agonists, 4968 (7\u00b71%) initiated DPP-4 inhibitors, 5328 (7\u00b76%) initiated SGLT2 inhibitors, and 50\u2008868 (72\u00b74%) were non-initiators. In weighted regression analyses, GLP-1 receptor agonist initiation was associated with a lower risk of psychiatric hospitalisation compared with non-initiation (weighted hazard ratio [HR] 0\u00b776 [95% CI 0\u00b771-0\u00b782]), DPP-4 inhibitor initiation (0\u00b782 [0\u00b775-0\u00b790]), and SGLT2 inhibitor initiation (0\u00b783 [0\u00b778-0\u00b788]). GLP-1 receptor agonist initiation was also associated with a lower risk of emergency department presentation than non-initiation (0\u00b771 [0\u00b765-0\u00b777]), DPP-4 inhibitor initiation (0\u00b787 [0\u00b780-0\u00b795]), and SGLT2 inhibitor initiation (0\u00b780 [0\u00b773-0\u00b788]). GLP-1-based therapy initiation was associated with lower psychiatric acute-care use than non-initiation and initiation of DPP-4 or SGLT2 inhibitors in adults with schizophrenia and type 2 diabetes. Potential residual confounding and selection bias restrict generalisability of the results. The findings suggest that lower psychiatric acute-care use could be a favourable secondary benefit when GLP-1-based therapies are clinically indicated for metabolic management, although their use as primary psychiatric treatments require investigation in randomised and mechanistic studies. Synergy for the Development of Innovative Clinical Treatments in Schizophrenia (SYNDICAT) project (GNT2035912).",
+          "authors": [
+            "Najmeh Davoodian",
+            "Lana J Williams",
+            "Michael Berk",
+            "et al."
+          ],
+          "journal": "The lancet. Psychiatry",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42874603/"
+        },
+        {
+          "pmid": "42803597",
+          "title": "Tirzepatide Initiation in Lithium-Treated Bipolar Disorder: Renal Biomarker Trajectories and Lithium Safety Signals Over 12\u00a0Months in a Real-World Cohort.",
+          "abstract": "To assess early renal and lithium-related safety and 12-month renal biomarker trajectories after tirzepatide initiation in lithium-treated adults with bipolar disorder. We retrospectively studied 23 adults at one centre. The principal 12-week renal safety measures were serum creatinine and derived CKD-EPI 2021 creatinine-based eGFR. Secondary outcomes included lithium, electrolytes, gastrointestinal symptoms, acute kidney injury meeting KDIGO creatinine criteria and discontinuation. Twelve-month trajectories and body-surface-area-unindexed eGFR were exploratory. At 12\u00a0weeks, creatinine changed by -3\u00a0\u00b1\u00a012\u00a0\u03bcmol/L (p\u00a0=\u00a00.196), indexed eGFR by +2.6\u00a0\u00b1\u00a015.1\u00a0mL/min/1.73\u00a0m Co-prescription warrants structured monitoring and sick-day education. Creatinine-based eGFR changes during major weight loss do not establish renal benefit or exclude kidney injury.",
+          "authors": [
+            "Maria Beatrice Rescalli",
+            "Andrea Fagiolini",
+            "Pietro Carmellini",
+            "et al."
+          ],
+          "journal": "Human psychopharmacology",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42803597/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with metabolic dysfunction-associated steatotic liver disease and heart failure",
+          "medications": "GLP-1 receptor agonists vs SGLT2 inhibitors (empagliflozin, dapagliflozin)",
+          "country_dataset": "United States (TriNetX)",
+          "key_findings": "Propensity-matched cohort study comparing GLP-1 RAs and SGLT2 inhibitors in MASLD-heart failure phenotype; analysis examined treatment selection confounding and outcomes across different agent and diabetes status subgroups with early and late outcome windows."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=15",
+          "population": "Adults with type 2 diabetes or obesity (mean age 55.6 years) initiating or switching GIP/GLP-1RA therapy",
+          "medications": "GIP and/or GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "Prospective ecological momentary assessment study evaluated short-term changes in binge-eating tendency and depressive symptoms during GIP/GLP-1RA therapy stratified by baseline depressive symptom severity, examining divergent psychological trajectories."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=90",
+          "population": "Patients with type 2 diabetes who received GLP-1RA for at least 6 months before switching to tirzepatide",
+          "medications": "GLP-1 receptor agonists switching to tirzepatide",
+          "country_dataset": "Single-center (country not specified)",
+          "key_findings": "Baseline monocyte GIPR mRNA expression was associated with greater reductions in body weight and FIB-4 index after switching from GLP-1RAs to tirzepatide, suggesting a biomarker for inter-individual response differences."
+        },
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "23 studies",
+          "population": "Adults with overweight or obesity without diabetes",
+          "medications": "Semaglutide vs placebo",
+          "country_dataset": "Multiple (RCTs from PubMed, Embase, Cochrane Library, Web of Science, ClinicalTrials.gov through February 2026)",
+          "key_findings": "Updated meta-analysis of randomized trials evaluating efficacy and safety of semaglutide for chronic weight management in adults without diabetes; systematic assessment of weight loss and adverse events across included RCTs."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Commercially insured adults with obesity or overweight without diabetes, GLP-1 RA-na\u00efve and GLP-1 RA-experienced individuals",
+          "medications": "Tirzepatide",
+          "country_dataset": "United States (Optum Market Clarity)",
+          "key_findings": "12-month real-world effectiveness study of tirzepatide showed clinically meaningful weight reduction in individuals with obesity/overweight; included both GLP-1 RA-na\u00efve and GLP-1 RA-experienced populations with continuous enrollment requirements."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients taking GLP-1 receptor agonists",
+          "medications": "Exenatide, liraglutide, semaglutide, dulaglutide, tirzepatide",
+          "country_dataset": "United States (FDA FAERS database)",
+          "key_findings": "Postmarketing surveillance study examining oral health-related adverse events associated with GLP-1 RAs using FDA Adverse Event Reporting System data for five GLP-1 RA medications."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with type 2 diabetes",
+          "medications": "SGLT2 inhibitors, GLP-1 receptor agonists, DPP-4 inhibitors",
+          "country_dataset": "United States (TriNetX Global Collaborative Network, 155 healthcare organizations)",
+          "key_findings": "Multicenter target trial emulations compared risk of incident hyponatremia across three drug classes using propensity score matching; evaluated electrolyte safety of glucose-lowering therapies in real-world practice."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Breast cancer survivors with mastectomy and/or axillary procedure exposure",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States (TriNetX Research Network)",
+          "key_findings": "Multicenter retrospective cohort study evaluated whether GLP-1 RA exposure was associated with lower incidence of postmastectomy lymphedema in breast cancer patients, examining obesity and metabolic inflammation as risk factors."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Heart transplant recipients with type 2 diabetes mellitus",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Spain (14 medical centers)",
+          "key_findings": "Multicenter retrospective study assessed antidiabetic efficacy, adverse events, and metabolic parameter changes during first year after GLP-1 RA initiation in heart transplant recipients, with monitoring of immunosuppressant trough levels."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with schizophrenia and type 2 diabetes in the USA",
+          "medications": "GLP-1 receptor agonists vs DPP-4 inhibitors, SGLT2 inhibitors, and non-initiators",
+          "country_dataset": "United States (electronic health records)",
+          "key_findings": "Observational cohort study examined associations between GLP-1 RA initiation and psychiatric hospitalisation/emergency department presentation in patients with schizophrenia and type 2 diabetes, compared with other glucose-lowering agents."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=23",
+          "population": "Lithium-treated adults with bipolar disorder",
+          "medications": "Tirzepatide",
+          "country_dataset": "Single-center (country not specified)",
+          "key_findings": "Real-world retrospective cohort study assessed renal and lithium-related safety at 12 weeks and 12-month renal biomarker trajectories after tirzepatide initiation; monitored creatinine, eGFR, lithium levels, and acute kidney injury events."
+        }
+      ],
+      "excluded_count": 14
+    }
+  ]
+}
