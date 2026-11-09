@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-09",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42999395",
+          "title": "Effectiveness of incretin receptor agonists compared to metreleptin in partial lipodystrophy: a retrospective study.",
+          "abstract": "Lipodystrophy syndromes are rare disorders of abnormal fat distribution and metabolic disease. The only approved therapy for generalized lipodystrophy is recombinant leptin (metreleptin), which is not approved for partial lipodystrophy. Recent data suggest efficacy of glucagon-like peptide-1 receptor agonists and glucagon-like peptide-1 receptor agonist/glucose-dependent insulinotropic polypeptide (GIP) dual agonists (collectively referred to as incretins) to treat complications of lipodystrophy. To compare metabolic outcomes of incretin therapies vs metreleptin in partial lipodystrophy. Retrospective review of patients who received metreleptin as part of a clinical trial and incretins during routine care under a natural history study. NIH Clinical Center. Twelve female patients with partial lipodystrophy, aged 16-85 years. All but 1 patient had diabetes. Eleven patients with partial lipodystrophy were treated with metreleptin (mean duration 104 \u00b1 38 months) before switching to incretin therapy (duration 32 \u00b1 13 months). A twelfth patient took metreleptin and an incretin concurrently. Outcome measures included hemoglobin A1c, insulin dose, Matsuda index, insulinogenic index, disposition index, fasting glucose and insulin, homeostatic model of beta cell function (HOMA-B), homeostatic model assessment of insulin resistance (HOMA-IR), weight, lipids, liver elastography, and liver steatosis. Hemoglobin A1c was significantly lower during incretin vs metreleptin treatment (mean difference -1.1 \u00b1 0.4%, range -4.75% to -0.1%,  In patients with partial lipodystrophy, incretins may provide better diabetes control than metreleptin, with comparable control of other metabolic parameters.",
+          "authors": [
+            "Brandon M Podyma",
+            "Marissa Lightbourne",
+            "Rebecca J Brown"
+          ],
+          "journal": "Journal of the Endocrine Society",
+          "pub_date": "Dec 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42999395/"
+        },
+        {
+          "pmid": "42981240",
+          "title": "Investigating GLP-1 sourcing preferences on social media and motivations for use: Survey with choice-based conjoint (CBC) exercise.",
+          "abstract": "The growing use of glucagon-like peptide 1 (GLP-1) drugs such as Ozempic for weight loss interventions has led to increased concerns about inappropriate use, supply shortages, and high-risk sourcing. However, little is known about the influence of online marketing strategies on purchasing preferences for GLP-1 products. This study uses a survey with a Choice-Based Conjoint (CBC) exercise to assess features of social media posts that are most influential for intent to purchase GLP-1 products and identify motivations for use. Participants were recruited based on current use of GLP-1 drugs, previous use, or considering use (n\u2009=\u2009242). Utility scores from the conjoint analysis quantified the influence of tested features. Conjoint findings showed greater preference for posts that feature branded semaglutide (e.g., Wegovy)(15.38, SD\u2009=\u200945.29), display products in packaging (47.49, SD\u2009=\u200946.72), have accredited digital pharmacies as the seller (25.16, SD\u2009=\u200947.31) (e.g., Amazon Pharmacy), include medical endorsements for diabetes treatment (13.16, SD\u2009=\u200949.04), and offer a free consultation (13.18, SD\u2009=\u200932.00). Analysis was conducted on survey questions measuring GLP-1 purchasing channels and motivations for use. Over half of participants (51.7%) reported that social media content influenced their perceptions of GLP-1 drugs and 45.8% (n\u2009=\u200965) of GLP-1 users reported purchasing product from high-risk sources (i.e., personal network or individual sellers online). Exploratory analysis shows a possible association between self-reported high-risk sourcing and reliance on GLP-1s for medical conditions. Overall, our findings identify influential attributes of GLP-1 social media ads (i.e., branding and visual display of products) and suggests greater support is needed for online moderation efforts to prevent high-risk purchasing activity and increase safe access to GLP-1s for those with medical needs.",
+          "authors": [
+            "Michael Robert Haupt",
+            "Staci Meredith Weiss",
+            "Alec J Calac",
+            "et al."
+          ],
+          "journal": "PloS one",
+          "pub_date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42981240/"
+        },
+        {
+          "pmid": "42972633",
+          "title": "Bariatric Surgery as a Rescue Strategy After Semaglutide or Tirzepatide.",
+          "abstract": "To evaluate 2-year weight loss after bariatric surgery among adults with intolerable adverse effects or inadequate weight loss with semaglutide or tirzepatide. Semaglutide and tirzepatide are effective obesity medications, but intolerance and inadequate weight loss are common, creating uncertainty about next-step therapy. This retrospective cohort included adults with BMI \u226535\u00a0kg/m\u00b2 undergoing Roux-en-Y gastric bypass (RYGB) or sleeve gastrectomy (SG) at Cleveland Clinic hospitals from 2018 to 2024. Electronic health record and dispensing data classified preoperative semaglutide or tirzepatide exposure and response. The primary outcome was estimated 2-year total body weight loss (TBWL), stratified by procedure and type 2 diabetes (T2DM) status. Among 4929 patients, 4661 had no prior exposure (comparator group), 61 discontinued semaglutide or tirzepatide because of intolerable adverse effects, and 207 had inadequate weight-loss response. Before surgery, estimated 2-year medication-associated weight change was a 1.4% gain in the intolerance group and 1.5% TBWL in the inadequate-response group. After surgery, 2-year TBWL in the intolerance group was 27.9% and 22.7% after RYGB and 20.1% and 21.6% after SG among patients without and with T2DM, respectively. Corresponding estimates in the inadequate-response group were 35.8%, 27.4%, 14.3%, and 14.2%. For comparison, corresponding 2-year TBWL estimates in the comparator group were 33.3%, 28.7%, 23.6%, and 19.9%. In adjusted analysis of the inadequate-response group, RYGB was associated with greater 2-year TBWL than SG (32.7% vs. 17.8%; difference, 14.9 percentage points [95% CI, 13.1%-16.7%]). Bariatric surgery was associated with clinically meaningful 2-year weight loss after semaglutide or tirzepatide intolerance or inadequate response, with RYGB potentially offering greater benefit after inadequate response.",
+          "authors": [
+            "Ali Aminian",
+            "Awwab F Hammad",
+            "Shaghayegh Sadeghmousavi",
+            "et al."
+          ],
+          "journal": "Annals of surgery",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42972633/"
+        },
+        {
+          "pmid": "42969666",
+          "title": "GLP-1 Receptor Agonists Versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study.",
+          "abstract": "Treatment selection may confound observational comparisons of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and sodium-glucose cotransporter-2 inhibitors (SGLT2i) in adults with metabolic dysfunction-associated steatotic liver disease and heart failure (HF). To compare recorded outcomes between treatment groups and examine whether the associations persisted after restricting the analysis by agent and diabetes status and separating early and later outcome windows. Retrospective, initiation-based, active-comparator cohort study (new-user design not verified). We used the TriNetX US Collaborative Network and a common index eligibility period from January 1, 2018, through June 2, 2026. The revised analyses were performed on September 12, 2026. An additional sensitivity analysis of acute HF excluded patients with this outcome before the start of the day 1-1825 window. The primary analysis compared semaglutide, liraglutide, or dulaglutide with empagliflozin or dapagliflozin using 1:1 propensity score matching and assessed outcomes during days 1-1825. Separate analyses of the broader GLP-1 RA group examined outcomes during days 1-90 and 91-1825 and among patients with type 2 diabetes and no recorded type 1 diabetes. We report endpoint-specific event proportions, risk differences, hazard ratios (HRs), 95% confidence intervals (CIs), and proportionality test results. The primary analysis included 8,550 patients per group after matching. Mortality occurred in 599/8,514 (7.0%) versus 861/8,509 (10.1%); the HR was 0.607 (95% CI, 0.546-0.673). Coded acute HF diagnoses occurred in 1,217/8,550 (14.2%) versus 2,525/8,550 (29.5%); the HR was 0.398 (95% CI, 0.372-0.427), with evidence of non-proportional hazards. In separately matched descriptive interval analyses (8,489 patients per group), the HR for coded acute HF was 0.262 (95% CI, 0.236-0.291) during days 1-90 and 0.507 (95% CI, 0.469-0.548) during days 91-1825. The HR for acute kidney injury during the later interval was 0.740 (95% CI, 0.650-0.842). Among 5,709 matched pairs with type 2 diabetes and no recorded type 1 diabetes, the HR for coded acute HF was 0.431 (95% CI, 0.397-0.468), whereas the HR for ketoacidosis was 0.683 (95% CI, 0.455-1.025). No advantage was observed for acute pancreatitis in any analysis. In a separate analysis excluding patients with prior acute HF, the HR was 0.421 (95% CI, 0.362-0.489), with evidence of non-proportional hazards. Albumin and bilirubin remained imbalanced in a direction favoring the GLP-1 RA group; body mass index also remained imbalanced. GLP-1 RA exposure was associated with lower observed hazards for several outcomes, and the association with coded acute HF was weaker after day 90. The early concentration and magnitude of this association make treatment channeling a plausible explanation, although this analysis cannot establish that explanation. These exploratory findings do not support causal inferences or treatment-preference conclusions and do not challenge randomized evidence supporting SGLT2i use in HF.",
+          "authors": [
+            "Naveen Gautam",
+            "Tien Manh Huynh",
+            "Hong Hieu Truong",
+            "et al."
+          ],
+          "journal": "Balkan medical journal",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42969666/"
+        },
+        {
+          "pmid": "42457543",
+          "title": "Real-world clinical outcomes of tirzepatide administration in older patients with type 2 diabetes, with a focus on the risk of hypoglycemia and weight loss-related parameters.",
+          "abstract": "In an aging society, the establishment of safe and effective treatment strategies for older patients with type 2 diabetes is crucial. We performed a secondary analysis of the Hokkaido-TZP study (UMIN000056962), evaluating the real-world outcomes of tirzepatide in patients aged \u226565 years. Of 213 patients in the safety analysis set, 11 (5.2%) discontinued treatment because of adverse events, primarily gastrointestinal symptoms. In the effectiveness analysis set (n = 199; mean age 71.3 years, glycated hemoglobin [HbA1c] 7.79%), tirzepatide significantly reduced both HbA1c and body mass index over 6 months in the Young-old (65-74 years) and Old-old (\u226575 years) groups. Notably, even among the 148 patients (74.4%) using agents associated with a risk of hypoglycemia (insulin, sulfonylureas, or glinides) at baseline, a substantial proportion (66.9%) achieved an HbA1c <7.0%. The physicians proactively adjusted these concomitant medications in 39.2% of users, but despite these preemptive reductions, this subgroup still achieved a reduction in HbA1c comparable to that of the entire cohort, and no severe hypoglycemia was reported. A significant reduction in body weight occurred, and this was more pronounced in glucagon-like peptide-1 receptor agonist-na\u00efve patients and those taking fewer hypoglycemia-inducing agents. Furthermore, the tirzepatide dose tended to be lower in the patients who achieved greater weight loss. These findings suggest that although tirzepatide is highly effective, even in older adults, its safety must be optimized through preemptive reductions in the doses of concomitantly administered secretagogues and careful monitoring, to prevent excessive reductions in HbA1c and weight loss in this vulnerable population.",
+          "authors": [
+            "Hiroya Kitsunai",
+            "Fumika Maruyama",
+            "Yukie Miyano",
+            "et al."
+          ],
+          "journal": "Endocrine journal",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42457543/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with partial lipodystrophy",
+          "medications": "GLP-1 receptor agonists, GLP-1/GIP dual agonists vs metreleptin",
+          "country_dataset": "Not reported",
+          "key_findings": "Study compared metabolic outcomes of incretin therapies versus metreleptin in partial lipodystrophy patients, examining effectiveness of GLP-1 receptor agonists and dual agonists as alternative treatments."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Current and previous users of GLP-1 drugs",
+          "medications": "GLP-1 drugs (e.g., Ozempic) for weight loss",
+          "country_dataset": "Not reported",
+          "key_findings": "Study assessed social media marketing features influencing GLP-1 product purchasing preferences and identified motivations for use among current and previous GLP-1 drug users."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with BMI \u226535 kg/m\u00b2 undergoing bariatric surgery with prior semaglutide or tirzepatide use",
+          "medications": "Semaglutide and tirzepatide followed by Roux-en-Y gastric bypass (RYGB) or sleeve gastrectomy (SG)",
+          "country_dataset": "Cleveland Clinic hospitals, 2018-2024",
+          "key_findings": "Study evaluated 2-year weight loss outcomes after bariatric surgery in patients who had intolerable adverse effects or inadequate weight loss with semaglutide or tirzepatide, representing rescue therapy approach."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with metabolic dysfunction-associated steatotic liver disease and heart failure",
+          "medications": "GLP-1 receptor agonists vs empagliflozin or dapagliflozin (SGLT2i)",
+          "country_dataset": "TriNetX US Collaborative Network",
+          "key_findings": "Propensity-matched cohort study compared outcomes between GLP-1 RAs and SGLT2i in patients with MASLD and heart failure, examining treatment selection effects across different agent and diabetes status subgroups."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=213 (safety analysis set), n=199 (effectiveness analysis set)",
+          "population": "Older patients with type 2 diabetes aged \u226565 years",
+          "medications": "Tirzepatide",
+          "country_dataset": "Hokkaido-TZP study (Japan)",
+          "key_findings": "Real-world analysis of tirzepatide in older adults showed 5.2% discontinuation due to adverse events (primarily gastrointestinal symptoms), with significant reductions in HbA1c and BMI, demonstrating safety and effectiveness in this population."
+        }
+      ],
+      "excluded_count": 9
+    }
+  ]
+}
