@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-16",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "43020464",
+          "title": "Real-world effectiveness of tirzepatide in individuals with obesity: weight response, treatment-related factors and diabetes status.",
+          "abstract": "Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n=210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n=378, 49.7% female) (45.7% vs 79.3%; p<0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p\u22640.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-na\u00efve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9% vs 11.1%; p<0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.",
+          "authors": [
+            "Maria Eugenia Parrotta",
+            "Ilaria Milani",
+            "Marianna Chinucci",
+            "et al."
+          ],
+          "journal": "Diabetes & metabolism",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43020464/"
+        },
+        {
+          "pmid": "43008461",
+          "title": "Alcohol consumption, lifestyle behaviors, and emotional well-being during GLP-1 receptor agonist therapy: a post hoc analysis of the several study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have been associated with alcohol-related and other behavioral outcomes, although much of the observational evidence derives from retrospective studies. We prospectively evaluated longitudinal changes in self-reported alcohol-consumption categories, lifestyle behaviors, and emotional well-being during GLP-1 RA therapy in routine clinical practice. This post hoc analysis of the prospective multicenter SEVERAL study included adults with obesity and type 2 diabetes receiving GLP-1 RAs over 44\u202fweeks. Alcohol consumption categories, dietary adherence, and physical activity were assessed at baseline and weeks 4, 12, and 44. Emotional well-being was evaluated using the EuroQol 5-Dimension questionnaire (EQ-5D) and the 12-Item Short Form Health Survey (SF-12). Paired comparisons were performed using Wilcoxon signed-rank and McNemar tests. A total of 135 participants were included. At baseline, 87.7% of participants with available alcohol data (114/130) were already in the lowest alcohol-consumption category (0-1 standard drink units/day; 1 unit\u202f=\u202f10\u202fg of pure alcohol). This proportion increased to 96.2% at week 44, while the proportion reporting more than 2 units/day decreased from 5.4% to 0%, indicating a statistically significant shift toward lower categories (p\u202f=\u202f0.003). Dietary adherence increased from 47.7% to 63.2% (p\u202f=\u202f0.001). No significant long-term change was observed in physical activity (p\u202f=\u202f0.392). Neither the SF-12 Mental Component Summary (MCS) score (p\u202f=\u202f0.114) nor the EQ-5D anxiety/depression dimension (p\u202f=\u202f0.055) changed significantly. Exploratory item-level analyses showed an increase in the proportion reporting feeling calm and peaceful all or most of the time (51.9% to 69.2%; p\u202f=\u202f0.002).. During 44\u202fweeks of GLP-1 RA therapy, a shift toward lower self-reported alcohol-consumption categories and improved dietary adherence were observed. Changes in selected emotional well-being items were exploratory and were not accompanied by significant improvements in global mental health measures. These observational findings warrant confirmation in studies designed to assess alcohol-related behaviors and their potential underlying mechanisms.",
+          "authors": [
+            "Jos\u00e9 Seijas-Amigo",
+            "\u00c1ngel Salgado-Barreira",
+            "Rosana Castelo-Dominguez",
+            "et al."
+          ],
+          "journal": "Addictive behaviors",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43008461/"
+        },
+        {
+          "pmid": "43007554",
+          "title": "Association of GLP-1 receptor agonist use with mortality and healthcare utilization in patients with vascular dementia.",
+          "abstract": "Patients with vascular dementia (VD) have high mortality and frequent acute care use, and no treatment has been shown to improve these outcomes. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are associated with a lower incidence of dementia and with cardiovascular benefit in type 2 diabetes, but their association with clinical outcomes in patients with established VD is unknown. This retrospective cohort study using a national database identified patients with VD from 2016 to 2025. Patients receiving GLP-1RAs within one month of diagnosis were propensity-score matched with non-users (n\u2009=\u2009613 per group). Primary outcome was mortality at 1, 3, and 5 years; secondary outcomes included hospitalizations and emergency visits. GLP-1RA use was associated with lower risk of mortality at 1 year (8.7% vs. 15.9%; HR 0.49, 95% CI 0.34-0.71), 3 years (23.3% vs. 33.8%; HR 0.58, 95% CI 0.44-0.76), and 5 years (34.4% vs. 54.3%; HR 0.53, 95% CI 0.41-0.69) (all p\u2009<\u20090.001). In addition, GLP-1RA use was associated with lower risk of inpatient admissions and emergency visits. GLP-1RA use in patients with VD was associated with lower risk of mortality and healthcare utilization. These beneficial associations warrant prospective randomized trials.",
+          "authors": [
+            "Daniel Mandel",
+            "Pranjal Rai",
+            "Huanwen Chen",
+            "et al."
+          ],
+          "journal": "Acta neurologica Belgica",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43007554/"
+        },
+        {
+          "pmid": "43003739",
+          "title": "Knowledge, Perspectives, and Experiences of Women in Kuwait Regarding GLP-1/GIP-Based Medications for Weight Management: A Cross-Sectional Study.",
+          "abstract": "GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists are increasingly used for obesity and type 2 diabetes, alongside growing public and social-media attention. Understanding how women perceive these medications and obtain medication-related information may help healthcare professionals support informed and appropriate use. A cross-sectional online survey was conducted among women aged \u226518 years living in Kuwait from March to June 2026. The questionnaire assessed medication awareness and knowledge, information sources, attitudes, medication-use experiences, and factors influencing treatment decisions. Previous/current users were compared with participants who had never used the medications or were considering future use using appropriate bivariate statistical tests. Multivariable logistic regression was used for selected information-source and perception outcomes, adjusting for age, BMI, and weight-management intention. Statistical significance was set at P\u202f<\u202f0.05. Among 445 participants, 132 (29.7%) reported previous/current GLP-1/GIP-based medication use. Awareness was highest for tirzepatide (88.6%) and semaglutide (73.4%), although understanding of medication mechanisms and adverse effects varied. Social media was the most frequently reported information source overall (56.0%); however, previous/current users were substantially more likely than never/considering users to report healthcare professionals as an information source (57.6%\u202fvs 10.2%, P\u202f<\u202f0.001) and less likely to report social media (38.6%\u202fvs 63.3%, P\u202f<\u202f0.001). Previous/current users were also less likely to perceive that medication risks outweighed benefits (24.2%\u202fvs 59.4%, P\u202f<\u202f0.001). These differences persisted after adjustment for age, BMI, and weight-management intention. Despite high awareness of GLP-1/GIP-based medications among women in Kuwait, understanding, information sources, and perceptions varied according to medication-use status. Differences in information sources and safety perceptions highlight an opportunity for healthcare professionals to provide accessible, evidence-based medication information and support informed treatment decisions.",
+          "authors": [
+            "Maha Alharbi",
+            "Malak Alshammari",
+            "Afrah Alkazemi"
+          ],
+          "journal": "Clinical therapeutics",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43003739/"
+        },
+        {
+          "pmid": "43003413",
+          "title": "Persistent Gaps in Semaglutide and Tirzepatide Prescribing Among Adults With Class III Obesity Without Type 2 Diabetes.",
+          "abstract": "No abstract available.",
+          "authors": [
+            "Bo Kang",
+            "Kyungseon Choi",
+            "Huanhuan Yang",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43003413/"
+        },
+        {
+          "pmid": "43003405",
+          "title": "GLP-1 Receptor Agonists Use in Patients With Prior Psychotropic Treatment: A Nationwide Cohort Study.",
+          "abstract": "Psychotropic medications are frequently associated with weight gain and metabolic syndrome. While GLP-1 receptor agonists (GLP-1RAs) have generated interest for managing these adverse effects, their current uses in psychiatric populations have to be described. This study aims to describe the real-world patterns of GLP-1RA initiation and persistence among psychotropic users in France. Using the French National Health Data System, we identified prevalent users of psychotropic medications who initiated GLP-1RAs between 2017 and 2023. Patients were characterized by their indication for GLP-1RA treatment (Type 2 diabetes mellitus [T2DM], obesity or neither) and the class of psychotropic medication dispensed. One-year trajectories of monthly GLP-1RA dispensings were analysed using group-based trajectory modelling. In this nationwide cohort of 102\u2009709 patients initiating GLP-1RAs after psychotropic use, almost all patients were identified with T2DM (95%). Anxiolytics/hypnotics (>\u200966%), antidepressants (>\u200956%) and antipsychotics (>\u200915%) were the most frequently dispensed psychotropics. Less than 5% of patients lacked a clear indication for GLP-1RA. The predominant trajectory was high persistence with GLP-1RA treatment over 1\u2009year (>\u200960%). Early disruption presented the lowest proportion of T2DM (80%) and the highest use of antiemetic drugs (8%). In France, GLP-1RA use among psychotropic users remained primarily in T2DM, regardless of psychotropic class. Off-label use for psychotropic-induced weight gain appeared very limited. High persistence rates were notable, given the challenges of treatment adherence in mental health populations. These findings suggested a predominantly persistent use of GLP-1RAs within labelled indications in the psychiatric population.",
+          "authors": [
+            "Nathan du Soulier",
+            "Julien Bezin",
+            "Louise Carton",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43003405/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with overweight/obesity with and without type 2 diabetes receiving tirzepatide",
+          "medications": "Tirzepatide; GLP-1 receptor agonist comparators",
+          "country_dataset": "Multicenter, country not specified",
+          "key_findings": "Real-world study compared tirzepatide effectiveness in individuals with and without type 2 diabetes, examining weight-loss response, treatment persistence, discontinuation patterns, and influence of prior GLP-1 receptor agonist exposure on anthropometric and metabolic outcomes."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with obesity and type 2 diabetes receiving GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists (various agents)",
+          "country_dataset": "Multicenter SEVERAL study",
+          "key_findings": "Prospective analysis examined longitudinal changes in alcohol consumption, lifestyle behaviors, and emotional well-being during GLP-1 receptor agonist therapy over 44 weeks, assessing self-reported behavioral and psychological outcomes in routine clinical practice."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with vascular dementia identified from 2016-2025, with GLP-1 receptor agonist users propensity-score matched with non-users",
+          "medications": "GLP-1 receptor agonists vs non-use",
+          "country_dataset": "National database, country not specified",
+          "key_findings": "Retrospective cohort study evaluated association of GLP-1 receptor agonist use with mortality and healthcare utilization outcomes in patients with vascular dementia using propensity-score matching methodology."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Women aged \u226518 years living in Kuwait",
+          "medications": "GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists",
+          "country_dataset": "Kuwait, March-June 2026",
+          "key_findings": "Cross-sectional survey assessed knowledge, perspectives, medication awareness, information sources, attitudes, and factors influencing treatment decisions regarding GLP-1 and GIP/GLP-1 receptor agonists among women in Kuwait."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with class III obesity without type 2 diabetes",
+          "medications": "Semaglutide and tirzepatide",
+          "country_dataset": "Not reported",
+          "key_findings": "Real-world study identified persistent gaps in semaglutide and tirzepatide prescribing among adults with class III obesity without type 2 diabetes, highlighting underutilization patterns in this patient population."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adults with prior psychotropic medication use who initiated GLP-1 receptor agonists between 2017-2023",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "France, French National Health Data System",
+          "key_findings": "Nationwide cohort study described real-world patterns of GLP-1 receptor agonist initiation and persistence among psychotropic users in France, characterizing treatment indications and persistence outcomes in this psychiatric population."
+        }
+      ],
+      "excluded_count": 17
+    }
+  ]
+}
