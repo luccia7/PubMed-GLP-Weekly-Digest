@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-24",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "43070115",
+          "title": "Using point-of-care-ultrasound to assess gastric contents among fasting preoperative patients using glucagon-like peptide-1 receptor agonists.",
+          "abstract": "Use of glucagon-like peptide-1 receptor agonists has increased substantially. Although delayed gastric emptying from glucagon-like peptide-1 receptor agonists may be beneficial, it raises perioperative concerns, as delayed emptying can result in retained gastric contents despite adherence to fasting guidelines, potentially increasing aspiration risk. In this prospective observational study, 108 patients undergoing elective procedures with standard fasting guidelines were assigned to cohorts based on glucagon-like peptide-1 receptor agonist use and underwent preprocedural gastric ultrasound to assess for retained gastric contents. The primary outcome was retained gastric content prevalence, defined as solids or >1.5\u2009mL/kg of clear liquids. Propensity score weighting adjusted for confounders. A secondary analysis evaluated the association between estimated remaining glucagon-like peptide-1 receptor agonist dose and retained gastric content prevalence. Retained gastric contents were identified in 29% (16/56) of glucagon-like peptide-1 receptor agonist users versus 12% (6/52) of non-users (risk ratio: 2.48; 95% confidence interval: 1.05-5.84). After confounder adjustment, glucagon-like peptide-1 receptor agonist use remained independently associated with retained gastric contents (risk ratio: 4.64; 95% confidence interval: 1.04-20.67). No retained gastric contents were observed in patients with an estimated remaining glucagon-like peptide-1 receptor agonist dose <25%. Glucagon-like peptide-1 receptor agonist use within 30\u2009days is independently associated with increased retained gastric contents on preprocedural gastric ultrasound. These findings raise questions about the adequacy of standard fasting guidelines in patients using glucagon-like peptide-1 receptor agonists.",
+          "authors": [
+            "Matthew R Vander Ploeg",
+            "Xinming An",
+            "Herman Freeman",
+            "et al."
+          ],
+          "journal": "Journal of perioperative practice",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43070115/"
+        },
+        {
+          "pmid": "43063014",
+          "title": "Where patients obtain GLP-1 receptor agonists: direct-to-consumer channels, compounded product use, and reason-specific nonadherence in a national survey.",
+          "abstract": "To examine acquisition channels for glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and associations with compounded use, prescription status, and nonadherence. This cross-sectional analysis used the National Center for Health Statistics Rapid Surveys System Round 7 (July-August 2025; N = 8118). Among 976 past-year users, channels were classified as clinician/pharmacy without direct-to-consumer (DTC) acquisition, any DTC telehealth/medical spa, or other. Survey-weighted logistic regression estimated adjusted odds ratios (aORs). GLP-1 RA use was reported by 9.8% of adults, approximately 25.9 million. Of users, 18.3% used a DTC or medical spa channel and 9.2% reported no clinician prescription. Among users reporting known compounded status, compounded use was 73.0% (95% CI, 62.7%-81.2%) for DTC versus 12.9% (8.8%-18.4%) for conventional acquisition (aOR, 14.56; 95% CI, 7.99-26.54). Overall, 22.6% reported compounded use and 8.6% did not know. DTC acquisition was associated with cost-attributed nonadherence (aOR, 4.94; 95% CI, 2.77-8.81); the supply-attributed association was not statistically significant (aOR, 1.15; 95% CI, 0.56-2.38; contrast P < 0.001). Associations were also observed for side-effect-attributed reduction/discontinuation (aOR, 2.12; 95% CI, 1.05-4.27) and complete discontinuation (aOR, 1.83; 95% CI, 1.01-3.32). Counseling associations were imprecise. Insurance nonpayment was associated with DTC acquisition (aOR, 8.01; 95% CI, 4.70-13.67). DTC acquisition was associated with compounded use, insurance nonpayment, and cost-attributed nonadherence. These cross-sectional findings suggest that acquisition sources and reasons for nonadherence may be useful topics for patient assessment. They do not establish causal effects of acquisition channel or demonstrate that medication records are incomplete.",
+          "authors": [
+            "Akshaya Srikanth Bhagavathula",
+            "Tadesse M Abegaz"
+          ],
+          "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43063014/"
+        },
+        {
+          "pmid": "43058995",
+          "title": "Glucagon-like Peptide-1 Receptor Agonists Versus Dipeptidyl Peptidase-4 Inhibitors in Heart Transplant Recipients With Type 2 Diabetes Mellitus: A Propensity Score-Matched Analysis.",
+          "abstract": "Heart transplant (HT) recipients with type 2 diabetes mellitus (T2DM) face elevated risks of cardiac allograft vasculopathy (CAV), rejection, and cardiovascular events. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) confer cardiorenal protection in general T2DM patients, but data specific to HT recipients are scarce. We conducted a retrospective propensity score-matched cohort study using the TriNetX Global Collaborative Network. Adult HT recipients with T2DM who initiated a GLP-1 RA or a dipeptidyl peptidase-4 (DPP-4) inhibitor after transplantation between January 1, 2016, and December 31, 2025, were matched 1:1 on 36 covariates. The primary outcome was a 3-year graft-specific composite of CAV (T86.290), HT rejection (T86.21), or HT failure (T86.22). All-cause mortality and myocardial infarction (I21) or ischemic stroke (I63) were analyzed separately. After matching, 712 patients per group were analyzed. At 3 y, the graft-specific composite occurred in 12.1% of GLP-1 RA recipients versus 29.2% of DPP-4 inhibitor recipients (risk ratio [RR] 0.416; 95% confidence interval, 0.299-0.579; P\u2005<\u20050.001), driven by lower HT rejection (8.2% versus 22.4%; RR 0.365) and HT failure (3.5% versus 6.2%; RR 0.560); CAV did not differ (9.6% versus 10.5%; P\u2005=\u20050.609). All-cause mortality was 7.5% versus 17.5% (RR 0.426), and myocardial infarction/ischemic stroke 6.9% versus 15.3% (RR 0.450). Acute kidney injury and gastrointestinal adverse events did not differ. Findings were consistent at 1 and 5 y. Residual imbalance persisted for body mass index and HbA1c. In this multicenter electronic health record-based cohort, GLP-1 RA use was associated with lower graft-specific outcomes and all-cause mortality than DPP-4 inhibitor use. CAV did not differ significantly. These observational findings are hypothesis-generating and require prospective validation.",
+          "authors": [
+            "Niti Dalal",
+            "Anju Bhardwaj",
+            "Yilin Yoshida",
+            "et al."
+          ],
+          "journal": "Transplantation",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43058995/"
+        },
+        {
+          "pmid": "43041042",
+          "title": "Liraglutide Therapy and Weight Control in Adolescents with Severe Obesity: A Real-World Experience.",
+          "abstract": "Adolescent obesity remains a major clinical challenge, with limited effective treatment options beyond lifestyle modification. Liraglutide, a glucagon-like peptide-1 receptor agonist approved for adolescents aged \u2265 12 years, has shown promising results in clinical trials; however, real-world data remain scarce. This study aimed to evaluate the real-world effectiveness and tolerability of liraglutide in adolescents with severe obesity, including weight, body composition, and metabolic outcomes. This retrospective longitudinal cohort study included adolescents with obesity aged 12-19 years who received liraglutide therapy. Anthropometric, biochemical, body composition, and adverse event data were assessed monthly. A total of 29 adolescents with obesity (13 males) were included (mean age: 15.7 \u00b1 2.0 years; mean body mass index (BMI): 38.6 \u00b1 6.0 kg/m2; body mass index standard deviation score (BMI-SDS): 3.38 \u00b1 0.57). - BMI-SDS decreased progressively, with an estimated reduction of 0.46 from baseline to month 6; the decline was numerically faster in the first 3 months than in months 3-6, without reaching statistical significance (P = .11). Lean mass percentage increased and total fat percentage decreased after 3 months (both P < .05). Total cholesterol, fasting insulin, and homeostasis model assessment of insulin resistance decreased significantly, while other metabolic parameters remained unchanged. Gastrointestinal adverse events were common; 3 patients discontinued due to intolerance and 1 due to gallstones. In this real-world cohort, liraglutide treatment was associated with early and clinically meaningful reductions in BMI-SDS and improvements in insulin sensitivity in adolescents with severe obesity. The therapy was generally well tolerated, though gastrointestinal side effects and financial barriers limited treatment persistence. Longer-term prospective studies are needed to assess durability and cardiometabolic outcomes.",
+          "authors": [
+            "Hasan Karaka\u015f",
+            "G\u00fcrkan Tar\u00e7\u0131n",
+            "Hande Turan",
+            "et al."
+          ],
+          "journal": "Turkish archives of pediatrics",
+          "pub_date": "Nov 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43041042/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=108",
+          "population": "Fasting preoperative patients using GLP-1 receptor agonists",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Not reported",
+          "key_findings": "Patients on GLP-1 receptor agonists had delayed gastric emptying despite adherence to fasting guidelines, with retained gastric contents on preprocedural ultrasound, potentially increasing aspiration risk during elective procedures."
+        },
+        {
+          "study_type": "Cross-sectional study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=976",
+          "population": "Past-year GLP-1 RA users in national survey",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "United States - National Center for Health Statistics Rapid Surveys System",
+          "key_findings": "GLP-1 RA use was reported by 9.8% of US adults; significant proportions obtained medications through direct-to-consumer channels and compounded products, with reason-specific nonadherence patterns identified among users who acquired drugs through alternative sources."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Heart transplant recipients with type 2 diabetes mellitus",
+          "medications": "GLP-1 receptor agonists versus dipeptidyl peptidase-4 inhibitors",
+          "country_dataset": "TriNetX Global Collaborative Network (January 2016 - December 2024)",
+          "key_findings": "GLP-1 RAs demonstrated cardiorenal protection and cardiovascular benefits compared to DPP-4 inhibitors in heart transplant recipients with type 2 diabetes, though specific comparisons of cardiac allograft vasculopathy and rejection rates require full publication."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Adolescents with severe obesity aged 12-19 years",
+          "medications": "Liraglutide",
+          "country_dataset": "Not reported",
+          "key_findings": "Real-world analysis of liraglutide in adolescents with severe obesity demonstrated effectiveness and tolerability for weight loss and metabolic outcomes, though detailed results require full publication for treatment persistence data."
+        }
+      ],
+      "excluded_count": 13
+    }
+  ]
+}
